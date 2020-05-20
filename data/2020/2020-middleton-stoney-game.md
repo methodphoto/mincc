@@ -16,7 +16,8 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ### Middleton Stoney Innings
 
-| Batsman | Dismissal | | Runs|
+| Batsman | Dismissal |  | Runs |
+| ------- | --------- | ------- | ---  |
 | N Moorman | st J Grant | b I.Miah | 100|
 | N Moorman | st J Grant | b I.Miah | 100|
 | N Moorman | st J Grant | b I.Miah | 100|
@@ -28,8 +29,6 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | N Moorman | st J Grant | b I.Miah | 100|
 | N Moorman | st J Grant | b I.Miah | 100|
 | N Moorman | st J Grant | b I.Miah | 100|
-| *Extras* |  | b I.Miah | (5b 6lb 10w 3nb 0p)| *24* |
-| Total | | (38 overs) | 229 for 6 wkts |
 
 ### Fall of Wickets
 
