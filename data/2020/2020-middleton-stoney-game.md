@@ -1,5 +1,5 @@
 ---
-path: "/2020/games/middleton-stoney"
+slug: "/2020/games/middleton-stoney"
 year: "2020"
 game: "Middleton - Stoney"
 ---

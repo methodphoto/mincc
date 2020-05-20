@@ -1,5 +1,5 @@
 ---
-path: "/2020/fixtures"
+slug: "/2020/fixtures"
 year: "2020"
 ---
 
