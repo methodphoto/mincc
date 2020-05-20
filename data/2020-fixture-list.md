@@ -1,3 +1,8 @@
+---
+path: "/2020/fixtures"
+year: "2020"
+---
+
 # 2020 Fixtures
 
 ### April
