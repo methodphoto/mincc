@@ -1,8 +1,7 @@
-const path = require(`path`);
+const pageCreators = require('./src/pageCreators');
 
 exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions;
-
   const GameTemplate = path.resolve(`src/templates/gameTemplate.jsx`);
 
   const result = await graphql(`
@@ -41,4 +40,8 @@ exports.createPages = async ({ actions, graphql }) => {
       }, 
     });
   });
+
+  return Promise.all(
+    Object.values(pageCreators).map(creator => creator(graphql, createPage))
+  );
 };
