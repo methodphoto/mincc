@@ -1,6 +1,7 @@
 ---
-slug: "/2020/fixtures"
+slug: "/2020/"
 year: "2020"
+type: "fixtures"
 ---
 
 # 2020 Fixtures

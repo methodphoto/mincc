@@ -14,6 +14,10 @@ exports.createPages = async ({ actions, graphql }) => {
               game
               year
               slug
+              title
+              gameLocation
+              gameDate
+              result
             }
             html
           }
@@ -29,6 +33,10 @@ exports.createPages = async ({ actions, graphql }) => {
       context: {
         game: node.frontmatter.game,
         year: node.frontmatter.year,
+        title: node.frontmatter.title,
+        gameLocation: node.frontmatter.gameLocation,
+        gameDate: node.frontmatter.gameDate,
+        result: node.frontmatter.result,
         html: node.html,
       }, 
     });

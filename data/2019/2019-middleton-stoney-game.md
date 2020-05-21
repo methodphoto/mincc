@@ -1,11 +1,12 @@
 ---
-slug: "/2020/games/middleton-stoney"
-year: "2020"
+slug: "/2019/games/middleton-stoney"
+year: "2019"
 game: "Middleton Stoney"
 title: "Middleton Stoney -v- The Min"
 gameLocation: "Middleton Park"
 gameDate: "21st April 2019"
 result: "Match Drawn"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate}
