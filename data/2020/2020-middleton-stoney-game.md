@@ -1,7 +1,7 @@
 ---
 slug: "/2020/games/middleton-stoney"
-year: "2020”
-game: "Middleton Stoney -v- The Min"
+year: "2020"
+game: "Middleton Stoney"
 ---
 
 Played at Middleton Park on 21st April 2019
