@@ -6,7 +6,7 @@ export default function GameTemplate({ pageContext }) {
   return (
     <div>
       <h1>{game}</h1>
-      <h4>{year}</h4>
+      <p>{year}/{game}</p>
     <div
       dangerouslySetInnerHTML={{ __html: html }}
     />
