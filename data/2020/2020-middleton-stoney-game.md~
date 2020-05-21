@@ -106,16 +106,14 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 		</tr>
 		<tr>
 			<td class="bold">J.Stimfig †</td>
-			<td>not out
+			<td>not out</td>
 			<td></td>
-			</th>
 			<td>12</td>
 		</tr>
 		<tr>
 			<td class="bold">J.Grant †</td>
-			<td>not out
+			<td>not out</td>
 			<td></td>
-			</th>
 			<td>0</td>
 		</tr>
 		<tr>
@@ -134,9 +132,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 		<tr>
 			<td class="bold" colspan="2">Total</td>
 			<td>(33 overs)</td>
-			<td>
-				<strong>111 for 8 wkts </strong>
-			</td>
+			<td><strong>111 for 8 wkts</strong></td>
 		</tr>
 	</tbody>
 </table>
@@ -249,7 +245,8 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 	</tbody>
 </table>
 
- ### Win/Loss Ratio
+### Win/Loss Ratio
+
 <table class="listing" cellspacing="2">
     <tbody>
         <tr>
