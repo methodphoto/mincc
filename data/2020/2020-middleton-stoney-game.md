@@ -33,12 +33,12 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 ### Fall of Wickets
 
 | | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9| 10 |
-| Sc | 92 | 92 | 209 | | | | | | | |
-| Bt | 2 | 3 | 1 | 4 | 5 | 6 | | | | |
+| Sc | 92 | 92 | 209 | 
+| Bt | 2 | 3 | 1 | 4 | 5 | 6 | 
 
 ### Bowling
 
-| | O| | M | R | W |
+| O| | M | R | W |
 | Ishmael |6 | 3 | 35 | 0 |
 | I Miah| 5 | 0 | 23 | 1 |
 | R Earney| 6 | 1 | 28 | 0 |
