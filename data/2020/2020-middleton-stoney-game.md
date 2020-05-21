@@ -10,7 +10,7 @@ Played at Middleton Park on 21st April 2019
 
 Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 111-8 when time ran out. 
 
-*Result:* Match Drawn
+_Result:_ Match Drawn
 
 <a href="http://www.middletonstoneycc.co.uk/club-news/2019/mscc-vs-the-min-2019/">Match report</a>
 
@@ -40,8 +40,8 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 | | O | M | R | W |
 | Ishmael |6 | 3 | 35 | 0 |
-| I Miah| 5 | 0 | 23 | 1 |
-| R Earney| 6 | 1 | 28 | 0 |
-| P Wigg| 11 | 1 | 58 | 2 |
-| J Wright| 6 | 0 | 43 | 0 |
-| R Beswick| 4.4 | 0 | 39 | 2 |
+| I Miah | 5 | 0 | 23 | 1 |
+| R Earney | 6 | 1 | 28 | 0 |
+| P Wigg | 11 | 1 | 58 | 2 |
+| J Wright | 6 | 0 | 43 | 0 |
+| R Beswick | 4.4 | 0 | 39 | 2 |
