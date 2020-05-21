@@ -1,6 +1,6 @@
 ---
-slug: "/2019/games/middleton-stoney"
-year: "2019”
+slug: "/2020/games/middleton-stoney"
+year: "2020”
 game: "Middleton Stoney -v- The Min"
 ---
 
