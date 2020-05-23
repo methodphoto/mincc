@@ -35,7 +35,7 @@ type: "fixtures"
 
 ### August
 
-| 28th | 14:00 | <del>Wimbledon United</del> | |
+| 28th | 14:00 | <del>Wimbledon United</del> | Away |
 | 28th | 14:00 | [Stowting](2015/games/stowting) | [TN25 6BD](https//goo.gl/maps/5KNmaMe6Wb422) |
 
 

@@ -56,7 +56,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 ### The Min Innings
 
 | Batsman | Dismissal | Runs |
-|:---|:---|--|---:|
+|:---|:---|---|---:|
 | I Miah | b | S Pettit | 0 |
 | Ishmael | b | E Barton | 10 |
 | R Damaze | lbw |S Pettit | 11 |
