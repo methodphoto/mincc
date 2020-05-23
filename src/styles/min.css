@@ -1,0 +1,325 @@
+ /* Layout */
+ 
+ *, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 20px;
+  font-family: 'Open Sans', 'sans-serif';
+  background-color: #fff;
+  color: #333f48;
+}
+
+h1, p {
+  margin: 0 0 1em 0;
+}
+
+.wrapper {
+  max-width: 940px;
+  margin: 0 20px;
+  display: grid;
+  grid-gap: 4px;
+}
+
+@media screen and (min-width: 500px) {
+
+  /* no grid support? */
+  .sidebar {
+    float: left;
+    width: 19.1489%;
+  }
+
+  .content {
+    float: right;
+    width: 79.7872%;
+  }
+
+  .wrapper {
+    margin: 0 auto;
+    grid-template-columns: 1fr 3fr;
+  }
+  
+  .header, .footer {
+    grid-column: 1 / -1;
+    /* needed for the floated layout */
+    clear: both;
+  }
+
+}
+
+.wrapper > * {
+  background-color: #f7f7f7;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+  /* needed for the floated layout*/
+  margin-bottom: 10px;
+}
+
+/* We need to set the widths used on floated items back to auto, and remove the bottom margin as when we have grid we have gaps. */
+@supports (display: grid) {
+  .wrapper > * {
+    width: auto;
+    margin: 0;
+  }
+}
+
+
+/* Colours */
+
+$min-paleblue: #becade;
+$min-red: #cc0000;
+$min-grey: #f7f7f7;
+$min-white: #ffffff;
+
+
+/* Footer */
+
+footer ul li {display:inline; padding-right: 20px;}
+
+/* Menu */
+
+.menu {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 50px;
+    padding: .5rem;
+    margin: .5rem;
+    margin-top: 0;
+    padding-top: .85rem;
+    height: calc(100vh - $grid-nav-height);
+    overflow-y: auto;
+    z-index:9
+}
+
+@media only screen and (max-width: 600px) {
+    .menu {
+        top:0
+    }
+}
+
+.menu__label {
+    font-family: sans-serif;
+    font-size: 1rem;
+    margin: .65rem 0;
+    padding-bottom: .5rem;
+    text-transform:capitalize
+}
+
+@media only screen and (max-width: 600px) {
+    .menu__label {
+        text-align: center;
+        font-size:1.125rem
+    }
+}
+
+.menu__title {
+    cursor: pointer;
+    position: relative;
+    word-break: break-word;
+    font-size: .925rem;
+    height: 30px;
+    margin: .25rem 0;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.menu__title[data-depth="1"] {
+    font-size: .925rem;
+    margin-left: 1.25rem
+}
+
+.menu__title[data-depth="2"] {
+    font-size: .925rem;
+    margin-left: 2.5rem
+}
+
+.menu__title[data-depth="3"] {
+    font-size: .925rem;
+    margin-left: 3.75rem
+}
+
+.menu__title[data-depth="4"] {
+    font-size: .925rem;
+    margin-left:5rem
+}
+
+.theme__light .menu__title {
+    color:#333f48;
+}
+
+.theme__light .menu__title.active {
+    font-weight: 700;
+    color:#007d9c;
+}
+
+.menu__title--collapse {
+    cursor: pointer;
+    word-break: break-word;
+    font-size: 16px;
+    height: 30px;
+    margin: .25rem 0;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.menu__title--collapse[data-depth="1"] {
+    font-size: .925rem;
+    margin-left: 1.25rem
+}
+
+.menu__title--collapse[data-depth="2"] {
+    font-size: .925rem;
+    margin-left: 2.5rem
+}
+
+.menu__title--collapse[data-depth="3"] {
+    font-size: .925rem;
+    margin-left: 3.75rem
+}
+
+.menu__title--collapse[data-depth="4"] {
+    font-size: .925rem;
+    margin-left:5rem
+}
+
+.theme__light .menu__title--collapse {
+    color:#242729
+}
+
+.theme__light .menu__title--collapse.active svg {
+    color:#007d9c
+}
+
+.theme__light .menu__title--collapse:hover, .theme__light .menu__title--collapse:active, .theme__light .menu__title--collapse:focus {
+    color:#00acd7
+}
+
+.theme__light .menu__title--collapse:hover svg, .theme__light .menu__title--collapse:active svg, .theme__light .menu__title--collapse:focus svg {
+    color: #00acd7;
+    -webkit-transform: translateX(.125rem);
+    -moz-transform: translateX(.125rem);
+    -ms-transform: translateX(.125rem);
+    transform:translateX(.125rem)
+}
+
+.menu__title--icon {
+    margin-top:2px
+}
+
+.theme__light .menu__title--icon {
+    color:#535a61
+}
+
+.menu__title--icon.down {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    -webkit-transition: all .15s ease;
+    -moz-transition: all .15s ease;
+    -ms-transition: all .15s ease;
+    -o-transition: all .15s ease;
+    transition:all .15s ease
+}
+
+.menu__title--icon.downrtl {
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    -webkit-transition: all .15s ease;
+    -moz-transition: all .15s ease;
+    -ms-transition: all .15s ease;
+    -o-transition: all .15s ease;
+    transition:all .15s ease
+}
+
+.menu__title--icon.right {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: all .15s ease;
+    -moz-transition: all .15s ease;
+    -ms-transition: all .15s ease;
+    -o-transition: all .15s ease;
+    transition:all .15s ease
+}
+
+.menu__title--icon svg {
+    display: block;
+    margin: auto 0;
+    -webkit-transition: all .15s ease;
+    -moz-transition: all .15s ease;
+    -ms-transition: all .15s ease;
+    -o-transition: all .15s ease;
+    transition:all .15s ease
+}
+
+.menu__alone {
+    cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select:none
+}
+
+.menu__list {
+    max-height: 0;
+    overflow: hidden;
+    word-wrap: break-word;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition:all .2s ease-in-out
+}
+
+.menu__list li {
+    margin-left:1.25rem
+}
+
+.menu__list li.active {
+    font-weight:700
+}
+
+.menu .active {
+    max-height:100%
+}
+
+.theme__light .menu li.active a {
+    font-weight:700
+}

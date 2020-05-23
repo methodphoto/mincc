@@ -40,7 +40,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 |           | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |-----------|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 92 | 92 | 209 | | | |
-| **FOW** | 2 | 3 | 1 | 4 | 5 | 6 | | |
+| **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | | |
 
 ### Bowling
 
@@ -76,7 +76,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 |           | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |-----------|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 0 | 8 | | | | |
-| **FOW** | 1 | 3 | 2 | | | | | |
+| **Batsman** | 1 | 3 | 2 | | | | | |
 
 ### Bowling
 
