@@ -1,4 +1,5 @@
 const path = require(`path`);
+const { slugify } = require('../utils/build-utils');
 
 const createGamePages = (graphql, createPage) => graphql(`
   query {
@@ -19,13 +20,15 @@ const createGamePages = (graphql, createPage) => graphql(`
   const GameTemplate = path.resolve(`src/templates/gameTemplate.jsx`);
 
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    const { html, frontmatter: { game, year } } = node;
+
     createPage({
-      path: node.frontmatter.slug,
+      path: `${year}/games/${slugify(game)}`,
       component: GameTemplate,
       context: {
-        game: node.frontmatter.game,
-        year: node.frontmatter.year,
-        html: node.html,
+        game: game,
+        year: year,
+        html: html,
       }, 
     });
   });
