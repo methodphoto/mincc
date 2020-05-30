@@ -10,3 +10,4 @@ public/.DS_Store
 *.bbprojectsettings
 *.js~
 *.bbprojectd
+*.md#

@@ -70,7 +70,7 @@ William Calvert - Best Bowling for The Min
 | **K Wethill** | b | M Gardiner | 4 |
 | **S Ames** | c & b | M Gardiner | 0 |
 | **K Crisp** | not out |  | 3 |
-| **Extras** | | (12b 0lb 1w 0nb 0p) | *13* |
+| **Extras** | | (12b 0lb 1w 0nb) | *13* |
 | **Total** | | (20 overs) | **83 for 9 wkts** |
 
 ### Fall of Wickets
