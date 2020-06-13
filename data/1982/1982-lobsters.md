@@ -22,7 +22,7 @@ Result: {result}
 | **A Scott** | b | M Kirwan | 4 | 
 | **S Scott** | c M Gardiner | M Kirwan | 43 | 
 | **Steadman** | c C Chitty | A Sylvester | 6 | 
-| **Cotterel** | c & b | J Wright | 21 | 
+| **Cottrell** | c & b | J Wright | 21 | 
 | **Watts** | c R Beswick | M Gardiner | 6 | 
 | **Nuttell** | c C Chitty | M Gardiner | 16 | 
 | **Barry** | run out | | 2 | 
@@ -39,7 +39,6 @@ Result: {result}
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 4 | 14 | 47 | 58 | 84 | 91 | 124 | | | | 
 | **Batsman** | 1 | 3 | 4 | 5 | 3 | 7 | 2 | | | | 
-
 
 ### Bowling
 
@@ -78,7 +77,6 @@ Result: {result}
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 2 | 22 | 26 | 28 | | | | | | | 
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 7 | 8 | 9 | 5 | | 
-
 
 ### Bowling
 

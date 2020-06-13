@@ -2,7 +2,7 @@
 year: "1982"
 game: "A Good Length"
 title: "The Min -v- A Good Length "
-gameLocation: "Combe Dingle"
+gameLocation: "Coombe Dingle"
 gameDate: "16/06/1982"
 result: "The Min won by 4 wkts"
 resultType: "Won"

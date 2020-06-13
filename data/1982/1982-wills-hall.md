@@ -2,7 +2,7 @@
 year: "1982"
 game: "Wills Hall"
 title: "The Min v Wills Hall"
-gameLocation: "Combe Dingle"
+gameLocation: "Coombe Dingle"
 gameDate: "10/06/1982"
 result: "The Min won by 47 runs" 
 resultType: "Won"

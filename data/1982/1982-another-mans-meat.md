@@ -2,7 +2,7 @@
 year: "1982"
 game: "Another Man's Meat"
 title: "The Min v Another Man's Meat"
-gameLocation: "Combe Dingle"
+gameLocation: "Coombe Dingle"
 gameDate: "08/05/1982"
 result: "The Min won by 34 runs"
 resultType: "Won"

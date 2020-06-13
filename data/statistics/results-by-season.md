@@ -1,6 +1,6 @@
 ---
-slug: "/results-by-season"
-title: "Results (by season)"
+slug: "/results"
+title: "Results"
 type: "results"
 ---
 
@@ -57,7 +57,7 @@ type: "results"
 | Date/2016 | Reigate Pilgrims | Drawn |
 | Date/2016 | Selling | Won |
 | **2015** | | |
-| Date/2015 Middleton Stoney | Lost |
+| Date/2015 | Middleton Stoney | Lost |
 | Date/2015 | Britwell Salome | Drawn |
 | Date/2015 | Nightwatchman CC | Lost |
 | Date/2015 | Newington | Won |

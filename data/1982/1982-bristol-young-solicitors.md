@@ -2,7 +2,7 @@
 year: "1982"
 game: "Bristol Young Solicitors" 
 title: "The Min v Bristol Young Solicitors"
-gameLocation: "Combe Dingle"
+gameLocation: "Coombe Dingle"
 gameDate: "14/06/1982"
 result: "The Min won by 5 wkts"
 resultType: "Won"

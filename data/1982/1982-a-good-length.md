@@ -2,7 +2,7 @@
 year: "1982"
 game: "A Good Length"
 title: "The Min -v- A Good Length"
-gameLocation: "Combe Dingle"
+gameLocation: "Coombe Dingle"
 gameDate: "06/05/1982"
 result: "Match Drawn"
 resultType: "Drawn"
