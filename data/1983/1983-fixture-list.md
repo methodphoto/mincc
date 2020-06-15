@@ -1,5 +1,5 @@
 ---
-slug: "/1983/1983-"
+slug: "/1983/"
 year: "1983"
 type: "fixtures"
 ---
