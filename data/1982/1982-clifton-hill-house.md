@@ -18,7 +18,7 @@ after 20 overs.
 
 William Calvert - Highest Score for The Min. James Booth - First duck for The Min. William Calvert - Best Bowling for The Min
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -36,14 +36,14 @@ William Calvert - Highest Score for The Min. James Booth - First duck for The Mi
 | **Extras** | | (8b 1lb 0w 0nb) | **9** |
 | **Total** | | (20 overs) | **111 for 5 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 0 | 34 | 49 |  | 109 | | |
 | **Batsman** | 2 | 1 | 4 | 3 | 5 | | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ William Calvert - Highest Score for The Min. James Booth - First duck for The Mi
 | **K Crisp** | 4 | 0 | 22 | 2 |
 | **A Honeyman** | 4 | 0 | 29 | 1 |
 
-### Clifton Hill House Innings
+## Clifton Hill House Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -71,14 +71,14 @@ William Calvert - Highest Score for The Min. James Booth - First duck for The Mi
 | **Extras** | | (12b 0lb 1w 0nb) | *13* |
 | **Total** | | (20 overs) | **83 for 9 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 0 | 45 | 47 | 53 | 55 | 76 | 76 | 76 | 80 | |
 | **Batsman** | 1 | | | | | | | | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ William Calvert - Highest Score for The Min. James Booth - First duck for The Mi
 | **J Wright** | 4 | 0 | 18 | 2 |
 | **M Gardiner** | 3 | 0 | 16 | 2 |
 
-### Win/Loss Ratio
+## Win/Loss Ratio
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|

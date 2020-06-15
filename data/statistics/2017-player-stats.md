@@ -1,11 +1,10 @@
 ---
-slug: "/2017-player-stats"
-title: "2017 Player Stats"
+title: "2018 Statistics"
 type: "statistics"
 ---
 # {title}
 
-### 2017 Season Batting (by Runs)
+## 2017 Season Batting (by Runs)
 
 | Player | Inns | No | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- |
@@ -49,7 +48,7 @@ type: "statistics"
 | **Marcus Elwin** | 0 | 0 | 0 | ? |
 | **T Perry** | 1 | 0 | 0 | 0  ? |
 
-### 2017 Season Batting (by Batting Ave)
+## 2017 Season Batting (by Batting Ave)
 
 | Player | Inns | No | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- |
@@ -93,7 +92,7 @@ type: "statistics"
 | **Marcus Elwin** | 0 | 0 | 0 | ? |
 | **Kit Gallagher** | 1 | 1 | 15 | ? |
 
-### 2017 Season Bowling (by Wickets)
+## 2017 Season Bowling (by Wickets)
 
 | Player | O | M | R | W | Ave | SR |
 |:--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -122,7 +121,7 @@ type: "statistics"
 | **T Perry** | 1 | 0 | 8 | 0 | ? | ? |
 | **Harry Ingham** | 19 | 1 | 72 | 0 | ? | ? |
 
-### 2017 Season Bowling (by Bowling Ave)
+## 2017 Season Bowling (by Bowling Ave)
 
 | Player | O | M | R | W | Ave | SR |
 |:--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -144,7 +143,7 @@ type: "statistics"
 | **Ifty Muntakim** | 22 | 1 | 110 | 2 | 55 | 66 |
 | **Jahirul Islam** | 13 | 0 | 95 | 1 | 95 | 78 |
 
-### Career Batting (min 250 Runs)
+## Career Batting (min 250 Runs)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- | :--- |
@@ -191,7 +190,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.899 |
 
-### Career Batting by Ave (min 250 Runs)
+## Career Batting by Ave (min 250 Runs)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- | :--- |
@@ -239,7 +238,7 @@ type: "statistics"
 | **Richard Coyle** | 72 | 64 | 16 | 370 | 7.71 |
 
 
-### Career Bowling by Wkts (min 25 wkts)
+## Career Bowling by Wkts (min 25 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:--- | :--- | :--- | :--- | :--- | :--- |
@@ -271,7 +270,7 @@ type: "statistics"
 | **Philip Beswick** | 46 | 125.1 | 5 | 669 | 28 | 23.89 | 26.81 |
 | **Andrew Slight** | 112 | 72.8 | 2 | 429 | 26 | 16.50 | 16.80 |
  
-### Career Bowling by Ave (min 25 wkts)
+## Career Bowling by Ave (min 25 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:--- | :--- | :--- | :--- | :--- | :--- |

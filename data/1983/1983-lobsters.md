@@ -15,7 +15,7 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 
 **Result:** {result}
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -33,14 +33,14 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 | **Extras** | | (3b 5lb 0w 0nb) | **8** |
 | **Total** | | (20 overs) | **133 for 5 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 33 | 67 | 76 | 121 | 121 | | | | | |
 | **Batsman** | 1 | 2 | 4 | 5 | 3 | | | | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 | **Milligan** | 1 | 0 | 6 | 0 |
 | **Cottrell** | 2 | 0 | 14| 0 |
 
-### Lobsters Innings
+## Lobsters Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -72,14 +72,14 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 | **Extras** | | (3b 2lb 4w 2nb) | *11* |
 | **Total** | | (20 overs) | **104 for 8 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 6 | 36 | 43 | 44 | 44 | 65 | 68 | | | |
 | **Batsman** | 2 | 1 | 4 | 5 | 6 | 7 | 3 | 9 | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 | **Druce** | 2 | 0 | 17 | 0 |
 | **A Gallagher** | 2 | 0 | 14 | 1 |
 
-### Win/Loss Ratio
+## Win/Loss Ratio
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|

@@ -14,7 +14,7 @@ Played at The Meadow on 24/06/2018
 The Min won the toss and inserted Watton who made a rather large 295-3 in 40 overs  The Min were all out for 168 (including 3 run outs) 
 Watton won by 127 runs
 
-### Watton-at-Stone Innings
+## Watton-at-Stone Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -32,14 +32,14 @@ Watton won by 127 runs
 | **Extras** | | (12w 12b 4lb 1nb  0p) | **29** |
 | **Total** | | (40 overs overs) | **295  for 3 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 35 | 157 | 226 |  |  |  |  |  |  |  |
 | **Batsman** | 2 | 3 | 1 |  |  |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ Watton won by 127 runs
 | **R Beswick** | 5 | 0 | 27 | 1 |
 | **B Coffer** | 2 | 019 | 19 | 0 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -69,14 +69,14 @@ Watton won by 127 runs
 | **Extras** | | (12w 12b 4lb 1nb  0p) | **29** |
 | **Total** | | (40 overs overs) | **295  for 3 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 15 | 91 | 130 | 140 | 148 | 154 | 165 | 168 | 168 | 168 |
 | **Batsman** | 2 | 1 | 3 | 5 | 4 | 6 | 7 | 8 | 9 | 10 |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ Watton won by 127 runs
 | **** |  |  |  |  |
 | **** |  |  |  |  |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

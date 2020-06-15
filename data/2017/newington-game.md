@@ -13,7 +13,7 @@ Played at Bobbing Court on 21 05 2017
 
 Newington won the toss and inserted The Min who made 130-9 (all out)  Newington knocked off the runs for the loss of 3 wkts so won by 7 wktsl
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -31,14 +31,14 @@ Newington won the toss and inserted The Min who made 130-9 (all out)  Newington 
 | **Extras** | | (7b 1lb 2w 1 nb 0p) | **11** |
 | **Total** | | (33 1 overs overs) | **130 9 (all out)** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 13 | 63 | 79 | 88 | 107 | 111 | 117 | 129 | 103 |  |
 | **Batsman** | 1 | 2 | 4 | 5 | 6 | 7 | 8 | 9 | 3 |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ Newington won the toss and inserted The Min who made 130-9 (all out)  Newington 
 | **R Earney** | 1 | 0 | 5 | 1 |
 | **A Gallagher** | 0 5 | 0 | 8 | 0 |
 
-### Newington Innings
+## Newington Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -68,14 +68,14 @@ Newington won the toss and inserted The Min who made 130-9 (all out)  Newington 
 | **Extras** | | (7b 1lb 2w 1 nb 0p) | **11** |
 | **Total** | | (33 1 overs overs) | **130 9 (all out)** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 43 | 86 | 126 |  |  |  |  |  |  |  |
 | **Batsman** | 2 | 1 | 3 |  |  |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ Newington won the toss and inserted The Min who made 130-9 (all out)  Newington 
 | **D Ward** | 2 | 0 | 16 | 1 |
 | **** |  |  |  |  |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

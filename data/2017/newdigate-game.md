@@ -13,7 +13,7 @@ Played at Newdigate  on 11/06/2017
 
 The Min won the toss and inserted Newdigate who made 196-7  The Min replied with 175-8 when time ran out  Match drawn 
 
-### Newdigate Innings
+## Newdigate Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -31,14 +31,14 @@ The Min won the toss and inserted Newdigate who made 196-7  The Min replied with
 | **Extras** | | (1b 4lb 5w 1nb 0p) | **11** |
 | **Total** | | (33 overs) | **196 for 7 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 39 | 66 | 88 | 172 | 183 | 188 | 192 |  |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 | 5 | 7 | 6 |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ The Min won the toss and inserted Newdigate who made 196-7  The Min replied with
 | **A Kehl** | 10 | 1 | 25 | 1 |
 | **W Bowley** | 5 | 1 | 8 | 4 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -68,14 +68,14 @@ The Min won the toss and inserted Newdigate who made 196-7  The Min replied with
 | **Extras** | | (1b 4lb 5w 1nb 0p) | **11** |
 | **Total** | | (33 overs) | **196 for 7 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 1 | 95 | 105 | 155 |  |  |  |  |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 |  |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ The Min won the toss and inserted Newdigate who made 196-7  The Min replied with
 | **N Garland** | 1 | 0 | 14 | 0 |
 | **R Earney** | 3 | 0 | 20 | 2 |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

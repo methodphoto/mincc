@@ -1,59 +1,57 @@
 ---
-slug: "/2019/games/blagdon-hill"
 year: "2019"
-game: "Blagdon Hill"
-title: "Blagdon Hill -v- The Min"
-gameLocation: "Sellicks Green"
-gameDate: "4th July 2019"
+game: "Reigate Pilgrims"
+title: "Reigate Pilgrims -v- The Min"
+gameLocation: "Betchworth"
+gameDate: "15/09/2019"
 result: "Match Drawn"
+resultType: "Drawn"
 type: "game"
 ---
 
 Played at {gameLocation} on {gameDate}
 
-Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 111-8 when time ran out. 
+Reigate won the toss and batted first, making 151-9. The Min replied with 146-8 before time ran out. 
 
 **Result:** {result}
 
-<a href="http://www.middletonstoneycc.co.uk/club-news/2019/mscc-vs-the-min-2019/">Match report</a>
-
-### Middleton Stoney Innings
+## Reigate Pilgrims Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
-| N Moorman | st J Grant | I Miah | 100 |
-| H Lancaster | b | P Wigg | 39 |
-| J Moorman | lbw | P Wigg | 0 |
-| T Riley | b | R Beswick | 0 |
-| J Mumtaz | run out | 12 |
-| S Petit | b | R Beswick | 52 |
-| J Morris | not out | |
-| J Williams | dnb | |
-| AK Kamal | dnb | |
-| E Barton | dnb | |
-| M Ford-Langstaff | dnb | |
-| **Extras** | | (5b 6lb 10w 3nb 0p) | **24** |
-| **Total** | | (38 overs) | **229 for 6 wkts** |
+| Burgess | run out | (A Beswick) | 6 |
+| Janardanan | b | I Marshall | 7 |
+| W Hodgson | st J Grant | b C Wright | 0 |
+| Dharmasekaran | c W Calvert | b C Wright | 23 |
+| P Saikia | run out | (S Barrowcliff) | 24 |
+| Kanagarajah | c J Grant | R Beswick | 26 |
+| G Mitchell | c S Barrowcliff | R Beswick | 0 |
+| A Periasoamy | b | L Barrowcliff | 19 |
+| J Hoy | c R Earney | P Wigg | 0 |
+| M Wood | not out | | 10 |
+| Sharma | dnb | | |
 
-### Fall of Wickets
+| **Extras** | | (0b 0lb 3w 3nb 0p) | **6* |
+| **Total** | | (38.4 overs) | **151 for 9 wkts** |
+
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Score** | 92 | 92 | 209 | | | |
-| **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | | |
+| **Score** | 13 | 13 | 18 | 47 | 102 | 102 | 126 |127 |151	| |
+| **Batsman** | 2 | 1 | 3 | 4 | 6 | 7 | 8 | 5 | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
-| Ishmael | 6 | 3 | 35 | 0 |
-| I Miah | 5 | 0 | 23 | 1 |
-| R Earney | 6 | 1 | 28 | 0 |
-| P Wigg | 11 | 1 | 58 | 2 |
-| J Wright | 6 | 0 | 43 | 0 |
-| R Beswick | 4.4 | 0 | 39 | 2 |
+| **I Marshall** | 9.4 | 2 | 27 | 1 |
+| **C Wright** | 9 | 1 | 39 | 2 |
+| **P Wigg** | 10 | 2 | 39 | 1 |
+| **R Beswick** | 7.2 | 0 | 33 | 2 |
+| **L Barrowcliff** | 2.4 | 1 | 10 | 1 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -71,14 +69,14 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | **Extras** | | (4b 2lb 7w 2nb 0p) | **15** |
 | **Total** | | (33 overs) | **111 for 8 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 0 | 8 | | | | |
 | **Batsman** | 1 | 3 | 2 | | | | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -90,7 +88,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | J Moorman |3 |1 |4 |1 |
 | T.Riley | 1 | 1 | 0| 0 |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|
@@ -98,21 +96,19 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 
 
-played at Betchworth on 15/09/2019
 
-Reigate won the toss and batted first, making 151-9. The Min replied with 146-8 before time ran out. Match Drawn
+
+ 
 
 Reigate Pilgrims Innings
 
 Batsman	Runs
-Burgess	run out (A Beswick)	
-6
+Burgess	run out (A Beswick)	6
 Janardanan	b	I Marshall	7
 W Hodgson	st J Grant	b C Wright	0
 Dharmasekaran	c W Calvert	b C Wright	23
-P Saikia	run out (S Barrowcliff)	
-54
-Kanagarajah	c J Brant	R Beswick	26
+P Saikia	run out (S Barrowcliff)	54
+Kanagarajah	c J Grant	R Beswick	26
 G Mitchell	c S Barrowcliff	R Beswick	0
 A Periasoamy	b	L Barrowcliff	19
 J Hoy	c R Earney	P Wigg	0
@@ -178,11 +174,6 @@ Bowling
 
 
 O	M	R	W
-I Marshall	9.4	2	27	1
-C Wright	9	1	39	2
-P Wigg	10	2	39	1
-R Beswick	7.2	0	33	2
-L Barrowcliff	2.4	1	10	1
 
 
 
@@ -208,7 +199,8 @@ L Barrowcliff	2.4	1	10	1
 
 
 
-Win/Loss Ratio
+
+Season Win/Loss Record
 
 Win	Loss	Draw	Tie
 5	4	2	0

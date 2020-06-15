@@ -1,8 +1,8 @@
 ---
 slug: "/2017/games/stowting"
 year:"2017"
-game: "Stowting -v- The Min"
-title: "Stowting"
+game: "Stowting"
+title: "Stowting -v- The Min"
 gameLocation: "Dawes Field"
 gameDate: "28/08/2017"
 result: "Stowting won by 13 runs"
@@ -15,7 +15,7 @@ Stowting won the toss and batted scoring 166-9  The Min made 153 all out in repl
 
 **Result:** {result}
 
-### Stowting Innings
+## Stowting Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -33,14 +33,14 @@ Stowting won the toss and batted scoring 166-9  The Min made 153 all out in repl
 | **Extras** | | (8b 0lb 4w 2nb 0p) | **14** |
 | **Total** | | (48 overs) | **166 for 9 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 37 | 43 | 55 | 79 | 101 | 128 | 139 | 147 |  |  |
 | **Batsman** | 1 | 3 | 4 | 2 | 6 | 7 | 8 | 9 |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ Stowting won the toss and batted scoring 166-9  The Min made 153 all out in repl
 | **G Sheen** | 5 | 1 | 21 | 2 |
 | **** |  |  |  |  |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -70,14 +70,14 @@ Stowting won the toss and batted scoring 166-9  The Min made 153 all out in repl
 | **Extras** | | (8b 0lb 4w 2nb 0p) | **14** |
 | **Total** | | (48 overs) | **166 for 9 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 48 | 48 | 51 | 61 | 75 | 78 | 112 | 113 | 151 | 153 |
 | **Batsman** | 1 | 2 | 3 | 4 | 5 | 6 | 8 | 9 | 10 | 7 |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ Stowting won the toss and batted scoring 166-9  The Min made 153 all out in repl
 | **P Beswick** | 5 | 0 | 16 | 0 |
 | **N Garland** | 5 | 2 | 32 | 2 |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

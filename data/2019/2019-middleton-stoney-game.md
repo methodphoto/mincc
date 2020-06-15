@@ -1,11 +1,11 @@
 ---
-slug: "/2019/games/middleton-stoney"
 year: "2019"
 game: "Middleton Stoney"
 title: "Middleton Stoney -v- The Min"
 gameLocation: "Middleton Park"
 gameDate: "21st April 2019"
 result: "Match Drawn"
+resultType: "Drawn"
 type: "game"
 ---
 
@@ -17,7 +17,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 <a href="http://www.middletonstoneycc.co.uk/club-news/2019/mscc-vs-the-min-2019/">Match report</a>
 
-### Middleton Stoney Innings
+## Middleton Stoney Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -35,14 +35,14 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | **Extras** | | (5b 6lb 10w 3nb 0p) | **24** |
 | **Total** | | (38 overs) | **229 for 6 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 92 | 92 | 209 | | | |
 | **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | J Wright | 6 | 0 | 43 | 0 |
 | R Beswick | 4.4 | 0 | 39 | 2 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -71,14 +71,14 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | **Extras** | | (4b 2lb 7w 2nb 0p) | **15** |
 | **Total** | | (33 overs) | **111 for 8 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 0 | 8 | | | | |
 | **Batsman** | 1 | 3 | 2 | | | | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | J Moorman |3 |1 |4 |1 |
 | T.Riley | 1 | 1 | 0| 0 |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|

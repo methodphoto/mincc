@@ -10,7 +10,7 @@ type: "fixtures"
 
 | 22nd | 14:30 | [Middleton Stoney](2012/middletonstoney) | Away |
 
-##### Sunday 29th April. 30th Anniversary of The Min
+#### Sunday 29th April. 30th Anniversary of The Min
 
 | 29th | 14:00 | [Britwell Salome](2012/britwellsalome) | Away |
 

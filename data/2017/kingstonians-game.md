@@ -13,7 +13,7 @@ Played at KCL on 07.05.2017
 
 The Min batted first and scored 200-8 (all out). Kingstonian made 204-4, so won by 6 wkts
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -31,14 +31,14 @@ The Min batted first and scored 200-8 (all out). Kingstonian made 204-4, so won 
 | **Extras** | | (6b 5b 18w 2nb 0p) | **31** |
 | **Total** | | ((33.3 overs) overs) | **200 all out** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 48 | 109 | 147 | 157 | 167 | 190 | 190 | 199 | 200 |  |
 | **Batsman** | 2 | 3 | 4 | 1 | 6 | 4 | 7 | 5 | 9 |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ The Min batted first and scored 200-8 (all out). Kingstonian made 204-4, so won 
 | **R.Beswick** | 6 | 0 | 42 | 2 |
 | **A.Gallagher** | 1 | 0 | 13 | 0 |
 
-### Kingstonian Innings
+## Kingstonian Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -68,14 +68,14 @@ The Min batted first and scored 200-8 (all out). Kingstonian made 204-4, so won 
 | **Extras** | | (6b 5b 18w 2nb 0p) | **31** |
 | **Total** | | ((33.3 overs) overs) | **200 all out** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 19 | 36 | 88 | 111 |  |  |  |  |  |  |
 | **Batsman** | 2 | 3 | 1 | 4 |  |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ The Min batted first and scored 200-8 (all out). Kingstonian made 204-4, so won 
 | **Sanjay** | 5 | 0 | 30 | 1 |
 | **Dhruv** | 1.3 | 0 | 5 | 2 |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

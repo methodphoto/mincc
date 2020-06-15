@@ -15,7 +15,7 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 
 **Result:** {result}
 
-### A Clifton College XI Innings
+## A Clifton College XI Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -33,14 +33,14 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 | **Extras** | | (0b 1lb 2w 0nb) | **3** |
 | **Total** | | (40 overs) | **200 for 5 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 68 | 78 | 118 | 182 | | | | | | |
 | **Batsman** | 2 | 3 | 1 | 5 | 6 | | | | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 | **J Wright** | 5 | 1 | 30 | 0 |
 | **R Beswick** | 1 | 0 | 5 | 0 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -69,7 +69,7 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 | **Extras** | | (5b 5lb 10w 5nb) | **25** |
 | **Total** | | (36 overs) | **94 for 9 wkts** |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 | **Kendal-Carpenter** | 2 | 0 | 9 | 0 |
 | **W Robins** | 2 | 0 | 6 | 1 |
 
-### Season Win/Loss Record
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|

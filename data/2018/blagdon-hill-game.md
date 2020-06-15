@@ -13,7 +13,7 @@ Played at Blagdon Hill on 05/07/2018
 
 The Min won the toss and batted first but only made 139-8 in their 40 overs  Blagdon Hill knocked off the runs in 26 overs and made 145-5
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -31,14 +31,14 @@ The Min won the toss and batted first but only made 139-8 in their 40 overs  Bla
 | **Extras** | | (0nb 18w 3b 0lb 0p) | **21** |
 | **Total** | | (40 overs) | **139 for 8 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 37 | 53 | 70 | 70 | 99 | 114 | 114 | 135 |  |  |
 | **Batsman** | 1 | 2 | 3 | 4 | 6 | 7 | 5 | 9 |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ The Min won the toss and batted first but only made 139-8 in their 40 overs  Bla
 | **S Noble** | 1 | 0 | 4 | 1 |
 | **** |  |  |  |  |
 
-### Blagdon Hill Innings
+## Blagdon Hill Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -68,14 +68,14 @@ The Min won the toss and batted first but only made 139-8 in their 40 overs  Bla
 | **Extras** | | (0nb 18w 3b 0lb 0p) | **21** |
 | **Total** | | (40 overs) | **139 for 8 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 20 | 29 | 68 | 89 | 138 |  |  |  |  |  |
 | **Batsman** | 2 | 2 | 3 | 4 | 5 |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ The Min won the toss and batted first but only made 139-8 in their 40 overs  Bla
 | **A Davidson** | 5 | 0 | 15 | 1 |
 | **** |  |  |  |  |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

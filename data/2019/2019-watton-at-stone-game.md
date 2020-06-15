@@ -1,21 +1,21 @@
 ---
-slug: "/2019/games/watton-at-stone"
 year: "2019"
 game: "Watton-at-Stone"
 title: "Watton-at-Stone -v- The Min"
 gameLocation: "The Meadow"
 gameDate: "28/04/2019"
-result: "Loss"
+result: "Watton-at-Stone won by 8 wkts"
+resultType: "Lost"
 type: "game"
 ---
 
 Played at {gameLocation} on {gameDate}
 
-The Min won the toss and batted first in a 35 over game. The Min made 159-8. Watton-at-Stone made 160-2 in reply, so won by 8 wkts
+The Min won the toss and batted first in a 35 over game. The Min made 159-8. Watton-at-Stone made 160-2 in reply.
 
 **Result:** {result}
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -33,14 +33,14 @@ The Min won the toss and batted first in a 35 over game. The Min made 159-8. Wat
 | **Extras** | | (7b 2lb 3w 3nb 0p) | **15** |
 | **Total** | | (35 overs) | **159 for 8 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 34 | 46 | 58 | 101 | 101 | 101 | 157 |
 | **Batsman** | 2 | 3 | 4 | 1 | 6 | 7 | 8 | 9 |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ The Min won the toss and batted first in a 35 over game. The Min made 159-8. Wat
 | **W Pringle** | 6 | 1 | 29 | 1 |
 | **Tate** | 5 | 0 | 28 | 0 |
 
-### Watton-at-Stone Innings
+## Watton-at-Stone Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -69,14 +69,14 @@ The Min won the toss and batted first in a 35 over game. The Min made 159-8. Wat
 | **Extras** | | (4b 0lb 5w 4nb 0p) | *13* |
 | **Total** | | (31.2 overs) | **160 for 2 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 10 | 10 | | | | | | | | |
 | **Batsman** | 1 | 3 | | | | | | | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ The Min won the toss and batted first in a 35 over game. The Min made 159-8. Wat
 | **C Wright** | 4 | 0 | 31 | 0 |
 | **J Stacey** | 1.2 | 0 | 3 | 0 |  
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|

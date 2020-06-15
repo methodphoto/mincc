@@ -13,7 +13,7 @@ Played at KCL on 06/05/2018
 
 The Min won the toss and inserted Kingstonians who made 171 all out in 38 4 overs  The Min scored 172-4 in 38 2 overs  The Min won by 6 wkts
 
-### Kingstonians Innings
+## Kingstonians Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -31,14 +31,14 @@ The Min won the toss and inserted Kingstonians who made 171 all out in 38 4 over
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
 | **Total** | | (38 4 overs overs) | **171 all out** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 69 | 125 | 151 | 153 | 165 | 168 | 168 | 168 | 171 | 171 |
 | **Batsman** | 2 | 3 | 4 | 1 | 5 | 7 | 6 | 8 | 9 | 11 |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ The Min won the toss and inserted Kingstonians who made 171 all out in 38 4 over
 | **J Jacobs** | 5 | 0 | 25 | 2 |
 | **R McAvoy** | 6 | 2 | 17 | 0 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -68,14 +68,14 @@ The Min won the toss and inserted Kingstonians who made 171 all out in 38 4 over
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
 | **Total** | | (38 4 overs overs) | **171 all out** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ The Min won the toss and inserted Kingstonians who made 171 all out in 38 4 over
 | **C Wright** | 4 | 0 | 35 | 2 |
 | **P Beswick** | 4 | 1 | 7 | 6 |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

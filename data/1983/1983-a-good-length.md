@@ -15,7 +15,7 @@ A Good Length batted first and were bowled out for 81. The Min knocked off the r
 
 Result: {result}
  
-### A Good Length Innings
+## A Good Length Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -33,7 +33,7 @@ Result: {result}
 | **Extras** | | (6b 1lb 4w 4nb) | 15 | 
 | **Total** | | (18.3 overs) | 81 all out | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -41,7 +41,7 @@ Result: {result}
 | **Batsman** | 2 | 1 | 4 | 3 | 5 | 7 | 6 | 9 | 8 | 10 | 
 
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ Result: {result}
 | **T Purvis** | 1 | 0 | 7 | 0 | 
 | **J Grant** | 0.3 | 0 | 0 | 1 | 
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -69,7 +69,7 @@ Result: {result}
 | **Extras** | | (3b 0lb 5w 0nb) | 8 | 
 | **Total** | | (20 overs) | 82 for 0 wkts | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -77,7 +77,7 @@ Result: {result}
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 7 | 8 | 9 | 5 | | 
 
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ Result: {result}
 | **G Powers** | 2 | 0 | 21 | 0 | 
 | **S Horner** | 1 | 0 | 4 | 0 | 
 
-### Win/Loss Ratio
+## Win/Loss Ratio
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|

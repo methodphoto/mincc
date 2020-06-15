@@ -17,7 +17,7 @@ Result: {result}
 
 J Booth and D Mundy: partnership of 100
  
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -35,14 +35,14 @@ J Booth and D Mundy: partnership of 100
 | **Extras** | | (7b 3lb 3w 0nb) | 13 |
 | **Total** | | (35.1 overs) | 171 all out |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 25 | 40 | 79 | 92 | 116 | 144 | 145 | 146 | 153 | 171 |
 | **Batsman** | 2 | 1 | 4 | 5 | 6 | 3 | 8 | 9 | 7 | 11 |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ J Booth and D Mundy: partnership of 100
 | **T Hyatt** | 5 | 0 | 32 | 1 |
 | **T Cooper** | 5.1 | 0 | 24 | 3 |
 
-### Bristol Grammar School Innings
+## Bristol Grammar School Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -70,14 +70,14 @@ J Booth and D Mundy: partnership of 100
 | **Extras** | | (2b 1lb 3w 0nb) | 6 |
 | **Total** | | (38 overs) | 129 all out |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 6 | 69 | 77 | 81 | 100 | 116 | 116 | 128 | 129 | 129 |
 | **Batsman** | 2 | 1 | 3 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|

@@ -15,7 +15,7 @@ The Min batted first and scored 126 for 9 wkts. West Green replied with 127 for 
 
 Result: {result}
  
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -33,7 +33,7 @@ Result: {result}
 | **Extras** | | (12b 8lb 0w 0nb) | 20 | 
 | **Total** | | (35 overs) | 126 for 9 wkts | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -41,7 +41,7 @@ Result: {result}
 | **Batsman** | 1 | 2 | 3 | 5 | 6 | 7 | 8 | 9 | 10 | | 
 
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ Result: {result}
 | **J Harvey** | 3 | 1 | 5 | 1 | 
 | **Winston** | 2 | 0 | 20 | 0 | 
 
-### West Green Innings
+## West Green Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -69,7 +69,7 @@ Result: {result}
 | **Extras** | | (6b 2lb 3w 0nb) | 11 | 
 | **Total** | | (24.4 overs) | 128 for 4 wkts | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -77,7 +77,7 @@ Result: {result}
 | **Batsman** | 2 | 1 | 4 | 5 | | | | | | | 
 
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ Result: {result}
 | **J Wright** | 4 | 0 | 20 | 1 | 
 | **S Watson** | 5 | 0 | 33 | 1 | 
 
-### Win/Loss Ratio
+## Win/Loss Ratio
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|

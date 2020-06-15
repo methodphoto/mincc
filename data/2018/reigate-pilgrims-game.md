@@ -13,7 +13,7 @@ Played at The Red Lion, Betchworth on 16/09/2018
 
 Reigate Pilgrims won the toss and inserted The Min, who made 184-6  Reigate Pilgrims made 189-5 when they batted so won by 5 wkts
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -31,14 +31,14 @@ Reigate Pilgrims won the toss and inserted The Min, who made 184-6  Reigate Pilg
 | **Extras** | | (0nb 5w 6b 13lb 0p) | **24** |
 | **Total** | | (42 overs overs) | **184 for 6 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ Reigate Pilgrims won the toss and inserted The Min, who made 184-6  Reigate Pilg
 | **A Dell** | 6 | 0 | 29 | 1 |
 | **** |  |  |  |  |
 
-###  Innings
+##  Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -68,14 +68,14 @@ Reigate Pilgrims won the toss and inserted The Min, who made 184-6  Reigate Pilg
 | **Extras** | | (0nb 5w 6b 13lb 0p) | **24** |
 | **Total** | | (42 overs overs) | **184 for 6 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ Reigate Pilgrims won the toss and inserted The Min, who made 184-6  Reigate Pilg
 | **A Periasoamy** | 2 | 0 | 20 | 0 |
 | **** |  |  |  |  |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

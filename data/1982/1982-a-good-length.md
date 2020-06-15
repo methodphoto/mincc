@@ -18,7 +18,7 @@ Play.
 
 Ken Sullivan - Best Bowling by The Min
 
-### A Good Length Innings
+## A Good Length Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -36,14 +36,14 @@ Ken Sullivan - Best Bowling by The Min
 | **Extras** | | (2b 0lb 1w 0nb) | **3** |
 | **Total** | | (15.1 overs) | **134 all out** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 12 | 61 | 63 | 64 | 73 | 104 | 107 | 130 | 131 | 134 |
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 5 | 8 | 9 | 7 | 11 |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ Ken Sullivan - Best Bowling by The Min
 | **J Wright** | 9 | 1 | 37 | 3 |
 | **K Sullivan** | 7.1 | 0 | 36 | 4 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -70,7 +70,7 @@ Ken Sullivan - Best Bowling by The Min
 | **Extras** | | (5b 0lb 0w 0nb) | **5** |
 | **Total** | | (15.1 overs) | **44 for 0 wkts** |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ Ken Sullivan - Best Bowling by The Min
 | **R Ashe** | 7.1 | 4 | 8 | 0 |
 | **G Stuart** | 3 | 0 | 12 | 0 |
 
-### Season Win/Loss Record
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|

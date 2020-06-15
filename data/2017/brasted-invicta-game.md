@@ -15,7 +15,7 @@ The Min won the toss and batted first scoring 215-5 in 35 overs  Brasted were bo
 
 S Amin best bowling for The MIn  P Wigg second best bowling for The Min
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -33,14 +33,14 @@ S Amin best bowling for The MIn  P Wigg second best bowling for The Min
 | **Extras** | | (11b 2lb 5w 3nb 0p) | **21** |
 | **Total** | | (35 overs overs) | **215 for 5 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 167 | 177 | 200 | 203 | 213 |  |  |  |  |  |
 | **Batsman** | 3 | 4 | 6 | 7 | 5 |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ S Amin best bowling for The MIn  P Wigg second best bowling for The Min
 | **** |  |  |  |  |
 | **** |  |  |  |  |
 
-### Brasted Invicta Innings
+## Brasted Invicta Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -70,14 +70,14 @@ S Amin best bowling for The MIn  P Wigg second best bowling for The Min
 | **Extras** | | (11b 2lb 5w 3nb 0p) | **21** |
 | **Total** | | (35 overs overs) | **215 for 5 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 19 | 19 | 19 | 20 | 20 | 24 | 25 | 25 | 29 | 30 |
 | **Batsman** | 1 | 3 | 2 | 4 | 6 | 7 | 8 | 0 | 10 | 11 |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ S Amin best bowling for The MIn  P Wigg second best bowling for The Min
 | **Baker** | 3 | 0 | 20 | 0 |
 | **Campbell** | 2 | 0 | 22 | 2 |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

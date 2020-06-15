@@ -17,7 +17,7 @@ Tony Purves: best bowling for The Min
 
 Result: {result}
  
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -35,7 +35,7 @@ Result: {result}
 | **Extras** | | (7b 2b 8w 0nb) | 17 | 
 | **Total** | | (40.5 overs) | 192 for 6 wkts | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -43,7 +43,7 @@ Result: {result}
 | **Batsman** | 2 | 1 | 3 | 5 | 4 | 6 | | | | | 
 
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ Result: {result}
 | **Bowler 5** | 8.5 | 0 | 36 | 1 | 
 | **Bowler 6** | 2 | 0 | 23 | 0 | 
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -72,7 +72,7 @@ Result: {result}
 | **Extras** | | (1b 0lb 3w 2nb) | 6 | 
 | **Total** | | (33.3 overs) | 85 all out | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -80,7 +80,7 @@ Result: {result}
 | **Batsman** | 2 | 3 | 1 | 5 | 6 | 4 | 7 | 8 | 10 | 11 | 
 
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ Result: {result}
 | **T Purves** | 5.3 | 1 | 14 | 6 | 
 | **W Calvert** | 3 | 1 | 12 | 0 | 
 
-### Win/Loss Ratio
+## Win/Loss Ratio
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|

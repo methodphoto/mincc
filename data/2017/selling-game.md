@@ -15,7 +15,7 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 
 **Result:** {result}
 
-### Selling Innings
+## Selling Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -33,14 +33,14 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 | **Extras** | | (2b 5lb 6w 0nb 0p) | **13** |
 | **Total** | | (40 overs overs) | **248 for 6 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 70 | 95 | 212 | 214 | 220 | 239 |  |  |  |  |
 | **Batsman** | 1 | 2 | 4 | 5 | 3 | 6 |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 | **R de Zoysa** | 5 | 0 | 22 | 3 |
 | **O Lane** | 2 | 0 | 18 | 0 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -70,14 +70,14 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 | **Extras** | | (2b 5lb 6w 0nb 0p) | **13** |
 | **Total** | | (40 overs overs) | **248 for 6 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 73 | 82 | 93 | 111 | 119 | 119 | 122 | 167 |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 | 6 | 5 | 9 | 10 |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 | **I Miah** | 7 | 0 | 44 | 2 |
 | **Shafi** | 3 | 0 | 16 | 1 |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

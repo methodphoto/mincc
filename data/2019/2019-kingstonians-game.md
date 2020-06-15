@@ -1,11 +1,11 @@
 ---
-slug: "/2019/games/blagdon-hill"
 year: "2019"
-game: "Blagdon Hill"
-title: "Blagdon Hill -v- The Min"
+game: "Kingstonians"
+title: "Kingstonians -v- The Min"
 gameLocation: "Sellicks Green"
 gameDate: "4th July 2019"
 result: "Match Drawn"
+resultType: "Drawn"
 type: "game"
 ---
 
@@ -17,7 +17,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 <a href="http://www.middletonstoneycc.co.uk/club-news/2019/mscc-vs-the-min-2019/">Match report</a>
 
-### Middleton Stoney Innings
+## Middleton Stoney Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -35,14 +35,14 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | **Extras** | | (5b 6lb 10w 3nb 0p) | **24** |
 | **Total** | | (38 overs) | **229 for 6 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 92 | 92 | 209 | | | |
 | **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | J Wright | 6 | 0 | 43 | 0 |
 | R Beswick | 4.4 | 0 | 39 | 2 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -71,14 +71,14 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | **Extras** | | (4b 2lb 7w 2nb 0p) | **15** |
 | **Total** | | (33 overs) | **111 for 8 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 0 | 8 | | | | |
 | **Batsman** | 1 | 3 | 2 | | | | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -90,198 +90,15 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | J Moorman |3 |1 |4 |1 |
 | T.Riley | 1 | 1 | 0| 0 |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
 
-
-
-<p><em>played at Frensham on 06/06/2019</em></p>
+<p><em>played at Tiffin School on 21/7/2019</em></p>
 <div class="table">
-<p>Frensham won the toss and batted first. They made 192-9. The Min replied with 196-6, so won by 4 wkts</p>
-
-
-<h3>Frensham Innings</h3>
-<table class="listing">
-<tbody>
-<tr>
-<th colspan="3">Batsman</th>
-<th>Runs</th>
-</tr>
-<tr>
-<td class="bold">A.Peers</td>
-<td>b</td><td>I.Miah</td>
-<td>0</td>
-</tr>
-<tr>
-<td class="bold">G.Breddy</td>
-<td>retired out</td><td>&nbsp;</td>
-<td>113</td>
-</tr>
-<tr>
-<td class="bold">S.Richards</td>
-<td>lbw</td><td>I.Miah</td>
-<td>3</td>
-</tr>
-<tr>
-<td class="bold">H.Dibdin</td>
-<td>b</td><td>I.Miah</td>
-<td>1</td>
-</tr>
-<tr>
-<td class="bold">C.Jones</td>
-<td>c N.Garland</td><td>P.Wigg</td>
-<td>21</td>
-</tr>
-<tr>
-<td class="bold">J.Sully</td>
-<td>run out</td><td>&nbsp;</td>
-<td>15</td>
-</tr>
-<tr>
-<td class="bold">S.Dibdin</td>
-<td>lbw</td><td>N.Garland</td>
-<td>3</td>
-</tr>
-<tr>
-<td class="bold">L.Mills</td>
-<td>c W.Calvert</td><td>I.Marshall</td>
-<td>13</td>
-</tr>
-<tr>
-<td class="bold">T.Ralling</td>
-<td>b</td><td>N.Garland</td>
-<td>2</td>
-</tr>
-<tr>
-<td class="bold">Frost</td>
-<td>not out</td><td>&nbsp;</td>
-<td>12</td>
-</tr>
-<tr>
-<td class="bold">J.Frost</td>
-<td>not out</td><td>&nbsp;</td>
-<td>0</td>
-</tr>
-<tr>
-<td class="bold" colspan="2">Extras</td>
-<td>(11b 4lb 2w 0nb 0p)</td>
-<td><strong>17</strong></td>
-</tr>
-<tr>
-<td class="bold" colspan="2">Total</td>
-<td>(39 overs)</td>
-<td><strong>192 for 9 wkts </strong></td>
-</tr>
-</tbody>
-</table>
-<h3>Fall of Wickets</h3>
-<table class="listing">
-<tbody>
-<tr>
-<th class="bold">W</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-</tr>
-<tr>
-<td class="bold">Sc</td>
-<td>1</td>
-<td>27</td>
-<td>29</td>
-<td>130</td>
-<td>156</td>
-<td></td>
-<td>169</td>
-<td>171</td>
-<td>192</td>
-<td></td>
-</tr>
-<tr>
-<td class="bold">Bt</td>
-<td>1</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>(2)</td>
-<td>7</td>
-<td>9</td>
-<td>8</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<h3>Bowling</h3>
-<table class="listing">
-<tbody>
-<tr>
-<th width="50%">&nbsp;</th>
-<th>O</th>
-<th>M</th>
-<th>R</th>
-<th>W</th>
-</tr>
-<tr>
-<td class="bold">Ishmael</td>
-<td>8</td>
-<td>1</td>
-<td>31</td>
-<td>0</td>
-</tr>
-<tr>
-<td class="bold">I.Miah</td>
-<td>8</td>
-<td>4</td>
-<td>26</td>
-<td>3</td>
-</tr>
-<tr>
-<td class="bold">I.Marshall</td>
-<td>8</td>
-<td>1</td>
-<td>31</td>
-<td>1</td>
-</tr>
-<tr>
-<td class="bold">C.Wright</td>
-<td>6</td>
-<td>0</td>
-<td>46</td>
-<td>1</td>
-</tr>
-<tr>
-<td class="bold">P.Wigg</td>
-<td>5</td>
-<td>0</td>
-<td>22</td>
-<td>1</td>
-</tr>
-<tr>
-<td class="bold">N.Garland</td>
-<td>4</td>
-<td>1</td>
-<td>17</td>
-<td>2</td>
-</tr>
-<tr>
-<td class="bold">S.Amin</td>
-<td>2</td>
-<td>0</td>
-<td>13</td>
-<td>0</td>
-</tr>
-</tbody>
-</table>
+<p>The Min were inserted and scored 198-9 in 35 overs. Kingstonians made 139-4 in 35 overs, so The Min won by 59 runs</p>
 <h3>The Min Innings</h3>
 <table class="listing">
 <tbody>
@@ -290,74 +107,80 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 <th>Runs</th>
 </tr>
 <tr>
-<td class="bold">R.Earney</td>
-<td>b</td><td>Ju.Frost</td>
-<td>39</td>
+<td class="bold">R Earney</td>
+<td>b</td>
+<td>Shall</td>
+<td>18</td>
 </tr>
 <tr>
-<td class="bold">R.Beswick *</td>
-<td>lbw</td><td>J.Scully</td>
+<td class="bold">R Beswick</td>
+<td>b</td>
+<td>Kash</td>
+<td>6</td>
+</tr>
+<tr>
+<td class="bold">A Beswick</td>
+<td>not out</td>
+<td> </td>
+<td>86</td>
+</tr>
+<tr>
+<td class="bold">W Calvert</td>
+<td>c</td>
+<td>Shall</td>
 <td>0</td>
 </tr>
 <tr>
-<td class="bold">Ishmael</td>
-<td>c</td><td>Jones</td>
-<td>70</td>
+<td class="bold">K Usanga</td>
+<td>b</td>
+<td>Alan</td>
+<td>11</td>
 </tr>
 <tr>
-<td class="bold">S.Amin</td>
-<td>c G.Breddy</td><td>Ju.Frost</td>
+<td class="bold">N Garland</td>
+<td>c</td>
+<td>Alan</td>
+<td>16</td>
+</tr>
+<tr>
+<td class="bold">A Gallagher</td>
+<td>b</td>
+<td>Terry</td>
+<td>30</td>
+</tr>
+<tr>
+<td class="bold">O Rey</td>
+<td>c Shall</td>
+<td>Terry</td>
+<td>3</td>
+</tr>
+<tr>
+<td class="bold">J Grant †</td>
+<td>run out</td>
+<td> </td>
 <td>7</td>
 </tr>
 <tr>
-<td class="bold">W.Calvert</td>
-<td>b</td><td>Jones</td>
-<td>15</td>
+<td class="bold">P Beswick</td>
+<td>b</td>
+<td>Shall</td>
+<td>0</td>
 </tr>
 <tr>
-<td class="bold">I.Marshall</td>
-<td>b</td><td>J.Scully</td>
-<td>7</td>
-</tr>
-<tr>
-<td class="bold">K.Usanga</td>
-<td>not out</td><td>&nbsp;</td>
-<td>9</td>
-</tr>
-<tr>
-<td class="bold">P.Wigg</td>
-<td>not out</td><td>&nbsp;</td>
-<td>10</td>
-</tr>
-<tr>
-<td class="bold">N.Garland</td>
-<td>dnb</td><td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td class="bold">J.Grant †</td>
-<td>dnb</td><td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td class="bold">I.Miah</td>
-<td>dnb</td><td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td class="bold"></td>
-<td></td><td>&nbsp;</td>
-<td>&nbsp;</td>
+<td class="bold">C Garland</td>
+<td>not out</td>
+<td> </td>
+<td>3</td>
 </tr>
 <tr>
 <td class="bold" colspan="2">Extras</td>
-<td>(15b 6lb 14w 5nb 0p)</td>
-<td><strong>40</strong></td>
+<td>(2b 1lb 14w 4nb 0p)</td>
+<td><strong>21</strong></td>
 </tr>
 <tr>
 <td class="bold" colspan="2">Total</td>
-<td>(34 overs)</td>
-<td><strong>208 for 9 wkts (all out)</strong></td>
+<td>(35 overs)</td>
+<td><strong>179 9 wkts</strong></td>
 </tr>
 </tbody>
 </table>
@@ -366,29 +189,29 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 <tbody>
 <tr>
 <th class="bold">W</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
+<th class="bold">1</th>
+<th class="bold">2</th>
+<th class="bold">3</th>
+<th class="bold">4</th>
+<th class="bold">5</th>
+<th class="bold">6</th>
+<th class="bold">7</th>
+<th class="bold">8</th>
+<th class="bold">9</th>
+<th class="bold">10</th>
 </tr>
 <tr>
 <td class="bold">Sc</td>
-<td>18</td>
-<td>93</td>
-<td>108</td>
-<td>148</td>
-<td>167</td>
-<td>184</td>
-<td></td>
-<td></td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td>29</td>
+<td>29</td>
+<td>29</td>
+<td>58</td>
+<td>84</td>
+<td>141</td>
+<td>164</td>
+<td>195</td>
+<td>195</td>
+<td> </td>
 </tr>
 <tr>
 <td class="bold">Bt</td>
@@ -396,12 +219,12 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 <td>1</td>
 <td>4</td>
 <td>5</td>
-<td>3</td>
-<td>6</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td>5</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -409,79 +232,299 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 <table class="listing" cellspacing="1">
 <tbody>
 <tr>
-<th width="50%">&nbsp;</th>
+<th width="50%"> </th>
 <th>O</th>
 <th>M</th>
 <th>R</th>
 <th>W</th>
 </tr>
 <tr>
-<td class="bold">Scully</td>
-<td>9</td>
-<td>2</td>
-<td>18</td>
-<td>2</td>
-</tr>
-<tr>
-<td class="bold">L.Mills</td>
+<td class="bold">Kash</td>
 <td>5</td>
+<td>0</td>
+<td>16</td>
 <td>1</td>
-<td>30</td>
-<td>0</td>
 </tr>
 <tr>
-<td class="bold">T.Ralling</td>
+<td class="bold">Shall</td>
+<td>6</td>
+<td>1</td>
+<td>21</td>
 <td>3</td>
+</tr>
+<tr>
+<td class="bold">Nik</td>
+<td>5</td>
 <td>0</td>
-<td>18</td>
+<td>32</td>
 <td>0</td>
 </tr>
 <tr>
-<td class="bold">Ju.Frost</td>
-<td>4</td>
+<td class="bold">Alan</td>
+<td>5</td>
 <td>0</td>
-<td>31</td>
+<td>22</td>
 <td>2</td>
 </tr>
 <tr>
-<td class="bold">Dibdinn</td>
+<td class="bold">Jim</td>
 <td>3</td>
 <td>0</td>
-<td>25</td>
+<td>32</td>
 <td>0</td>
 </tr>
 <tr>
-<td class="bold">Jones</td>
-<td>6</td>
+<td class="bold">Terry</td>
+<td>5</td>
 <td>0</td>
 <td>35</td>
 <td>2</td>
 </tr>
 <tr>
-<td class="bold">H.Dibdin</td>
-<td>6</td>
+<td class="bold">Callum</td>
+<td>4</td>
 <td>0</td>
-<td>16</td>
+<td>27</td>
+<td>0</td>
+</tr>
+<tr>
+<td class="bold">Khalid</td>
+<td>2</td>
+<td>0</td>
+<td>14</td>
+<td>0</td>
+</tr>
+<tr>
+<td class="bold"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td class="bold"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+<h3>Kingstonians Innings</h3>
+<table class="listing">
+<tbody>
+<tr>
+<th colspan="3">Batsman</th>
+<th>Runs</th>
+</tr>
+<tr>
+<td class="bold">Kash</td>
+<td>b</td>
+<td>C Wright</td>
+<td>1</td>
+</tr>
+<tr>
+<td class="bold">Khalid</td>
+<td>c J Grant</td>
+<td>P Beswick</td>
+<td>49</td>
+</tr>
+<tr>
+<td class="bold">Sam</td>
+<td>st J Grant</td>
+<td>C Wright</td>
+<td>11</td>
+</tr>
+<tr>
+<td class="bold">Shall</td>
+<td>not out</td>
+<td> </td>
+<td>42</td>
+</tr>
+<tr>
+<td class="bold">Alan</td>
+<td>st J Grant</td>
+<td>P Beswick</td>
+<td>14</td>
+</tr>
+<tr>
+<td class="bold">Nik</td>
+<td>not out</td>
+<td> </td>
+<td>3</td>
+</tr>
+<tr>
+<td class="bold">Amer</td>
+<td>did not bat</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td class="bold">Terry</td>
+<td>did not bat</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td class="bold">Callum</td>
+<td>did not bat</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td class="bold">Jim</td>
+<td>did not bat</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td class="bold"> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td class="bold" colspan="2">Extras</td>
+<td>(1b 0lb 14w 3nb 0p)</td>
+<td><strong>21</strong></td>
+</tr>
+<tr>
+<td class="bold" colspan="2">Total</td>
+<td>(35 overs)</td>
+<td><strong>179 4 </strong></td>
+</tr>
+</tbody>
+</table>
+<h3>Fall of Wickets</h3>
+<table class="listing">
+<tbody>
+<tr>
+<th class="bold">W</th>
+<th class="bold">1</th>
+<th class="bold">2</th>
+<th class="bold">3</th>
+<th class="bold">4</th>
+<th class="bold">5</th>
+<th class="bold">6</th>
+<th class="bold">7</th>
+<th class="bold">8</th>
+<th class="bold">9</th>
+<th class="bold">10</th>
+</tr>
+<tr>
+<td class="bold">Sc</td>
+<td>5</td>
+<td>38</td>
+<td>77</td>
+<td>104</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td class="bold">Bt</td>
+<td>1</td>
+<td>3</td>
+<td>2</td>
+<td>5</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+<h3>Bowling</h3>
+<table class="listing">
+<tbody>
+<tr>
+<th width="50%"> </th>
+<th>O</th>
+<th>M</th>
+<th>R</th>
+<th>W</th>
+</tr>
+<tr>
+<td class="bold">C Garland</td>
+<td>5</td>
+<td>0</td>
+<td>28</td>
+<td>0</td>
+</tr>
+<tr>
+<td class="bold">C Wright</td>
+<td>7</td>
+<td>1</td>
+<td>23</td>
+<td>2</td>
+</tr>
+<tr>
+<td class="bold">R Beswick</td>
+<td>5</td>
+<td>1</td>
+<td>13</td>
+<td>0</td>
+</tr>
+<tr>
+<td class="bold">P Beswick</td>
+<td>7</td>
+<td>0</td>
+<td>34</td>
+<td>2</td>
+</tr>
+<tr>
+<td class="bold">N Garland</td>
+<td>6</td>
+<td>1</td>
+<td>11</td>
+<td>0</td>
+</tr>
+<tr>
+<td class="bold">A Beswick</td>
+<td>2</td>
+<td>0</td>
+<td>13</td>
+<td>0</td>
+</tr>
+<tr>
+<td class="bold">W Calvert</td>
+<td>2</td>
+<td>0</td>
+<td>11</td>
+<td>0</td>
+</tr>
+<tr>
+<td class="bold">K Usanga</td>
+<td>1</td>
+<td>0</td>
+<td>5</td>
 <td>0</td>
 </tr>
 </tbody>
 </table>
-<h3>Win/Loss Ratio</h3>
-<table class="listing" cellspacing="2">
+<h3>Season Win/Loss Record</h3>
+<table class="listing" style="width: 100%;" cellspacing="2">
 <tbody>
 <tr>
-<th>Win</th>
-<th>Loss</th>
-<th>Draw</th>
-<th>Tie</th>
+<th style="width: 24.393939393939394%;">Win</th>
+<th style="width: 25.606060606060606%;">Loss</th>
+<th style="width: 29.6969696969697%;">Draw</th>
+<th style="width: 20.151515151515152%;">Tie</th>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>1</td>
-<td>0</td>
+<td style="width: 24.393939393939394%;">4</td>
+<td style="width: 25.606060606060606%;">4</td>
+<td style="width: 29.6969696969697%;">1</td>
+<td style="width: 20.151515151515152%;">0</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+
 

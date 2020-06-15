@@ -15,7 +15,7 @@ Leyhill batted first and scored 175 all out. The Min replied with 82 all out
 
 Result: {result}
 
-### Leyhill Innings
+## Leyhill Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -34,14 +34,14 @@ Result: {result}
 | **Total** | | (34.2 overs) | 175 all out | |
 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | | | | | | | | | | |
 | **Batsman** | 1 | 2| 4 | 3 | 6 | 7 | 8 | 5 | 10| 11 |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ Result: {result}
 | **L Sheridan** | 3 | 0| 14 | 1 |
 
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -71,14 +71,14 @@ Result: {result}
 | **Extras** | | (8b 1lb 3w 0nb)| 12 | |
 | **Total** | | (34.5 overs) | 82 all out| |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | | | | | | | | | | |
 | **Batsman** | 2 | 3| 1 | 4 | 5 | 6 | 8 | 9 | 7 | 10 |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|

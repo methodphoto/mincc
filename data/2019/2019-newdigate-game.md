@@ -1,23 +1,23 @@
 ---
-slug: "/2019/games/blagdon-hill"
 year: "2019"
-game: "Blagdon Hill"
-title: "Blagdon Hill -v- The Min"
+game: "Newdigate"
+title: "Newdigate -v- The Min"
 gameLocation: "Sellicks Green"
 gameDate: "4th July 2019"
 result: "Match Drawn"
+resultType: "Drawn"
 type: "game"
 ---
 
 Played at {gameLocation} on {gameDate}
 
-Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 111-8 when time ran out. 
+Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 111-8 when time ran out.
 
 **Result:** {result}
 
 <a href="http://www.middletonstoneycc.co.uk/club-news/2019/mscc-vs-the-min-2019/">Match report</a>
 
-### Middleton Stoney Innings
+## Middleton Stoney Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -35,14 +35,14 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | **Extras** | | (5b 6lb 10w 3nb 0p) | **24** |
 | **Total** | | (38 overs) | **229 for 6 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 92 | 92 | 209 | | | |
 | **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | J Wright | 6 | 0 | 43 | 0 |
 | R Beswick | 4.4 | 0 | 39 | 2 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -71,14 +71,14 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | **Extras** | | (4b 2lb 7w 2nb 0p) | **15** |
 | **Total** | | (33 overs) | **111 for 8 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 0 | 8 | | | | |
 | **Batsman** | 1 | 3 | 2 | | | | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -90,14 +90,152 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 | J Moorman |3 |1 |4 |1 |
 | T.Riley | 1 | 1 | 0| 0 |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
 
 
+played at Newdigate on 09/06/2019
 
+The Min won the toss and for some reason batted first on a sticky wicket. They were duly all out for 79. Newdigate won by 8 wkts
+
+The Min Innings
+
+Batsman	Runs
+R.Beswick *	c T Ridder	H Elliss	5
+A Catternack	c J Bowley	T Ridder	4
+R Earney	c I Kehl	B Crook	16
+P Wigg	c A Kehl	B Crook	2
+R Kitson	c B Crook	A Kehl	7
+S Barrowcliff	b	I Kehl	5
+K Sapp	c A Harper	I Kehl	8
+I Marshall	c T Ridder	I Kehl	3
+N Garland	b	I Kehl	3
+J Grant †	c A Harper	I Kehl	2
+C Wright	not out	
+0
+Extras	(3b 0lb 8w 1nb 0p)	12
+Total	(27.2 overs)	79 all out
+Fall of Wickets
+
+W	1	2	3	4	5	6	7	8	9	10
+Sc	10	14	27	31	40	52	52	77	78	79
+Bt	2	1	3	4	5	7	6	8	9	10
+Bowling
+
+
+O	M	R	W
+T Ridder	5	1	15	1
+H Elliss	5	2	10	1
+Crook	5	2	4	2
+I Kehl	4.2	0	16	5
+A Kehl	4	0	20	1
+J Bowley	4	0	10	0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newdigate Innings
+
+Batsman	Runs
+R Goldsmid	b	A Catternack	7
+A Harper	b	A Catternack	4
+S Roast	not out	
+51
+S Kehl †	not out	
+21
+M Elahi *	
+
+
+T Ridder	
+
+
+J Bowley	
+
+
+A Kehl	
+
+
+H Elliss	
+
+
+B Crook	
+
+
+I Kehl	
+
+
+Extras	(0b 1lb 0w 0nb 0p)	12
+Total	(15.4 overs)	79 2 wkts
+Fall of Wickets
+
+W	1	2	3	4	5	6	7	8	9	10
+Sc	4	13	
+
+
+
+
+
+
+
+Bt	2	1	
+
+
+
+
+
+
+
+Bowling
+
+
+O	M	R	W
+P Wigg	6	2	14	0
+A Catternack	6	0	26	2
+I Marshall	2	0	26	0
+C Wright	1.4	0	17	0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Season Win/Loss Record
+
+Win	Loss	Draw	Tie
+1	3	1	0
 <p><em>played at Tiffin School on 21/7/2019</em></p>
 <div class="table">
 <p>The Min were inserted and scored 198-9 in 35 overs. Kingstonians made 139-4 in 35 overs, so The Min won by 59 runs</p>
@@ -509,7 +647,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 </tr>
 </tbody>
 </table>
-<h3>Win/Loss Ratio</h3>
+<h3>Season Win/Loss Record</h3>
 <table class="listing" style="width: 100%;" cellspacing="2">
 <tbody>
 <tr>

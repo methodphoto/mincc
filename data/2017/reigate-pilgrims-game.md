@@ -13,7 +13,7 @@ Played at Betchworth on 17/09/2017
 
 Reigate won the toss and inserted The Min, who made 140-9  Reigate replied with 141- so won by 5 wkts
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -31,14 +31,14 @@ Reigate won the toss and inserted The Min, who made 140-9  Reigate replied with 
 | **Extras** | | (7b 0lb 9w 2nb 0p) | **18** |
 | **Total** | | ((41 5 overs) overs) | **140 for 9 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 2 | 28 | 37 | 42 | 42 | 107 | 111 | 112 | 140 |  |
 | **Batsman** | 2 | 1 | 3 | 4 | 5 | 6 | 8 | 9 | 10 |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ Reigate won the toss and inserted The Min, who made 140-9  Reigate replied with 
 | **N Garland** | 0 3 | 0 | 5 | 0 |
 | **** |  |  |  |  |
 
-### Reigate Pilgrims Innings
+## Reigate Pilgrims Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -68,14 +68,14 @@ Reigate won the toss and inserted The Min, who made 140-9  Reigate replied with 
 | **Extras** | | (7b 0lb 9w 2nb 0p) | **18** |
 | **Total** | | ((41 5 overs) overs) | **140 for 9 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 77 | 86 | 92 | 100 | 119 |  |  |  |  |  |
 | **Batsman** | 1 | 3 | 4 | 2 | 5 |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ Reigate won the toss and inserted The Min, who made 140-9  Reigate replied with 
 | **M Duke** | 4 | 0 | 33 | 0 |
 | **V Kuttikara** | 4 | 0 | 27 | 0 |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

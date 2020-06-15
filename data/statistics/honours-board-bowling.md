@@ -1,11 +1,10 @@
 ---
-slug: "/honours-board-bowling"
-title: "Honours Board (Bowling)"
+title: "Bowling Honours Board"
 type: "statistics"
 ---
 # {title}
 
-### 6 or more wickets in an Innings
+## 6 or more wickets in an Innings
 
 | Year | Player | Opponent | Figures |
 |:--- | :--- | :--- | ---: |
@@ -28,7 +27,7 @@ type: "statistics"
 | 1984 | Tony Purves | v Greenford | 2.3-1-14-6 |
 | 1984 | William Calvert | v Chiswick Flyovers | 13-3-40-6 |
 
-### 5 or more wickets in an Innings
+## 5 or more wickets in an Innings
 
 | Year | Player | Opponent | Score |
 |:--- | :--- | :--- | ---: |

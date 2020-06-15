@@ -15,7 +15,7 @@ A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 
 **Result:** {result}
 
-### A Good Length Innings
+## A Good Length Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -33,14 +33,14 @@ A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 | **Extras** | | (2b 0lb 1w 1nb) | **4** |
 | **Total** | | (35.3 overs) | **116 all out** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 24 | 28 | 28 | 46 | 57 | 62 | 83 | 98 | 100 | 116 |
 | **Batsman** | 2 | 3 | 4 | 5 | 1 | 7 | 8 | 9 | 10 | 6 |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 | **S Sutherland** | 7 | 4 | 7 | 2 |
 | **S Beavis** | 4 | 1 | 17 | 2 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -68,7 +68,7 @@ A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 | **Extras** | | (7b 2lb 5w 0nb) | **14** |
 | **Total** | | (35 overs) | **117 for 6 wkts** |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 | **Lawson** | 1 | 0 | 4 | 1 |
 | **M Pollett** | 1 | 0 | 1 | 0 |
 
-### Season Win/Loss Record
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|

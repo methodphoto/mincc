@@ -15,7 +15,7 @@ The Min scored 103 for 4wkts
 
 Result: {result} | | |
 
-### The Min Innings
+## The Min Innings
 
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -33,14 +33,14 @@ Result: {result} | | |
 | **Extras** | | (1b 2lb 6w 0nb) | **9** |
 | **Total** | | (15 overs) | **103 for 4 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 24 | 51 | 54 | 54 |
 | **Batsman** | 2 | 1 | 4 | 5 |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ Result: {result} | | |
 | **Shearing** | 3 | 0 | 38 | 1 |
 | **Mason** | 3 | 0 | 19 | 2 |
 
-### Wills Hall Innings
+## Wills Hall Innings
 
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -68,14 +68,14 @@ Result: {result} | | |
 | **Extras** | | (4b 0lb 3w 0nb) | **7** |
 | **Total** | | (38 overs) | **56 for 7 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 2 | 15 | 16 | 27 | 43 | 56 | | | | |
 | **Batsman** | 1 | 2 | 3 | 5 | 4 | 6 | | | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|

@@ -33,14 +33,14 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 | **Extras** | | (12b 1lb 3w 0nb) | **16** |
 | **Total** | | (38.3 overs) | **134 all out** |
 
-#### Fall of Wickets
+### Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 1 | 1 | 6 | 38 | 48 | 56 | 72 | 100 | 111 | 134 |
 | **Batsman** | 1 | 3 | 4 | 2 | 5 | 7 | 6 | 8 | 9 | 10 |
 
-#### Bowling
+### Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -73,14 +73,14 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 | **Extras** | | (1b 0lb 1w 0nb) | **2** |
 | **Total** | | (26 overs) | **100 all out** |
 
-#### Fall of Wickets
+### Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 5 | 33 | 79 | 80 | 90 | 92 | 99 | 99 | 99 | 100 |
 | **Batsman** | 1 | 3 | 2 | 4 | 5 | 6 | 7 | 9 | 8 | 10 |
 
-#### Bowling
+### Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 | **J Wright** | 7 | 2 | 10 | 4 |
 | **K Sullivan** | 5 | 3 | 8 | 3 |
 
-#### Win/Loss Ratio
+### Win/Loss Ratio
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|

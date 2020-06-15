@@ -1,11 +1,10 @@
 ---
-slug: "/2018-player-stats"
-title: "2018 Player Stats"
+title: "2018 Statistics"
 type: "statistics"
 ---
 # {title}
 
-### 2018 Season Batting (by Runs)
+## 2018 Season Batting (by Runs)
 
 | Player | Inns | No | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- |
@@ -44,7 +43,7 @@ type: "statistics"
 | **Sandy Noble** | 1 | 1 | 0 | ? |
 | **John Purefoy** | 0 | 0 | 0 | ? |
 
-### 2018 Season Batting (by Batting Ave)
+## 2018 Season Batting (by Batting Ave)
 
 | Player | Inns | No | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- |
@@ -134,7 +133,7 @@ type: "statistics"
 | **Altaf Ajmal** | 12 | 0 | 62 | 1 | 62 | 72 |
 | **Alastair Dell** | 14 | 0 | 85 | 1 | 85 | 84 | |
 | 
-### Career Batting (min 250 Runs)
+## Career Batting (min 250 Runs)
 
 Player	M	Inns	NOs	Runs	Ave
 | Player | M | Inns | NOs | Runs | Ave |
@@ -182,7 +181,7 @@ Player	M	Inns	NOs	Runs	Ave
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 37.29 |
 
-### Career Batting by Ave (min 250 Runs)
+## Career Batting by Ave (min 250 Runs)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- | :--- |

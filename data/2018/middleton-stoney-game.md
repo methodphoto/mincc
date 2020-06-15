@@ -13,7 +13,7 @@ Played at Middleton Park on 22/04/2018
 
 The Min won the toss and inserted Middleton Stoney who scored 188-7  The Min replied with 107-8 when time ran out  Match Drawn
 
-### Middleton Stoney Innings
+## Middleton Stoney Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -32,14 +32,14 @@ The Min won the toss and inserted Middleton Stoney who scored 188-7  The Min rep
 | **Total** | | ((38 overs) overs) | **188 7wkts** |
 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ The Min won the toss and inserted Middleton Stoney who scored 188-7  The Min rep
 | **T House** | 1 | 1 | 0 | 0 |
 | **** |  |  |  |  |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -69,14 +69,14 @@ The Min won the toss and inserted Middleton Stoney who scored 188-7  The Min rep
 | **Extras** | | (6b 3lb 13w 1nb 0p) | **23** |
 | **Total** | | ((38 overs) overs) | **188 7wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ The Min won the toss and inserted Middleton Stoney who scored 188-7  The Min rep
 | **P Beswick** | 2 | 0 | 16 | 0 |
 | **** |  |  |  |  |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

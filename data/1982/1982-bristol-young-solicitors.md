@@ -15,7 +15,7 @@ Bristol Young Solicitors batted first and scored 103 for 9 wkts. The Min replied
 
 Result: {result}
 
-### Bristol Young Solicitors Innings
+## Bristol Young Solicitors Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -33,14 +33,14 @@ Result: {result}
 | **Extras** | | (3b 1lb w 2nb) | 8 | 
 | **Total** | | (20 overs) | 103 for 9 wkts| 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Score | 11 | 11 | 34 | 41 | 67 | 69 | 70 | 83 | | |
 | Batsman | 1 | 2 | 4 | 5 | 3 | 6 | 8 | 7 | 10 |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ Result: {result}
 | **A Gallagher** | 1 | 0 | 4 | 0 |
 | **R Beswick** | 1 | 0 | 11 | 1 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -73,14 +73,14 @@ Result: {result}
 | **Extras** | | (8b 1lb 3w 0nb) | 14 | |
 | **Total** | | (20 overs) | 104 for 5 wkts| |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Score | 4 | 7 | 47 | 67 | 99 | | | | | |
 | Batsman | 2 | 1 | 3 | 5 | 6 | | | | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|

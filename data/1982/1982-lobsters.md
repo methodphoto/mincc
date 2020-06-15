@@ -15,7 +15,7 @@ Lobsters batted first and scored 125 for 7 wkts. The Min replied with 97 for 9 w
 
 Result: {result}
  
-### Lobsters Innings
+## Lobsters Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -33,14 +33,14 @@ Result: {result}
 | **Extras** | | (4b 1lb 1w 0nb) | 6 | 
 | **Total** | | (20 overs) | 125 for 7 wkts | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 4 | 14 | 47 | 58 | 84 | 91 | 124 | | | | 
 | **Batsman** | 1 | 3 | 4 | 5 | 3 | 7 | 2 | | | | 
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ Result: {result}
 | **R Beswick** | 2 | 0 | 11 | 0 | 
 | **R Emanuel** | 1 | 0 | 15 | 0 | 
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -71,14 +71,14 @@ Result: {result}
 | **Extras** | | (8b 2lb 7w 0nb) | 17 | 
 | **Total** | | (20 overs) | 97 for 9 wkts (all out) | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 2 | 22 | 26 | 28 | | | | | | | 
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 7 | 8 | 9 | 5 | | 
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|

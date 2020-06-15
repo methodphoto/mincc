@@ -15,7 +15,7 @@ Lobsters batted first and scored 125 for 7 wkts. The Min replied with 97 for 9 w
 
 Result: {result}
  
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -33,7 +33,7 @@ Result: {result}
 | **Extras** | | (7b 2lb 0w 0nb) | 9 | 
 | **Total** | | (20 overs) | 140 for 7 wkts | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -41,7 +41,7 @@ Result: {result}
 | **Batsman** | 2 | 3 | 4 | 5 | | | | | | | 
 
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ Result: {result}
 | **H Sallitt** | 3 | 0 | 20 | 0 | 
 | **P Wakefield** | 2 | 0 | 14 | 2 | 
 
-### Nigel Hoare's XI Innings
+## Nigel Hoare's XI Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -69,7 +69,7 @@ Result: {result}
 | **Extras** | | (1b 0lb 5w 6nb) | 12 | 
 | **Total** | | (21 overs) | 97 for 9 wkts | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -77,7 +77,7 @@ Result: {result}
 | **Batsman** | 1 | 3 | 2 | 5 | 6 | 4 | 7 | 8 | 10 | | 
 
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ Result: {result}
 | **A Jones** | 5 | 1 | 11 | 4 | 
 | **D Newman** | 1 | 1 | 0 | 0 | 
 
-### Win/Loss Ratio
+## Win/Loss Ratio
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|

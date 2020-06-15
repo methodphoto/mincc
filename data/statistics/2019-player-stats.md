@@ -1,11 +1,10 @@
 ---
-slug: "/2019-player-stats"
-title: "2019 Player Stats"
+title: "2019 Statistics"
 type: "statistics"
 ---
 # {title}
 
-### 2019 Season Batting (by Runs)
+## 2019 Season Batting (by Runs)
 
 | Player | Inns | No | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- |
@@ -47,7 +46,7 @@ type: "statistics"
 | **Phil Beswick** | 1 | 0 |  | 0|
 
 
-### 2019 Season Batting (by Batting Ave)
+## 2019 Season Batting (by Batting Ave)
 
 | Player | Inns | No | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- |
@@ -130,7 +129,7 @@ type: "statistics"
 | **Christopher Wright** | 44.4 | 2 | 240 | 7 | 34.29 | 38.06 |
 | **Ian Marshall** | 17 | 2 | 77 | 1 | 77 | 102 |
 
-### Career Batting (min 250 Runs)
+## Career Batting (min 250 Runs)
 
 Player	M	Inns	NOs	Runs	Ave
 | Player | M | Inns | NOs | Runs | Ave |
@@ -178,7 +177,7 @@ Player	M	Inns	NOs	Runs	Ave
 | **John Stimpfig** | 29 | 22 | 4 | 262 | 14.56 |
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 
-### Career Batting by Ave (min 250 Runs)
+## Career Batting by Ave (min 250 Runs)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- | :--- |

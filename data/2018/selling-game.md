@@ -13,7 +13,7 @@ Played at Cadman's Meadow on 21/07/2018
 
 The Min won the toss and batted first scoring 188 all out (34 overs)  Selling were bowled out for  133  The Min won by 55 runs
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -31,14 +31,14 @@ The Min won the toss and batted first scoring 188 all out (34 overs)  Selling we
 | **Extras** | | (1nb 1w 3b 0lb 0p) | **5** |
 | **Total** | | ( overs) | **188 all out** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 16 | 56 | 70 | 92 | 92 |  |  |  |  |  |
 | **Batsman** | 2 | 1 | 3 | 4 | 5cvc |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ The Min won the toss and batted first scoring 188 all out (34 overs)  Selling we
 | **R Damaze** | 2 | 0 | 6 | 1 |
 | **Ismail** | 3 3 | 0 | 15 | 1 |
 
-### Selling Innings
+## Selling Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -68,14 +68,14 @@ The Min won the toss and batted first scoring 188 all out (34 overs)  Selling we
 | **Extras** | | (1nb 1w 3b 0lb 0p) | **5** |
 | **Total** | | ( overs) | **188 all out** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 6 | 6 | 18 | 63 | 69 |  |  |  |  |  |
 | **Batsman** | 1 | 3 | 3 | 5 | 7 |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ The Min won the toss and batted first scoring 188 all out (34 overs)  Selling we
 | **Shami** | 2 | 0 | 10 | 0 |
 | **** |  |  |  |  |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

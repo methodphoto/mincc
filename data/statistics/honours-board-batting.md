@@ -1,11 +1,10 @@
 ---
-slug: "/honours-board-batting"
-title: "Honours Board (Batting)"
+title: "Batting Honours Board"
 type: "statistics"
 ---
 # {title}
 
-### Centuries |
+## Centuries |
 
 | Year | Player | Opponent | Score |
 |:--- | :--- | :--- | ---: |
@@ -30,7 +29,7 @@ type: "statistics"
 | 1992 | Stephen Hornsby | v Shepton Beauchamp | 111 |
 | 1988 | Phill Bentley | v Watton-at-Stone | 100* |
 
-### Fifties |
+## Fifties |
 
 | Year | Player | Opponent | Score |
 |:--- | :--- | :--- | ---: |

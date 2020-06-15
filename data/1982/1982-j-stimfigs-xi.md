@@ -15,7 +15,7 @@ The Min scored 183 all out. J Stimfig's XI replied with 184 for 5 wkts.
 
 Result: {result}
 
-### The Min Innings
+## The Min Innings
 
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -33,14 +33,14 @@ Result: {result}
 | **Extras** | | (1b 5lb 3w 2nb) | **11** | 
 | **Total** | | (37.2 overs) | **183 all out** | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 39 | 139 | 145 | 167 | 168 | 168 | 179 | 179 | 179 | 183 |
 | **Batsman** | 2 | 3 | 1 | 5 | 4 | 6 | 8 | 7 | 10 | 9 |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ Result: {result}
 | **King** | 3 | 0 | 26 | 0 |
 | **R Swift** | 8 | 1 | 30 | 3 |
 
-### J Stimfig's Innings
+## J Stimfig's Innings
 
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -68,14 +68,14 @@ Result: {result}
 | **Extras** | | (13b 10lb 2w 0nb) | **25** |
 | **Total** | | (38 overs) | **184 for 5 wkts** | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 3 | 33 | 63| | | | | | | |
 | **Batsman** | 2 | 1 | 4 | 5 | 6 | | | | | |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|

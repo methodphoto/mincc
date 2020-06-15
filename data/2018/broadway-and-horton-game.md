@@ -15,7 +15,7 @@ Broadway & Horton won the toss and batted first making 184 all out in 39 2 overs
 
 S Barrowcliff 50 off 68 balls
 
-### Broadway & Horton Innings
+## Broadway & Horton Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -33,14 +33,14 @@ S Barrowcliff 50 off 68 balls
 | **Extras** | | (0nb 2w 1b 3lb 0p) | **6** |
 | **Total** | | (39 2 overs overs) | **184 all out** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 15 | 43 |  |  |  |  |  |  |  |  |
 | **Batsman** | 1 | 2 |  |  |  |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ S Barrowcliff 50 off 68 balls
 | **I Watkins** | 4 | 0 | 36 | 1 |
 | **J Smith** | 6 | 1 | 26 | 2 |
 
-###  Innings
+##  Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -70,14 +70,14 @@ S Barrowcliff 50 off 68 balls
 | **Extras** | | (0nb 2w 1b 3lb 0p) | **6** |
 | **Total** | | (39 2 overs overs) | **184 all out** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 17 | 95 | 113 | 121 | 156 | 180 |  |  |  |  |
 | **Batsman** | 1 | 3 | 4 | 5 | 6 | 7 |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ S Barrowcliff 50 off 68 balls
 | **R Earney** | 1 2 | 1 | 0 | 2 |
 | **** |  |  |  |  |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

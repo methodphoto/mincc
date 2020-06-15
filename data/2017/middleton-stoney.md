@@ -15,7 +15,7 @@ Middleton Stoney won the toss and batted first. They were all out for 223. The M
 
 R.Simpson 100 off 46 balls
 
-### Middleton Stoney Innings
+## Middleton Stoney Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -34,14 +34,14 @@ R.Simpson 100 off 46 balls
 | **Total** | | ((33.5 overs) overs) | **223 all out** |
 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 127 | 145 | 152 | 198 | 211 | 221 | 221 | 222 | 222 | 223 |
 | **Batsman** | 2 | 1 | 3 | 4 | 6 | 7 | 8 | 9 | 5 | 10 |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ R.Simpson 100 off 46 balls
 | **R Simpson** | 4.3 | 1 | 11 | 2 |
 | **T House** | 3 | 0 | 15 | 2 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -71,14 +71,14 @@ R.Simpson 100 off 46 balls
 | **Extras** | | (1b,1lb,1w,0nb,0p) | **3** |
 | **Total** | | ((33.5 overs) overs) | **223 all out** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 32 | 43 | 51 | 72 | 100 | 105 | 126 | 158 | 171 | 180 |
 | **Batsman** | 1 | 3 | 2 | 5 | 4 | 6 | 8 | 8 | 10 | 7 |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ R.Simpson 100 off 46 balls
 | **J Wright** | 4 | 0 | 11 | 4 |
 | **** |  |  |  |  |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

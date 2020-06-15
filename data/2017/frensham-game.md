@@ -13,7 +13,7 @@ Played at Frensham on 04 06 2017
 
 The Min won the toss and inserted Frensham, who made 198-7  The Min replied with 199-3, so won by 7 wkts
 
-### Frensham Innings
+## Frensham Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -31,14 +31,14 @@ The Min won the toss and inserted Frensham, who made 198-7  The Min replied with
 | **Extras** | | (10b 6lb 5w 0nb 0p) | **21** |
 | **Total** | | (37 overs) | **198 for 7 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 4 | 45 | 45 | 123 | 177 | 183 | 187 |  |  |  |
 | **Batsman** | 1 | 2 | 4 | 3 | 6 | 7 | 5 |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ The Min won the toss and inserted Frensham, who made 198-7  The Min replied with
 | **D Smith** | 2 | 0 | 15 | 1 |
 | **** |  |  |  |  |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -68,14 +68,14 @@ The Min won the toss and inserted Frensham, who made 198-7  The Min replied with
 | **Extras** | | (10b 6lb 5w 0nb 0p) | **21** |
 | **Total** | | (37 overs) | **198 for 7 wkts** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 8 | 77 | 178 |  |  |  |  |  |  |  |
 | **Batsman** | 2 | 1 | 3 |  |  |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ The Min won the toss and inserted Frensham, who made 198-7  The Min replied with
 | **** |  |  |  |  |
 | **** |  |  |  |  |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|

@@ -15,7 +15,7 @@ Bathurst Arms batted first scoring 85 all out. The Min replied with 89 for 6 wkt
 
 Result: {result}
  
-### Lobsters Innings
+## Lobsters Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -33,7 +33,7 @@ Result: {result}
 | **Extras** | | (1b 10lb 0w 2nb) | 13 | 
 | **Total** | | (19.1 overs) | 85 all out | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -41,7 +41,7 @@ Result: {result}
 | **Batsman** | 1 | 2 | | | | | | | 10 | 11 | 
 
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ Result: {result}
 | **A Gallagher** | 1 | 0 | 7 | 0 |
 | **J Booth** | 0.1 | 0 | 0 | 1 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
@@ -74,7 +74,7 @@ Result: {result}
 | **Extras** | | (0b 0lb 1w 0nb) | 1 | 
 | **Total** | | (12.1 overs) | 89 for 6 wkts | 
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -82,7 +82,7 @@ Result: {result}
 | **Batsman** | 2 | 3 | 4 | 5 | 6 | | | | | | 
 
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ Result: {result}
 | **T Calvert** | 1 | 0 | 2 | 1 | 
 | **Preston** | 0.1 | 0 | 4 | 0 | 
 
-### Win/Loss Ratio
+## Win/Loss Ratio
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|

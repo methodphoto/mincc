@@ -13,7 +13,7 @@ Played at Newdigate on 30/09/2018
 
 In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs  The Min replied with 196
 
-### Stoke D'Abernon CC Innings
+## Stoke D'Abernon CC Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -31,14 +31,14 @@ In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs  
 | **Extras** | | (0nb 3w 2b 1lb 0p) | **6** |
 | **Total** | | ((35 overs) overs) | **251 6** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 8 | 165 | 165 | 211 | 211 | 212 |  |  |  |  |
 | **Batsman** | 1 | 2 | 3 | 4 | 5 | 6 |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs  
 | **C Finch** | 2 | 0 | 20 | 0 |
 | **S Finch** | 2 | 0 | 9 | 1 |
 
-### The Min Innings
+## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
@@ -68,14 +68,14 @@ In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs  
 | **Extras** | | (0nb 3w 2b 1lb 0p) | **6** |
 | **Total** | | ((35 overs) overs) | **251 6** |
 
-### Fall of Wickets
+## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 0 | 85 | 87 | 124 | 174 | 182 | 184 | 184 | 195 | 196 |
 | **Batsman** | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 10 | 11 |
 
-### Bowling
+## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs  
 | **Parvez** | 6 | 1 | 29 | 1 |
 | **J Wright** | 6 | 0 | 34 | 2 |
 
-### Win/Loss Ratio
+## Season Win/Loss Record
 
 | Win | Loss | Draw |Tie |
 |:---|:---|---|---:|
