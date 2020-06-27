@@ -83,3 +83,9 @@ Result: {result}
 | **A Sylvester** | 16 | 2 | 71 | 3|
 | **J Wright** | 3 | 0 | 31 | 0|
 | **W Calvert** | 4 | 1 | 16 | 1|
+
+### Win/Loss Ratio
+
+| Win | Loss | Draw |Tie |
+|:---|:---|:---|---:|
+| 3 | 1 | 1 | 0 |

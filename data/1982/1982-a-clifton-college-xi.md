@@ -80,8 +80,8 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 | **Kendal-Carpenter** | 2 | 0 | 9 | 0 |
 | **W Robins** | 2 | 0 | 6 | 1 |
 
-## Season Win/Loss Record
+### Win/Loss Ratio
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|
-| 1 | 0 | 1 | 0 |
+| 6 | 3 | 2 | 0 |

@@ -11,9 +11,9 @@ type: "game"
 
 Played at {gameLocation} on {gameDate}
 
-The Min scored 103 for 4wkts
+The Min scored 103 for 4 wkts. Wills Hall were 56 for 7 when time ran out.
 
-Result: {result} | | |
+Result: {result}
 
 ## The Min Innings
 
@@ -88,3 +88,10 @@ Result: {result} | | |
 | | 1 | 0 | 4 | 0 |
 | | 1 | 0 | 7 | 0 |
 | **A Gallagher** | 1 | 0 | 6 | 1 |
+
+
+### Win/Loss Ratio
+
+| Win | Loss | Draw |Tie |
+|:---|:---|:---|---:|
+| 4 | 1 | 1 | 0 |

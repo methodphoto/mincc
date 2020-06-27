@@ -90,3 +90,9 @@ Result: {result}
 | **Devreux** | 2 | 0 | 11 | 0 |
 | **A Hughes** | 4 | 0 | 25 | 0 |
 | **Bain** | 2 | 0 | 17 | 0 |
+
+### Win/Loss Ratio
+
+| Win | Loss | Draw |Tie |
+|:---|:---|:---|---:|
+| 5 | 2 | 1 | 0 |

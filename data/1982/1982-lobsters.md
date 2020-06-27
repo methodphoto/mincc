@@ -93,3 +93,9 @@ Result: {result}
 | **A Scott** | 2 | 0 | 8 | 0 | 
 | **S Scott** | 1 | 0 | 3 | 1 | 
 | **Nuttell** | 0.1 | 0 | 0 | 1 | 
+
+### Win/Loss Ratio
+
+| Win | Loss | Draw |Tie |
+|:---|:---|:---|---:|
+| 5 | 3 | 1 | 0 |

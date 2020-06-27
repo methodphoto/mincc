@@ -66,7 +66,7 @@ Result: {result}
 | **Thornton** | dnb | | 2 | 
 | **Phillipson** | dnb | | 0 | 
 | **Extras** | | (3b 1lb 2w 0nb) | 6 | 
-| **Total** | | (42 overs) | 72 for 6 wets | 
+| **Total** | | (42 overs) | 72 for 6 wkts | 
 
 ## Fall of Wickets
 
@@ -93,4 +93,4 @@ Result: {result}
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|
-| 1 | 0 | 1 | 0 |
+| 1 | 1 | 1 | 0 |

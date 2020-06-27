@@ -17,7 +17,7 @@ type: "statistics"
 | 1995 | R Earney (100) and S Barrowcliff (46) | v Ockley | 154 |
 | 2001 | R Earney (106) and R Beswick (44) | v Wareham | 151 |
 | 2005 | R Earney (89) and M Goff (56) | v Watton-at-Stone | 140 |
-| 1986 | S Watson (69*) and T Purves (66) | v Horningsham | 139 |
+| 1986 | S Watson (69*) and T Purves (66*) | v Horningsham | 139 |
 | 1993 | S Barrowcliff (117) and W Wright (53) | v Old Elthamians | 135 |
 | 2006 | R Earney (80) and R Beswick (51) | v Broadway & Horton | 135 |
 | 2003 | R Beswick (52) and J Grant (82) | v Newdigate | 134 |

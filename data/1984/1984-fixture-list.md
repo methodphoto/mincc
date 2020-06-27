@@ -21,7 +21,7 @@ type: "fixtures"
 ## July
 
 |:---|:---|:---|:---|
-| 1st | 14:00 | [Harrowdene](1984-harrowdene) | [Away]() |
+| 1st | 14:00 | [Harrowdene](1984-harrowdene) | Away |
 | 8th | 14:00 | [Standard Bridge](1984-standard-bridge) | [Away](https://goo.gl/maps/G6cubBmpvEdgcr4aA) |
 | 15th | 14:00 | [Sudbury Court](1984-sudbury-court) | [Away](https://goo.gl/maps/V8bczaHKx4hTtsf96) |
 | 22nd | 14:00 | [Hendon Edgware](1984-hendon-edgware) | [Away](https://goo.gl/maps/GXV5pevaYGgK6Xqj6) |
