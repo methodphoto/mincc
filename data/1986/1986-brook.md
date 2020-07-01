@@ -92,4 +92,4 @@ E Garland: Best bowling
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|
-| 5 | 0 | 1 | 0 |
+| 4 | 1 | 1 | 0 |
