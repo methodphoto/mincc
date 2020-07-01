@@ -2,7 +2,7 @@
 year: "1986"									
 game: "Newdigate"									
 title: "Newdigate v The Min"									
-gameLocation: "Newdigate"									
+gameLocation: "Sellicks Green"									
 gameDate: "10/08/1986"									
 result: "The Min won by 5 wkts"									
 resultType: "Won"									
