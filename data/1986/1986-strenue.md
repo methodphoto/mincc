@@ -30,7 +30,7 @@ Result: {result}
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  | 
-| **Extras** | | (10b 1b 3w 1nb) | 15 | 
+| **Extras** | | (10b 1lb 3w 1nb) | 15 | 
 | **Total** | | (36 overs) | 186 for 2 wkts | 
 
 ## Fall of Wickets

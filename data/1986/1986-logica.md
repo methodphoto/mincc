@@ -30,7 +30,7 @@ Result: {result}
 | **A Cocks** | b | J Wright | 3 | 
 | **A Sham** | c R Olver | T Purves | 11 | 
 | **D Fieldhouse** | c & b | T Purves | 1 | 
-| **Extras** | | (2b 1b 8w 2nb) | 14 | 
+| **Extras** | | (2b 1lb 8w 2nb) | 14 | 
 | **Total** | | (34.1 overs) | 102 for 9 wkts | 
 
 ## Fall of Wickets

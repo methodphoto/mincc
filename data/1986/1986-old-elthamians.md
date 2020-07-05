@@ -30,7 +30,7 @@ Result: {result}
 | **Hart** | run out |  | 2 | 
 | **M Wright** | not out |  | 1 | 
 | **P Magstone** | dnb |  |  |
-| **Extras** | | (1b 5b 0w 0nb) | 6 | 
+| **Extras** | | (1b 5lb 0w 0nb) | 6 | 
 | **Total** | | (43 overs) | 200 for 7 wkts | 
 
 ## Fall of Wickets

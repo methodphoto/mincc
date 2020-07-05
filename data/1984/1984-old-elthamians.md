@@ -31,7 +31,7 @@ Result: {result}
 | **A Ford**  | not out |  | 16 |
 | **K Gilmour**  | b | R Beswick | 0 |
 |  |  |  |  |
-| **Extras** | | (3b 0b 2w 0nb) | 15 | 
+| **Extras** | | (3b 0lb 2w 0nb) | 15 | 
 | **Total** | | (34.1 overs) | 157 for 9 wkts | 
 
 ## Fall of Wickets

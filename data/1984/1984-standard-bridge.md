@@ -68,7 +68,7 @@ Result: {result}
 | **Butcher** | dnb | | | 
 | **H Lubienski** | dnb | | | 
 | | | | | 
-| **Extras** | | (6b 10b 4w 0nb) | 20 | 
+| **Extras** | | (6b 10lb 4w 0nb) | 20 | 
 | **Total** | | (23.1 overs) | 106 for 4 wkts | 
 
 ## Fall of Wickets

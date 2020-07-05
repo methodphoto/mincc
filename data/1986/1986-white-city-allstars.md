@@ -30,7 +30,7 @@ Result: {result}
 | **A Beard** | c & b | J Wright | 2 | 
 | **John** | not out |  | 8 | 
 | **Luke** | c | J Wright | 4 | 
-| **Extras** | | (1b 0b 1w 0nb) | 2 | 
+| **Extras** | | (1b 0lb 1w 0nb) | 2 | 
 | **Total** | | (20.5 overs) | 161 all out | 
 
 ## Fall of Wickets

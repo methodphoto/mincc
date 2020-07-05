@@ -40,7 +40,7 @@ type: "statistics"
 | 2016 | R Earney (88) and M Gupta (33) | v Reigate Pilgrims | 108 |
 | 2011 | R Beswick (60) and D Pathak (52) | v SB Exiles | 108 |
 | 2012 | R Earney (89*) and T Rutherford (42) | v Newington | 108 |
-| 1985 | A Gallagher (85) and J Grant (31) | v The Artioans | 108 |
+| 1985 | A Gallagher (85) and J Grant (31) | v The Artisans | 108 |
 | 2012 | R Earney (89*) and Tom Rutherford (42) | v Newington | 108 |
 | 2011 | R Beswick (79) and A Slight (46) | v Broadway & Horton | 107 |
 | 1985 | J Grant (73) and A Fielding (58) | v Koh-i-noor | 106 |

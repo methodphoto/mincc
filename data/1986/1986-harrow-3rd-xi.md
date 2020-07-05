@@ -67,7 +67,7 @@ Result: {result}
 | **Healy** | b | A Gallagher | 0 | 
 | **Bunyan** | not out |  | 10 | 
 | **O'Sullivan** | not out | | 0 | 
-| **Extras** | | (11b 4b 4w 0nb) | 19 | 
+| **Extras** | | (11b 4lb 4w 0nb) | 19 | 
 | **Total** | | (41 overs) | 143 for 9 wkts | 
 
 ## Fall of Wickets

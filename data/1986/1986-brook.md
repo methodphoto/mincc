@@ -32,7 +32,7 @@ E Garland: Best bowling
 | **Saunders** | c | E Garland | 0 | 
 | **Bennett** | c | E Garland | 0 | 
 | **Williams** | not out | | 9 | 
-| **Extras** | | (2b 9b 1w 1nb) | 13 | 
+| **Extras** | | (2b 9lb 1w 1nb) | 13 | 
 | **Total** | | (42.3 overs) | 123 all out | 
 
 ## Fall of Wickets

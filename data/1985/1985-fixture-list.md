@@ -35,12 +35,12 @@ type: "fixtures"
 ## August
 
 |:---|:---|:---|
-| 18th | [Old Wilsonians](1985-old-wilsonians) | Away |
+| 18th | [Old Wilsonians](1985-old-wilsonians) | [Away](https://goo.gl/maps/n8uSTWABtMzXyRX99) |
 | 25th | [Ealonians](1985-ealonians) | [Away](https://goo.gl/maps/PsUYWdT94Y2EWxa16) |
 
 ## September
 
 |:---|:---|:---|
 | 1st | [Old Elthamians](1985-old-elthamians) | [Away](https://goo.gl/maps/FQbBNZQTFggEmhfv9) |
-| 8th | [Alex Beard’s XI](1985-alex-beards-xi) | Away |
+| 8th | [Alex Beard’s XI](1985-alex-beards-xi) | [Away](https://goo.gl/maps/z2x9Nt1CgpkdxRWN7) |
 | 15th | [Hendon Edgware](1985-hendon-edgware) | [Away](https://goo.gl/maps/GXV5pevaYGgK6Xqj6) |

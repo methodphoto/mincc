@@ -65,7 +65,7 @@ Result: {result}
 | **Liffen** | c & b | J Wright | 4 | 
 | **Benning-Syngh** | c M Kirwan | W Calvert | 0 | 
 | **Gibbs** | b | W Calvert | 1 | 
-| **Extras** | | (8b 1b 4w 0nb) | 13 | 
+| **Extras** | | (8b 1lb 4w 0nb) | 13 | 
 | **Total** | | (41.3 overs) | 115 all out | 
 
 ## Fall of Wickets

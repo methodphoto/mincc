@@ -30,7 +30,7 @@ Result: {result}
 | **M Hillman** | b | E Harcourt | 8 | 
 | **K Handleigh** | c D Young | A Gallagher | 13 | 
 | **M James** | not out | | 1 | 
-| **Extras** | | (11b 1b 4w 2nb) | 18 | 
+| **Extras** | | (11b 1lb 4w 2nb) | 18 | 
 | **Total** | | (20.5 overs) | 62 all out | 
 
 ## Fall of Wickets

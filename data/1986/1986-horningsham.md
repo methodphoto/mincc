@@ -65,7 +65,7 @@ Result: {result}
 | **M Trollope** | st S Watson | T Purves | 4 | 
 | **K Dix** | run out |  | 13 | 
 | **P Lovett** | not out | | 0 | 
-| **Extras** | | (0b 0b 5w 0nb) | 5 | 
+| **Extras** | | (0b 0lb 5w 0nb) | 5 | 
 | **Total** | | (36.4 overs) | 192 for 9 wkts | 
 
 ## Fall of Wickets

@@ -30,7 +30,7 @@ Result: {result}
 | **Spelis** | b | M Kirwan | 8 | 
 | **Yoxall** | not out |  | 1 | 
 | **Ashad** | b | R Beswick | 0 | 
-| **Extras** | | (5b 2b 3w 1nb) | 11 | 
+| **Extras** | | (5b 2lb 3w 1nb) | 11 | 
 | **Total** | | (38.3 overs) | 153 all out | 
 
 ## Fall of Wickets

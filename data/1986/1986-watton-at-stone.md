@@ -30,7 +30,7 @@ Result: {result}
 | **Bunyan** | dnb |  |  | 
 | **Burnell** | dnb |  |  | 
 | **R Clayton** | dnb |  |  |
-| **Extras** | | (6b 2b 0w 4nb) | 12 | 
+| **Extras** | | (6b 2lb 0w 4nb) | 12 | 
 | **Total** | | (38 overs) | 237 for 5 wkts | 
 
 ## Fall of Wickets

@@ -4,14 +4,14 @@ game: "West Green"
 title: "West Green v The Min"									
 gameLocation: "Wood Green"									
 gameDate: "05/05/1985"									
-result: ""									
-resultType: ""									
+result: "West Green won by 41 runs"									
+resultType: "Lost"									
 type: "game"									
 ---
 
 Played at {gameLocation} on {gameDate} 
 
-Hendon-Edgware batted first and were bowled out for 62. The Min replied with 63 for 2 wkts.
+West Green batted first and scored 130 for 6 wkts. The Min were bowled out for 89.
 
 Result: {result}
  
@@ -30,7 +30,7 @@ Result: {result}
 | **M Harvey** | not out |  | 0 | 
 | **Doeh** | dnb |  |  | 
 | **Gordon** | dnb |  |  | 
-| **Extras** | | (0b 0b 0w 0nb) | 16 | 
+| **Extras** | | (0b 0lb 0w 0nb) | 16 | 
 | **Total** | | (45 overs) | 130 for 6 wkts | 
 
 ## Fall of Wickets
@@ -45,55 +45,49 @@ Result: {result}
 
 | | O | M | R | W |
 |---|---|---|---|---|
-| **R Beswick** | 3 | 0 | 7 | 3 | 
-| **W Calvert** | 3 | 1 | 10 | 2 | 
-| **J Wright** | 3 | 2 | 2 | 0 | 
-| **T Purves** | 3 | 2 | 5 | 0 | 
-| **M Gardiner** | 1.5 | 1 | 0 | 2 |
-| **E Harcourt** | 3 | 1 | 12 | 1 | 
-| **J Wright** | 3 | 2 | 6 | 2 | 
-| **D Newman** | 1 | 0 | 3 | 0 | 
+| **R Beswick** | 6 | 3 | 16 | 0 | 
+| **W Calvert** | 11 | 1 | 26 | 1 | 
+| **J Wright** | 14 | 0 | 30 | 0 | 
+| **T Purves** | 9 | 3 | 21 | 3 | 
+| **M Gardiner** | 3 | 0 | 21 | 1 |
+| **R Scotts** | 2 | 0 | 11 | 0 | 
 
 ## The Min Innings
 
 | Batsman | Dismissal | Runs |
 |:---|:---|---|---:|
-| **D Gallagher** | c R French | B Newton | 10 | 
-| **N Hoare** | run out |  | 4 | 
-| **D Young** | not out |  | 22 | 
-| **W Calvert** | not out |  | 20 | 
-| **R Beswick &#42;** | dnb  |  |  | 
-| **D Newman** | dnb | |  | 
-| **N Hoare** | dnb |  |  | 
-| **A Gallagher** | dnb | |  | 
-| **E Harcourt** | dnb |  |  | 
-| **J Wright** | dnb | |  | 
-| **A Sylvester** | dnb | |  | 
-| **Extras** | | (2b 3lb 0w 2nb) | 7 | 
-| **Total** | | (27.3 overs) | 63 for 2 wkts | 
+| **A Gallagher** | c & b | Gordon | 8 | 
+| **T Purves** | c Stephens | Khursheed | 14 | 
+| **D Young** | b | Gordon | 10 | 
+| **D Mundy** | b | Khursheed | 0 | 
+| **R Scotts** | b  | M Harvey | 5 | 
+| **R Beswick &#42;** | c P Harvey | M Harvey | 15 | 
+| **W Calvert** | b | Fernando | 15 | 
+| **D Newman** | lbw | M Harvey | 6 | 
+| **M Gardiner** | not out |  | 6 | 
+| **J Grant &#8224;** | lbw | M Harvey | 0 | 
+| **J Wright** | b | M Harvey | 5 | 
+| **Extras** | | (1b 1lb 2w 0nb) | 4 | 
+| **Total** | | (27.3 overs) | 89 all out | 
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Score** | 12 | 34 |  |  |  |  |  |  | | | 
-| **Batsman** | 2 | 1 |  |  |  |  |  |  |  | | 
+| **Score** | 19 | 33 | 33 | 33 | 53 | 54 | 77 | 81 | 87 | 82 | 
+| **Batsman** | 1 | 2 | 3 | 4 | 6 | 5 | 8 | 7 | 1 | 10 | 
 
 ## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
-| **J French** | 2 | 1 | 4 | 0 | 
-| **R Norris** | 2 | 1 | 8 | 0 | 
-| **D Jones** | 2 | 0 | 10 | 0 | 
-| **B Newton** | 2 | 1 | 8 | 1 | 
-| **M Hillman** | 2 | 0 | 9 | 0 |
-| **P Mitchinson** | 2 | 0 | 19 | 0 |
-| **M James** | 0.3 | 0 | 0 | 0 |
-
+| **Gordon** | 13 | 6 | 26 | 2 | 
+| **Khursheed** | 9 | 4 | 25 | 2 | 
+| **M Harvey** | 8 | 1 | 17 | 5 | 
+| **Fernando** | 4 | 0 | 17 | 1 | 
 
 ## Win/Loss Ratio
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|
-| 4 | 2 | 2 | 0 |West 
+| 0 | 2 | 0 | 0 |

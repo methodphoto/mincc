@@ -30,7 +30,7 @@ Result: {result}
 | **B Falconer** | not out |  | 15 | 
 | **M Killick** | b | W Wright | 0 | 
 | **A Perry** | run out | | 9 | 
-| **Extras** | | (4b 7b 8w 0nb) | 8 | 
+| **Extras** | | (4b 7lb 8w 0nb) | 8 | 
 | **Total** | | (40 overs) | 170 all out | 
 
 ## Fall of Wickets

@@ -2,7 +2,7 @@
 year: "1986"									
 game: "Petts Wood"									
 title: "Petts Wood CC v The Min"									
-gameLocation: "Petts Wood"									
+gameLocation: "Willett Recreation Ground"									
 gameDate: "26/04/1986"									
 result: "Match Drawn"									
 resultType: "Drawn"									

@@ -30,7 +30,7 @@ Result: {result}
 | **Clarkes** | c J Grant | J Wright | 13| 
 | **N Marshall** | c P Clothier | J Wright | 5 | 
 | **N Marshall** | not out | | 8 | 
-| **Extras** | | (1b 0b 1w 0nb) | 2 | 
+| **Extras** | | (1b 0lb 1w 0nb) | 2 | 
 | **Total** | | (35.2 overs) | 85 all out | 
 
 ## Fall of Wickets

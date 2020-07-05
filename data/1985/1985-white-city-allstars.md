@@ -30,7 +30,7 @@ Result: {result}
 | **C Still** | st J Grant | M Gardiner | 2 | 
 | **R Horlick** | c M Kirwan | J Wright | 1 | 
 | **H Corbett** | not out | | 2 | 
-| **Extras** | | (1b 3b 1w 0nb) | 5 | 
+| **Extras** | | (1b 3lb 1w 0nb) | 5 | 
 | **Total** | | (29 overs) | 163 for 9 wkts | 
 
 ## Fall of Wickets

@@ -32,7 +32,7 @@ Andrew Gallagher and Phill Goult: 100 partnership
 | **Jarvis** | not out |  | 15 | 
 | **S Wright** | b | W Wright | 0 | 
 | **Jobson** | run out | | 9 | 
-| **Extras** | | (4b 7b 8w 0nb) | 19 | 
+| **Extras** | | (4b 7lb 8w 0nb) | 19 | 
 | **Total** | | (39.5 overs) | 162 all out | 
 
 ## Fall of Wickets

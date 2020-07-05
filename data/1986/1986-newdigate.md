@@ -30,7 +30,7 @@ Result: {result}
 | **A Levinson** | not out |  | 17 | 
 | **Greenwell** | b | J Wright | 0 | 
 | **Brooks** | b | J Wright | 0 | 
-| **Extras** | | (1b 0b 3w 1nb) | 5 | 
+| **Extras** | | (1b 0lb 3w 1nb) | 5 | 
 | **Total** | | (30.5 overs) | 54 all out | 
 
 ## Fall of Wickets
