@@ -1,0 +1,10 @@
+---
+year: "1990"									
+game: "Brook"									
+title: "Brook v The Min"									
+gameLocation: "The Pirrie Hall Recreation Ground"									
+gameDate: "/1990"									
+result: ""									
+resultType: ""									
+type: "game"									
+---
