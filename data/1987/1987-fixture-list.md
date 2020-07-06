@@ -4,4 +4,18 @@ type: "fixtures"
 ---
 
 # 1987 Fixtures
- 1987-crocodiles.md 1987-old-elthamians.md 1987-little-kingshill.md 1987-rhinos.md 1987-horningsham.md 1987-godstone.md 1987-valley-end.md 1987-lobsters.md 1987-friars-oak.md 1987-newdigate.md 1987-oracle.md 1987-bose-wanderers.md 1987-stowting.md 1987-flying-wickets.md
+
+| {Date} | [Crocdiles](1987-crocodiles.md) | [Away]() |
+| {Date} | [Old Elthamians](1987-old-elthamians.md) | [Away]() |
+| {Date} | [Little Kingshill](1987-little-kingshill.md) | [Away]() |
+| {Date} | [Rhinos](1987-rhinos.md) | [Away]() |
+| {Date} | [Horningsham](1987-horningsham.md) | [Away]() |
+| {Date} | [Godstone](1987-godstone.md) | [Away]() |
+| {Date} | [Valley End](1987-valley-end.md) | [Away]() |
+| {Date} | [Lobsters](1987-lobsters.md) | [Away]() |
+| {Date} | [Friar's Oak](1987-friars-oak.md) | [Away]() |
+| {Date} | [Newdigate](1987-newdigate.md) | [Away]() |
+| {Date} | [Oracle](1987-oracle.md) | [Away]() |
+| {Date} | [Bose Wanderers](1987-bose-wanderers.md) | [Away]() |
+| {Date} | [Stowting](1987-stowting.md) | [Away]() |
+| {Date} | [Flying Wickets](1987-flying-wickets.md) | [Away]() |

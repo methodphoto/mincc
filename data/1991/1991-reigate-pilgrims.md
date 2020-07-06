@@ -1,9 +1,9 @@
 ---
-year: "1992"									
+year: "1991"									
 game: "Reigate Pilgrims"									
 title: "Reigate Pilgrims v The Min"									
-gameLocation: "The Red Lion, Betchworth"									
-gameDate: "/1992"									
+gameLocation: "The Red Lion Betchworth"									
+gameDate: "1991"									
 result: ""									
 resultType: ""									
 type: "game"									

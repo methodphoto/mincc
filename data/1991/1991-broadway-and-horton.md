@@ -1,9 +1,9 @@
 ---
-year: "1992"									
+year: "1991"									
 game: "Broadway & Horton"									
 title: "Broadway & Horton v The Min"									
 gameLocation: "Horton Cross"									
-gameDate: "/1992"									
+gameDate: "1991"									
 result: ""									
 resultType: ""									
 type: "game"									

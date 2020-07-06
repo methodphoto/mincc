@@ -1,9 +1,9 @@
 ---
-year: "1992"									
+year: "1991"									
 game: "Antilles"									
 title: "Antilles v The Min"									
 gameLocation: "Canon's Park"									
-gameDate: "/1992"									
+gameDate: "1991"									
 result: ""									
 resultType: ""									
 type: "game"									

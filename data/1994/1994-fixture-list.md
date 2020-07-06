@@ -13,7 +13,7 @@ type: "fixtures"
 ## July
 
 | 3rd | 14:00 | [Old Elthamians](1994-old-elthamians.md) | [Away]() |
-| 17th | 14:00 | [Polytechnic III](1994-polytechnic-iii) |Home |
+| 17th | 14:00 | [Polytechnic III](1994-polytechnic-iii.md) |Home |
 
 ## The Min Tour 1994 – July
 
@@ -29,5 +29,5 @@ type: "fixtures"
 ## September
 
 | 4th | 14:00 | [Valley End](1994-valley-end.md) | [Away]() |
-| 11th | 13:30 | [Reigate Pilgrims](1994-reigate=pilgrims.md) | [Away]() |
+| 11th | 13:30 | [Reigate Pilgrims](1994-reigate-pilgrims.md) | [Away]() |
 | 18th | 13:30 | [Watton-at-Stone](1994-watton-at-stone.md) | [Away]() |

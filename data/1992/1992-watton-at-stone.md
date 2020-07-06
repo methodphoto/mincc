@@ -1,8 +1,8 @@
 ---
 year: "1992"									
-game: "Checkendon"									
-title: "Checkendon v The Min"									
-gameLocation: "Checkendon"									
+game: "Watton-at-Stone"									
+title: "Watton-at-Stone v The Min"									
+gameLocation: "The Meadow"									
 gameDate: "/1992"									
 result: ""									
 resultType: ""									
