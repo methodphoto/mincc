@@ -17,7 +17,7 @@ type: "statistics"
 | 1995 | R Earney (100) and S Barrowcliff (46) | v Ockley | 154 |
 | 2001 | R Earney (106) and R Beswick (44) | v Wareham | 151 |
 | 2005 | R Earney (89) and M Goff (56) | v Watton-at-Stone | 140 |
-| 1986 | S Watson (69*) and T Purves (66) | v Horningsham | 139 |
+| 1986 | S Watson (69*) and T Purves (66*) | v Horningsham | 139 |
 | 1993 | S Barrowcliff (117) and W Wright (53) | v Old Elthamians | 135 |
 | 2006 | R Earney (80) and R Beswick (51) | v Broadway & Horton | 135 |
 | 2003 | R Beswick (52) and J Grant (82) | v Newdigate | 134 |
@@ -40,7 +40,7 @@ type: "statistics"
 | 2016 | R Earney (88) and M Gupta (33) | v Reigate Pilgrims | 108 |
 | 2011 | R Beswick (60) and D Pathak (52) | v SB Exiles | 108 |
 | 2012 | R Earney (89*) and T Rutherford (42) | v Newington | 108 |
-| 1985 | A Gallagher (85) and J Grant (31) | v The Artioans | 108 |
+| 1985 | A Gallagher (85) and J Grant (31) | v The Artisans | 108 |
 | 2012 | R Earney (89*) and Tom Rutherford (42) | v Newington | 108 |
 | 2011 | R Beswick (79) and A Slight (46) | v Broadway & Horton | 107 |
 | 1985 | J Grant (73) and A Fielding (58) | v Koh-i-noor | 106 |

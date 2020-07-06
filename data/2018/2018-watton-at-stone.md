@@ -1,18 +1,17 @@
 ---
-slug: "& Slug &"
-year:"& Year &"
-game: "& Title &"
-title: "& Game &"
-gameLocation: "& Place & "
-gameDate: "& Date & "
-result: "&  Result & "
+year:"2018"
+game: "Watton-at-Stone"
+title: "Watton-at-Stone v The Min"
+gameLocation: "The Meadow"
+gameDate: "24/06/2018"
+result: "Watton won by 127 runs"
+resultType: "Lost"
 type: "game"
 ---
 
-Played at The Meadow on 24/06/2018
+Played at {gameLocation} on {gameDate} 
 
-The Min won the toss and inserted Watton who made a rather large 295-3 in 40 overs  The Min were all out for 168 (including 3 run outs) 
-Watton won by 127 runs
+The Min won the toss and inserted Watton who made a rather large 295-3 in 40 overs. The Min were all out for 168 (including 3 run outs) 
 
 ## Watton-at-Stone Innings
 
@@ -30,7 +29,7 @@ Watton won by 127 runs
 | **S Vincent** | did not bat |  |  |
 | **** |  |  |  |
 | **Extras** | | (12w 12b 4lb 1nb  0p) | **29** |
-| **Total** | | (40 overs overs) | **295  for 3 wkts** |
+| **Total** | | (40 overs) | **295  for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -67,7 +66,7 @@ Watton won by 127 runs
 | **Johnstone** | b  | S Vincent | 0 |
 | **J Wright** | not out |  | 0 |
 | **Extras** | | (12w 12b 4lb 1nb  0p) | **29** |
-| **Total** | | (40 overs overs) | **295  for 3 wkts** |
+| **Total** | | (40 overs) | **295  for 3 wkts** |
 
 ## Fall of Wickets
 

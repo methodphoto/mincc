@@ -1,17 +1,17 @@
 ---
-slug: "& Slug &"
-year:"& Year &"
-game: "& Title &"
-title: "& Game &"
-gameLocation: "& Place & "
-gameDate: "& Date & "
-result: "&  Result & "
+year:"2018"
+game: "Broadway & Horton"
+title: "Broadway & Horton v The Min"
+gameLocation: "Horton Cross"
+gameDate: "06/07/2018"
+result: "The Min won by 4 wkts"
+resultType: "Lost"
 type: "game"
 ---
 
-Played at Horton Cross on 06/06/2018
+Played at {gameLocation} on {gameDate} 
 
-Broadway & Horton won the toss and batted first making 184 all out in 39 2 overs  The Min replied with 185 for 6 in 36 2 overs, so won by 4 wkts 
+Broadway & Horton won the toss and batted first making 184 all out in 39.2 overs. The Min replied with 185 for 6 in 36.2 overs 
 
 S Barrowcliff 50 off 68 balls
 
@@ -31,7 +31,7 @@ S Barrowcliff 50 off 68 balls
 | **T Baigent** | c; | b R Earney | 50 |
 | **** |  |  |  |
 | **Extras** | | (0nb 2w 1b 3lb 0p) | **6** |
-| **Total** | | (39 2 overs overs) | **184 all out** |
+| **Total** | | (39 2 overs) | **184 all out** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ S Barrowcliff 50 off 68 balls
 | **J Purefoy** | did not bat |  |  |
 | **** |  |  |  |
 | **Extras** | | (0nb 2w 1b 3lb 0p) | **6** |
-| **Total** | | (39 2 overs overs) | **184 all out** |
+| **Total** | | (39.2 overs) | **185 for 6** |
 
 ## Fall of Wickets
 

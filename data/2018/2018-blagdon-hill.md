@@ -1,17 +1,17 @@
 ---
-slug: "& Slug &"
-year:"& Year &"
-game: "& Title &"
-title: "& Game &"
-gameLocation: "& Place & "
-gameDate: "& Date & "
-result: "&  Result & "
+year:"2018"
+game: "Blagdon Hill"
+title: "Blagdon Hill v The Min"
+gameLocation: "Blagdon Hill"
+gameDate: "05/07/2018"
+result: "Blagdon Hill won by 5 wkts"
+resultType: "Lost"
 type: "game"
 ---
 
-Played at Blagdon Hill on 05/07/2018
+Played at {gameLocation} on {gameDate} 
 
-The Min won the toss and batted first but only made 139-8 in their 40 overs  Blagdon Hill knocked off the runs in 26 overs and made 145-5
+The Min won the toss and batted first but only made 139-8 in their 40 overs  Blagdon Hill knocked off the runs in 26 overs and made 145 for 5 wkts
 
 ## The Min Innings
 
@@ -48,7 +48,6 @@ The Min won the toss and batted first but only made 139-8 in their 40 overs  Bla
 | **R Beswick** | 4 | 0 | 33 | 0 |
 | **J Wright** | 2 | 0 | 22 | 0 |
 | **S Noble** | 1 | 0 | 4 | 1 |
-| **** |  |  |  |  |
 
 ## Blagdon Hill Innings
 
@@ -66,7 +65,7 @@ The Min won the toss and batted first but only made 139-8 in their 40 overs  Bla
 | **A Davidson** | did not bat |  |  |
 | **D Wright** | did not bat |  |  |
 | **Extras** | | (0nb 18w 3b 0lb 0p) | **21** |
-| **Total** | | (40 overs) | **139 for 8 wkts** |
+| **Total** | | (40 overs) | **145 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -85,7 +84,6 @@ The Min won the toss and batted first but only made 139-8 in their 40 overs  Bla
 | **A Hotham** | 4 | 2 | 9 | 0 |
 | **D Wright** | 8 | 1 | 27 | 3 |
 | **A Davidson** | 5 | 0 | 15 | 1 |
-| **** |  |  |  |  |
 
 ## Season Win/Loss Record
 

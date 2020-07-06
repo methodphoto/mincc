@@ -85,3 +85,9 @@ Result: {result}
 | **R Coster** | 17.5 | 7| 30 | 6 |
 | **F Rowe** | 14 | 4| 34 | 3 |
 | **E Pratchett** | 3 | 1| 8 | 1 |
+
+### Win/Loss Ratio
+
+| Win | Loss | Draw |Tie |
+|:---|:---|:---|---:|
+| 3 | 2 | 1 | 0 |

@@ -32,7 +32,7 @@ Result: {result}
 | **J Grant &#8224;** | dnb | | | 
 | **S Horner** | dnb |  | | 
 | **G Powers** | dnb | |  | 
-| **Extras** | | (7b 2b 8w 0nb) | 17 | 
+| **Extras** | | (7b 2lb 8w 0nb) | 17 | 
 | **Total** | | (40.5 overs) | 192 for 6 wkts | 
 
 ## Fall of Wickets
@@ -95,4 +95,4 @@ Result: {result}
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|
-| 1 | 0 | 1 | 0 |
+| 1 | 1 | 0 | 0 |

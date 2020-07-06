@@ -86,3 +86,9 @@ J Booth and D Mundy: partnership of 100
 | **J Wright** | 10 | 1 | 35 | 2 |
 | **W Calvert** | 7 | 1 | 20 | 4 |
 | **M Gardiner** | 3 | 1 | 4 | 0 |
+
+### Win/Loss Ratio
+
+| Win | Loss | Draw |Tie |
+|:---|:---|:---|---:|
+| 3 | 0 | 1 | 0 |

@@ -70,6 +70,13 @@ Ken Sullivan - Best Bowling by The Min
 | **Extras** | | (5b 0lb 0w 0nb) | **5** |
 | **Total** | | (15.1 overs) | **44 for 0 wkts** |
 
+## Fall of Wickets
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **Score** |  |  |  |  |  |  |  |  |  |  |
+| **Batsman** |  |  |  |  |  |  |  |  |  |  |  |
+
 ## Bowling
 
 | | O | M | R | W |

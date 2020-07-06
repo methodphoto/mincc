@@ -1,5 +1,4 @@
 ---
-slug: "/2014/"
 year: "2014"
 type: "fixtures"
 ---

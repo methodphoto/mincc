@@ -5,7 +5,6 @@ type: "fixtures"
 
 # 2003 Fixtures
 
-
 ## May
 
 | 11th | 14:30 | [Ockley](ockley) | Away |

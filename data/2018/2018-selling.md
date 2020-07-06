@@ -1,33 +1,33 @@
 ---
-slug: "& Slug &"
-year:"& Year &"
-game: "& Title &"
-title: "& Game &"
-gameLocation: "& Place & "
-gameDate: "& Date & "
-result: "&  Result & "
+year:"2018"
+game: "Selling"
+title: "Selling v The Min"
+gameLocation: "Cadman's Meadow"
+gameDate: "21/07/2018"
+result: "The Min won by 55 runs"
+resultType: "Won"
 type: "game"
 ---
 
-Played at Cadman's Meadow on 21/07/2018
+Played at {gameLocation} on {gameDate} 
 
-The Min won the toss and batted first scoring 188 all out (34 overs)  Selling were bowled out for  133  The Min won by 55 runs
+The Min won the toss and batted first scoring 188 all out (34 overs). Selling were bowled out for 133  
 
 ## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **I Miah** | c; | Beckett | 32 |
+| **I Miah** | c | Beckett | 32 |
 | **Abdul** | b | Myers | 8 |
 | **R Damaze** | c & b | Beckett | 24 |
-| **M Elwin** | c; | Dineth | 12 |
-| **A Beswick** | c; | Beckett | 12 |
+| **M Elwin** | c | Dineth | 12 |
+| **A Beswick** | c | Beckett | 12 |
 | **A Gallagher** | b | Myers | 25 |
-| **Ismail** | c; | Beckett | 50 |
+| **Ismail** | c | Beckett | 50 |
 | **R Beswick** | b  | Myers | 1 |
 | **J Grant** | b | Latham | 4 |
 | **S Amin** | b  | Latham | 15 |
-| **** |  |  |  |
+|  |  |  |  |
 | **Extras** | | (1nb 1w 3b 0lb 0p) | **5** |
 | **Total** | | ( overs) | **188 all out** |
 
@@ -54,8 +54,8 @@ The Min won the toss and batted first scoring 188 all out (34 overs)  Selling we
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **P  de Zoysan** | b  | S Amin | 0 |
-| **M Beatson** | c; b  | R Beswick | 32 |
+| **P  de Zoysan** | b | S Amin | 0 |
+| **M Beatson** | c | R Beswick | 32 |
 | **E Beckett** | b  | S Amin | 0 |
 | **R Ingram** | b Siam | S Amin | 5 |
 | **M Latham** | c & b  | M Elwin | 34 |
@@ -66,7 +66,7 @@ The Min won the toss and batted first scoring 188 all out (34 overs)  Selling we
 | **G Beckett** | not out |  | 12 |
 | **** |  |  |  |
 | **Extras** | | (1nb 1w 3b 0lb 0p) | **5** |
-| **Total** | | ( overs) | **188 all out** |
+| **Total** | | ( overs) | **133 all out** |
 
 ## Fall of Wickets
 
@@ -85,7 +85,6 @@ The Min won the toss and batted first scoring 188 all out (34 overs)  Selling we
 | **Dineth** | 7 | 0 | 52 | 1 |
 | **Latham** | 7 | 2 | 26 | 2 |
 | **Shami** | 2 | 0 | 10 | 0 |
-| **** |  |  |  |  |
 
 ## Season Win/Loss Record
 

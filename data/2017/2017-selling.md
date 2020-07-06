@@ -31,7 +31,7 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 | **D Hamlyn** | did not bat |  |  |
 | **T Carter** | did not bat |  |  |
 | **Extras** | | (2b 5lb 6w 0nb 0p) | **13** |
-| **Total** | | (40 overs overs) | **248 for 6 wkts** |
+| **Total** | | (40 overs) | **248 for 6 wkts** |
 
 ## Fall of Wickets
 
@@ -68,7 +68,7 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 | **J Wright** | b | Strickland | 2 |
 | **** |  |  |  |
 | **Extras** | | (2b 5lb 6w 0nb 0p) | **13** |
-| **Total** | | (40 overs overs) | **248 for 6 wkts** |
+| **Total** | | (40 overs) | **248 for 6 wkts** |
 
 ## Fall of Wickets
 

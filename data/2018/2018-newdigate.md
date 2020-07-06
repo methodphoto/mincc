@@ -1,17 +1,15 @@
 ---
-slug: "& Slug &"
-year:"& Year &"
-game: "& Title &"
-title: "& Game &"
-gameLocation: "& Place & "
-gameDate: "& Date & "
-result: "&  Result & "
+year:"2018"
+game: "Newdigate"
+title: "Newdigate v The Min"
+gameLocation: "Sellicks Green"
+gameDate: "30/09/2018"
+result: "Blagdon Hill won by 5 wkts"
+resultType: "Lost"
 type: "game"
 ---
 
-Played at Newdigate on 30/09/2018
-
-In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs  The Min replied with 196
+In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs. The Min replied with 196
 
 ## Stoke D'Abernon CC Innings
 

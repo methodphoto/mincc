@@ -21,14 +21,14 @@ type: "fixtures"
 ## June
 
 |:---|:---|:---|:---|
-| 21st | TBA | Railway Taverners | [N8 8JJ](https//goo.gl/maps/BuCf1MgUwJTViZ4YA) | 
+| 21st | TBA | <del>Railway Taverners</del> | [N8 8JJ](https//goo.gl/maps/BuCf1MgUwJTViZ4YA) | 
 
 ## July – The Min Tour
 
 |:---|:---|:---|:---|
-| 8th | 1800 | Frensham | [GU10 3BJ](https//goo.gl/maps/xBUZvPU1vnK2) | 
-| 9th | 1400 | Blagdon Hill | [TA3 7SA](https//goo.gl/maps/H6iLZLNcja12) | 
-| 10th | 1400 | Broadway &amp; Horton | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) | 
+| 8th | 1800 | <del>Frensham</del> | [GU10 3BJ](https//goo.gl/maps/xBUZvPU1vnK2) | 
+| 9th | 1400 | <del>Blagdon Hill</del> | [TA3 7SA](https//goo.gl/maps/H6iLZLNcja12) | 
+| 10th | 1400 | <del>Broadway & Horton</del> | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) | 
 
 ## July
 

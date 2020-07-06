@@ -5,8 +5,6 @@ type: "fixtures"
 
 # 2001 Fixtures
 
-
-
 ## May
 
 | 13th | 14:00 | [Long Ditton](long ditton) | Away |

@@ -1,17 +1,17 @@
 ---
-slug: "& Slug &"
-year:"& Year &"
-game: "& Title &"
-title: "& Game &"
-gameLocation: "& Place & "
-gameDate: "& Date & "
-result: "&  Result & "
+year:"2018"
+game: "Blagdon Hill"
+title: "Blagdon Hill v The Min"
+gameLocation: "KCL"
+gameDate: "06/05/2018"
+result: "THe Min won by 6 wkts"
+resultType: "Lost"
 type: "game"
 ---
 
-Played at KCL on 06/05/2018
+Played at {gameLocation} on {gameDate} 
 
-The Min won the toss and inserted Kingstonians who made 171 all out in 38 4 overs  The Min scored 172-4 in 38 2 overs  The Min won by 6 wkts
+The Min won the toss and inserted Kingstonians who made 171 all out in 32 overs  The Min scored 172-4 in 34.2 overs 
 
 ## Kingstonians Innings
 
@@ -26,10 +26,10 @@ The Min won the toss and inserted Kingstonians who made 171 all out in 38 4 over
 | **Assandyar** | b | P Beswick | 1 |
 | **A Radley** | b | P Beswick | 0 |
 | **Hikmat** | c J Grant | P Beswick | 3 |
-| **Jim ** | not out |  | 0 |
+| **Jim** | not out |  | 0 |
 | **Temy** | b | P Beswick | 1 |
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
-| **Total** | | (38 4 overs overs) | **171 all out** |
+| **Total** | | (34.2 overs) | **171 all out** |
 
 ## Fall of Wickets
 
@@ -42,13 +42,13 @@ The Min won the toss and inserted Kingstonians who made 171 all out in 38 4 over
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **Hikmat** | 5 | 0 | 23 | 0 |
-| **Arab** | 7 | 3 | 10 | 0 |
-| **A Radley** | 3 | 0 | 34 | 0 |
-| **Milan** | 5 2 | 0 | 17 | 2 |
-| **Javed** | 3 | 0 | 17 | 0 |
-| **J Jacobs** | 5 | 0 | 25 | 2 |
-| **R McAvoy** | 6 | 2 | 17 | 0 |
+| **I Miah** | 8 | 2 | 30 | 0 |
+| **S Amin** | 5 | 0 | 18 | 0 |
+| **J Wright** | 7 | 0 | 36 | 0 |
+| **R Beswick** | 4 | 1 | 15 | 1 |
+| **R Earney** | 4 | 0 | 16 | 0 |
+| **C Wright** | 4 | 0 | 35 | 2 |
+| **P Beswick** | 4 | 1 | 7 | 6 |
 
 ## The Min Innings
 
@@ -66,7 +66,7 @@ The Min won the toss and inserted Kingstonians who made 171 all out in 38 4 over
 | **C Wright** | did not bat |  |  |
 | **J Wright** | did not bat |  |  |
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
-| **Total** | | (38 4 overs overs) | **171 all out** |
+| **Total** | | (38 4 overs) | **171 all out** |
 
 ## Fall of Wickets
 
@@ -79,13 +79,13 @@ The Min won the toss and inserted Kingstonians who made 171 all out in 38 4 over
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **I Miah** | 8 | 2 | 30 | 0 |
-| **S Amin** | 5 | 0 | 18 | 0 |
-| **J Wright** | 7 | 0 | 36 | 0 |
-| **R Beswick** | 4 | 1 | 15 | 1 |
-| **R Earney** | 4 | 0 | 16 | 0 |
-| **C Wright** | 4 | 0 | 35 | 2 |
-| **P Beswick** | 4 | 1 | 7 | 6 |
+| **Hikmat** | 5 | 0 | 23 | 0 |
+| **Arab** | 7 | 3 | 10 | 0 |
+| **A Radley** | 3 | 0 | 34 | 0 |
+| **Milan** | 5.2 | 0 | 17 | 2 |
+| **Javed** | 3 | 0 | 17 | 0 |
+| **J Jacobs** | 5 | 0 | 25 | 2 |
+| **R McAvoy** | 6 | 2 | 17 | 0 |
 
 ## Season Win/Loss Record
 

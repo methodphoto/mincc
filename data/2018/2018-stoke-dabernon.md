@@ -1,17 +1,17 @@
 ---
-slug: "& Slug &"
-year:"& Year &"
-game: "& Title &"
-title: "& Game &"
-gameLocation: "& Place & "
-gameDate: "& Date & "
-result: "&  Result & "
+year:"2018"
+game: "Stoke D'Aberdon"
+title: "Stoke D'Aberdon v The Min"
+gameLocation: "Newdigate"
+gameDate: "30/09/2018"
+result: "Stoke D'Aberdon won by 55 runs"
+resultType: "Lost"
 type: "game"
 ---
 
-Played at Newdigate on 30/09/2018
+Played at {gameLocation} on {gameDate} 
 
-In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs  The Min replied with 196
+In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs. The Min replied with 196 all out
 
 ## Stoke D'Abernon CC Innings
 
@@ -19,12 +19,12 @@ In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs  
 |:---|:---|---|---:|
 | **J Jones** | lbw | M Bouerman | 113 |
 | **G Vinall** | b | I Miah | 3 |
-| **J Earl *** | c A Altaf | I Miah | 48 |
+| **J Earl  &#42;*** | c A Altaf | I Miah | 48 |
 | **C Finch** | b | J Wright | 17 |
 | **S Finch** | not out |  | 47 |
 | **K Morgan** | lbw | J Wright | 0 |
 | **A Huseyin** | b | M Ishmael | 1 |
-| **R Singh &dagger;** | not out |  | 16 |
+| **R Singh &#8224;** | not out |  | 16 |
 | **T Selvakumar** | did not bat |  |  |
 | **R Coleman** | did not bat |  |  |
 | **R Harris** | did not bat |  |  |
@@ -58,15 +58,15 @@ In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs  
 | **Parvez** | c A Huseyin | G Vinall | 32 |
 | **R Damaze** | lbw | J Earl | 47 |
 | **S Ahmed** | lbw | J Earl | 50 |
-| **R Beswick *** | c J Jones | A Huseyin | 7 |
+| **R Beswick &#42;** | c J Jones | A Huseyin | 7 |
 | **M Ishmael** | b | J Earl | 34 |
-| **W Calvert ** | b  | G Vinall | 3 |
+| **W Calvert** | b | G Vinall | 3 |
 | **I Miah** | c A Huseyin | G Vinall | 8 |
-| **J Grant** | not out |  | 0 |
+| **J Grant &#8224;** | not out |  | 0 |
 | **J Wright** | b | S Finch | 2 |
 | **J Pritchard** | c R Singh | R Coleman | 1 |
 | **Extras** | | (0nb 3w 2b 1lb 0p) | **6** |
-| **Total** | | ((35 overs) overs) | **251 6** |
+| **Total** | | ((35 overs) overs) | **190 all out** |
 
 ## Fall of Wickets
 

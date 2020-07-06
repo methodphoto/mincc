@@ -82,8 +82,8 @@ A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 | **Lawson** | 1 | 0 | 4 | 1 |
 | **M Pollett** | 1 | 0 | 1 | 0 |
 
-## Season Win/Loss Record
+### Win/Loss Ratio
 
 | Win | Loss | Draw |Tie |
 |:---|:---|:---|---:|
-| 1 | 0 | 1 | 0 |
+| 6 | 3 | 1 | 0 |
