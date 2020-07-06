@@ -3,10 +3,7 @@ year: "2010"
 type: "fixtures"
 ---
 
-# 2010 
-## Fixtures
-
-
+# 2010 Fixtures
 
 ## April
 

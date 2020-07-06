@@ -29,7 +29,7 @@ Newington won the toss and inserted The Min who made 130-9 (all out)  Newington 
 | **J Wright** | not out |  | 0 |
 | **** |  |  |  |
 | **Extras** | | (7b 1lb 2w 1 nb 0p) | **11** |
-| **Total** | | (33 1 overs overs) | **130 9 (all out)** |
+| **Total** | | (33 1 overs) | **130 9 (all out)** |
 
 ## Fall of Wickets
 
@@ -66,7 +66,7 @@ Newington won the toss and inserted The Min who made 130-9 (all out)  Newington 
 | **A Rashid** | did not bat |  |  |
 | **Asif Rashid** | did not bat |  |  |
 | **Extras** | | (7b 1lb 2w 1 nb 0p) | **11** |
-| **Total** | | (33 1 overs overs) | **130 9 (all out)** |
+| **Total** | | (33 1 overs) | **130 9 (all out)** |
 
 ## Fall of Wickets
 
