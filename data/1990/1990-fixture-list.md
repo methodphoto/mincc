@@ -8,7 +8,7 @@ type: "fixtures"
 ## May
 
 |:---|:---|:---|
-| 13th | [Ockley Green](1990-ockley-green.md) | [Away](https://goo.gl/maps/vmhvFhbrVZGrsXAAA) |
+| 13th | [Ockley](1990-ockley.md) | [Away](https://goo.gl/maps/vmhvFhbrVZGrsXAAA) |
 | 20th | [Old Elthamians](1990-old-elthamians.md) | [Away](https://goo.gl/maps/FQbBNZQTFggEmhfv9) |
 | 27th | [Little Kingshill](1990-little-kingshill.md) | [Away](https://goo.gl/maps/JPwm5tfBfK6cjv9m6) |
 
@@ -35,7 +35,7 @@ type: "fixtures"
 ## August
 
 |:---|:---|:---|
-| 12th | [Newdigate](1990-newdigate.md) | [Away](https://goo.gl/maps/UHuDXqUZCZEyScLW9) |
+| 12th | [Newdigate](1990-newdigate.md) | [Away](https://goo.gl/maps/kQnkUfc3MdtqLyvd8) |
 
 ## September
 

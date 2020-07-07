@@ -2,7 +2,7 @@
 year: "1988"									
 game: ""									
 title: " v The Min"									
-gameLocation: ""									
+gameLocation: "Cranleigh School"									
 gameDate: ""									
 result: ""									
 resultType: ""									
