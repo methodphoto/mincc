@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Old Elthamians"									
-title: "Old Elthamians v The Min"									
-gameLocation: "Foxbury"									
-gameDate: "01/09/1985"									
-result: "Old Elthamians won by 3 wkts"									
-resultType: "Lost"									
-type: "game"									
+year: "1985"
+serialNumber: "0042"
+game: "Old Elthamians"
+title: "Old Elthamians -v- The Min"
+gameLocation: "Foxbury"
+gameDate: "01/09/1985"
+result: "Old Elthamians won by 3 wkts"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | c T Manchip | I Whalley | 1 | 
 | **A Gallagher** | c T Manchip | I Whalley | 5 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **K Davis** | 7 | 2 | 17 | 1 | 
 | **I Whalley** | 6 | 0 | 28 | 2 | 
@@ -54,7 +55,7 @@ Result: {result}
 
  ## Old Elthamians Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Ji Guthrie** | b | J Wright | 28 | 
 | **K Davis** | b | A Sylvester | 2 | 
@@ -79,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 8 | 2 | 35 | 0 | 
 | **A Sylvester** | 12 | 5 | 32 | 24| 
@@ -89,6 +90,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 7 | 5 | 2 | 0 |

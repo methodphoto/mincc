@@ -1,12 +1,11 @@
 ---
-slug: "/results"
 title: "Results"
 type: "results"
 ---
 
 # {title}
 
-| Date | Opponents | Result |
+| Date | Opponents |  |  |
 |:--- | :--- | :--- |
 | **2019** | | |
 | 21/04/2019 | [Middleton Stoney](2019-middleton-stoney) | Drawn |
@@ -106,7 +105,7 @@ type: "results"
 | {date} | [Selling](2013-selling) | Lost |
 | **2012** | | |
 | {date} | [Middleton Stoney](2012-middleton-stoney) | Won |
-| {date} | [ELCCC](2012-elccc) | Lost |
+| {date} | [ELCCCC](2012-elccc) | Lost |
 | {date} | [Newington](2012-newington) | Won |
 | {date} | [Horningsham](2012-horningsham) | Lost |
 | {date} | [Newdigate](2012-newdigate) | Lost |
@@ -119,7 +118,7 @@ type: "results"
 | {date} | [Middleton Stoney](2011-middleton-stoney) | Drawn |
 | {date} | [Britwell Salome](2011-britwell-salome) | Won |
 | {date} | [Newington](2011-newington) | Lost |
-| {date} | [ELCCC](2011-elccc) | Lost |
+| {date} | [ELCCCC](2011-elccc) | Lost |
 | {date} | [Frensham](2011-frensham) | Drawn |
 | {date} | [Watton-at-Stone](2011-watton-at-stone) | Won |
 | {date} | [Stowting](2011-stowting) | Won |
@@ -134,7 +133,7 @@ type: "results"
 | **2010** | | |
 | {date} | [Britwell Salome](2010-britwell-salome) | Won |
 | {date} | [Trafford Croydon](2010-trafford-croydon) | Won |
-| {date} | [ELCCC](2010-elccc) | Won |
+| {date} | [ELCCCC](2010-elccc) | Won |
 | {date} | [Middleton Stoney](2010-middleton-stoney) | Drawn |
 | {date} | [Newdigate](2010-newdigate) | Won |
 | {date} | [Watton-at-Stone](2010-watton-at-stone) | Lost |
@@ -157,7 +156,7 @@ type: "results"
 | {date} | [Kilmington & Stourton](2009-kilmington-and-stourton) | Drawn |
 | {date} | [Horningsham](2009-horningsham) | Won |
 | {date} | [Islip](2009-islip) | Won |
-| {date} | [ELCCC](2009-elccc) | Lost |
+| {date} | [ELCCCC](2009-elccc) | Lost |
 | {date} | [SB Exiles](2009-sb-exiles) | Lost |
 | {date} | [Tower of Dudes](2009-tower-of-dudes) | Won |
 | {date} | [Reigate Pilgrims](2009-reigate-pilgrims) | Won |
@@ -186,7 +185,7 @@ type: "results"
 | {date} | [Broadway & Horton](2007-broadway-and-horton) | Won |
 | {date} | [Kilmington & Stourton](2007-kilmington-and-stourton) | Won |
 | {date} | [Horningsham](2007-horningsham) | Drawn |
-| {date} | The Old Min -v- The Young Min	| Drawn |
+| {date} | The Old Min -v- The Young Min| Drawn |
 | {date} | [Selling](2007-selling) | Lost |
 | {date} | [SB Exiles](2007-sb-exiles) | Lost |
 | {date} | [Reigate Pilgrims](2007-reigate-pilgrims) | Drawn |

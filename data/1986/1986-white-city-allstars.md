@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "White City Allstars"									
-title: "White City Allstars v The Min"									
-gameLocation: "Gunnersbury Park"									
-gameDate: "07/06/1986"									
-result: "White City Allstars won by 17 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1986"
+serialNumber: "0049"
+game: "White City Allstars"
+title: "White City Allstars -v- The Min"
+gameLocation: "Gunnersbury Park"
+gameDate: "07/06/1986"
+result: "White City Allstars won by 17 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## White City Allstars Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **P Swaab** | run out |  | 99 | 
 | **P Stevenson** | c S Watson | R Beswick | 5 | 
@@ -43,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **W Calvert** | 8 | 0 | 35 | 0 | 
 | **R Beswick** | 5 | 1 | 21 | 1 | 
@@ -54,7 +55,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Fielding** | b | A Beard | 12 | 
 | **J Grant** | lbw | ? | 1 | 
@@ -80,7 +81,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **A Beard** | - | - | - | 4 | 
 | **C Pressley** | - | - | - | 1 | 
@@ -89,6 +90,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 3 | 1 | 1 | 0 |

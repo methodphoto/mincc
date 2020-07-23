@@ -1,12 +1,13 @@
 ---
-year: "1983"									
-game: "A Good Length"									
-title: "A Good Length v The Min"									
-gameLocation: "Bramley"									
-gameDate: "25/06/1982"									
-result: "The Min won by 10 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1983"
+serialNumber: "0013"
+game: "A Good Length"
+title: "A Good Length -v- The Min"
+gameLocation: "Bramley"
+gameDate: "25/06/1982"
+result: "The Min won by 10 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## A Good Length Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **M Pollit** | b | A Sylvester | 23 | 
 | **R Emanuel** | b | M Kirwan | 7 | 
@@ -43,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 8 | 1 | 27 | 3 | 
 | **A Sylvester** | 7 | 1 | 26 | 2 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | not out | | 50 | 
 | **A Fielding** | not out | | 24 | 
@@ -79,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **D Musgrave** | 2.1 | 1 | 12 |  | 
 | **PR Smith** | 2 | 0 | 11 | 0 | 
@@ -91,6 +92,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 3 | 0 | 1 | 0 |

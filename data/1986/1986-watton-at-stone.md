@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Watton-at-Stone"									
-title: "Watton-at-Stone v The Min"									
-gameLocation: "The Meadow"									
-gameDate: "20/07/1986"									
-result: "Watton-at-Stone won by 95 runs"									
-resultType: ""									
-type: "game"									
+year: "1986"
+serialNumber: "0055"
+game: "Watton-at-Stone"
+title: "Watton-at-Stone -v- The Min"
+gameLocation: "The Meadow"
+gameDate: "20/07/1986"
+result: "Watton-at-Stone won by 95 runs"
+resultType: ""
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Watton-at-Stone Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Carter** | b | M Kirwan | 0 | 
 | **Spinks** | c A Fielding | A Sylvester | 85 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 9 | 0 | 67 | 1 | 
 | **R Scotts** | 3 | 0 | 23 | 0 | 
@@ -52,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | b | R Clayton | 59 | 
 | **J Grant &#8224;** | b | Underdown | 1 | 
@@ -78,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Underdown** | 11 | 2 | 50 | 2 | 
 | **Spinks** | 10.2 | 2 | 27 | 3 | 
@@ -87,6 +88,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 5 | 4 | 2 | 0 |

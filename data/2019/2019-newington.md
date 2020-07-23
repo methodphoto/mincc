@@ -1,5 +1,6 @@
 ---
 year: "2019"
+serialNumber: "0" 
 game: "Newington"
 title: "Newington -v- The Min"
 gameLocation: "Bobbing Court"
@@ -19,7 +20,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Middleton Stoney Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | N Moorman | st J Grant | I Miah | 100 |
 | H Lancaster | b | P Wigg | 39 |
@@ -44,7 +45,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | Ishmael | 6 | 3 | 35 | 0 |
 | I Miah | 5 | 0 | 23 | 1 |
@@ -55,7 +56,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | I Miah | b | S Pettit | 0 |
 | Ishmael | b | E Barton | 10 |
@@ -80,7 +81,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | S Pettit |5 |1 |6 |2 |
 | AK Kamal |8 |4 |24 |0 |
@@ -92,7 +93,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
 
@@ -103,33 +104,33 @@ played at Bobbing Court on 19/05/2019
 Newington scored 223-3 in their 35 over game. The Min were all out for 208. 
 Newington Innings
 
-Batsman	Runs
-L Jessup	not out	
+BatsmanRuns
+L Jessupnot out
 110
-M Parsons	retired hurt	
+M Parsonsretired hurt
 50
-D Mason	b	J Nisse	30
-J Overbury	b	R Beswick	7
-TJ Singh	not out	
+D MasonbJ Nisse30
+J OverburybR Beswick7
+TJ Singhnot out
 7
-J Glock	did not bat	
+J Glockdid not bat
 
-M Medler	did not bat	
+M Medlerdid not bat
 
-S Gallagher	did not bat	
+S Gallagherdid not bat
 
-R Joshi	did not bat	
+R Joshidid not bat
 
-D Ward	did not bat	
+D Warddid not bat
 
-L Morgan	did not bat	
+L Morgandid not bat
 
-Extras	(14b 3lb 2w 0nb 0p)	19
-Total	(35 overs)	223 3
+Extras(14b 3lb 2w 0nb 0p)19
+Total(35 overs)223 3
 Fall of Wickets
 
-W	1	2	3	4	5	6	7	8	9	10
-Sc	
+W12345678910
+Sc
 
 
 
@@ -139,7 +140,7 @@ Sc
 
 
 
-Bt	
+Bt
 
 
 
@@ -152,13 +153,13 @@ Bt
 Bowling
 
 
-O	M	R	W
-L Morgan	7	0	30	3
-D Ward	7	1	21	0
-R Joshi	4	0	41	0
-S Gallagher	4	0	17	0
-D Mason	6.1	0	31	3
-TJ Singh	6	0	44	1
+OMRW
+L Morgan70303
+D Ward71210
+R Joshi40410
+S Gallagher40170
+D Mason6.10313
+TJ Singh60441
 
 
 
@@ -171,47 +172,47 @@ TJ Singh	6	0	44	1
 
 The Min CC Innings
 
-Batsman	Runs
-R Beswick *	c	L Morgan	48
-J Grant †	c	L Morgan	0
-Jo Nisse	c	L Morgan	8
-J Stacey	b	D Mason	59
-A Gallagher	c	TJ Singh	24
-Ja Nisse	c	D Mason	8
-S Amin	c & b	D Mason	31
-K Usanga	not out	
+BatsmanRuns
+R Beswick *cL Morgan48
+J Grant †cL Morgan0
+Jo NissecL Morgan8
+J StaceybD Mason59
+A GallaghercTJ Singh24
+Ja NissecD Mason8
+S Aminc & bD Mason31
+K Usanganot out
 9
-I Marshall	run out	
+I Marshallrun out
 0
-C Wright	run out	
+C Wrightrun out
 2
 
 
 
 
-Extras	(7b 4lb 5w 1nb 0p)	19
-Total	(34.1 overs)	223 9 (all out)
+Extras(7b 4lb 5w 1nb 0p)19
+Total(34.1 overs)223 9 (all out)
 Fall of Wickets
 
-W	1	2	3	4	5	6	7	8	9	10
-Sc	0	25	123	125	154	179	
+W12345678910
+Sc025123125154179
 
 
 
-Bt	2	3	1	4	5	6	
+Bt231456
 
 
 
 Bowling
 
 
-O	M	R	W
-I Marshall	7	1	20	0
-S Amin	6	1	27	0
-C Wright	6	0	39	0
-R Beswick	6	0	46	1
-A Gallagher	5	0	34	0
-J Nisse	5	0	33	1
+OMRW
+I Marshall71200
+S Amin61270
+C Wright60390
+R Beswick60461
+A Gallagher50340
+J Nisse50331
 
 
 
@@ -234,7 +235,7 @@ J Nisse	5	0	33	1
 
 Season Win/Loss Record
 
-Win	Loss	Draw	Tie
+WinLossDrawTie
 
 
 

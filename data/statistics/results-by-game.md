@@ -1,12 +1,11 @@
 ---
-slug: "/results-by-game"
-title: "Results (by game)"
+title: "Results by Game"
 type: "results"
 ---
 
 # {title}
 
-| Year | Games | Win | Loss | Draw | Tie | % | Overall |
+| Year | Games |  |  | Loss | Draw | Tie | % | Overall |
 |:--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1982** | 11 | 6 | 3 | 2 | 0 | 54.5 | +3 |
 | **1983** | 5 | 4 | 0 | 1 | 0 | 80 | +4 |

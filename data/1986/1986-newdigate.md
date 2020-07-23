@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Newdigate"									
-title: "Newdigate v The Min"									
-gameLocation: "Sellicks Green"									
-gameDate: "10/08/1986"									
-result: "The Min won by 5 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1986"
+serialNumber: "0057"
+game: "Newdigate"
+title: "Newdigate -v- The Min"
+gameLocation: "Sellicks Green"
+gameDate: "10/08/1986"
+result: "The Min won by 5 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## Newdigate Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **S Levinson** | c R Olver | R Beswick | 2 | 
 | **E Case** | c J Grant | R Olver | 2 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Olver** | 9 | 5 | 11 | 3 | 
 | **R Beswick** | 8 | 4 | 4 | 4 | 
@@ -52,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | lbw | J Coulson | 0 | 
 | **D Young** | b | D Harris | 0 | 
@@ -63,7 +64,7 @@ Result: {result}
 | **M Stapleton** | not out |  | 5 | 
 | **M Gardiner** | dnb |  |  |
 | **D Newman** | dnb |  |  | 
-| **R Olvert** | not out |  | 2 | 
+| **R Olver** | not out |  | 2 | 
 | **J Wright** | dnb |  |  | 
 | **Extras** | | (0b 0lb 0w 0nb) | 0 | 
 | **Total** | | (17.2 overs) | 57 for 5 wkts | 
@@ -78,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **J Coulson** | 5 | 2 | 26 | 3 | 
 | **D Harris** | 8 | 4 | 18 | 2 | 
@@ -87,6 +88,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 6 | 5 | 2 | 0 |

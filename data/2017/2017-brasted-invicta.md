@@ -1,19 +1,19 @@
 ---
-slug: "& Slug &"
-year:"& Year &"
-game: "& Title &"
-title: "& Game &"
-gameLocation: "& Place & "
-gameDate: "& Date & "
-result: "&  Result & "
+year:"2017"
+game: "Brasted Invicta"
+title: "Brasted Invicta -v- The Min"
+gameLocation: "Upper Neville Ground, Tunbridge Wells"
+gameDate: "10/09/2017"
+result: "The Min won by 185 runs"
+resultType: "Won"
 type: "game"
 ---
 
 Played at Upper Neville Ground, Tunbridge Wells on 10/09/2017
 
-The Min won the toss and batted first scoring 215-5 in 35 overs  Brasted were bowled out for 30, so The Min won by 185 runs
+The Min won the toss and batted first scoring 215-5 in 35 overs. Brasted were bowled out for 30
 
-S Amin best bowling for The MIn  P Wigg second best bowling for The Min
+S Amin best bowling for The Min.  P Wigg second best bowling for The Min
 
 ## The Min Innings
 
@@ -44,13 +44,13 @@ S Amin best bowling for The MIn  P Wigg second best bowling for The Min
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **P Wigg** | 7 | 2 | 11 | 4 |
-| **M Gupta** | 4 | 1 | 11 | 2 |
-| **S Amin** | 3 | 0 | 7 | 4 |
-| **** |  |  |  |  |
-| **** |  |  |  |  |
-| **** |  |  |  |  |
-| **** |  |  |  |  |
+| **M Copley** | 7 | 0 | 49 | 0 |
+| **S Young** | 5 | 0 | 28 | 0 |
+| **S Bishop** | 7 | 1 | 18 | 1 |
+| **B Young** | 3 | 0 | 22 | 0 |
+| **S Callan** | 7 | 1 | 47 | 1 |
+| **Baker** | 3 | 0 | 20 | 0 |
+| **Campbell** | 2 | 0 | 22 | 2 |
 
 ## Brasted Invicta Innings
 
@@ -67,8 +67,8 @@ S Amin best bowling for The MIn  P Wigg second best bowling for The Min
 | **Baker** | b S Amin |  | 0 |
 | **M Copley** | b S Amin |  | 3 |
 | **J Carter** | b S Amin |  | 0 |
-| **Extras** | | (11b 2lb 5w 3nb 0p) | **21** |
-| **Total** | | (35 overs) | **215 for 5 wkts** |
+| **Extras** | | (0b 0lb 0w 3nb 0p) | **1** |
+| **Total** | | (14.5 overs) | **30 all out** |
 
 ## Fall of Wickets
 
@@ -81,16 +81,12 @@ S Amin best bowling for The MIn  P Wigg second best bowling for The Min
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **M Copley** | 7 | 0 | 49 | 0 |
-| **S Young** | 5 | 0 | 28 | 0 |
-| **S Bishop** | 7 | 1 | 18 | 1 |
-| **B Young** | 3 | 0 | 22 | 0 |
-| **S Callan** | 7 | 1 | 47 | 1 |
-| **Baker** | 3 | 0 | 20 | 0 |
-| **Campbell** | 2 | 0 | 22 | 2 |
+| **P Wigg** | 7 | 2 | 11 | 4 |
+| **M Gupta** | 4 | 1 | 11 | 2 |
+| **S Amin** | 3 | 0 | 7 | 4 |
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 2 | 6 | 1 | 0 |

@@ -1,5 +1,6 @@
 ---
 year: "2019"
+serialNumber: "0" 
 game: "Railway Tavereners"
 title: "Railway Tavereners -v- The Min"
 gameLocation: "North Middlesex CC"
@@ -19,7 +20,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Middleton Stoney Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | N Moorman | st J Grant | I Miah | 100 |
 | H Lancaster | b | P Wigg | 39 |
@@ -44,7 +45,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | Ishmael | 6 | 3 | 35 | 0 |
 | I Miah | 5 | 0 | 23 | 1 |
@@ -55,7 +56,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | I Miah | b | S Pettit | 0 |
 | Ishmael | b | E Barton | 10 |
@@ -80,7 +81,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | S Pettit |5 |1 |6 |2 |
 | AK Kamal |8 |4 |24 |0 |
@@ -92,7 +93,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
 
@@ -104,27 +105,27 @@ R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 
 Railway Taverners Innings
 
-Batsman	Runs
-N Lalluan	c C Wright	K Gallagher	36
-E Reilly	run out	
+BatsmanRuns
+N Lalluanc C WrightK Gallagher36
+E Reillyrun out
 25
-D Skinner	b	B Boyd-Taylor	64
-A Spee	b	K Gallagher	27
-J Mulligan	b	R Earney	4
-D Geenson	c J Grant	R Earney	0
-M Winter	b	R Earney	0
-I Choudry	b	R Earney	1
-S Parr	run out	
+D SkinnerbB Boyd-Taylor64
+A SpeebK Gallagher27
+J MulliganbR Earney4
+D Geensonc J GrantR Earney0
+M WinterbR Earney0
+I ChoudrybR Earney1
+S Parrrun out
 3
-G Katakos	lbw	R Earney	3
-B Whatley	not out	
+G KatakoslbwR Earney3
+B Whatleynot out
 0
-Extras	(6b 2lb 5w 2nb 0p)	15
-Total	(33.1 overs)	178 all out
+Extras(6b 2lb 5w 2nb 0p)15
+Total(33.1 overs)178 all out
 Fall of Wickets
 
-W	1	2	3	4	5	6	7	8	9	10
-Sc	
+W12345678910
+Sc
 
 
 
@@ -134,7 +135,7 @@ Sc
 
 
 
-Bt	
+Bt
 
 
 
@@ -147,13 +148,13 @@ Bt
 Bowling
 
 
-O	M	R	W
-D Geenson	7	0	31	0
-S Parr	4	0	28	1
-I Choudry	6	0	35	3
-A Spee	2	0	5	0
-M Winter	3	0	30	1
-J Mulligan	1.1	0	14	0
+OMRW
+D Geenson70310
+S Parr40281
+I Choudry60353
+A Spee2050
+M Winter30301
+J Mulligan1.10140
 
 
 
@@ -166,31 +167,31 @@ J Mulligan	1.1	0	14	0
 
 The Min CC Innings
 
-Batsman	Runs
-R Beswick	st	I Chowdry	19
-R Earney	b	S Parr	15
-B Boyd-Taylor	b	I Choudry	10
-A Beswick *	b	M Winter	50
-I Strawson	run out	
+BatsmanRuns
+R BeswickstI Chowdry19
+R EarneybS Parr15
+B Boyd-TaylorbI Choudry10
+A Beswick *bM Winter50
+I Strawsonrun out
 24
-A Gallagher	not out	
+A Gallaghernot out
 35
-K Usanga	b	A Spee	0
-S Amin	c J Mulligan	I Choudry	6
-K Gallagher	not out	
+K UsangabA Spee0
+S Aminc J MulliganI Choudry6
+K Gallaghernot out
 5
-J Grant †	did not bat	
+J Grant †did not bat
 
-C Wright	did not bat	
+C Wrightdid not bat
 
-Extras	(0b 3lb 11w 3nb 0p)	15
-Total	(30.1 overs)	178 for 8 wkts
+Extras(0b 3lb 11w 3nb 0p)15
+Total(30.1 overs)178 for 8 wkts
 Fall of Wickets
 
-W	1	2	3	4	5	6	7	8	9	10
-Sc	31	48	52	122	132	135	160	
+W12345678910
+Sc314852122132135160
 
 
-Bt	2	1	3	4	5	7	8	
+Bt2134578
 
 

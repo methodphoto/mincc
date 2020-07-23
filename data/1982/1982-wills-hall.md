@@ -1,7 +1,8 @@
 ---
 year: "1982"
+serialNumber: "0006"
 game: "Wills Hall"
-title: "The Min v Wills Hall"
+title: "The Min -v- Wills Hall"
 gameLocation: "Coombe Dingle"
 gameDate: "10/06/1982"
 result: "The Min won by 47 runs" 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Ellis** | 3 | 1 | 7 | 0 |
 | **Scanlon** | 3 | 0 | 16 | 0 |
@@ -77,7 +78,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **A Sylvester** | 3 | 2 | 8 | 0 |
 | **L Sheridan** | 3 | 1 | 3 | 3 |
@@ -92,6 +93,6 @@ Result: {result}
 
 ### Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 4 | 1 | 1 | 0 |

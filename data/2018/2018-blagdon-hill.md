@@ -1,7 +1,7 @@
 ---
 year:"2018"
 game: "Blagdon Hill"
-title: "Blagdon Hill v The Min"
+title: "Blagdon Hill -v- The Min"
 gameLocation: "Blagdon Hill"
 gameDate: "05/07/2018"
 result: "Blagdon Hill won by 5 wkts"
@@ -87,6 +87,6 @@ The Min won the toss and batted first but only made 139-8 in their 40 overs  Bla
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 2 | 2 | 1 | 0 |

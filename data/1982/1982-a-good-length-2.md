@@ -1,5 +1,6 @@
 ---
 year: "1982"
+serialNumber: "0010"
 game: "A Good Length"
 title: "The Min -v- A Good Length "
 gameLocation: "Coombe Dingle"
@@ -17,7 +18,7 @@ A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 
 ## A Good Length Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **R Ashe** | c S Beavis | M Kirwan | 33 |
 | **M Pollett** | b | M Kirwan | 13 |
@@ -42,7 +43,7 @@ A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 11 | 2 | 15 | 5 |
 | **W Calvert** | 4 | 1 | 28 | 0 |
@@ -52,7 +53,7 @@ A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **D Mundy** | c R Godfrey | Kendrick | 20 |
 | **A Gallagher** | c Lawson | Carver | 20 |
@@ -70,7 +71,7 @@ A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Kendrick** | 14 | 2 | 24 | 1 |
 | **R Ashe** | 6 | 0 | 18 | 0 |
@@ -84,6 +85,6 @@ A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 
 ### Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 6 | 3 | 1 | 0 |

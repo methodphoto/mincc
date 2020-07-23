@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Koh-i-noor"									
-title: "Koh-i-noor v The Min"									
-gameLocation: "Cowgate Lane"									
-gameDate: "07/07/1985"									
-result: "The Min won by 146 runs"									
-resultType: "Won"									
-type: "game"									
+year: "1985"
+serialNumber: "0038"
+game: "Koh-i-noor"
+title: "Koh-i-noor -v- The Min"
+gameLocation: "Cowgate Lane"
+gameDate: "07/07/1985"
+result: "The Min won by 146 runs"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | c & b | 3 | 73 | 
 | **A Fielding** | run out |  | 58 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **D Harris** | 13 | 0 | 55 | 1 | 
 | **J Harris** | 9 | 0 | 55 | 0 | 
@@ -51,7 +52,7 @@ Result: {result}
 
  ## Brook Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Reg** | c A Fielding | D Newman | 20 | 
 | **Sortit** | c A Fielding | E Harcourt | 8 | 
@@ -76,7 +77,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **D Newman** | 4 | 0 | 15 | 2 | 
 | **E Harcourt** | 4 | 0 | 18 | 1 | 
@@ -87,6 +88,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 6 | 3 | 1 | 0 |

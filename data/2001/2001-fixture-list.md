@@ -8,7 +8,7 @@ type: "fixtures"
 ## May
 
 | 13th | 14:00 | [Long Ditton](2001-long-ditton.md) | [[Away](https://goo.gl/maps/A4BHsuEmnSUUEVsf8)] |
-| 20th | 14:00 | [Players & Jesters](2001-players-and-jesters.md) | [Away](https://goo.gl/maps/vTALszCu1HSJjVXi8) |
+| 20th | 14:00 | [Players & Jesters](2001-players-and-jesters.md) | [Away](https://goo.gl/maps/vTALszCu1HSJjVXI8) |
 
 ## June
 

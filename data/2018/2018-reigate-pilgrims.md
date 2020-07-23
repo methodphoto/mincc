@@ -1,7 +1,7 @@
 ---
 year:"2018"
 game: "Reigate Pilgrims"
-title: "Reigate Pilgrims v The Min"
+title: "Reigate Pilgrims -v- The Min"
 gameLocation: "The Red Lion, Betchworth"
 gameDate: "16/09/2018"
 result: "Reigate Pilgrims won by 5 wkts"
@@ -89,6 +89,6 @@ Reigate Pilgrims won the toss and inserted The Min, who made 184-6  Reigate Pilg
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 |  |  |  |  |

@@ -1,7 +1,7 @@
 ---
 year:"2018"
 game: "Stoke D'Aberdon"
-title: "Stoke D'Aberdon v The Min"
+title: "Stoke D'Aberdon -v- The Min"
 gameLocation: "Newdigate"
 gameDate: "30/09/2018"
 result: "Stoke D'Aberdon won by 55 runs"
@@ -89,6 +89,6 @@ In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs. 
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 |  |  |  |  |

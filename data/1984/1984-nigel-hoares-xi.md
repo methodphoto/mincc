@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "Nigel Hoare's XI"									
-title: "Nigel Hoare's XI v The Min"									
-gameLocation: "Gravesend"									
-gameDate: "19/09/1984"									
-result: "The Min won by 5 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1984"
+serialNumber: "0028"
+game: "Nigel Hoare's XI"
+title: "Nigel Hoare's XI -v- The Min"
+gameLocation: "Gravesend"
+gameDate: "19/09/1984"
+result: "The Min won by 5 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## Nigel Hoare's XI Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Hawkyns** | b | A Sylvester | 0 | 
 | **N Hoare** | c W Calvert | M Kirwan | 0 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 7 | 0 | 30 | 2 | 
 | **A Sylvester** | 9 | 1 | 39 | 3 | 
@@ -52,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | c & b | de Norman | 9 |
 | **M Kirwan** | c Benney | Sellcombe | 4 | 
@@ -78,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Sellcombe** | 10 | 0 | 45 | 2 | 
 | **de Norman** | 5 | 0 | 34 | 1 | 
@@ -88,6 +89,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 7 | 5 | 2 | 0 |

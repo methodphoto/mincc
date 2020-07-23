@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Town Cryers"									
-title: "Town Cryers v The Min"									
-gameLocation: "Wandsworth Park"									
-gameDate: "19/05/1985"									
-result: "The Min won by 4 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1985"
+serialNumber: "0032"
+game: "Town Cryers"
+title: "Town Cryers -v- The Min"
+gameLocation: "Wandsworth Park"
+gameDate: "19/05/1985"
+result: "The Min won by 4 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Town Cryers Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **B Simpson** | b | A Sylvester | 18 | 
 | **J Humphrey** | st J Grant | T Purves | 4 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 8 | 5 | 10 | 2 | 
 | **T Purves** | 10 | 2 | 15 | 2 | 
@@ -52,13 +53,13 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Fielding** | b | J Seklecki | 39 | 
 | **W Calvert** | b | J Humphrey | 6 | 
 | **R Scotts** | b | J Seklecki | 91 | 
 | **E Harcourt** | lbw | J Seklecki | 16 | 
-| **M Gardiner** | v | J Seklecki | 6 | 
+| **M Gardiner** | -v- | J Seklecki | 6 | 
 | **R Beswick &#42;** | c N Barton | D Mackey | 0 | 
 | **T Purves** | not out |  | 0 | 
 | **J Grant &#8224;** | not out |  | 0 | 
@@ -78,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **J Seklecki** | 13 | 5 | 13 | 4 | 
 | **J Humphrey** | 7 | 1 | 22 | 1 | 
@@ -86,6 +87,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 2 | 2 | 0 | 0 |

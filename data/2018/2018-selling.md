@@ -1,7 +1,7 @@
 ---
 year:"2018"
 game: "Selling"
-title: "Selling v The Min"
+title: "Selling -v- The Min"
 gameLocation: "Cadman's Meadow"
 gameDate: "21/07/2018"
 result: "The Min won by 55 runs"
@@ -88,6 +88,6 @@ The Min won the toss and batted first scoring 188 all out (34 overs). Selling we
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 4 | 2 | 1 | 0 |

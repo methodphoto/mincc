@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "Standard Bridge"									
-title: "Standard Bridge v The Min"									
-gameLocation: "Bishop's Park"									
-gameDate: "08/07/1984"									
-result: "Standard Bridge won by 6 wkts"									
-resultType: "Lost"									
-type: "game"									
+year: "1984"
+serialNumber: "0019"
+game: "Standard Bridge"
+title: "Standard Bridge -v- The Min"
+gameLocation: "Bishop's Park"
+gameDate: "08/07/1984"
+result: "Standard Bridge won by 6 wkts"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | c (keeper) | Joy | 0 | 
 | **J Grant &#8224;** | c | Joy | 10 | 
@@ -43,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Joy** | 7 | 5 | 12 | 3 | 
 | **Taylor** | 6 | 0 | 22 | 1 | 
@@ -55,7 +56,7 @@ Result: {result}
 
 ## Standard Bridge Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Lubienski** | c J Pakenham-Walsh | R Beswick | 1 | 
 | **Malloni** | not out | | 29 | 
@@ -81,7 +82,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Beswick** | 7 | 3 | 5 | 2 | 
 | **W Calvert** | 9 | 4 | 19 | 2 | 
@@ -92,6 +93,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 2 | 2 | 2 | 0 |

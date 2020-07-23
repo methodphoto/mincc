@@ -1,7 +1,8 @@
 ---
 year: "1982"
+serialNumber: "0005"
 game: "J Stimpfig's XI"
-title: "The Min v J Stimpfig's XI"
+title: "The Min -v- J Stimpfig's XI"
 gameLocation: "Coombe Dingle"
 gameDate: "07/06/1982"
 result: "J Stimfig's XI won by 5 wkts"
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **S Miller-Jones** | 10.2 | 1 | 51 | 2 |
 | **S Turner** | 6 | 1 | 20 | 0 |
@@ -77,7 +78,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 15 | 4 | 55 | 1|
 | **A Sylvester** | 16 | 2 | 71 | 3|
@@ -86,6 +87,6 @@ Result: {result}
 
 ### Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 3 | 1 | 1 | 0 |

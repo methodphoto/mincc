@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Logica"									
-title: "Logica v The Min"									
-gameLocation: "Wimbledon Park"									
-gameDate: "13/07/1986"									
-result: "The Min won by 8 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1986"
+serialNumber: "0054"
+game: "Logica"
+title: "Logica -v- The Min"
+gameLocation: "Wimbledon Park"
+gameDate: "13/07/1986"
+result: "The Min won by 8 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Logica Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **J Ford** | lbw | R Scotts | 7 | 
 | **P Doughty** | run out |  | 14 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Olver** | 8 | 6 | 2 | 2 | 
 | **R Scotts** | 5 | 2 | 16 | 1 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **J Pakenham-Walsh** | c | D Fieldhouse | 24 | 
 | **A Fielding** | c | D Fieldhouse | 5 | 
@@ -79,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **D Fieldhouse** | 8 | 0 | 56 | 2 | 
 | **S Leegood** | 6 | 0 | 37 | 0 | 
@@ -88,6 +89,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 56 | 3 | 2 | 0 |

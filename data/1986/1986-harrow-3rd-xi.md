@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Harrow 3rd XI"									
-title: "Harrow 3rd XI v The Min"									
-gameLocation: "Harrow"									
-gameDate: "17/08/1986"									
-result: "Match Drawn"									
-resultType: "Drawn"									
-type: "game"									
+year: "1986"
+serialNumber: "0058"
+game: "Harrow 3rd XI"
+title: "Harrow 3rd XI -v- The Min"
+gameLocation: "Harrow"
+gameDate: "17/08/1986"
+result: "Match Drawn"
+resultType: "Drawn"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | b | Brown | 12 | 
 | **J Grant &#8224;** | b | Ryan | 52 | 
@@ -43,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Mason** | 10 | 2 | 36 | 1 | 
 | **Brown** | 16 | 3 | 47 | 3 | 
@@ -54,7 +55,7 @@ Result: {result}
  
 ## Harrow 3rd XI Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Sheffield** | c D Young | M Kirwan | 7 | 
 | **Sumar** | b | A Gallagher | 72 | 
@@ -79,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 13 | 4 | 34 | 1 | 
 | **A Sylvester** | 10 | 4 | 35 | 1 | 
@@ -89,6 +90,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 6 | 5 | 3 | 0 |

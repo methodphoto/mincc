@@ -1,12 +1,13 @@
 ---
-year: "1983"									
-game: "Bathurst Arms"									
-title: "Bathurst Arms v The Min"									
-gameLocation: "North Cerney CC"									
-gameDate: "17/06/1983"									
-result: "The Min won by 4 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1983"
+serialNumber: "0014"
+game: "Bathurst Arms"
+title: "Bathurst Arms -v- The Min"
+gameLocation: "North Cerney CC"
+gameDate: "17/06/1983"
+result: "The Min won by 4 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Lobsters Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Evans** | c & b | M Kirwan | 1 | 
 | **Good** | c & b | M Kirwan | 4 | 
@@ -43,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 4 | 1 | 11 | 2 | 
 | **A Sylvester** | 3 | 0 | 15 | 0 | 
@@ -58,7 +59,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **J Booth** | b | T Calvert | 55 | 
 | **A Gallagher** | run out | | 19 | 
@@ -84,7 +85,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **C Nicholls** | 6 | 2 | 35 | 1 | 
 | **N Nicholls** | 3 | 0 | 20 | 1 | 
@@ -94,6 +95,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 4 | 0 | 1 | 0 |

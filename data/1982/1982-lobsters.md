@@ -1,12 +1,13 @@
 ---
-year: "1982"									
-game: "Lobsters"									
-title: "Lobsters v The Min"									
-gameLocation: "New Field"									
-gameDate: "15/06/1982"									
-result: "Lobsters won by 28 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1982"
+serialNumber: "0009"
+game: "Lobsters"
+title: "Lobsters -v- The Min"
+gameLocation: "New Field"
+gameDate: "15/06/1982"
+result: "Lobsters won by 28 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Lobsters Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Scott** | b | M Kirwan | 4 | 
 | **S Scott** | c M Gardiner | M Kirwan | 43 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 4 | 0 | 36 | 2 | 
 | **A Sylvester** | 3 | 0 | 12 | 1 | 
@@ -55,7 +56,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **J Booth** | b | Jacobs | 10 | 
 | **J Grant &#8224;** | b | Heald | 0 | 
@@ -80,7 +81,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Heald** | 2 | 1 | 12 | 1 | 
 | **Willis** | 1 | 1 | 5 | 0 | 
@@ -96,6 +97,6 @@ Result: {result}
 
 ### Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 5 | 3 | 1 | 0 |

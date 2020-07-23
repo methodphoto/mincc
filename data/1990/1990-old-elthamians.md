@@ -1,12 +1,13 @@
 ---
-year: "1990"									
-game: "Old Elthamians"									
-title: "Old Elthamians v The Min"									
-gameLocation: "Foxbury"									
-gameDate: "20/05/1990"									
-result: "Match Drawn"									
-resultType: "Drawn"									
-type: "game"									
+year: "1990"
+serialNumber: "0" 
+game: "Old Elthamians"
+title: "Old Elthamians -v- The Min"
+gameLocation: "Foxbury"
+gameDate: "20/05/1990"
+result: "Match Drawn"
+resultType: "Drawn"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **R Olver** | b | I Whalley | 0 | 
 | **R Earney** | c & b | M Wright | 0 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **I Whalley** | 7 | 3 | 11 | 1 | 
 | **M Wright** | 10 | 4 | 26 | 1 | 
@@ -54,7 +55,7 @@ Result: {result}
 
  ## Old Elthamians Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Hart** | c T Thirlwall | W Calvert | 30 | 
 | **H Sylvester** | c A Fielding | T Thirlwall | 21 | 
@@ -79,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **I Marshall** | 8 | 3 | 14 | 0 | 
 | **R Olver** | 5 | 1 | 11 | 0 | 
@@ -90,6 +91,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |

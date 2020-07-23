@@ -1,7 +1,8 @@
 ---
 year: "1982"
+serialNumber: "0007"
 game: "Leyhill"
-title: "Leyhill v The Min"
+title: "Leyhill -v- The Min"
 gameLocation: "Leyhill"
 gameDate: "12/06/1982"
 result: "Leyhill won by 93 runs"
@@ -17,7 +18,7 @@ Result: {result}
 
 ## Leyhill Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Rideout** | run out| | 3 | |
 | **M Harrlsmitt** | lbw | M Kirwan | 8 | |
@@ -43,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 12.2 | 1| 33 | 5 |
 | **A Sylvester** | 6 | 1| 22 | 0 |
@@ -55,7 +56,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **P Butler** | c F Rowe | R Coster | 12 | |
 | **A Gallagher** | b | R Coster | 1 | |
@@ -80,7 +81,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Coster** | 17.5 | 7| 30 | 6 |
 | **F Rowe** | 14 | 4| 34 | 3 |
@@ -88,6 +89,6 @@ Result: {result}
 
 ### Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 3 | 2 | 1 | 0 |

@@ -1,11 +1,11 @@
 ---
-slug: "& Slug &"
 year:"& Year &"
 game: "& Title &"
 title: "& Game &"
 gameLocation: "& Place & "
 gameDate: "& Date & "
 result: "&  Result & "
+resultType: ""
 type: "game"
 ---
 
@@ -89,6 +89,6 @@ Newington won the toss and inserted The Min who made 130-9 (all out)  Newington 
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 0 | 3 | 0 | 0 |

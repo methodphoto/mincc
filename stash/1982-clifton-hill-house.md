@@ -1,5 +1,6 @@
 ---
 year: "1982"
+serialNumber: "0" 
 game: "Clifton Hill House"
 title: "The Min -v- Clifton Hill House "
 gameLocation: "Coombe Dingle"
@@ -18,7 +19,7 @@ after 20 overs.
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **S Watson** | b | K Crisp | 26 |
 | **J Booth** | c K Crisp | Sullivan | 0 |
@@ -43,7 +44,7 @@ after 20 overs.
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **K Sullivan** | 4 | 1 | 13 | 1 |
 | **S Tanner** | 4 | 1 | 28 | 1 |
@@ -53,7 +54,7 @@ after 20 overs.
 
 ## Watton-at-Stone Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Honeyman** | c | M Kirwan | 0 |
 | **C Butler** | lbw | W Calvert | 16 |
@@ -78,7 +79,7 @@ after 20 overs.
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 4 | 4 | 0 | 1 |
 | **A Sylvester** | 4 | 1 | 18 | 0 |
@@ -89,6 +90,6 @@ after 20 overs.
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |

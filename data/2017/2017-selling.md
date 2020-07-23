@@ -1,11 +1,11 @@
 ---
-slug: "/2017/games/selling"
 year:"2017"
 game: "Selling"
 title: "Selling -v- The Min"
 gameLocation: "Cadman's Meadow"
 gameDate: "24/9/2017"
 result: "Selling won by 89 runs"
+resultType: "Lost"
 type: "game"
 ---
 
@@ -21,7 +21,7 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 |:---|:---|---|---:|
 | **O Lane &#43;** | c S Hornsby | I Marshall | 34 |
 | **D King** | b  | R Beswick | 36 |
-| **S Strickland** | b  | Shafi | 87 |
+| **S Strickland** | b  | S Islam | 87 |
 | **B Wilson** | b  | I Miah | 51 |
 | **N Myers** | c R Damaze | I Miah | 1 |
 | **R de Zoysa** | run out |  | 8 |
@@ -44,13 +44,13 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **D Hamlyn** | 3 | 0 | 20 | 0 |
-| **T Gower** | 4 | 0 | 30 | 0 |
-| **Mohan** | 5 | 0 | 25 | 0 |
-| **N Myers** | 8 | 3 | 23 | 3 |
-| **T Carter** | 2 | 0 | 8 | 0 |
-| **R de Zoysa** | 5 | 0 | 22 | 3 |
-| **O Lane** | 2 | 0 | 18 | 0 |
+| **I Marshall** | 8 | 1 | 31 | 1 |
+| **I Munkatum** | 8 | 1 | 37 | 0 |
+| **J Wright** | 5 | 0 | 43 | 0 |
+| **P Beswick** | 1 | 0 | 16 | 0 |
+| **R Beswick** | 8 | 0 | 54 | 1 |
+| **I Miah** | 7 | 0 | 44 | 2 |
+| **S Islam** | 3 | 0 | 16 | 1 |
 
 ## The Min Innings
 
@@ -58,7 +58,7 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 |:---|:---|---|---:|
 | **S Hornsby** | c O Lane | R de Zoysa | 35 |
 | **R Damaze** | b  | N Myers | 39 |
-| **Shafi** | run out |  | 5 |
+| **S Islam** | run out |  | 5 |
 | **R Beswick** | lbw | N Myers | 4 |
 | **A Gallagher** | c (mid wkt)  | N Myers | 24 |
 | **P Beswick** | c (mid on) | R de Zoysa | 0 |
@@ -67,8 +67,8 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 | **I Marshall** | lbw | b D King | 18 |
 | **J Wright** | b | Strickland | 2 |
 | **** |  |  |  |
-| **Extras** | | (2b 5lb 6w 0nb 0p) | **13** |
-| **Total** | | (40 overs) | **248 for 6 wkts** |
+| **Extras** | | (10b 2lb 0w 0nb 0p) | **13** |
+| **Total** | | (32 overs) | **159 for 9 wkts (all out)** |
 
 ## Fall of Wickets
 
@@ -81,16 +81,17 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **I Marshall** | 8 | 1 | 31 | 1 |
-| **I Munkatum** | 8 | 1 | 37 | 0 |
-| **J Wright** | 5 | 0 | 43 | 0 |
-| **P Beswick** | 1 | 0 | 16 | 0 |
-| **R Beswick** | 8 | 0 | 54 | 1 |
-| **I Miah** | 7 | 0 | 44 | 2 |
-| **Shafi** | 3 | 0 | 16 | 1 |
+| **D Hamlyn** | 3 | 0 | 20 | 0 |
+| **T Gower** | 4 | 0 | 30 | 0 |
+| **Mohan** | 5 | 0 | 25 | 0 |
+| **N Myers** | 8 | 3 | 23 | 3 |
+| **T Carter** | 2 | 0 | 8 | 0 |
+| **R de Zoysa** | 5 | 0 | 22 | 3 |
+| **O Lane** | 2 | 0 | 18 | 0 |
+
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
-| 2 |  | 1 | 0 |
+| 2 | 8 | 1 | 0 |

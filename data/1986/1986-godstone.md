@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Godstone"									
-title: "Godstone v The Min"									
-gameLocation: "Godstone"									
-gameDate: "29/06/2018"									
-result: "Godstone won by 103 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1986"
+serialNumber: "0052"
+game: "Godstone"
+title: "Godstone -v- The Min"
+gameLocation: "Godstone"
+gameDate: "29/06/2018"
+result: "Godstone won by 103 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Godstone Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Lilley** | st J Grant | T Purves | 34 | 
 | **C Knight** | c E Garland | J Wright | 29 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Beswick** | 5 | 0 | 17 | 0 | 
 | **W Calvert** | 5 | 1 | 20 | 0 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | c & b | Webb | 21 | 
 | **J Grant &#8224;** | c | 2 | 4 | 
@@ -79,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Webb** | 14.3 | 3 | 34 | 7 | 
 | **2** | 11 | 3 | 24 | 1 | 
@@ -88,6 +89,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 4 | 3 | 1 | 0 |

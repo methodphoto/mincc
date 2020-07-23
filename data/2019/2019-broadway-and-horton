@@ -1,5 +1,6 @@
 ---
 year: "2019"
+serialNumber: "0" 
 game: "Broadway & Horton"
 title: "Broadway & Horton -v- The Min"
 gameLocation: "Horton Cross"
@@ -19,7 +20,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Middleton Stoney Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | N Moorman | st J Grant | I Miah | 100 |
 | H Lancaster | b | P Wigg | 39 |
@@ -44,7 +45,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | Ishmael | 6 | 3 | 35 | 0 |
 | I Miah | 5 | 0 | 23 | 1 |
@@ -55,7 +56,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | I Miah | b | S Pettit | 0 |
 | Ishmael | b | E Barton | 10 |
@@ -80,7 +81,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | S Pettit |5 |1 |6 |2 |
 | AK Kamal |8 |4 |24 |0 |
@@ -92,7 +93,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
 
@@ -106,93 +107,93 @@ P Wigg first 'Michelle' for The Min (so perhaps he'll finally forgive me)
 
 The Min CC Innings
 
-Batsman	Runs
-R Beswick	c	J Salaman	32
-R Earney	c	J Pedlar	43
-A Beswick *	c	J Salaman	1
-S Hornsby	not out	
+BatsmanRuns
+R BeswickcJ Salaman32
+R EarneycJ Pedlar43
+A Beswick *cJ Salaman1
+S Hornsbynot out
 52
-P Wigg	c	A Dunmett	14
-M Belfrage	c	J Wilson	4
-W Calvert	c & b	H Payne	23
-N Garland	not out	
+P WiggcA Dunmett14
+M BelfragecJ Wilson4
+W Calvertc & bH Payne23
+N Garlandnot out
 3
-K Gallagher	did not bat	
+K Gallagherdid not bat
 
-C Wright	did not bat	
+C Wrightdid not bat
 
-J Grant †	did not bat	
+J Grant †did not bat
 
-Extras	(5b 5lb 9w 6nb 0p)	25
-Total	(35 overs)	197 6 wkts
+Extras(5b 5lb 9w 6nb 0p)25
+Total(35 overs)197 6 wkts
 Fall of Wickets
 
-W	1	2	3	4	5	6	7	8	9	10
-Sc	85	90	90	131	136	189	
+W12345678910
+Sc859090131136189
 
 
 
-Bt	1	2	3	5	6	7	
+Bt123567
 
 
 
 Bowling
 
-O	M	R	W
-T Pedlar	6	0	24	0
-S Driscoll	6	0	28	0
-J Pedlar	5	0	23	1
-J Salaman	5	0	26	2
-D Cook	2	0	12	0
-T Wilson	4	0	10	1
-A Dunmett	4	0	39	1
-H Payne	3	0	10	1
+OMRW
+T Pedlar60240
+S Driscoll60280
+J Pedlar50231
+J Salaman50262
+D Cook20120
+T Wilson40101
+A Dunmett40391
+H Payne30101
 
 
 
 Broadway & Horton Innings
 
-Batsman	Runs
-C Lant	c J Grant	P Wigg	4
-D Ford	c J Grant	R Beswick	0
-M Grabham	b	P Wigg	1
-D Cook	b	P Wigg	7
-H Payne	c & b	P Wigg	1
-J Salaman	c A Beswick	P Wigg	6
-J Pedlar	c P Wigg	N Garland	1
-S Driskell	b	C Wight	4
-T Wilson	c R Beswick	C Wright	1
-T Pedlar	not out	
+BatsmanRuns
+C Lantc J GrantP Wigg4
+D Fordc J GrantR Beswick0
+M GrabhambP Wigg1
+D CookbP Wigg7
+H Paynec & bP Wigg1
+J Salamanc A BeswickP Wigg6
+J Pedlarc P WiggN Garland1
+S DriskellbC Wight4
+T Wilsonc R BeswickC Wright1
+T Pedlarnot out
 2
-A Dunmett	lbw	N Garland	1
-Extras	(1b 0lb 3w 0nb 0p)	25
-Total	(17.3 overs)	197 all out
+A DunmettlbwN Garland1
+Extras(1b 0lb 3w 0nb 0p)25
+Total(17.3 overs)197 all out
 Fall of Wickets
 
-W	1	2	3	4	5	6	7	8	9	10
-Sc	0	
-15	17	23	
-26	32	
+W12345678910
+Sc0
+151723
+2632
 
-Bt	2	
-7	1	
+Bt2
+71
 
 
 
 Bowling
 
 
-O	M	R	W
-P Wigg	6	3	12	5
-R Beswick	2	1	7	1
-K Gallagher	4	2	4	0
-N Garland	2.3	0	3	2
-C Wright	2	0	5	2
+OMRW
+P Wigg63125
+R Beswick2171
+K Gallagher4240
+N Garland2.3032
+C Wright2052
 
 
 
 
 Season Win/Loss Record
 
-Win	Loss	Draw	Tie
-3	4	1	0
+WinLossDrawTie
+3410

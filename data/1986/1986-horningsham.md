@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Horningsham"									
-title: "Horningsham v The Min"									
-gameLocation: "Horningsham"									
-gameDate: "21/06/1986"									
-result: "Horningsham won by 1 wkt"									
-resultType: "Lost"									
-type: "game"									
+year: "1986"
+serialNumber: "0051"
+game: "Horningsham"
+title: "Horningsham -v- The Min"
+gameLocation: "Horningsham"
+gameDate: "21/06/1986"
+result: "Horningsham won by 1 wkt"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | c | N Sercombe | 13 | 
 | **R Olver** | b | P Lovett | 34 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **P Lovett** | 9 | 0 | 39 | 1 | 
 | **N Sercombe** | 7 | 1 | 29 | 1 | 
@@ -52,7 +53,7 @@ Result: {result}
 
 ## Horningsham Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **B Pollard** | b | J Wright | 13 | 
 | **M Lapham** | c & b | J Grant | 10 | 
@@ -78,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **A Fielding** | 1 | 0 | 12 | 0 | 
 | **J Wright** | 6 | 1 | 12 | 2 | 
@@ -90,6 +91,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 4 | 2 | 1 | 0 |

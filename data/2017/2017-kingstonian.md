@@ -1,11 +1,11 @@
 ---
-slug: "& Slug &"
 year:"& Year &"
 game: "& Title &"
 title: "& Game &"
 gameLocation: "& Place & "
 gameDate: "& Date & "
 result: "&  Result & "
+resultType: ""
 type: "game"
 ---
 
@@ -89,6 +89,6 @@ The Min batted first and scored 200-8 (all out). Kingstonian made 204-4, so won 
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 0 | 2 | 0 | 0 |

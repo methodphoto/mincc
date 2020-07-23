@@ -1,5 +1,6 @@
 ---
 year: "1982"
+serialNumber: "0002"
 game: "A Good Length"
 title: "The Min -v- A Good Length"
 gameLocation: "Coombe Dingle"
@@ -20,7 +21,7 @@ Ken Sullivan - Best Bowling by The Min
 
 ## A Good Length Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **P Clothier** | c J Grant | M Kirwan | 45 |
 | **T Gladstone** | run out | | 7 |
@@ -45,7 +46,7 @@ Ken Sullivan - Best Bowling by The Min
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 12 | 4 | 31 | 2 |
 | **A Sylvester** | 6 | 0 | 25 | 0 |
@@ -54,7 +55,7 @@ Ken Sullivan - Best Bowling by The Min
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **J Booth** | not out | 20 |
 | **J Grant &#8224;** | not out | 19 |
@@ -79,7 +80,7 @@ Ken Sullivan - Best Bowling by The Min
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Davis** | 5 | 0 | 19 | 0 |
 | **R Ashe** | 7.1 | 4 | 8 | 0 |
@@ -87,6 +88,6 @@ Ken Sullivan - Best Bowling by The Min
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |

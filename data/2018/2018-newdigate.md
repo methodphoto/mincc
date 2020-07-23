@@ -1,10 +1,10 @@
 ---
 year:"2018"
 game: "Newdigate"
-title: "Newdigate v The Min"
+title: "Newdigate -v- The Min"
 gameLocation: "Sellicks Green"
 gameDate: "30/09/2018"
-result: "Blagdon Hill won by 5 wkts"
+result: ""
 resultType: "Lost"
 type: "game"
 ---
@@ -17,7 +17,7 @@ In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs. 
 |:---|:---|---|---:|
 | **J Jones** | lbw | M Bouerman | 113 |
 | **G Vinall** | b | I Miah | 3 |
-| **J Earl *** | c A Altaf | I Miah | 48 |
+| **J Earl &#42;** | c A Altaf | I Miah | 48 |
 | **C Finch** | b | J Wright | 17 |
 | **S Finch** | not out |  | 47 |
 | **K Morgan** | lbw | J Wright | 0 |
@@ -87,6 +87,6 @@ In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs. 
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 |  |  |  |  |

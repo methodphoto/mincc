@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Old Elthamians"									
-title: "Old Elthamians v The Min"									
-gameLocation: "Foxbury"									
-gameDate: "18/05/1986"									
-result: "The Min won by 6 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1986"
+serialNumber: "0047"
+game: "Old Elthamians"
+title: "Old Elthamians -v- The Min"
+gameLocation: "Foxbury"
+gameDate: "18/05/1986"
+result: "The Min won by 6 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Old Elthamians Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Ju Guthrie** | b  | W Wright | 14 | 
 | **Wilson** | c | R Olver | 71 | 
@@ -43,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **W Wright** | 12 | 3 | 46 | 2 | 
 | **R Olver** | 15 | 7 | 25 | 4 | 
@@ -55,7 +56,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | b | Napier | 1 | 
 | **J Grant** | c | Manchip | 63 | 
@@ -81,7 +82,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Napier** | 6 | 0 | 33 | 1 | 
 | **Wilson** | 5 | 1 | 13 | 0 | 
@@ -93,6 +94,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 2 | 0 | 1 | 0 |

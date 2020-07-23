@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "Old Elthamians"									
-title: "Old Elthamians v The Min"									
-gameLocation: "Foxbury"									
-gameDate: "02/09/1984"									
-result: "The Min won by 2 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1984"
+serialNumber: "0027"
+game: "Old Elthamians"
+title: "Old Elthamians -v- The Min"
+gameLocation: "Foxbury"
+gameDate: "02/09/1984"
+result: "The Min won by 2 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -18,7 +19,7 @@ Result: {result}
 
 ## Old Elthamians Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **N Comber** | c J Wright | A Sylvester | 40 | 
 | **M Wright** | b | A Sylvester | 8 | 
@@ -43,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 9 | 3 | 39 | 2 | 
 | **A Sylvester** | 8 | 3 | 37 | 2 | 
@@ -56,7 +57,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | b | N Comber | 2 | 
 | **D Young** | b | N Comber | 0 |
@@ -82,7 +83,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **N Comber** | 16.2 | 7 | 31 | 3 | 
 | **K Gilmour** | 5 | 1 | 21 | 0 | 
@@ -93,6 +94,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 6 | 5 | 2 | 0 |

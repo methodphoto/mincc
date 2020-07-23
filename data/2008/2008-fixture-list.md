@@ -16,7 +16,7 @@ type: "fixtures"
 
 ## June
 
-| 8th | 14:00 | [Middleton Stoney ](2008-middleton-stoney.md) | [Away]() |
+| 8th | 14:00 | [Middleton Stoney ](2008-middleton-stoney.md) | [Away](https://goo.gl/maps/NKG1fHyPgmci55aGA) |
 | 15th | 14:00 | [Newdigate ](2008-newdigate.md) | [Away](https://goo.gl/maps/kQnkUfc3MdtqLyvd8) |
 | 22th | 14:00 | [Watton-at-Stone ](2008-watton-at-stone.md) | [Away]() |
 

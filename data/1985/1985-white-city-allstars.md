@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "White City All Stars"									
-title: "White City All Stars v The Min"									
-gameLocation: "Gunnersbury Park"									
-gameDate: "27/04/1985"									
-result: "White City All Stars won by 55 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1985"
+serialNumber: "0029"
+game: "White City All Stars"
+title: "White City All Stars -v- The Min"
+gameLocation: "Gunnersbury Park"
+gameDate: "27/04/1985"
+result: "White City All Stars won by 55 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## White City All Stars Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **P Stevenson** |  | M Kirwan | 1 | 
 | **R Gordon-Walker** | c W Calvert | M Kirwan | 64 | 
@@ -43,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 13 | 0 | 38 | 4 | 
 | **R Beswick** | 5 | 0 | 31 | 0 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | b | N Oborne | 30 | 
 | **M Kirwan** | b | A Jacot | 4 | 
@@ -79,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **N Oborne** | 9 | 0 | 38 | 3 | 
 | **A Jacot** | 6.4 | 1 | 23 | 3 | 
@@ -90,6 +91,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 1 | 0 | 0 |

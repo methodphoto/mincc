@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Valley End"									
-title: "Valley End v The Min"									
-gameLocation: "Valley End"									
-gameDate: "06/07/1986"									
-result: "Match Drawn"									
-resultType: "Drawn"									
-type: "game"									
+year: "1986"
+serialNumber: "0053"
+game: "Valley End"
+title: "Valley End -v- The Min"
+gameLocation: "Valley End"
+gameDate: "06/07/1986"
+result: "Match Drawn"
+resultType: "Drawn"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Godstone Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **E Mason** | st J Grant | M Taylor | 0 | 
 | **J Talbot** | b | A Sylvester | 8 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Taylor** | 10 | 1 | 43 | 4 | 
 | **A Sylvester** | 10 | 1 | 35 | 1 | 
@@ -51,7 +52,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | c C Chadwick | D Spencer | 10 | 
 | **J Grant &#8224;** | c D Spencer | J King | 28 | 
@@ -77,7 +78,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **D Spencer** | 7 | 2 | 17 | 1 | 
 | **E Mason** | 8 | 2 | 19 | 1 | 
@@ -87,6 +88,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 4 | 3 | 2 | 0 |

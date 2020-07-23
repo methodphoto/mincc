@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Petts Wood"									
-title: "Petts Wood v The Min"									
-gameLocation: "Willett Recreation Ground"									
-gameDate: "02/06/1985"									
-result: "The Min won by 5 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1985"
+serialNumber: "0034"
+game: "Petts Wood"
+title: "Petts Wood -v- The Min"
+gameLocation: "Willett Recreation Ground"
+gameDate: "02/06/1985"
+result: "The Min won by 5 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Petts Wood Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Cook** | c J Grant | A Sylvester | 7 | 
 | **Overend** | run out |  | 21 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Beswick** | 17 | 4 | 49 | 3 | 
 | **A Sylvester** | 10 | 4 | 32 | 5 | 
@@ -50,7 +51,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | c | Slade | 22 | 
 | **J Grant &#8224;** | c | Walshe | 16 | 
@@ -76,7 +77,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Slade** | 11 | 0 | 45 | 2 | 
 | **Cope** | 4 | 0 | 15 | 0 | 
@@ -86,6 +87,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 4 | 2 | 0 | 0 |

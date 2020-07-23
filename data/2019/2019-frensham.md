@@ -1,5 +1,6 @@
 ---
 year: "2019"
+serialNumber: "0" 
 game: "Blagdon Hill"
 title: "Blagdon Hill -v- The Min"
 gameLocation: "Sellicks Green"
@@ -19,7 +20,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Middleton Stoney Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | N Moorman | st J Grant | I Miah | 100 |
 | H Lancaster | b | P Wigg | 39 |
@@ -44,7 +45,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | Ishmael | 6 | 3 | 35 | 0 |
 | I Miah | 5 | 0 | 23 | 1 |
@@ -55,7 +56,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | I Miah | b | S Pettit | 0 |
 | Ishmael | b | E Barton | 10 |
@@ -80,7 +81,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | S Pettit |5 |1 |6 |2 |
 | AK Kamal |8 |4 |24 |0 |
@@ -92,7 +93,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
 

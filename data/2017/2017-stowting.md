@@ -1,17 +1,17 @@
 ---
-slug: "/2017/games/stowting"
 year:"2017"
 game: "Stowting"
 title: "Stowting -v- The Min"
 gameLocation: "Dawes Field"
 gameDate: "28/08/2017"
 result: "Stowting won by 13 runs"
+resultType: ""
 type: "game"
 ---
 
 Played at {gameLocation} on {date}
 
-Stowting won the toss and batted scoring 166-9  The Min made 153 all out in reply
+Stowting won the toss and batted scoring 166 for 9 wkts  The Min made 153 all out in reply
 
 **Result:** {result}
 
@@ -26,7 +26,7 @@ Stowting won the toss and batted scoring 166-9  The Min made 153 all out in repl
 | **A Causton** | c R Beswick | J Wright | 4 |
 | **S Graham** | c R Earney | J Wright | 17 |
 | **G Sheen** | b  | N Garland | 18 |
-| **D Jackson &#42; &dagger;** | b | N Garland | 14 |
+| **D Jackson &#42;** | b | N Garland | 14 |
 | **C Jackson** | b | Altaf | 8 |
 | **M Jackson** | not out |  | 21 |
 | **L Causton** | not out |  | 0 |
@@ -50,7 +50,6 @@ Stowting won the toss and batted scoring 166-9  The Min made 153 all out in repl
 | **S Graham** | 7 | 2 | 21 | 2 |
 | **C Jackson** | 7 | 0 | 36 | 1 |
 | **G Sheen** | 5 | 1 | 21 | 2 |
-| **** |  |  |  |  |
 
 ## The Min Innings
 
@@ -68,7 +67,7 @@ Stowting won the toss and batted scoring 166-9  The Min made 153 all out in repl
 | **P Beswick** | b | G Sheen | 24 |
 | **J Wright** | not out |  | 0 |
 | **Extras** | | (8b 0lb 4w 2nb 0p) | **14** |
-| **Total** | | (48 overs) | **166 for 9 wkts** |
+| **Total** | | (39.2 overs) | **153 all out** |
 
 ## Fall of Wickets
 
@@ -91,6 +90,6 @@ Stowting won the toss and batted scoring 166-9  The Min made 153 all out in repl
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 1 | 6 | 1 | 0 |

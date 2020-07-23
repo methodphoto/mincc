@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "West Wickham"									
-title: "West Wickham v The Min"									
-gameLocation: "West Wickham"									
-gameDate: "12/05/1986"									
-result: "The Min won by 2 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1986"
+serialNumber: "0046"
+game: "West Wickham"
+title: "West Wickham -v- The Min"
+gameLocation: "West Wickham"
+gameDate: "12/05/1986"
+result: "The Min won by 2 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -19,7 +20,7 @@ Andrew Gallagher and Phill Goult: 100 partnership
  
 ## West Wickham Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Yarrow** | c | W Wright | 35 | 
 | **Hanley** | b | R Scotts | 0 | 
@@ -44,7 +45,7 @@ Andrew Gallagher and Phill Goult: 100 partnership
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **W Calvert** | 10 | 1 | 44 | 2 | 
 | **R Scotts** | 4 | 0 | 28 | 1 | 
@@ -55,7 +56,7 @@ Andrew Gallagher and Phill Goult: 100 partnership
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | lbw | Yarrow | 39 | 
 | **J Grant &#8224;** | b | S Wright | 6 | 
@@ -81,7 +82,7 @@ Andrew Gallagher and Phill Goult: 100 partnership
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **S Wright** | 6 | 0 | 34 | 1 | 
 | **Jobson** | 5 | 0 | 29 | 0 | 
@@ -91,6 +92,6 @@ Andrew Gallagher and Phill Goult: 100 partnership
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |

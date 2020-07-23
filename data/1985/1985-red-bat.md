@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Red Bat"									
-title: "Red Bat v The Min"									
-gameLocation: "Dulwich Park"									
-gameDate: "26/05/1985"									
-result: "The Min won by 41 runs"									
-resultType: "Won"									
-type: "game"									
+year: "1985"
+serialNumber: "0033"
+game: "Red Bat"
+title: "Red Bat -v- The Min"
+gameLocation: "Dulwich Park"
+gameDate: "26/05/1985"
+result: "The Min won by 41 runs"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | c | Gill | 20 | 
 | **J Grant &#8224;** | b | O'Connor | 14 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **O'Connor** | 7 | 0 | 31 | 1 | 
 | **Pott** | 6 | 1 | 38 | 2 | 
@@ -52,7 +53,7 @@ Result: {result}
  
 ## West Wickham Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **M Grammer** | c T Horsey | R Beswickt | 6 | 
 | **G Grammer** | c J Grant | W Calvert | 6 | 
@@ -77,7 +78,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Beswick** | 6 | 2 | 14 | 2 | 
 | **W Calvert** | 7 | 4 | 9 | 2 | 
@@ -87,6 +88,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 3 | 2 | 0 | 0 |

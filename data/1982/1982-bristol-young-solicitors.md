@@ -1,7 +1,8 @@
 ---
 year: "1982"
+serialNumber: "0008"
 game: "Bristol Young Solicitors" 
-title: "The Min v Bristol Young Solicitors"
+title: "The Min -v- Bristol Young Solicitors"
 gameLocation: "Coombe Dingle"
 gameDate: "14/06/1982"
 result: "The Min won by 5 wkts"
@@ -17,7 +18,7 @@ Result: {result}
 
 ## Bristol Young Solicitors Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Allen** | b | J Wright | 4 | 
 | **Chivers** | c M Kirwan | J Wright | 6 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 3 | 1 | 5 | 0 |
 | **J Wright** | 3 | 2 | 6 | 2 |
@@ -57,7 +58,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **J Booth** | c & b | Bretton | 5 | 
 | **A Gallagher** | c & b | Bretton | 0 | 
@@ -82,7 +83,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Morris** | 4 | 1 | 8 | 0 |
 | **Bretton** | 4 | 1 | 17 | 2 |
@@ -93,6 +94,6 @@ Result: {result}
 
 ### Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 5 | 2 | 1 | 0 |

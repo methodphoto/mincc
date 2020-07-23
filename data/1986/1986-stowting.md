@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Stowting"									
-title: "Stowting v The Min"									
-gameLocation: "Stowting"									
-gameDate: "07/09/1986"									
-result: "Stowting won by 74 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1986"
+serialNumber: "0059"
+game: "Stowting"
+title: "Stowting -v- The Min"
+gameLocation: "Stowting"
+gameDate: "07/09/1986"
+result: "Stowting won by 74 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Stowting Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **D Jackson** | c | W Wright | 35 | 
 | **G Woodward** | b | R Scotts | 0 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 11 | 2 | 49 | 3 | 
 | **A Sylvester** | 11 | 2 | 36 | 2 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | b | A Perry | 25 | 
 | **J Grant &#8224;** | c | A Perry | 11 | 
@@ -78,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **B Falconer** | 11 | 0 | 49 | 0 | 
 | **A Perry** | 16 | 6 | 24 | 7 | 
@@ -86,6 +87,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 6 | 6 | 3 | 0 |

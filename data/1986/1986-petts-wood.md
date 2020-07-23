@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Petts Wood"									
-title: "Petts Wood CC v The Min"									
-gameLocation: "Willett Recreation Ground"									
-gameDate: "26/04/1986"									
-result: "Match Drawn"									
-resultType: "Drawn"									
-type: "game"									
+year: "1986"
+serialNumber: "0045"
+game: "Petts Wood"
+title: "Petts Wood CC -v- The Min"
+gameLocation: "Willett Recreation Ground"
+gameDate: "26/04/1986"
+result: "Match Drawn"
+resultType: "Drawn"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Petts Wood Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Cook** | c J Grant | M Kirwan | 0 | 
 | **Overend** | not out |  | 50 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 16 | 3 | 55 | 2 | 
 | **A Sylvester** | 9 | 1 | 35 | 1 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | c | Chisholm | 15 | 
 | **J Grant &#8224;** | b | Smith | 3 | 
@@ -79,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Chisholm** | 11 | 0 | 41 | 2 | 
 | **Smith** | 7 | 3 | 6 | 1 | 
@@ -90,6 +91,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |

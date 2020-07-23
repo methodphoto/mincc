@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Brook"									
-title: "Brook v The Min"									
-gameLocation: "The Pirrie Hall Recreation Ground"									
-gameDate: "14/06/1986"									
-result: "The Min won by 4 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1986"
+serialNumber: "0050"
+game: "Brook"
+title: "Brook -v- The Min"
+gameLocation: "The Pirrie Hall Recreation Ground"
+gameDate: "14/06/1986"
+result: "The Min won by 4 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -19,7 +20,7 @@ E Garland: Best bowling
  
 ## Brook Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Wallis** | b | M Kirwan | 24 | 
 | **North** | c R Beswick | A Sylvester | 35 | 
@@ -45,7 +46,7 @@ E Garland: Best bowling
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 14 | 1 | 28 | 2 | 
 | **R Olver** | 6 | 0 | 35 | 0 | 
@@ -55,7 +56,7 @@ E Garland: Best bowling
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | c | North | 5 | 
 | **A Fielding** | c Richardson | North | 0 | 
@@ -81,7 +82,7 @@ E Garland: Best bowling
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Richardson** | 14 | 3 | 36 | 2 | 
 | **North** | 15.1 | 3 | 41 | 3 | 
@@ -90,6 +91,6 @@ E Garland: Best bowling
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 4 | 1 | 1 | 0 |

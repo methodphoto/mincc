@@ -1,5 +1,6 @@
 ---
 year: "1983"
+serialNumber: "0010"
 game: "Lobsters"
 title: "Lobsters -v- The Min"
 gameLocation: "New Field"
@@ -17,7 +18,7 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **T Purves** | c Milligan | Nuttall | 27 |
 | **A Gallagher** | c Rodgers | Trafford | 25 |
@@ -42,7 +43,7 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Dunfield** | 2 | 0 | 11 | 0 |
 | **Siddle** | 2 | 0 | 18 | 0 |
@@ -56,7 +57,7 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 
 ## Lobsters Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Nuttall** | c & b | P Challoner | 17 |
 | **Trafford** | run out |  | 0 |
@@ -81,7 +82,7 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **A Sylvester** | 2 | 0 | 9 | 0 |
 | **Jones** | 2 | 1 | 3 | 0 |
@@ -96,6 +97,6 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |

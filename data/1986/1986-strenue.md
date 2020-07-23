@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Strenue"									
-title: "Strenue v The Min"									
-gameLocation: ""									
-gameDate: "27/07/1986"									
-result: "Strenue won by 33 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1986"
+serialNumber: "0056"
+game: "Strenue"
+title: "Strenue -v- The Min"
+gameLocation: ""
+gameDate: "27/07/1986"
+result: "Strenue won by 33 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Strenue Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Wilks** | c S Foster | S Mears | 75 | 
 | **Finch** | b | S Foster | 66 | 
@@ -42,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **A Speak** | 7 | 1 | 22 | 0 | 
 | **J Wright** | 9 | 3 | 39 | 0 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | c Finch | Chapman | 34 | 
 | **D Young** | run out |  | 18 | 
@@ -78,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Lawson** | 11 | 2 | 35 | 2 | 
 | **Chapman** | 5 | 1 | 30 | 1 | 
@@ -88,6 +89,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 5 | 5 | 2 | 0 |

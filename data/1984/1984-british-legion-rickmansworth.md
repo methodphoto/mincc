@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "British Legion Rickmansworth"									
-title: "British Legion Rickmansworth v The Min"									
-gameLocation: "Scotsridge Field"									
-gameDate: "18/08/1984"									
-result: "British Legion Rickmansworth won by 8 wkts"									
-resultType: "Lost"									
-type: "game"									
+year: "1984"
+serialNumber: "0026"
+game: "British Legion Rickmansworth"
+title: "British Legion Rickmansworth -v- The Min"
+gameLocation: "Scotsridge Field"
+gameDate: "18/08/1984"
+result: "British Legion Rickmansworth won by 8 wkts"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | b | Edwards | 37 | 
 | **W Calvert** | b | Thomas | 2 |
@@ -43,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **S Gravestock** | 11 | 5 | 13 | 0 | 
 | **Thomas** | 6 | 1 | 11 | 1 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## British Legion Rickmansworth Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Strickland** | c R Beswick | J Wright | 18 | 
 | **Thorpe** | b | W Calvert | 23 | 
@@ -78,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **W Calvert** | 11 | 1 | 41 | 1 | 
 | **R Beswick** | 4 | 0 | 18 | 0 | 
@@ -90,6 +91,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 5 | 5 | 2 | 0 |

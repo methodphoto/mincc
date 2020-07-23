@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "Lobsters"									
-title: "Lobsters v The Min"									
-gameLocation: "New Field"									
-gameDate: "24/06/1984"									
-result: "Match Drawn"									
-resultType: "Drawn"									
-type: "game"									
+year: "1984"
+serialNumber: "0018"
+game: "Lobsters"
+title: "Lobsters -v- The Min"
+gameLocation: "New Field"
+gameDate: "24/06/1984"
+result: "Match Drawn"
+resultType: "Drawn"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | c C Cottrell | Willis | 34 | 
 | **J Grant &#8224;** | c C Cottrell | Siddall | 14 | 
@@ -43,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **C Cottrell** | 4 | 0 | 14 | 0 | 
 | **Grummet** | 4 | 0 | 25 | 0 | 
@@ -58,7 +59,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **Nuttal** | c D Mundy | D Young | 31 | 
 | **Willis** | lbw | M Kirwan | 0 | 
@@ -84,7 +85,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 5 | 1 | 15 | 1 | 
 | **A Sylvester** | 4 | 1 | 13 | 0 | 
@@ -97,6 +98,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 1 | 1 | 2 | 0 |

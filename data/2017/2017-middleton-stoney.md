@@ -1,11 +1,11 @@
 ---
-slug: "& Slug &"
 year:"& Year &"
 game: "& Title &"
 title: "& Game &"
 gameLocation: "& Place & "
 gameDate: "& Date & "
 result: "&  Result & "
+resultType: ""
 type: "game"
 ---
 
@@ -92,6 +92,6 @@ R.Simpson 100 off 46 balls
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 0 | 1 | 0 | 0 |

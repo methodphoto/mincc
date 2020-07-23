@@ -1,11 +1,11 @@
 ---
-slug: "& Slug &"
 year:"& Year &"
 game: "& Title &"
 title: "& Game &"
 gameLocation: "& Place & "
 gameDate: "& Date & "
 result: "&  Result & "
+resultType: ""
 type: "game"
 ---
 
@@ -89,6 +89,6 @@ The Min won the toss and inserted Frensham, who made 198-7  The Min replied with
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 1 | 3 | 0 | 0 |

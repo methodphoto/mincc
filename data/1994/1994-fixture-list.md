@@ -13,7 +13,7 @@ type: "fixtures"
 ## July
 
 | 3rd | 14:00 | [Old Elthamians](1994-old-elthamians.md) | [Away](https://goo.gl/maps/FQbBNZQTFggEmhfv9) |
-| 17th | 14:00 | [Polytechnic III](1994-polytechnic-iii.md) | Home |
+| 17th | 14:00 | [Polytechnic III](1994-polytechnic-iii.md) | [Home]() |
 
 ## The Min Tour 1994 – July
 

@@ -1,12 +1,13 @@
 ---
-year: "1983"									
-game: "Nigel Hoare's XI"									
-title: "The Min -v- Nigel Hoare's XI"									
-gameLocation: "Coombe Dingle"									
-gameDate: "12/06/1983"									
-result: "The Min won by 43 runs"									
-resultType: "Won"									
-type: "game"									
+year: "1983"
+serialNumber: "0011"
+game: "Nigel Hoare's XI"
+title: "The Min -v- Nigel Hoare's XI"
+gameLocation: "Coombe Dingle"
+gameDate: "12/06/1983"
+result: "The Min won by 43 runs"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **A Gallagher** | c C Bowman | P Whitehead | 81 | 
 | **S Watson** | b | C Bowman | 21 | 
@@ -43,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **C Bowman** | 8 | 2 | 39 | 1 | 
 | **R Lovegrove** | 5 | 1 | 21 | 0 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## Nigel Hoare's XI Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **R Hoare** | c | M Kirwan | 0 | 
 | **M Webb** | b | A Jones | 30 | 
@@ -79,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 7 | 0 | 28 | 3 | 
 | **A Sylvester** | 4 | 0 | 30 | 1 | 
@@ -89,6 +90,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 2 | 0 | 0 | 0 |

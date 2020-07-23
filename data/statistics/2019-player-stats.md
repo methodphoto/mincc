@@ -6,7 +6,7 @@ type: "statistics"
 
 ## 2019 Season Batting (by Runs)
 
-| Player | Inns | No | Runs | Ave |
+| Player | Inns |  |  | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- |
 | **Alf Beswick** | 7 | 2 | 289 | 57.8 |
 | **Richard Earney** | 10 | 0 | 255 | 25.5 |
@@ -48,7 +48,7 @@ type: "statistics"
 
 ## 2019 Season Batting (by Batting Ave)
 
-| Player | Inns | No | Runs | Ave |
+| Player | Inns |  |  | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- |
 | **Alf Beswick** | 7 | 2 | 289 | 57.8 |
 | **Steven Hornsby** | 3 | 1 | 94 | 47 |
@@ -89,7 +89,7 @@ type: "statistics"
 
 ###2019 Season Bowling (by Wickets)
 
-| Player | O | M | R | W | Ave | SR |
+| Player | O |  |  | R | W | Ave |  |  |
 |:--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Patrick Wigg** | 45 | 9 | 183 | 12 | 15.25 | 22.5 |
 | **Richard Beswick** | 42.6 | 3 | 228 | 8 | 28.5 | 31.95 |
@@ -110,7 +110,7 @@ type: "statistics"
 
 ###2019 Season Bowling (by Bowling Ave)
 
-| Player | O | M | R | W | Ave | SR |
+| Player | O |  |  | R | W | Ave |  |  |
 |:--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Brock Boyd-Taylor** | .1 | 0 | 0 | 1 | 0 | .6 |
 | **Ned Garland** | 12.3 | 2 | 31 | 4 | 7.75 | 18.45 |
@@ -131,8 +131,8 @@ type: "statistics"
 
 ## Career Batting (min 250 Runs)
 
-Player	M	Inns	NOs	Runs	Ave
-| Player | M | Inns | NOs | Runs | Ave |
+PlayerMInnsNOsRunsAve
+| Player | M |  |  | NOs | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- | :--- |
 | **Richard Earney** | 350 | 342 | 28 | 9179 | 29.23 |
 | **Richard Beswick** | 478 | 429 | 63 | 7937 | 21.69 |
@@ -179,7 +179,7 @@ Player	M	Inns	NOs	Runs	Ave
 
 ## Career Batting by Ave (min 250 Runs)
 
-| Player | M | Inns | NOs | Runs | Ave |
+| Player | M |  |  | NOs | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- | :--- |
 | **James Hylton** | 9 | 8 | 2 | 542 | 90.33 |
 | **David Swann** | 21 | 20 | 5 | 755 | 50.33 |
@@ -227,7 +227,7 @@ Player	M	Inns	NOs	Runs	Ave
 
 ###Career Bowling by Wkts (min 25 wkts)
 
-| Player | M | O | M | R | W | Ave | SR |
+| Player | M |  |  | M | R | W |  |  | SR |
 |:--- | :--- | :--- | :--- | :--- | :--- |
 | **Jerry Wright** | 379 | 2668.8 | 351 | 10509 | 535 | 19.64 | 29.93 |
 | **Richard Beswick** | 478 | 2115 | 442 | 7772 | 428 | 18.16 | 29.65 |
@@ -243,7 +243,7 @@ Player	M	Inns	NOs	Runs	Ave
 | **Andrew MacFarlane** | 34 | 357.2 | 70 | 1041 | 68 | 15.31 | 31.52 |
 | **Richard Green** | 34 | 265.1 | 27 | 1042 | 63 | 16.54 | 25.25 |
 | **Paul O’Mahony** | 52 | 364.8 | 49 | 1445 | 57 | 25.35 | 38.40 |
-| **Richard Olver** | 45 | 304 | 69 | 931 | 49 | 19.00 | 37.22 |
+| **Richard Olver** | 45 | 304 | 69 | 931 | 49 | 19.00fg | 37.22 |
 | **Andrew Gallagher** | 135 | 202 | 12 | 1082 | 47 | 23.02 | 25.79 |
 | **Graeme Wright** | 49 | 339 | 56 | 1101 | 47 | 23.43 | 43.28 |
 | **Tom Rutherford** | 63 | 256.2 | 31 | 1045 | 47 | 22.23 | 32.71 |
@@ -260,7 +260,7 @@ Player	M	Inns	NOs	Runs	Ave
 ###Career Bowling by Ave (min 25 wkts)
 
 
-| Player | M | O | M | R | W | Ave | SR |
+| Player | M |  |  | M | R | W |  |  | SR |
 |:--- | :--- | :--- | :--- | :--- | :--- |
 | **Tony Purves** | 18 | 111.8 | 14 | 488 | 36 | 13.56 | 18.63 |
 | **Andrew MacFarlane** | 34 | 357.2 | 70 | 1041 | 68 | 15.31 | 31.52 |

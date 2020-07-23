@@ -1,5 +1,6 @@
 ---
 year: "2019"
+serialNumber: "0" 
 game: "Watton-at-Stone"
 title: "Watton-at-Stone -v- The Min"
 gameLocation: "The Meadow"
@@ -17,7 +18,7 @@ The Min won the toss and batted first in a 35 over game. The Min made 159-8. Wat
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **R Beswick *** | c (keeper) | Williams | 32 |
 | **R Earney** | b | Gundy | 24 |
@@ -42,7 +43,7 @@ The Min won the toss and batted first in a 35 over game. The Min made 159-8. Wat
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Kiddie** | 5 | 0 | 28 | 0 |
 | **Gundy** | 5 | 1 | 13 | 1 |
@@ -53,7 +54,7 @@ The Min won the toss and batted first in a 35 over game. The Min made 159-8. Wat
 
 ## Watton-at-Stone Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | **W Emsley** | b | R.Earney | 5 |
 | **R Atkin** | not out |   | 64 |
@@ -78,7 +79,7 @@ The Min won the toss and batted first in a 35 over game. The Min made 159-8. Wat
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **C Garland** | 7 | 0 | 25 | 0 |
 | **R Earney** | 7 | 1 | 12 | 1 |
@@ -90,6 +91,6 @@ The Min won the toss and batted first in a 35 over game. The Min made 159-8. Wat
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |

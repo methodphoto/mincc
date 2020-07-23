@@ -1,9 +1,10 @@
 ---
 year: "2019"
+serialNumber: "0" 
 game: "Newdigate"
 title: "Newdigate -v- The Min"
 gameLocation: "Sellicks Green"
-gameDate: "4th July 2019"
+gameDate: "04/072019"
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"
@@ -19,7 +20,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Middleton Stoney Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | N Moorman | st J Grant | I Miah | 100 |
 | H Lancaster | b | P Wigg | 39 |
@@ -44,7 +45,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | Ishmael | 6 | 3 | 35 | 0 |
 | I Miah | 5 | 0 | 23 | 1 |
@@ -55,7 +56,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 | I Miah | b | S Pettit | 0 |
 | Ishmael | b | E Barton | 10 |
@@ -80,7 +81,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | S Pettit |5 |1 |6 |2 |
 | AK Kamal |8 |4 |24 |0 |
@@ -92,7 +93,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
 
@@ -103,36 +104,36 @@ The Min won the toss and for some reason batted first on a sticky wicket. They w
 
 The Min Innings
 
-Batsman	Runs
-R.Beswick *	c T Ridder	H Elliss	5
-A Catternack	c J Bowley	T Ridder	4
-R Earney	c I Kehl	B Crook	16
-P Wigg	c A Kehl	B Crook	2
-R Kitson	c B Crook	A Kehl	7
-S Barrowcliff	b	I Kehl	5
-K Sapp	c A Harper	I Kehl	8
-I Marshall	c T Ridder	I Kehl	3
-N Garland	b	I Kehl	3
-J Grant †	c A Harper	I Kehl	2
-C Wright	not out	
+BatsmanRuns
+R.Beswick *c T RidderH Elliss5
+A Catternackc J BowleyT Ridder4
+R Earneyc I KehlB Crook16
+P Wiggc A KehlB Crook2
+R Kitsonc B CrookA Kehl7
+S BarrowcliffbI Kehl5
+K Sappc A HarperI Kehl8
+I Marshallc T RidderI Kehl3
+N GarlandbI Kehl3
+J Grant †c A HarperI Kehl2
+C Wrightnot out
 0
-Extras	(3b 0lb 8w 1nb 0p)	12
-Total	(27.2 overs)	79 all out
+Extras(3b 0lb 8w 1nb 0p)12
+Total(27.2 overs)79 all out
 Fall of Wickets
 
-W	1	2	3	4	5	6	7	8	9	10
-Sc	10	14	27	31	40	52	52	77	78	79
-Bt	2	1	3	4	5	7	6	8	9	10
+W12345678910
+Sc10142731405252777879
+Bt21345768910
 Bowling
 
 
-O	M	R	W
-T Ridder	5	1	15	1
-H Elliss	5	2	10	1
-Crook	5	2	4	2
-I Kehl	4.2	0	16	5
-A Kehl	4	0	20	1
-J Bowley	4	0	10	0
+OMRW
+T Ridder51151
+H Elliss52101
+Crook5242
+I Kehl4.20165
+A Kehl40201
+J Bowley40100
 
 
 
@@ -155,40 +156,40 @@ J Bowley	4	0	10	0
 
 Newdigate Innings
 
-Batsman	Runs
-R Goldsmid	b	A Catternack	7
-A Harper	b	A Catternack	4
-S Roast	not out	
+BatsmanRuns
+R GoldsmidbA Catternack7
+A HarperbA Catternack4
+S Roastnot out
 51
-S Kehl †	not out	
+S Kehl †not out
 21
-M Elahi *	
+M Elahi *
 
 
-T Ridder	
+T Ridder
 
 
-J Bowley	
+J Bowley
 
 
-A Kehl	
+A Kehl
 
 
-H Elliss	
+H Elliss
 
 
-B Crook	
+B Crook
 
 
-I Kehl	
+I Kehl
 
 
-Extras	(0b 1lb 0w 0nb 0p)	12
-Total	(15.4 overs)	79 2 wkts
+Extras(0b 1lb 0w 0nb 0p)12
+Total(15.4 overs)79 2 wkts
 Fall of Wickets
 
-W	1	2	3	4	5	6	7	8	9	10
-Sc	4	13	
+W12345678910
+Sc413
 
 
 
@@ -196,7 +197,7 @@ Sc	4	13
 
 
 
-Bt	2	1	
+Bt21
 
 
 
@@ -207,11 +208,11 @@ Bt	2	1
 Bowling
 
 
-O	M	R	W
-P Wigg	6	2	14	0
-A Catternack	6	0	26	2
-I Marshall	2	0	26	0
-C Wright	1.4	0	17	0
+OMRW
+P Wigg62140
+A Catternack60262
+I Marshall20260
+C Wright1.40170
 
 
 
@@ -234,8 +235,8 @@ C Wright	1.4	0	17	0
 
 Season Win/Loss Record
 
-Win	Loss	Draw	Tie
-1	3	1	0
+WinLossDrawTie
+1310
 <p><em>played at Tiffin School on 21/7/2019</em></p>
 <div class="table">
 <p>The Min were inserted and scored 198-9 in 35 overs. Kingstonians made 139-4 in 35 overs, so The Min won by 59 runs</p>

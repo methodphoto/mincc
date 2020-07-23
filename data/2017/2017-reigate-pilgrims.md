@@ -1,17 +1,17 @@
 ---
-slug: "& Slug &"
-year:"& Year &"
-game: "& Title &"
-title: "& Game &"
-gameLocation: "& Place & "
-gameDate: "& Date & "
-result: "&  Result & "
+year:"2017"
+game: "Reigate Pilgrims"
+title: "Reigate Pilgrims -v- The Min"
+gameLocation: "Betchworth"
+gameDate: "17/09/2017"
+result: "Reigate Pilgrims won by 5 wkts"
+resultType: "Lost"
 type: "game"
 ---
 
-Played at Betchworth on 17/09/2017
+Played at {gameLocation} on {date}
 
-Reigate won the toss and inserted The Min, who made 140-9  Reigate replied with 141- so won by 5 wkts
+Reigate won the toss and inserted The Min, who made 140-9 (all out)  Reigate replied with 141 for 5 wkts
 
 ## The Min Innings
 
@@ -29,7 +29,7 @@ Reigate won the toss and inserted The Min, who made 140-9  Reigate replied with 
 | **E Garland** | run out |  | 7 |
 | **J Wright *** |  |  |  |
 | **Extras** | | (7b 0lb 9w 2nb 0p) | **18** |
-| **Total** | | ((41 5 overs) overs) | **140 for 9 wkts** |
+| **Total** | | (41 5 overs) | **140 for 9 wkts** |
 
 ## Fall of Wickets
 
@@ -42,13 +42,13 @@ Reigate won the toss and inserted The Min, who made 140-9  Reigate replied with 
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **P Wigg** | 7 | 1 | 15 | 0 |
-| **I Marshall** | 7 | 1 | 20 | 0 |
-| **M Gupta** | 9 | 1 | 41 | 1 |
-| **J Wright** | 4 | 0 | 31 | 0 |
-| **R Beswick** | 5 | 0 | 18 | 2 |
-| **N Garland** | 0 3 | 0 | 5 | 0 |
-| **** |  |  |  |  |
+| **M Wood** | 8 | 1 | 11 | 8 |
+| **V Vijayan** | 6 | 3 | 15 | 1 |
+| **T Karthik** | 5 | 1 | 12 | 0 |
+| **G Mitchell** | 7 | 3 | 18 | 3 |
+| **J Hoy** | 5 | 0 | 16 | 0 |
+| **M Duke** | 4 | 0 | 33 | 0 |
+| **V Kuttikara** | 4 | 0 | 27 | 0 |
 
 ## Reigate Pilgrims Innings
 
@@ -79,16 +79,15 @@ Reigate won the toss and inserted The Min, who made 140-9  Reigate replied with 
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **M Wood** | 8 | 1 | 11 | 8 |
-| **V Vijayan** | 6 | 3 | 15 | 1 |
-| **T Karthik** | 5 | 1 | 12 | 0 |
-| **G Mitchell** | 7 | 3 | 18 | 3 |
-| **J Hoy** | 5 | 0 | 16 | 0 |
-| **M Duke** | 4 | 0 | 33 | 0 |
-| **V Kuttikara** | 4 | 0 | 27 | 0 |
+| **P Wigg** | 7 | 1 | 15 | 0 |
+| **I Marshall** | 7 | 1 | 20 | 0 |
+| **M Gupta** | 9 | 1 | 41 | 1 |
+| **J Wright** | 4 | 0 | 31 | 0 |
+| **R Beswick** | 5 | 0 | 18 | 2 |
+| **N Garland** | 0.3 | 0 | 5 | 0 |
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 2 | 7 | 1 | 0 |

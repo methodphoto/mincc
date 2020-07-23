@@ -1,7 +1,7 @@
 ---
 year:"2018"
-game: "Blagdon Hill"
-title: "Blagdon Hill v The Min"
+game: "Kingstonians"
+title: "Kingstonians -v- The Min"
 gameLocation: "KCL"
 gameDate: "06/05/2018"
 result: "THe Min won by 6 wkts"
@@ -89,6 +89,6 @@ The Min won the toss and inserted Kingstonians who made 171 all out in 32 overs 
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 1 | 0 | 1 | 0 |
