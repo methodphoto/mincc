@@ -1,6 +1,6 @@
 ---
 year: "1997"
-serialNumber: "0" 
+serialNumber: "0204" 
 game: "Stowting"
 title: "Stowting -v- The Min"
 gameLocation: ""

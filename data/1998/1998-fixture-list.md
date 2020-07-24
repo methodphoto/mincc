@@ -22,7 +22,7 @@ type: "fixtures"
 
 ## July
 
-| 26th | 14:00 | [Hartswood Occasionals ](1998-hartswood-occasionals.md) | [Home]() |
+| 26th | 14:00 | [Hartswood Occasionals](1998-hartswood-occasionals.md) | [Home]() |
 
 ## August - The Min Tour
 

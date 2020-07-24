@@ -1,9 +1,9 @@
 ---
 year: "1996"
-serialNumber: "0" 
+serialNumber: "0197" 
 game: "Checkendon"
 title: "Checkendon -v- The Min"
-gameLocation: ""
+gameLocation: "Checkendon"
 gameDate: "
 result: ""
 resultType: ""

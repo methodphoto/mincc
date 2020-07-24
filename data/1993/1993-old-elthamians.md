@@ -1,6 +1,6 @@
 ---
 year: "1993"
-serialNumber: "0" 
+serialNumber: "0159" 
 game: "Old Elthamians"
 title: "Old Elthamians -v- The Min"
 gameLocation: "Foxbury"

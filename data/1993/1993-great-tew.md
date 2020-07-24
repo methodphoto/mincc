@@ -1,9 +1,9 @@
 ---
 year: "1993"
-serialNumber: "0" 
+serialNumber: "0157" 
 game: "Great Tew"
 title: "Great Tew -v- The Min"
-gameLocation: ""
+gameLocation: "Great Tew"
 gameDate: "
 result: ""
 resultType: ""

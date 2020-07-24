@@ -1,9 +1,9 @@
 ---
 year: "1999"
-serialNumber: "0" 
+serialNumber: "0237" 
 game: "Hetairoi"
 title: "Hetairoi -v- The Min"
-gameLocation: ""
+gameLocation: "Cranleigh School"
 gameDate: "
 result: ""
 resultType: ""

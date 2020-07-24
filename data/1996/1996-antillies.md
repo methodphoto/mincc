@@ -1,9 +1,9 @@
 ---
 year: "1996"
-serialNumber: "0" 
+serialNumber: "0190" 
 game: "Antillies"
 title: "Antillies -v- The Min"
-gameLocation: ""
+gameLocation: "Canon's Park"
 gameDate: "
 result: ""
 resultType: ""

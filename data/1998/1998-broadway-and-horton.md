@@ -1,6 +1,6 @@
 ---
-year: "1995"
-serialNumber: "0183" 
+year: "1998"
+serialNumber: "0220" 
 game: "Broadway & Horton"
 title: "Broadway & Horton -v- The Min"
 gameLocation: "Horton Cross"
