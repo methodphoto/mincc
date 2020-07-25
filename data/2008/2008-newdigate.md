@@ -1,6 +1,6 @@
 ---
 year: "2008"
-serialNumber: "0" 
+serialNumber: "0354" 
 game: "Newdigate"
 title: "Newdigate -v- The Min"
 gameLocation: "Sellicks Green"

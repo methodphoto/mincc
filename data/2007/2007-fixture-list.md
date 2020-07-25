@@ -41,4 +41,4 @@ type: "fixtures"
 
 | 1st | 14:00 | [SB Exiles](2007-sb-exiles.md) | [Away]() |
 | 16th | 13:00 | [Reigate Pilgrims](2007-reigate-pilgrims.md) | [Away]() |
-| 30th | 12:30 | [Watton-at-Stone](2007-watton-at-stone.md) | [Away]() |
+| 30th | 12:30 | [Watton-at-Stone](2007-watton-at-stone-2.md) | [Away]() |

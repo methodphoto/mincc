@@ -7,32 +7,33 @@ type: "fixtures"
 
 ## May
 
-| 7th | 14:30 | [Valley End](2011-valleyend.md) | [Away]() |
-| 14th | 14:00 | [Ockley](2011-ockley.md) | [Away](https://goo.gl/maps/vmhvFhbrVZGrsXAAA) |
+| 15th | 13:30 | [Newington](2011-newington.md) | [Home]() |
+| 22nd | 13:00 | [ELCC](2011-elccc.md) | [Home]() |
 
 ## June
 
-| 18th | 14:00 | [Great Tew](2011-greattew.md) | [Away]() |
-| 30th | 14:00 | [Abbey Players](2011-abbeyplayers.md) | [Away]() |
+| 5th | 14:00 | [Frensham](2011-frensham.md) | [Away]() |
+| 12th | 14:00 | [Newdigate](2011-newdigate.md) | [Away]() |
+| 19th | 14:00 | [Watton-at-Stone](2011-watton-at-stone) | [Away]() |
 
 ## July
 
-| 7th | 14:30 | [Old Elthamians](2011-old-elthamians.md) | [Away](https://goo.gl/maps/FQbBNZQTFggEmhfv9) |
-| 16th | 14:00 | [The Tappers](2011-the Tappers) | [Home](https://goo.gl/maps/w2skeCXwzZTEh7e26) |
+| 3rd | 14:00 | [Stowting](2011-stowting.md) | [Away]() |
 
-## July - The Min Tour 1995
+## July - The Min Tour
 
-| 27th | 18:00 | [Barrow Hospital](2011-barrowhospital.md) | [Away]() |
-| 28th | 14:00 | [Broadway & Horton](2011-broadway-and-horton.md) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
-| 29th | 14:00 | [Horningsham](2011-horningsham.md) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
-| 30th | 14:00 | [Farnborough](2011-farnborough.md) | [Away]() |
+| 7th | 14:30 | [Broadway & Horton](2011-broadway-and-horton.md) | [Away]() |
+| 8th | 14:00 | [Kilmington & Stourton](2011-kilmington-and-stourton.md) | [Away]() |
+| 9th | 14:00 | [Horningsham](2011-horningsham.md) | [Away]() |
+| 10th | | [Islip](2011-islip.md) | [Away]() |
 
 ## August
 
-| 13th | 14:00 | [Checkendon](2011-checkendon.md) | [Away]() |
-| 20th | 14:00 | [Hetairoi](2011-hetairoi.md) | [Away]() |
+| 14th | 14:00| [SAC XI](2011-sac-xi.md) | [Away]() |
+| 21st | 14:00| [Clapton & Oval](2011-clapton-and-oval.md) |  [Away]() |
 
 ## September
 
-| 3rd | 14:00 | [White Lion](2011-whitelion.md) | [Away]() |
-| 24th | 1.30 | [Watton-at-Stone](2011-watton-at stone.md) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
+| 4th | 13.30| [SB Exiles](2011-sb-exiles.md) | [Home]() |
+| 11th | 13:30| [Reigate Pilgrims](2011-reigate-pilgrims.md) | [Away]() |
+| 18th | 13:00 | [Selling](2011-selling.md) | [Away]() |

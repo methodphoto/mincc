@@ -1,9 +1,9 @@
 ---
 year: "2011"
-serialNumber: "0" 
+serialNumber: "0406" 
 game: "Horningsham"
 title: "Horningsham -v- The Min"
-gameLocation: "Horningsham"
+gameLocation: ""
 gameDate: "
 result: ""
 resultType: ""

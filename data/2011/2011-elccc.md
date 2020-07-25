@@ -1,9 +1,9 @@
 ---
-year: "2010"
-serialNumber: "0" 
+year: "2011"
+serialNumber: "0399" 
 game: "ELCCC"
 title: "ELCCC -v- The Min"
-gameLocation: ""
+gameLocation: "Solefields"
 gameDate: "
 result: ""
 resultType: ""

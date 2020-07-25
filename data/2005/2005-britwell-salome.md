@@ -1,6 +1,6 @@
 ---
 year: "2005"
-serialNumber: "0" 
+serialNumber: "0304" 
 game: "Britwell Salome"
 title: "Britwell Salome -v- The Min"
 gameLocation: ""

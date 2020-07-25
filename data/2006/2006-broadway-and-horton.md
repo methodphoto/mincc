@@ -1,6 +1,6 @@
 ---
 year: "2006"
-serialNumber: "0" 
+serialNumber: "0327" 
 game: "Broadway & Horton"
 title: "Broadway & Horton -v- The Min"
 gameLocation: "Horton Cross"

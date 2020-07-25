@@ -1,6 +1,6 @@
 ---
 year: "2003"
-serialNumber: "0" 
+serialNumber: "0288" 
 game: "Spencer"
 title: "Spencer -v- The Min"
 gameLocation: ""

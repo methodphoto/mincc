@@ -1,8 +1,8 @@
 ---
 year: "2011"
-serialNumber: "0" 
-game: "Valley End"
-title: "ValleyEnd -v- The Min"
+serialNumber: "0410" 
+game: "SB Exiles"
+title: "SB Exiles -v- The Min"
 gameLocation: ""
 gameDate: "
 result: ""
