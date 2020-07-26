@@ -16,7 +16,7 @@ type: "fixtures"
 ## May
 
 |:---|:---|:---|:---|
-| 6th | 13:30 | [Kingstonians](2018-kingstonians.md) | [KT8 9LU](https//goo.gl/maps/4kwjPyThUMkyQfhe8) |
+| 6th | 13:30 | [Kingstonian](2018-kingstonian.md) | [KT8 9LU](https//goo.gl/maps/4kwjPyThUMkyQfhe8) |
 | 20th | 13:00 | [Newington](2018-newington.md) | [ME9 8NN](https//goo.gl/maps/2XwQKWc9brr) |
 
 ## June

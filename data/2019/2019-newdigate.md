@@ -239,7 +239,7 @@ WinLossDrawTie
 1310
 <p><em>played at Tiffin School on 21/7/2019</em></p>
 <div class="table">
-<p>The Min were inserted and scored 198-9 in 35 overs. Kingstonians made 139-4 in 35 overs, so The Min won by 59 runs</p>
+<p>The Min were inserted and scored 198-9 in 35 overs. Kingstonian made 139-4 in 35 overs, so The Min won by 59 runs</p>
 <h3>The Min Innings</h3>
 <table class="listing">
 <tbody>
@@ -451,7 +451,7 @@ WinLossDrawTie
 </tr>
 </tbody>
 </table>
-<h3>Kingstonians Innings</h3>
+<h3>Kingstonian Innings</h3>
 <table class="listing">
 <tbody>
 <tr>

@@ -1,6 +1,6 @@
 ---
 year: "2019"
-serialNumber: "0" 
+serialNumber: "0509" 
 game: "Cerne Valley"
 title: "Cerne Valley -v- The Min"
 gameLocation: "Cerne Abbas"

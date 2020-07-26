@@ -1,6 +1,6 @@
 ---
 year: "2019"
-serialNumber: "0" 
+serialNumber: "0507" 
 game: "Blagdon Hill"
 title: "Blagdon Hill -v- The Min"
 gameLocation: "Sellicks Green"

@@ -1,6 +1,6 @@
 ---
 year: "2019"
-serialNumber: "0" 
+serialNumber: "0513" 
 game: "Reigate Pilgrims"
 title: "Reigate Pilgrims -v- The Min"
 gameLocation: "Betchworth"

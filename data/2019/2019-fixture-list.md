@@ -40,4 +40,4 @@ type: "fixtures"
 
 |:---|:---|:---|:---|
 | 13th  13:00 | [Reigate Pilgrims](2019-reigate-pilgrims.md) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) |
-| 27th | 12:00 | [Selling](2019-selling.md) | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
+| 27th | 12:00 | <del>Selling</del> | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |

@@ -1,7 +1,8 @@
 ---
-year:"2018"
-game: "Kingstonians"
-title: "Kingstonians -v- The Min"
+year: "2018"
+serialNumber "0496"
+game: "Kingstonian"
+title: "Kingstonian -v- The Min"
 gameLocation: "KCL"
 gameDate: "06/05/2018"
 result: "THe Min won by 6 wkts"
@@ -11,9 +12,9 @@ type: "game"
 
 Played at {gameLocation} on {gameDate} 
 
-The Min won the toss and inserted Kingstonians who made 171 all out in 32 overs  The Min scored 172-4 in 34.2 overs 
+The Min won the toss and inserted Kingstonian who made 171 all out in 32 overs  The Min scored 172-4 in 34.2 overs 
 
-## Kingstonians Innings
+## Kingstonian Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

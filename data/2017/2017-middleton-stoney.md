@@ -1,10 +1,11 @@
 ---
-year:"& Year &"
-game: "& Title &"
-title: "& Game &"
-gameLocation: "& Place & "
-gameDate: "& Date & "
-result: "&  Result & "
+year:"2017"
+serialNumber: "0483"
+game: "Middleton Stoney"
+title: "Middleton Stoney v The Min"
+gameLocation: "Middleton Park"
+gameDate: "23/04/2017"
+result: "Middleton Stoney won by 43 runs"
 resultType: ""
 type: "game"
 ---

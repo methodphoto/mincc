@@ -16,12 +16,12 @@ type: "results"
 | 03/07/2019 | [Cerne Valley](2019-cerne-valley) | Won |
 | 04/07/2019 | [Blagdon Hill](2019-blagdon Hill) | Lost |
 | 05/07/2019 | [Broadway & Horton](2019-broadway-and-horton) | Won |
-| 21/07/2019 | [Kingstonians](2019-kingstonians) | Won |
+| 21/07/2019 | [Kingstonian](2019-kingstonian) | Won |
 | 01/09/2019 | [Railway Taverners](2019-railway-taverners) | Won |
 | 15/09/2019 | [Reigate Pilgrims](2019-reigate-pilgrims) | Drawn |
 | **2018** | | | 
 | 22/04/2018 | [Middleton Stoney](2018-middleton-stoney) | Drawn |
-| {date} | [Kingstonians](2018-kingstonians) | Won |
+| {date} | [Kingstonian](2018-kingstonian) | Won |
 | {date} | [Newington](2018-newington) | Won |
 | {date} | [Watton-at-Stone](2018-watton-at-stone) | Lost |
 | {date} | [Blagdon Hill](2018-blagdon-hill) | Lost |
@@ -31,7 +31,7 @@ type: "results"
 | {date} | [Stoke D’Abernon](2018-stoke-d’abernon) | Lost |
 | **2017** | | | 
 | {date} | [Middleton Stoney](2017-middleton-stoney) | Lost |
-| {date} | [Kingstonians](2017-kingstonians) | Lost |
+| {date} | [Kingstonian](2017-kingstonian) | Lost |
 | {date} | [Newington](2017-newington) | Lost |
 | {date} | [Frensham](2017-frensham) | Won |
 | {date} | [Newdigate](2017-newdigate) | Drawn |

@@ -1,10 +1,10 @@
 ---
 year: "2019"
-serialNumber: "0" 
+serialNumber: "0504" 
 game: "Middleton Stoney"
 title: "Middleton Stoney -v- The Min"
 gameLocation: "Middleton Park"
-gameDate: "21st April 2019"
+gameDate: "21/04/2019"
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"

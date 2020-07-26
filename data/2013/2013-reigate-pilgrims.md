@@ -1,6 +1,6 @@
 ---
 year: "2013"
-serialNumber: "0" 
+serialNumber: "0438" 
 game: "Reigate Pilgrims"
 title: "Reigate Pilgrims -v- The Min"
 gameLocation: "The Red Lion, Betchworth"

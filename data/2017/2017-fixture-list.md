@@ -13,7 +13,7 @@ type: "fixtures"
 ## May
 
 |:---|:---|:---|:---|
-| 7th | 13:00 | [Kingstonians](2017-kingstonians.md) | [KT8 9LU](https//goo.gl/maps/4kwjPyThUMkyQfhe8) |
+| 7th | 13:00 | [Kingstonian](2017-kingstonian.md) | [KT8 9LU](https//goo.gl/maps/4kwjPyThUMkyQfhe8) |
 | 21st | 14:00 | [Newington](2017-newington.md) | [ME9 8NN](https//goo.gl/maps/2XwQKWc9brr) |
 
 ## June

@@ -1,8 +1,9 @@
 ---
-year:"2018"
-game: "Blagdon Hill"
-title: "Blagdon Hill -v- The Min"
-gameLocation: "Blagdon Hill"
+year: "2018"
+serialNumber "0495"
+game: "Middleton Stoney"
+title: "Middleton Stoney -v- The Min"
+gameLocation: "Middleton Park"
 gameDate: "22/04/2018"
 result: "Match Drawn"
 resultType: "Draw"

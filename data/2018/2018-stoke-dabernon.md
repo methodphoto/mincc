@@ -1,8 +1,9 @@
 ---
-year:"2018"
+year: "2018"
+serialNumber: "0503"
 game: "Stoke D'Aberdon"
 title: "Stoke D'Aberdon -v- The Min"
-gameLocation: "Newdigate"
+gameLocation: "Sellick's Green"
 gameDate: "30/09/2018"
 result: "Stoke D'Aberdon won by 55 runs"
 resultType: "Lost"
