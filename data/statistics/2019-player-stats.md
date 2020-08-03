@@ -18,7 +18,7 @@ type: "statistics"
 | **Jack Stacey** | 2 | 0 | 68 | 34 |
 | **William Calvert** | 5 | 0 | 55 | 11 |
 | **Patrick Wigg** | 6 | 3 | 48 | 16 |
-| **Abdul** | 2 | 0 | 39 | 19.5 |
+| **A Munim** | 2 | 0 | 39 | 19.5 |
 | **Siam Amin** | 2 | 0 | 38 | 19 |
 | **Koye Usanga** | 5 | 2 | 29 | 9.67 |
 | **Jim Grant** | 7 | 3 | 25 | 6.25 |
@@ -58,7 +58,7 @@ type: "statistics"
 | **Richard Earney** | 10 | 0 | 255 | 25.5 |
 | **Louis Barrowcliff** | 1 | 0 | 25 | 25 |
 | **Ivo Strawson** | 1 | 0 | 24 | 24 |
-| **Abdul** | 2 | 0 | 39 | 19.5 |
+| **A Munim** | 2 | 0 | 39 | 19.5 |
 | **Siam Amin** | 2 | 0 | 38 | 19 |
 | **Richard Beswick** | 10 | 0 | 170 | 17 |
 | **Patrick Wigg** | 6 | 3 | 48 | 16 |
@@ -97,7 +97,7 @@ type: "statistics"
 | **Christopher Wright** | 44.4 | 2 | 240 | 7 | 34.29 | 38.06 |
 | **Iqbal Miah** | 13 | 4 | 49 | 4 | 12.25 | 19.5 |
 | **Ned Garland** | 12.3 | 2 | 31 | 4 | 7.75 | 18.45 |
-| **Abdul** | 10 | 0 | 51 | 4 | 12.75 | 15 |
+| **A Munim** | 10 | 0 | 51 | 4 | 12.75 | 15 |
 | **Andrew Catternack** | 6 | 0 | 26 | 2 | 13 | 18 |
 | **Phil Beswick** | 7 | 0 | 34 | 2 | 17 | 21 |
 | **Kit Gallagher** | 11 | 2 | 36 | 2 | 18 | 33 |
@@ -116,7 +116,7 @@ type: "statistics"
 | **Ned Garland** | 12.3 | 2 | 31 | 4 | 7.75 | 18.45 |
 | **Louis Barrowcliff** | 2.4 | 1 | 10 | 1 | 10 | 14.4 |
 | **Iqbal Miah** | 13 | 4 | 49 | 4 | 12.25 | 19.5 |
-| **Abdul** | 10 | 0 | 51 | 4 | 12.75 | 15 |
+| **A Munim** | 10 | 0 | 51 | 4 | 12.75 | 15 |
 | **Andrew Catternack** | 6 | 0 | 26 | 2 | 13 | 18 |
 | **Steven Hornsby** | 1 | 0 | 13 | 1 | 13 | 6 |
 | **Patrick Wigg** | 45 | 9 | 183 | 12 | 15.25 | 22.5 |

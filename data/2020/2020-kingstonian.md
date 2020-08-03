@@ -25,9 +25,9 @@ A Gallagher: 54* off 45 balls
 | **R Earney &#8224;** | b | Kashif | 9 | 
 | **I Miah** | b | Kashif | 0 | 
 | **S Ali** | b | Terry | 30 | 
-| **I Strawson** | st | Jim | 9 | 
+| **I Strawson** | st Ezra | Jim | 9 | 
 | **C Gallagher** | b  | Mayo | 16 | 
-| **Abdul** | c Dhru | Henry | 14 | 
+| **A Munim** | c Dhru | Henry | 14 | 
 | **A Gallagher** | not out |  | 54 | 
 | **K Gallagher** | not out |  | 26 | 
 | **R Beswick &#42;** | dnb |  |  | 

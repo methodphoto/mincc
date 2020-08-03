@@ -4,7 +4,7 @@ serialNumber: "0510"
 game: "Blagdon Hill"
 title: "Blagdon Hill -v- The Min"
 gameLocation: "Sellicks Green"
-gameDate: "4th July 2019"
+gameDate: "04/07/2019"
 result: "Blagdon Hill won by 11 runs"
 resultType: "Lost"
 type: "game"
@@ -28,7 +28,7 @@ Blagdon Hill won the toss and batted first. They made 213 for 9 wkts in 35 overs
 |  **A Hotham** | c | Abdul | 3 |
 |  **E Trottman** | not out | | 15 |
 |  **G Williams** | lbw | I Miah | 6 |
-|  **T Knight** | c	 	12 |
+|  **T Knight** | c	| 	| 12 |
 |  **H Welsh** | not out | | 2 |
 |  **Extras** |  | (6b 1lb 3w 1nb 0p) | 11 |
 |  **Total** |  | (35 overs) | 213 for 9 wkts |

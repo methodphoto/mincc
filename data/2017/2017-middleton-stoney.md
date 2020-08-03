@@ -25,7 +25,7 @@ R.Simpson 100 off 46 balls
 | **S Vadivale** | lbw | S Amin | 15 |
 | **A Willcock** | c M Gupta | I Miah | 22 |
 | **T Riley** | c S Barrowcliff | J Wright | 38 |
-| **J Mumtaz** | c J Islam  | I.Miah | 6 |
+| **J Mumtaz** | c J Islam  | I Miah | 6 |
 | **R Morris &dagger;** | b | J Wright | 5 |
 | **S.Midson** | b | J Wright | 0 |
 | **S Pettit** | b  | I Miah | 0 |

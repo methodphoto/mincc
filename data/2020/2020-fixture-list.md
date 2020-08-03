@@ -46,3 +46,12 @@ type: "fixtures"
 | 6th | 13:00 | TBA | TBA | 
 | 13th | 13:00 | Reigate Pilgrims | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) | 
 | 27th | 12:00 | Selling | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
+
+
+| 26th | 13:30 | Middleton Stoney| [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) | 
+
+
+
+
+
+

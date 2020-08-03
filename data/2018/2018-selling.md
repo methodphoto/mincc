@@ -19,7 +19,7 @@ The Min won the toss and batted first scoring 188 all out (34 overs). Selling we
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **I Miah** | c | Beckett | 32 |
-| **Abdul** | b | Myers | 8 |
+| **A Munim** | b | Myers | 8 |
 | **R Damaze** | c & b | Beckett | 24 |
 | **M Elwin** | c | Dineth | 12 |
 | **A Beswick** | c | Beckett | 12 |
@@ -47,7 +47,7 @@ The Min won the toss and batted first scoring 188 all out (34 overs). Selling we
 | **I Miah** | 5 | 2 | 19 | 0 |
 | **J Wright** | 8 | 1 | 23 | 0 |
 | **M Elwin** | 4 | 1 | 14 | 1 |
-| **Abdul** | 5 | 0 | 6 | 1 |
+| **A Munim** | 5 | 0 | 6 | 1 |
 | **R Damaze** | 2 | 0 | 6 | 1 |
 | **Ismail** | 3 3 | 0 | 15 | 1 |
 
@@ -60,7 +60,7 @@ The Min won the toss and batted first scoring 188 all out (34 overs). Selling we
 | **E Beckett** | b  | S Amin | 0 |
 | **R Ingram** | b Siam | S Amin | 5 |
 | **M Latham** | c & b  | M Elwin | 34 |
-| **N Myers** | b  | Abdul | 7 |
+| **N Myers** | b  | A Munim | 7 |
 | **Dineth** | lbw b  | R Damaze | 4 |
 | **Bendula** | b  | Ishmail | 2 |
 | **Shamilia** | st J Grant | Ishmail | 14 |

@@ -27,7 +27,7 @@ The Min won the toss and inserted Nightwatchmen, who made 264-5 in 40 overs. The
 | **M Elwin** | b | M Gupta | 4 |
 | **Altaf** | b  | J Wright | 72 |
 | **S Ahmed** | b | M Gupta | 77 |
-| **Abdul** | b | S Mohammed | 0 |
+| **A Munim** | b | S Mohammed | 0 |
 | **Maruf** | not out |  | 6 |
 | **Pav** | dnb |  |  |
 |  |  |  |  |
@@ -82,9 +82,9 @@ The Min won the toss and inserted Nightwatchmen, who made 264-5 in 40 overs. The
 | **Pav** | 4.2 | 0 | 29 | 2 |
 | **Maruf** | 7 | 2 | 25 | 1 |
 | **Altaf** | 7 | 0 | 34 | 1 |
-| **Abdul** | 5 | 0 | 25 | 0 |
+| **A Munim** | 5 | 0 | 25 | 0 |
 | **D Brookfield** | 3 | 0 | 25 | 0 |
-| **I.Miah** | 3 | 0 | 23 | 2 |
+| **I Miah** | 3 | 0 | 23 | 2 |
 | **M Elwin** | 6 | 0 | 28 | 1 |
 
 ## Win/Loss Ratio
