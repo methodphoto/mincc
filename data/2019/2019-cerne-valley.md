@@ -111,7 +111,7 @@ A Beswickretired out
 52
 S Hornsbyretired out
 19
-Abdulc D ChubbM Penny19
+A Munimc D ChubbM Penny19
 S MohammedbM Penny2
 J StimfigbC Daley6
 J Grant †not out
@@ -157,9 +157,9 @@ BatsmanRuns
 P Reesretired out
 27
 S Barrettc & bR Earney17
-J BeresfordcAbdul2
+J BeresfordcA Munim2
 M Pennyc R EarneyS Mohammed4
-A WilkeslbwAbdul17
+A WilkeslbwA Munim17
 K PeetbR Beswick1
 D ChubbcS Hornsby12
 C Daleyrun out
@@ -190,7 +190,7 @@ N Garland31170
 S Mohammed30141
 R Earney2061
 J Grant31120
-Abdul30122
+A Munim30122
 R Beswick1021
 S Hornsby10131
 Season Win/Loss Record

@@ -12,7 +12,7 @@ type: "game"
 
 Played at {gameLocation} on {gameDate}
 
-The Min won the toss and batted first in a 35 over game. The Min made 159-8. Watton-at-Stone made 160-2 in reply.
+The Min won the toss and batted first in a 35 over game. The Min made 159 for 8 wkts. Watton-at-Stone made 160 for 2 wkts in reply.
 
 **Result:** {result}
 

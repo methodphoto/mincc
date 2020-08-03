@@ -112,7 +112,7 @@ Frensham won the toss and batted first. They made 192-9. The Min replied with 19
 </tr>
 <tr>
 <td class="bold">A.Peers</td>
-<td>b</td><td>I.Miah</td>
+<td>b</td><td>I Miah</td>
 <td>0</td>
 </tr>
 <tr>
@@ -122,12 +122,12 @@ Frensham won the toss and batted first. They made 192-9. The Min replied with 19
 </tr>
 <tr>
 <td class="bold">S.Richards</td>
-<td>lbw</td><td>I.Miah</td>
+<td>lbw</td><td>I Miah</td>
 <td>3</td>
 </tr>
 <tr>
 <td class="bold">H.Dibdin</td>
-<td>b</td><td>I.Miah</td>
+<td>b</td><td>I Miah</td>
 <td>1</td>
 </tr>
 <tr>
@@ -239,7 +239,7 @@ Frensham won the toss and batted first. They made 192-9. The Min replied with 19
 <td>0</td>
 </tr>
 <tr>
-<td class="bold">I.Miah</td>
+<td class="bold">I Miah</td>
 <td>8</td>
 <td>4</td>
 <td>26</td>
@@ -340,7 +340,7 @@ Frensham won the toss and batted first. They made 192-9. The Min replied with 19
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td class="bold">I.Miah</td>
+<td class="bold">I Miah</td>
 <td>dnb</td><td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>

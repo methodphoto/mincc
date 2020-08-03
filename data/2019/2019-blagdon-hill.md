@@ -139,12 +139,12 @@ Blagdon Hill won the toss and batted first. They made 213-9 in 35 overs. The Min
 </tr>
 <tr>
 <td class="bold">A.Williams</td>
-<td>b</td><td>Abdul</td>
+<td>b</td><td>A Munim</td>
 <td>27</td>
 </tr>
 <tr>
 <td class="bold">A.Hotham</td>
-<td>c;</td><td>Abdul</td>
+<td>c;</td><td>A Munim</td>
 <td>3</td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ Blagdon Hill won the toss and batted first. They made 213-9 in 35 overs. The Min
 </tr>
 <tr>
 <td class="bold">G.Williams</td>
-<td>lbw</td><td>I.Miah</td>
+<td>lbw</td><td>I Miah</td>
 <td>6</td>
 </tr>
 <tr>
@@ -266,14 +266,14 @@ Blagdon Hill won the toss and batted first. They made 213-9 in 35 overs. The Min
 <td>1</td>
 </tr>
 <tr>
-<td class="bold">Abdul</td>
+<td class="bold">A Munim</td>
 <td>7</td>
 <td>0</td>
 <td>39</td>
 <td>2</td>
 </tr>
 <tr>
-<td class="bold">I.Miah</td>
+<td class="bold">I Miah</td>
 <td>2</td>
 <td>0</td>
 <td>6</td>
@@ -316,7 +316,7 @@ Blagdon Hill won the toss and batted first. They made 213-9 in 35 overs. The Min
 <td>7</td>
 </tr>
 <tr>
-<td class="bold">I.Miah</td>
+<td class="bold">I Miah</td>
 <td>c G.Welsh</td><td>A.Hotham</td>
 <td>7</td>
 </tr>
@@ -336,7 +336,7 @@ Blagdon Hill won the toss and batted first. They made 213-9 in 35 overs. The Min
 <td>0</td>
 </tr>
 <tr>
-<td class="bold">Abdul</td>
+<td class="bold">A Munim</td>
 <td>c A.Hotham</td><td>E.Trottman</td>
 <td>20</td>
 </tr>

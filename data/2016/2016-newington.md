@@ -139,7 +139,7 @@ S.Pitcherlbw D.Overbury47
 S.Mohammed10
 S.Ahmedb D.Overbury8
 W.Calvertb D.Overbury2
-I.Miahnot out10
+I Miahnot out10
 I.Marshalldid not bat
 J.Wrightdid not bat
 Extras(9b 5lb 9w 2nb)17

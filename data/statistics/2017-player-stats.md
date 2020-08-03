@@ -41,7 +41,7 @@ type: "statistics"
 | **R Gosh** | 1 | 0 | 4 | 4 |
 | **C Willey** | 1 | 0 | 4 | 4 |
 | **Alf Beswick** | 2 | 0 | 4 | 2 |
-| **Abdul** | 1 | 0 | 4 | 4 |
+| **A Munim** | 1 | 0 | 4 | 4 |
 | **Jerry Wright** | 7 | 5 | 3 | 1.5 |
 | **J Black** | 1 | 0 | 1 | 1 |
 | **Richard Coyle** | 1 | 0 | 1 | 1 |
@@ -81,7 +81,7 @@ type: "statistics"
 | **Moeen Arefin** | 2 | 0 | 9 | 4.5 |
 | **R Gosh** | 1 | 0 | 4 | 4 |
 | **C Willey** | 1 | 0 | 4 | 4 |
-| **Abdul** | 1 | 0 | 4 | 4 |
+| **A Munim** | 1 | 0 | 4 | 4 |
 | **Edward Garland** | 3 | 0 | 11 | 3.67 |
 | **David Brookfield** | 2 | 0 | 4 | 2 |
 | **Alf Beswick** | 2 | 0 | 4 | 2 |
