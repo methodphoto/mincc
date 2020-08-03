@@ -24,7 +24,7 @@ Result: {result}
 | **J Grant &#8224;** | b | Kashif | 0 | 
 | **I Strawson** | b | Terry | 30 | 
 | **A Beswick &#42;** | st | Jim | 9 | 
-| **C Gallagher** | b  | Mayo | 16 | 
+| **P Wigg** | b  | Mayo | 16 | 
 | **Abdul** | c Dhru | Henry | 14 | 
 | **A Gallagher** | not out |  | 54 | 
 | **K Gallagher** | not out |  | 26 | 
