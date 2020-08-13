@@ -3,7 +3,7 @@ const { slugify } = require('../utils/build-utils');
 
 const createGamePages = (graphql, createPage) => graphql(`
   query {
-    allMarkdownRemark(filter: { frontmatter: { game: { ne: null} } }) {
+    allMarkdownRemark(filter: { frontmatter: { game: { ne: null}, year: {  } } }) {
       edges {
         node {
           frontmatter {
