@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0025"
 game: "Ealonians"
-title: "Ealonians -v- The Min"
+title: "Ealonians v The Min"
 gameLocation: "Gunnersbury Park"
 gameDate: "12/08/1994"
 result: "Ealonians won by 4 wkts"

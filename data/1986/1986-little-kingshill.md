@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0048"
 game: "Little Kingshill"
-title: "Little Kingshill -v- The Min"
+title: "Little Kingshill v The Min"
 gameLocation: "Little Kingshill CC"
 gameDate: "26/05/1986"
 result: "The Min won by 6 wkts"

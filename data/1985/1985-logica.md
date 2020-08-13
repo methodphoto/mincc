@@ -2,7 +2,7 @@
 year: "1985"
 serialNumber: "0037"
 game: "Logica"
-title: "Logica -v- The Min"
+title: "Logica v The Min"
 gameLocation: "Dundonald Recreation Ground"
 gameDate: "30/06/1985"
 result: "The Min won by 45 runs"

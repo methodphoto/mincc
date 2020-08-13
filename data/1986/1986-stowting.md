@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0059"
 game: "Stowting"
-title: "Stowting -v- The Min"
+title: "Stowting v The Min"
 gameLocation: "Stowting"
 gameDate: "07/09/1986"
 result: "Stowting won by 74 runs"

@@ -2,7 +2,7 @@
 year: "2020"
 serialNumber: "0514" 
 game: "Kingstonian"
-title: "Kingstonian -v- The Min"
+title: "Kingstonian v The Min"
 gameLocation: "Old Tiffinians Association Sports Ground"
 gameDate: "10/07/2020"
 result: "The Min won by 33 runs"

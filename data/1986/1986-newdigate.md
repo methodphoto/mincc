@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0057"
 game: "Newdigate"
-title: "Newdigate -v- The Min"
+title: "Newdigate v The Min"
 gameLocation: "Newdigate"
 gameDate: "10/08/1986"
 result: "The Min won by 5 wkts"

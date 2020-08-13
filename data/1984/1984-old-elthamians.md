@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0027"
 game: "Old Elthamians"
-title: "Old Elthamians -v- The Min"
+title: "Old Elthamians v The Min"
 gameLocation: "Foxbury"
 gameDate: "02/09/1984"
 result: "The Min won by 2 wkts"

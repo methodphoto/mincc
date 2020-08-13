@@ -2,7 +2,7 @@
 year: "1985"
 serialNumber: "0033"
 game: "Red Bat"
-title: "Red Bat -v- The Min"
+title: "Red Bat v The Min"
 gameLocation: "Dulwich Park"
 gameDate: "26/05/1985"
 result: "The Min won by 41 runs"

@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0051"
 game: "Horningsham"
-title: "Horningsham -v- The Min"
+title: "Horningsham v The Min"
 gameLocation: "Horningsham"
 gameDate: "21/06/1986"
 result: "Horningsham won by 1 wkt"

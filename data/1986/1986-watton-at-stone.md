@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0055"
 game: "Watton-at-Stone"
-title: "Watton-at-Stone -v- The Min"
+title: "Watton-at-Stone v The Min"
 gameLocation: "The Meadow"
 gameDate: "20/07/1986"
 result: "Watton-at-Stone won by 95 runs"

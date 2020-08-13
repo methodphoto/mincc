@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0017"
 game: "Ealing Commoners"
-title: "Ealing Commoners -v- The Min"
+title: "Ealing Commoners v The Min"
 gameLocation: "Ealing"
 gameDate: "13/05/1984"
 result: "Match Drawn"

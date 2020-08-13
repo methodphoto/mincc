@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0053"
 game: "Valley End"
-title: "Valley End -v- The Min"
+title: "Valley End v The Min"
 gameLocation: "Valley End"
 gameDate: "06/07/1986"
 result: "Match Drawn"

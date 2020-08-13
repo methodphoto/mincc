@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0052"
 game: "Godstone"
-title: "Godstone -v- The Min"
+title: "Godstone v The Min"
 gameLocation: "Godstone"
 gameDate: "29/06/2018"
 result: "Godstone won by 103 runs"

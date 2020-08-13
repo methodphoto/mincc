@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0045"
 game: "Petts Wood"
-title: "Petts Wood CC -v- The Min"
+title: "Petts Wood CC v The Min"
 gameLocation: "Willett Recreation Ground"
 gameDate: "26/04/1986"
 result: "Match Drawn"

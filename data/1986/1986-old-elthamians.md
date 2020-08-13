@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0047"
 game: "Old Elthamians"
-title: "Old Elthamians -v- The Min"
+title: "Old Elthamians v The Min"
 gameLocation: "Foxbury"
 gameDate: "18/05/1986"
 result: "The Min won by 6 wkts"

@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0021"
 game: "Hendon-Edgware"
-title: "Hendon-Edgware -v- The Min"
+title: "Hendon-Edgware v The Min"
 gameLocation: "Mill Hill Park"
 gameDate: "22/07/1984"
 result: "The Min won by 8 wkts"

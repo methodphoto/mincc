@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0016"
 game: "Greenford"
-title: "Greenford -v- The Min"
+title: "Greenford v The Min"
 gameLocation: "Perivale"
 gameDate: "13/05/1984"
 result: "The Min won by 107 runs"

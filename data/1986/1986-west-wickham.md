@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0046"
 game: "West Wickham"
-title: "West Wickham -v- The Min"
+title: "West Wickham v The Min"
 gameLocation: "West Wickham"
 gameDate: "12/05/1986"
 result: "The Min won by 2 wkts"

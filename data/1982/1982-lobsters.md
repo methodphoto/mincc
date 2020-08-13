@@ -2,7 +2,7 @@
 year: "1982"
 serialNumber: "0009"
 game: "Lobsters"
-title: "Lobsters -v- The Min"
+title: "Lobsters v The Min"
 gameLocation: "New Field"
 gameDate: "15/06/1982"
 result: "Lobsters won by 28 runs"

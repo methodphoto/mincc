@@ -2,7 +2,7 @@
 year: "2019"
 serialNumber: "0509" 
 game: "Cerne Valley"
-title: "Cerne Valley -v- The Min"
+title: "Cerne Valley v The Min"
 gameLocation: "Cerne Abbas"
 gameDate: "4th July 2019"
 result: "The Min won by"

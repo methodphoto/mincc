@@ -2,7 +2,7 @@
 year: "1982"
 serialNumber: "0002"
 game: "A Good Length"
-title: "The Min -v- A Good Length"
+title: "The Min v A Good Length"
 gameLocation: "Coombe Dingle"
 gameDate: "06/05/1982"
 result: "Match Drawn"

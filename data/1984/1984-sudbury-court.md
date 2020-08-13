@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0020"
 game: "Sudbury Court"
-title: "Sudbury Court -v- The Min"
+title: "Sudbury Court v The Min"
 gameLocation: "Sudbury Court"
 gameDate: "15/07/1994"
 result: "The Min won by 69 runs"

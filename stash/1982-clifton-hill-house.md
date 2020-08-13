@@ -2,7 +2,7 @@
 year: "1982"
 serialNumber: "0" 
 game: "Clifton Hill House"
-title: "The Min -v- Clifton Hill House "
+title: "The Min v Clifton Hill House "
 gameLocation: "Coombe Dingle"
 gameDate: "29/04/1982"
 result: "The Min won by 28 runs"

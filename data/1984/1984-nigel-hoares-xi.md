@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0028"
 game: "Nigel Hoare's XI"
-title: "Nigel Hoare's XI -v- The Min"
+title: "Nigel Hoare's XI v The Min"
 gameLocation: "Gravesend"
 gameDate: "19/09/1984"
 result: "The Min won by 5 wkts"

@@ -2,7 +2,7 @@
 year: "1982"
 serialNumber: "0004"
 game: "Bristol Grammar School II XI"
-title: "Bristol Grammar School II XI -v- The Min"
+title: "Bristol Grammar School II XI v The Min"
 gameLocation: "Failand Road"
 gameDate: "13/05/1982"
 result: "The Min won by 42 runs" 

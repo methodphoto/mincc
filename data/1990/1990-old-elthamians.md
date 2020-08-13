@@ -1,8 +1,8 @@
 ---
 year: "1990"
-serialNumber: "0" 
+serialNumber: "0111" 
 game: "Old Elthamians"
-title: "Old Elthamians -v- The Min"
+title: "Old Elthamians v The Min"
 gameLocation: "Foxbury"
 gameDate: "20/05/1990"
 result: "Match Drawn"
@@ -84,7 +84,7 @@ Result: {result}
 |---|---|---|---|---|
 | **I Marshall** | 8 | 3 | 14 | 0 | 
 | **R Olver** | 5 | 1 | 11 | 0 | 
-| **Thirlwell** | 13 | 1 | 18 | 2 | 
+| **T Thirlwell** | 13 | 1 | 18 | 2 | 
 | **A Swann** | 11 | 5 | 12 | 2 |
 | **W Calvert** | 2 | 1 | 6 | 1 |
 | **R Beswick** | 2 | 1 | 4 | 0 | 

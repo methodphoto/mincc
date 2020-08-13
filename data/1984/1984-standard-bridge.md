@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0019"
 game: "Standard Bridge"
-title: "Standard Bridge -v- The Min"
+title: "Standard Bridge v The Min"
 gameLocation: "Bishop's Park"
 gameDate: "08/07/1984"
 result: "Standard Bridge won by 6 wkts"

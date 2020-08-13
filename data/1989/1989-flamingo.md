@@ -2,7 +2,7 @@
 year: "1988"
 serialNumber: "0109" 
 game: "Flamingo"
-title: "Flamingo -v- The Min"
+title: "Flamingo v The Min"
 gameLocation: ""
 gameDate: ""
 result: ""

@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0018"
 game: "Lobsters"
-title: "Lobsters -v- The Min"
+title: "Lobsters v The Min"
 gameLocation: "New Field"
 gameDate: "24/06/1984"
 result: "Match Drawn"

@@ -2,7 +2,7 @@
 year: "1987"
 serialNumber: "0069" 
 game: "Newdigate"
-title: "Newdigate -v- The Min"
+title: "Newdigate v The Min"
 gameLocation: "Newdigate"
 gameDate: ""
 result: ""

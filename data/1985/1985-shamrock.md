@@ -2,7 +2,7 @@
 year: "1985"
 serialNumber: "0036"
 game: "Shamrock"
-title: "Shamrock -v- The Min"
+title: "Shamrock v The Min"
 gameLocation: "Meridian Cricket Ground"
 gameDate: "24/06/1985"
 result: "Match Drawn"

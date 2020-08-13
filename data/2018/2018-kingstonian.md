@@ -2,7 +2,7 @@
 year: "2018"
 serialNumber "0496"
 game: "Kingstonian"
-title: "Kingstonian -v- The Min"
+title: "Kingstonian v The Min"
 gameLocation: "KCL"
 gameDate: "06/05/2018"
 result: "THe Min won by 6 wkts"

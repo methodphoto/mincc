@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0049"
 game: "White City Allstars"
-title: "White City Allstars -v- The Min"
+title: "White City Allstars v The Min"
 gameLocation: "Gunnersbury Park"
 gameDate: "07/06/1986"
 result: "White City Allstars won by 17 runs"

@@ -32,12 +32,12 @@ type: "fixtures"
 ## July
 
 |:---|:---|:---|:---|
-| 19th | 13:00 | [Kingstonian](2020-Kingstonian.md) | [KT8 9LU](https//goo.gl/maps/4kwjPyThUMkyQfhe8) | 
+| 19th | 13:00 | [Kingstonian](2020-Kingstonian) | [KT8 9LU](https//goo.gl/maps/4kwjPyThUMkyQfhe8) | 
 
 ## August
 
 |:---|:---|:---|:---|
-| 2nd | 13:00 | [Railway Taverners](2020-railway-taverners.md) | [E17 8AX](https://goo.gl/maps/UC5RuuBUG1feDDhm6) | 
+| 2nd | 13:00 | [Railway Taverners](2020-railway-taverners) | [E17 8AX](https://goo.gl/maps/UC5RuuBUG1feDDhm6) | 
 | 9th | 13:00 | Banstead | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) | 
 
 ## September

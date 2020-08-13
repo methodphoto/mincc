@@ -2,7 +2,7 @@
 year: "1985"
 serialNumber: "0041"
 game: "Ealonian"
-title: "Ealonian -v- The Min"
+title: "Ealonian v The Min"
 gameLocation: "Ealonian"
 gameDate: "25/08/1985"
 result: "Match Drawn"

@@ -2,7 +2,7 @@
 year: "1983"
 serialNumber: "0011"
 game: "Nigel Hoare's XI"
-title: "The Min -v- Nigel Hoare's XI"
+title: "The Min v Nigel Hoare's XI"
 gameLocation: "Coombe Dingle"
 gameDate: "12/06/1983"
 result: "The Min won by 43 runs"

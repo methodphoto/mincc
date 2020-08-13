@@ -2,7 +2,7 @@
 year: "2018"
 serialNumber: "0498"
 game: "Watton-at-Stone"
-title: "Watton-at-Stone -v- The Min"
+title: "Watton-at-Stone v The Min"
 gameLocation: "The Meadow"
 gameDate: "24/06/2018"
 result: "Watton won by 127 runs"

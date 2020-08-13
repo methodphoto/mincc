@@ -2,7 +2,7 @@
 year: "2018"
 serialNumber: "0500"
 game: "Broadway & Horton"
-title: "Broadway & Horton -v- The Min"
+title: "Broadway & Horton v The Min"
 gameLocation: "Horton Cross"
 gameDate: "06/07/2018"
 result: "The Min won by 4 wkts"

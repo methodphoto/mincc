@@ -2,7 +2,7 @@
 year: "1985"
 serialNumber: "0040"
 game: "Old Wilsonians"
-title: "Old Wilsonians -v- The Min"
+title: "Old Wilsonians v The Min"
 gameLocation: "Bramley"
 gameDate: "18/08/1985"
 result: "The Min won by 6 wkts"

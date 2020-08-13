@@ -2,7 +2,7 @@
 year: "2019"
 serialNumber: "0513" 
 game: "Reigate Pilgrims"
-title: "Reigate Pilgrims -v- The Min"
+title: "Reigate Pilgrims v The Min"
 gameLocation: "Betchworth"
 gameDate: "15/09/2019"
 result: "Match Drawn"

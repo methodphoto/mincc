@@ -2,7 +2,7 @@
 year: "1988"
 serialNumber: "0075" 
 game: "Godstone"
-title: "Godstone -v- The Min"
+title: "Godstone v The Min"
 gameLocation: ""
 gameDate: ""
 result: ""

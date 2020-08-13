@@ -2,7 +2,7 @@
 year: "1995"
 serialNumber: "0189" 
 game: "Watton-at-Stone"
-title: "Watton-at-Stone -v- The Min"
+title: "Watton-at-Stone v The Min"
 gameLocation: "The Meadow"
 gameDate: ""
 result: ""

@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0015"
 game: "West Green"
-title: "West Green -v- The Min"
+title: "West Green v The Min"
 gameLocation: "Belmont Recreation Ground"
 gameDate: "12/05/1984"
 result: "West Green won by 6 wkts"

@@ -1,8 +1,8 @@
 ---
 year: "1990"
-serialNumber: "0" 
+serialNumber: "0122" 
 game: "Stowting"
-title: "Stowting -v- The Min"
+title: "Stowting v The Min"
 gameLocation: "Stowting"
 gameDate: "/1990"
 result: ""

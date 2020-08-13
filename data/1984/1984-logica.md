@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0022"
 game: "Logica"
-title: "Logica -v- The Min"
+title: "Logica v The Min"
 gameLocation: "Wimbledon Park"
 gameDate: "05/08/1984"
 result: "The Min won by 3 wkts"

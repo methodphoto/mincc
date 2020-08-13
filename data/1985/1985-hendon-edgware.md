@@ -2,7 +2,7 @@
 year: "1985"
 serialNumber: "0044"
 game: "Hendon-Edgware"
-title: "Hendon-Edgware -v- The Min"
+title: "Hendon-Edgware v The Min"
 gameLocation: "Mill Hill Park"
 gameDate: "15/09/1985"
 result: "Hendon-Edgware won by 20 runs"

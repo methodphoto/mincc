@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0019"
 game: "Harrowdene"
-title: "Harrowdene -v- The Min"
+title: "Harrowdene v The Min"
 gameLocation: "Harrowdene"
 gameDate: "01/07/1984"
 result: "The Min won by 9 wkts"

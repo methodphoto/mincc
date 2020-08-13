@@ -1,8 +1,8 @@
 ---
 year: "1990"
-serialNumber: "0" 
+serialNumber: "0112" 
 game: "Little Kingshill"
-title: "Little Kingshill -v- The Min"
+title: "Little Kingshill v The Min"
 gameLocation: "Little Kingshill CC"
 gameDate: "25/05/1990"
 result: "Match Drawn"

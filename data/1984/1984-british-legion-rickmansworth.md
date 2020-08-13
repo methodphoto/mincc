@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0026"
 game: "British Legion Rickmansworth"
-title: "British Legion Rickmansworth -v- The Min"
+title: "British Legion Rickmansworth v The Min"
 gameLocation: "Scotsridge Field"
 gameDate: "18/08/1984"
 result: "British Legion Rickmansworth won by 8 wkts"

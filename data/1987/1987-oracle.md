@@ -2,7 +2,7 @@
 year: "1987"
 serialNumber: "0070" 
 game: "Oracle"
-title: "Oracle -v- The Min"
+title: "Oracle v The Min"
 gameLocation: ""
 gameDate: ""
 result: ""

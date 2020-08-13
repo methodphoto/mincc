@@ -2,7 +2,7 @@
 year: "2016"
 serialNumber: "0470"
 game: "Middleton Stoney"
-title: "Middleton Stoney -v- The Min"
+title: "Middleton Stoney v The Min"
 gameLocation: "Middleton Park"
 gameDate: "17/04/2016"
 result: "The Min won by 5 wkts"

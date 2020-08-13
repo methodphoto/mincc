@@ -2,7 +2,7 @@
 year: "1985"
 serialNumber: "0043"
 game: "Alex Beard's XI"
-title: "Alex Beard's XI -v- The Min"
+title: "Alex Beard's XI v The Min"
 gameLocation: "Regent's Park"
 gameDate: "08/09/1985"
 result: "The Min won by 84 runs"

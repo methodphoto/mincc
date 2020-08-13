@@ -2,7 +2,7 @@
 year: "1983"
 serialNumber: "0010"
 game: "Lobsters"
-title: "Lobsters -v- The Min"
+title: "Lobsters v The Min"
 gameLocation: "New Field"
 gameDate: "09/06/1983"
 result: "The Min won by 29 runs"

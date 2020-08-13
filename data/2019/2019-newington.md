@@ -2,7 +2,7 @@
 year: "2019"
 serialNumber: "0506" 
 game: "Newington"
-title: "Newington -v- The Min"
+title: "Newington v The Min"
 gameLocation: "Bobbing Court"
 gameDate: "19/05/2019"
 result: "Newington won by 20 runs"

@@ -2,7 +2,7 @@
 year: "1988"
 serialNumber: "0074" 
 game: "Old Elthamians"
-title: "Old Elthamians -v- The Min"
+title: "Old Elthamians v The Min"
 gameLocation: "Foxbury"
 gameDate: ""
 result: ""

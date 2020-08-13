@@ -2,7 +2,7 @@
 year: "1983"
 serialNumber: "0013"
 game: "A Good Length"
-title: "A Good Length -v- The Min"
+title: "A Good Length v The Min"
 gameLocation: "Bramley"
 gameDate: "25/06/1982"
 result: "The Min won by 10 wkts"

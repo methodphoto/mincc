@@ -2,7 +2,7 @@
 year: "2017"
 serialNumber: "0" 
 game: "Broadway & Horton"
-title: "Broadway & Horton -v- The Min"
+title: "Broadway & Horton v The Min"
 gameLocation: "Horton Cross"
 gameDate: "07/07/2017"
 result: " Broadway retained The Ashes by 32 runs"

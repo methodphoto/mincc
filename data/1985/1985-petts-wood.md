@@ -2,7 +2,7 @@
 year: "1985"
 serialNumber: "0034"
 game: "Petts Wood"
-title: "Petts Wood -v- The Min"
+title: "Petts Wood v The Min"
 gameLocation: "Willett Recreation Ground"
 gameDate: "02/06/1985"
 result: "The Min won by 5 wkts"

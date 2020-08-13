@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0054"
 game: "Logica"
-title: "Logica -v- The Min"
+title: "Logica v The Min"
 gameLocation: "Wimbledon Park"
 gameDate: "13/07/1986"
 result: "The Min won by 8 wkts"

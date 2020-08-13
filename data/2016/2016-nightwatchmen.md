@@ -2,7 +2,7 @@
 year: "2016"
 serialNumber: "0472" 
 game: "Nightwatchmen"
-title: "Nightwatchmen -v- The Min"
+title: "Nightwatchmen v The Min"
 gameLocation: "Solefields"
 gameDate: "08/05/2016"
 result: "Nightwatchmen won by 57 runs"

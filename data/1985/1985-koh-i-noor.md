@@ -2,7 +2,7 @@
 year: "1985"
 serialNumber: "0038"
 game: "Koh-i-noor"
-title: "Koh-i-noor -v- The Min"
+title: "Koh-i-noor v The Min"
 gameLocation: "Cowgate Lane"
 gameDate: "07/07/1985"
 result: "The Min won by 146 runs"

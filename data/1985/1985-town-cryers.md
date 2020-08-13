@@ -2,7 +2,7 @@
 year: "1985"
 serialNumber: "0032"
 game: "Town Cryers"
-title: "Town Cryers -v- The Min"
+title: "Town Cryers v The Min"
 gameLocation: "Wandsworth Park"
 gameDate: "19/05/1985"
 result: "The Min won by 4 wkts"
@@ -59,7 +59,7 @@ Result: {result}
 | **W Calvert** | b | J Humphrey | 6 | 
 | **R Scotts** | b | J Seklecki | 91 | 
 | **E Harcourt** | lbw | J Seklecki | 16 | 
-| **M Gardiner** | -v- | J Seklecki | 6 | 
+| **M Gardiner** | v | J Seklecki | 6 | 
 | **R Beswick &#42;** | c N Barton | D Mackey | 0 | 
 | **T Purves** | not out |  | 0 | 
 | **J Grant &#8224;** | not out |  | 0 | 

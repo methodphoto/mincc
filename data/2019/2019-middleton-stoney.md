@@ -2,7 +2,7 @@
 year: "2019"
 serialNumber: "0504" 
 game: "Middleton Stoney"
-title: "Middleton Stoney -v- The Min"
+title: "Middleton Stoney v The Min"
 gameLocation: "Middleton Park"
 gameDate: "21/04/2019"
 result: "Match Drawn"

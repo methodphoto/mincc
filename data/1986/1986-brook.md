@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0050"
 game: "Brook"
-title: "Brook -v- The Min"
+title: "Brook v The Min"
 gameLocation: "The Pirrie Hall Recreation Ground"
 gameDate: "14/06/1986"
 result: "The Min won by 4 wkts"

@@ -2,7 +2,7 @@
 year: "1982"
 serialNumber: "0005"
 game: "J Stimpfig's XI"
-title: "The Min -v- J Stimpfig's XI"
+title: "The Min v J Stimpfig's XI"
 gameLocation: "Coombe Dingle"
 gameDate: "07/06/1982"
 result: "J Stimfig's XI won by 5 wkts"

@@ -2,7 +2,7 @@
 year: "1982"
 serialNumber: "0007"
 game: "Leyhill"
-title: "Leyhill -v- The Min"
+title: "Leyhill v The Min"
 gameLocation: "Leyhill"
 gameDate: "12/06/1982"
 result: "Leyhill won by 93 runs"

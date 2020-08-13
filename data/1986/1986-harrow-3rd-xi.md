@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0058"
 game: "Harrow 3rd XI"
-title: "Harrow 3rd XI -v- The Min"
+title: "Harrow 3rd XI v The Min"
 gameLocation: "Harrow"
 gameDate: "17/08/1986"
 result: "Match Drawn"

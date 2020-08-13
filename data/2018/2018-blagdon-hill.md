@@ -2,7 +2,7 @@
 year: "2018"
 serialNumber: "0499"
 game: "Blagdon Hill"
-title: "Blagdon Hill -v- The Min"
+title: "Blagdon Hill v The Min"
 gameLocation: "Blagdon Hill"
 gameDate: "05/07/2018"
 result: "Blagdon Hill won by 5 wkts"

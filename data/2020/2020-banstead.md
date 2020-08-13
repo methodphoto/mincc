@@ -2,7 +2,7 @@
 year: "2020"
 serialNumber: "0516" 
 game: "Banstead"
-title: "Banstead -v- The Min"
+title: "Banstead v The Min"
 gameLocation: "Banstead"
 gameDate: "09/08/2020"
 result: "The Min won by 3 wkts"

@@ -2,7 +2,7 @@
 year: "1986"
 serialNumber: "0056"
 game: "Strenue"
-title: "Strenue -v- The Min"
+title: "Strenue v The Min"
 gameLocation: ""
 gameDate: "27/07/1986"
 result: "Strenue won by 33 runs"

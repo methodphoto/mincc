@@ -1,7 +1,7 @@
 ---
 year:"2017"
 game: "Brasted Invicta"
-title: "Brasted Invicta -v- The Min"
+title: "Brasted Invicta v The Min"
 gameLocation: "Upper Neville Ground, Tunbridge Wells"
 gameDate: "10/09/2017"
 result: "The Min won by 185 runs"

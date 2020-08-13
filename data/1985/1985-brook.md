@@ -2,7 +2,7 @@
 year: "1985"
 serialNumber: "0035"
 game: "Brook"
-title: "Brook -v- The Min"
+title: "Brook v The Min"
 gameLocation: "The Pirrie Hall Recreation Ground"
 gameDate: "15/05/1985"
 result: "Brook won by 64 runs"

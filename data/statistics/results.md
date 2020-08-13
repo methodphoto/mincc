@@ -175,7 +175,7 @@ type: "results"
 | {date} | [Stowting](2008-stowting) | Won |
 | {date} | [Broadway & Horton](2008-broadway-and-horton) | Won |
 | {date} | [Horningsham](2008-horningsham) | Drawn |
-| {date} | [The Old Min -v- The Young Min](2008-the-old-min-the-young-min) | Drawn |
+| {date} | [The Old Min v The Young Min](2008-the-old-min-the-young-min) | Drawn |
 | {date} | [Harrow St Mary’s](2008-harrow-st-mary’s) | Won |
 | {date} | [Putney](2008-putney) | Won |
 | {date} | [Reigate Pilgrims](2008-reigate-pilgrims) | Drawn |
@@ -189,7 +189,7 @@ type: "results"
 | {date} | [Broadway & Horton](2007-broadway-and-horton) | Won |
 | {date} | [Kilmington & Stourton](2007-kilmington-and-stourton) | Won |
 | {date} | [Horningsham](2007-horningsham) | Drawn |
-| {date} | The Old Min -v- The Young Min| Drawn |
+| {date} | The Old Min v The Young Min| Drawn |
 | {date} | [Selling](2007-selling) | Lost |
 | {date} | [SB Exiles](2007-sb-exiles) | Lost |
 | {date} | [Reigate Pilgrims](2007-reigate-pilgrims) | Drawn |

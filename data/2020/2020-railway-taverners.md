@@ -2,7 +2,7 @@
 year: "2020"
 serialNumber: "0515" 
 game: "Railway Taverners"
-title: "Railway Taverners -v- The Min"
+title: "Railway Taverners v The Min"
 gameLocation: "Low Hall Sports Ground"
 gameDate: "02/08/2020"
 result: "The Min won by 31 runs"

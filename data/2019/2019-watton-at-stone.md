@@ -2,7 +2,7 @@
 year: "2019"
 serialNumber: "0505" 
 game: "Watton-at-Stone"
-title: "Watton-at-Stone -v- The Min"
+title: "Watton-at-Stone v The Min"
 gameLocation: "The Meadow"
 gameDate: "28/04/2019"
 result: "Watton-at-Stone won by 8 wkts"

@@ -2,7 +2,7 @@
 year: "2019"
 serialNumber: "0507" 
 game: "Blagdon Hill"
-title: "Blagdon Hill -v- The Min"
+title: "Blagdon Hill v The Min"
 gameLocation: "Sellicks Green"
 gameDate: "4th July 2019"
 result: "The Min won by 4 wkts"

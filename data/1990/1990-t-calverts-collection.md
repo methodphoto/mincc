@@ -1,8 +1,8 @@
 ---
 year: "1990"
-serialNumber: "0" 
+serialNumber: "0120" 
 game: "T Calvert's Collection"
-title: "T Calvert's Collection -v- The Min"
+title: "T Calvert's Collection v The Min"
 gameLocation: "Littlebredy"
 gameDate: "/1990"
 result: ""

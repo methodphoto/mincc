@@ -2,7 +2,7 @@
 year: "1984"
 serialNumber: "0024"
 game: "Chiswick Flyovers"
-title: "Chiswick Flyovers -v- The Min"
+title: "Chiswick Flyovers v The Min"
 gameLocation: "Chiswick"
 gameDate: "12/08/1984"
 result: "Chiswick Flyovers won by 75 runs"

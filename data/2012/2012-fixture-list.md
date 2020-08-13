@@ -7,7 +7,7 @@ type: "fixtures"
 
 ## April
 
-| 22nd | 14:30 | [Middleton Stoney](2012-middletonstoney.md) | [Away]() |
+| 22nd | 14:30 | [Middleton Stoney](2012-middletonstoney) | [Away]() |
 
 #### Sunday 29th April. 30th Anniversary of The Min
 
@@ -32,21 +32,21 @@ type: "fixtures"
 | 12th | 14:30 | <del>Broadway & Horton</del> | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
 | 13th | 14:00 | <del>Kilmington & Stourton</del> | [Away]() |
 | 14th | 14:00 | <del>Exford</del> | [Away]() |
-| 15th | 14:00 | [Horningsham](2012-horningsham.md) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
+| 15th | 14:00 | [Horningsham](2012-horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 
 ## July
 
-| 22nd | 14:00 | [Newdigate](2012-newdigate.md) | [Away](https://goo.gl/maps/kQnkUfc3MdtqLyvd8) |
+| 22nd | 14:00 | [Newdigate](2012-newdigate) | [Away](https://goo.gl/maps/kQnkUfc3MdtqLyvd8) |
 
 ## August
 
-| 5th | 14:00 | [Tower of Dudes](2012-tower-of-dudes.md) | [Away]() |
+| 5th | 14:00 | [Tower of Dudes](2012-tower-of-dudes) | [Away]() |
 
 ## September
 
-| 2nd | 14:00 | [Wonersh](2012-wonersh.md) | [Away]() |
-| 9th | 13:00 | [Brasted Invicta](2012-brasted-invicta.md) | [Away]() |
-| 16th | 13:30 | [Reigate Pilgrims](2012-reigate-pilgrims.md) | [Away]() |
+| 2nd | 14:00 | [Wonersh](2012-wonersh) | [Away]() |
+| 9th | 13:00 | [Brasted Invicta](2012-brasted-invicta) | [Away]() |
+| 16th | 13:30 | [Reigate Pilgrims](2012-reigate-pilgrims) | [Away]() |
 | 23rd | 13:00 | <del>Selling</del> | [Away]() |
-| 30th | 12:30 | [Stoke D’Abernon](2012-stoke-dabernon.md) | [Away]() |
+| 30th | 12:30 | [Stoke D’Abernon](2012-stoke-dabernon) | [Away]() |
 

@@ -2,7 +2,7 @@
 year: "2019"
 serialNumber: "0508" 
 game: "Railway Tavereners"
-title: "Railway Tavereners -v- The Min"
+title: "Railway Tavereners v The Min"
 gameLocation: "North Middlesex CC"
 gameDate: "01/09/2019"
 result: "The Min won by

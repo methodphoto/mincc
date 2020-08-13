@@ -1,8 +1,8 @@
 ---
 year: "1988"
-serialNumber: "0080" 
+serialNumber: "0090" 
 game: "Watton-at-Stone"
-title: "Watton-at-Stone -v- The Min"
+title: "Watton-at-Stone v The Min"
 gameLocation: "The Meadow"
 gameDate: ""
 result: ""

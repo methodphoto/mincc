@@ -2,7 +2,7 @@
 year: "1985"
 serialNumber: "0029"
 game: "White City All Stars"
-title: "White City All Stars -v- The Min"
+title: "White City All Stars v The Min"
 gameLocation: "Gunnersbury Park"
 gameDate: "27/04/1985"
 result: "White City All Stars won by 55 runs"

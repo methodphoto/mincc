@@ -2,7 +2,7 @@
 year: "1983"
 serialNumber: "0014"
 game: "Bathurst Arms"
-title: "Bathurst Arms -v- The Min"
+title: "Bathurst Arms v The Min"
 gameLocation: "North Cerney CC"
 gameDate: "17/06/1983"
 result: "The Min won by 4 wkts"

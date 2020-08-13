@@ -2,7 +2,7 @@
 year: "2018"
 serialNumber: "0501"
 game: "Selling"
-title: "Selling -v- The Min"
+title: "Selling v The Min"
 gameLocation: "Cadman's Meadow"
 gameDate: "21/07/2018"
 result: "The Min won by 55 runs"

@@ -2,7 +2,7 @@
 year: "2019"
 serialNumber: "0512" 
 game: "Kingstonian"
-title: "Kingstonian -v- The Min"
+title: "Kingstonian v The Min"
 gameLocation: "Sellicks Green"
 gameDate: "4th July 2019"
 result: "Match Drawn"

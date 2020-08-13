@@ -2,7 +2,7 @@
 year: "1985"
 serialNumber: "0030"
 game: "West Green"
-title: "West Green -v- The Min"
+title: "West Green v The Min"
 gameLocation: "Wood Green"
 gameDate: "05/05/1985"
 result: "West Green won by 41 runs"

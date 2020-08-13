@@ -2,7 +2,7 @@
 year: "2019"
 serialNumber: "0" 
 game: "Newdigate"
-title: "Newdigate -v- The Min"
+title: "Newdigate v The Min"
 gameLocation: "Newdigate"
 gameDate: "09/06/2019"
 result: "Newdigate won by 8 wkts"
