@@ -37,8 +37,8 @@ type: "fixtures"
 ## August
 
 |:---|:---|:---|:---|
-| 2nd | 13:00 | Railway Taverners | Railway Taverners | [E17 8AX](https://goo.gl/maps/UC5RuuBUG1feDDhm6) |
-| 9th | 13:30 | Banstead | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) | 
+| 2nd | 13:00 | [Railway Taverners](2020-railway-taverners.md) | [E17 8AX](https://goo.gl/maps/UC5RuuBUG1feDDhm6) | 
+| 9th | 13:00 | Banstead | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) | 
 
 ## September
 
