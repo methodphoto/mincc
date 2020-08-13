@@ -38,20 +38,11 @@ type: "fixtures"
 
 |:---|:---|:---|:---|
 | 2nd | 13:00 | Railway Taverners | Railway Taverners | [E17 8AX](https://goo.gl/maps/UC5RuuBUG1feDDhm6) |
-| 9th | 13:30 | TBA | TBA | 
+| 9th | 13:30 | Banstead | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) | 
 
 ## September
 
 |:---|:---|:---|:---|
-| 6th | 13:00 | TBA | TBA | 
+| 6th | 13:00 | Woodcoombe CC | [ME10 3RT](https://goo.gl/maps/rMva1ta8sRDV8z768) | 
 | 13th | 13:00 | Reigate Pilgrims | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) | 
 | 27th | 12:00 | Selling | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
-
-
-| 26th | 13:30 | Middleton Stoney| [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) | 
-
-
-
-
-
-

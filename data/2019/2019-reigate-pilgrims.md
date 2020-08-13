@@ -20,17 +20,17 @@ Reigate won the toss and batted first, making 151-9. The Min replied with 146-8 
 
 | Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
-| Burgess | run out | (A Beswick) | 6 |
-| Janardanan | b | I Marshall | 7 |
-| W Hodgson | st J Grant | b C Wright | 0 |
-| Dharmasekaran | c W Calvert | b C Wright | 23 |
-| P Saikia | run out | (S Barrowcliff) | 24 |
-| Kanagarajah | c J Grant | R Beswick | 26 |
-| G Mitchell | c S Barrowcliff | R Beswick | 0 |
-| A Periasoamy | b | L Barrowcliff | 19 |
-| J Hoy | c R Earney | P Wigg | 0 |
-| M Wood | not out | | 10 |
-| Sharma | dnb | | |
+| **Burgess** | run out (A Beswick) |  | 6 |
+| **Janardanan** | b | I Marshall | 7 |
+| **W Hodgson** | st J Grant | b C Wright | 0 |
+| **Dharmasekaran** | c W Calvert | b C Wright | 23 |
+| **P Saikia** | run out | (S Barrowcliff) | 24 |
+| **Kanagarajah** | c J Grant | R Beswick | 26 |
+| **G Mitchell** | c S Barrowcliff | R Beswick | 0 |
+| **A Periasoamy** | b | L Barrowcliff | 19 |
+| **J Hoy** | c R Earney | P Wigg | 0 |
+| **M Wood** | not out | | 10 |
+| **Sharma** | dnb | | |
 
 | **Extras** | | (0b 0lb 3w 3nb 0p) | **6* |
 | **Total** | | (38.4 overs) | **151 for 9 wkts** |
@@ -56,17 +56,17 @@ Reigate won the toss and batted first, making 151-9. The Min replied with 146-8 
 
 | Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
-| I Miah | b | S Pettit | 0 |
-| Ishmael | b | E Barton | 10 |
-| R Damaze | lbw |S Pettit | 11 |
-| R Earney | b |J Morris | 16 |
-| P Wigg | lbw b |J Morris | 0 |
-| A Gallagher | b |J Moorman | 49 |
-| W Calvert | b |J Morris | 3 |
-| R Beswick | lbw b | .Williams | 5 |
-| J Stimfig † | not out | | 12 |
-| J Grant † | not out | |0 |
-| J Wright | dnb | | |
+| **I Miah** | b | S Pettit | 0 |
+| **Ishmael** | b | E Barton | 10 |
+| **R Damaze** | lbw |S Pettit | 11 |
+| **R Earney** | b |J Morris | 16 |
+| **P Wigg** | lbw b |J Morris | 0 |
+| **A Gallagher** | b |J Moorman | 49 |
+| **W Calvert** | b |J Morris | 3 |
+| **R Beswick** | lbw b | .Williams | 5 |
+| **J Stimfig &#8224;** | not out | | 12 |
+| **J Grant &#8224;** | not out | |0 |
+| **C Wright** | dnb | | |
 | **Extras** | | (4b 2lb 7w 2nb 0p) | **15** |
 | **Total** | | (33 overs) | **111 for 8 wkts** |
 
@@ -81,13 +81,13 @@ Reigate won the toss and batted first, making 151-9. The Min replied with 146-8 
 
 | | O | M |  |  | W |
 |---|---|---|---|---|
-| S Pettit |5 |1 |6 |2 |
-| AK Kamal |8 |4 |24 |0 |
-| E Barton |4 |0 |16 |1 |
-| J Morris |8 |1 |21 |3 |
-| J Williams |4 |0 |36 |1 |
-| J Moorman |3 |1 |4 |1 |
-| T.Riley | 1 | 1 | 0| 0 |
+| **S Pettit** |5 |1 |6 |2 |
+| **AK Kamal** |8 |4 |24 |0 |
+| **E Barton** |4 |0 |16 |1 |
+| **J Morris** |8 |1 |21 |3 |
+| **J Williams** |4 |0 |36 |1 |
+| **J Moorman** |3 |1 |4 |1 |
+| **T Riley** | 1 | 1 | 0| 0 |
 
 ## Season Win/Loss Record
 
