@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "Ealonians"									
-title: "Ealonians v The Min"									
-gameLocation: "Gunnersbury Park"									
-gameDate: "12/08/1994"									
-result: "Ealonians won by 4 wkts"									
-resultType: "Lost"									
-type: "game"									
+year: "1984"
+serialNumber: "0025"
+game: "Ealonians"
+title: "Ealonians v The Min"
+gameLocation: "Gunnersbury Park"
+gameDate: "12/08/1994"
+result: "Ealonians won by 4 wkts"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | Cox | 17 |
 | **J Grant &#8224;** | c | Filmer | 0 | 
@@ -36,14 +37,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 7 | 29 | 39 | 59 | 67 | 143 | 75 | 98 | 102 | 107 | 
 | **Batsman** | 2 | 1 | 4 | 3 | 4 | 6 |  7 | 8 | 9 | 11 | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Cox** | 10 | 2 | 20 | 1 | 
 | **Filmer** | 7.1 | 0 | 28 | 4 | 
@@ -52,7 +53,7 @@ Result: {result}
 
 ## Ealonians Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Barker** | c J Grant | W Calvert | 9 | 
 | **Cutlin** | c J Wright | R Beswick | 2 | 
@@ -71,13 +72,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 7 | 19 | 57 | 67 | 72 | 73 |  |  |  |  | 
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 5 |  |  |  |  | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Beswick** | 7.2 | 0 | 39 | 1 | 
 | **W Calvert** | 11 | 0 | 33 | 4 | 
@@ -85,6 +86,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 5 | 4 | 2 | 0 |

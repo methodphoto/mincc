@@ -1,5 +1,6 @@
 ---
-year:"2018"
+year: "2018"
+serialNumber: "0502"
 game: "Reigate Pilgrims"
 title: "Reigate Pilgrims v The Min"
 gameLocation: "The Red Lion, Betchworth"
@@ -89,6 +90,6 @@ Reigate Pilgrims won the toss and inserted The Min, who made 184-6  Reigate Pilg
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 |  |  |  |  |

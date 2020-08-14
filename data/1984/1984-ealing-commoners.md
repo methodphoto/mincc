@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "Ealing Commoners"									
-title: "Ealing Commoners v The Min"									
-gameLocation: "Ealing"									
-gameDate: "13/05/1984"									
-result: "Match Drawn"									
-resultType: "Drawn"									
-type: "game"									
+year: "1984"
+serialNumber: "0017"
+game: "Ealing Commoners"
+title: "Ealing Commoners v The Min"
+gameLocation: "Ealing"
+gameDate: "13/05/1984"
+result: "Match Drawn"
+resultType: "Drawn"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | J Ashton | 32 | 
 | **J Grant &#8224;** | b | J Ashton | 9 | 
@@ -36,14 +37,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 39 | 45 | 77 | 98 | | 117 |  |  |  |  | 
 | **Batsman** | 1 | 2 | 4 | 5 | 6 | 3 | 8 |  |  |  | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Neville** | 14 | 2 | 40 | 0 | 
 | **J Ashton** | 12 | 1 | 42 | 2 | 
@@ -52,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Cheetham** | c J Wright | A Sylvester | 4 | 
 | **Phillipson** | c J Grant | A Sylvester | 21 | 
@@ -71,14 +72,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 18 | 27 | 28 | 43 | 53 | 53 |  |  | |  | 
 | **Batsman** | 1 | 2 | 4 | 3 | 5 | 7 |  |  |  |  | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 6 | 1 | 12 | 0 | 
 | **A Sylvester** | 10 | 3 | 13 | 2 | 
@@ -91,6 +92,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 1 | 1 | 1 | 0 |

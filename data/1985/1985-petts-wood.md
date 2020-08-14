@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Petts Wood"									
-title: "Petts Wood v The Min"									
-gameLocation: "Willett Recreation Ground"									
-gameDate: "02/06/1985"									
-result: "The Min won by 5 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1985"
+serialNumber: "0034"
+game: "Petts Wood"
+title: "Petts Wood v The Min"
+gameLocation: "Willett Recreation Ground"
+gameDate: "02/06/1985"
+result: "The Min won by 5 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Petts Wood Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Cook** | c J Grant | A Sylvester | 7 | 
 | **Overend** | run out |  | 21 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 19 | 19 | 23 | 41 | 45 | 95 | 95 | 126 | 132 | 146 |
 | **Batsman** | 1 | 3 | 4 | 2 | 5 | 7 | 6 | 8 | 10 | 9 |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Beswick** | 17 | 4 | 49 | 3 | 
 | **A Sylvester** | 10 | 4 | 32 | 5 | 
@@ -50,7 +51,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c | Slade | 22 | 
 | **J Grant &#8224;** | c | Walshe | 16 | 
@@ -69,14 +70,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 33 | 51 | 92 | 119 | 139 |  |  |  |  |  | 
 | **Batsman** | 1 | 2 | 4 | 5 | 3 |  |  |  |  |  | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Slade** | 11 | 0 | 45 | 2 | 
 | **Cope** | 4 | 0 | 15 | 0 | 
@@ -86,6 +87,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 4 | 2 | 0 | 0 |

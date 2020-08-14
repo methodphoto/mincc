@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "Sudbury Court"									
-title: "Sudbury Court v The Min"									
-gameLocation: "Sudbury Court"									
-gameDate: "15/07/1994"									
-result: "The Min won by 69 runs"									
-resultType: "Won"									
-type: "game"									
+year: "1984"
+serialNumber: "0020"
+game: "Sudbury Court"
+title: "Sudbury Court v The Min"
+gameLocation: "Sudbury Court"
+gameDate: "15/07/1994"
+result: "The Min won by 69 runs"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | Liffen | 84 | 
 | **J Grant &#8224;** | b | Dolan | 5 | 
@@ -36,14 +37,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 16 | 62 | 83 | 109 | 113 | 65 | 98 | 101 | | | 
 | **Batsman** | 2 | 3 | 4 | 5 | 1 | 6 | 7 | 9 | 10| | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Dolan** | 10 | 1 | 47 | 3 | 
 | **Liffen** | 13 | 1 | 68 | 2 | 
@@ -52,7 +53,7 @@ Result: {result}
 
 ## Standard Bridge Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Watson** | c M Gardiner | A Sylvester | 11 | 
 | **Dolan** | c D Young | A Sylvester | 16 | 
@@ -71,14 +72,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | | | | | | | | | | | 
 | **Batsman** | | | | | | | | | | | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 9 | 1 | 22 | 0 | 
 | **A Sylvester** | 13 | 6 | 23 | 3 | 
@@ -88,6 +89,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 3 | 2 | 2 | 0 |

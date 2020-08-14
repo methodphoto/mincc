@@ -1,5 +1,6 @@
 ---
-year:"2018"
+year: "2018"
+serialNumber: "0500"
 game: "Broadway & Horton"
 title: "Broadway & Horton v The Min"
 gameLocation: "Horton Cross"
@@ -91,6 +92,6 @@ S Barrowcliff 50 off 68 balls
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 3 | 2 | 1 | 0 |

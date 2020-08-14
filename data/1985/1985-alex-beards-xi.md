@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Alex Beard's XI"									
-title: "Alex Beard's XI v The Min"									
-gameLocation: "Regent's Park"									
-gameDate: "08/09/1985"									
-result: "The Min won by 84 runs"									
-resultType: "Won"									
-type: "game"									
+year: "1985"
+serialNumber: "0043"
+game: "Alex Beard's XI"
+title: "Alex Beard's XI v The Min"
+gameLocation: "Regent's Park"
+gameDate: "08/09/1985"
+result: "The Min won by 84 runs"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | Platt | 0 | 
 | **E Bishop** | b | Platt | 0 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 0 | 18 | 55 | 64 | 95 | 97 | 102 | 121 |  | 
 | **Batsman** | 1 | 2 | 4 | 5 | 3 | 6 | 5 | 8 | 7 | 10 | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Platt** | 6 | 2 | 14 | 4 | 
 | **A Beard** | 6 | 1 | 22 | 1 | 
@@ -54,7 +55,7 @@ Result: {result}
 
  ## Alex Beard's XI Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Will** | c J Wright | R Beswick | 4 | 
 | **Phil** | b | R Beswick | 2 | 
@@ -73,13 +74,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 7 | 8 | 9 | 9 | 30 | 32 | 35 | 40 |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Beswick** | 4 | 2 | 2 | 2 | 
 | **G Palengort** | 4 | 1 | 2 | 2 | 
@@ -89,6 +90,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 8 | 5 | 2 | 0 |

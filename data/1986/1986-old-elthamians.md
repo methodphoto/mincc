@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Old Elthamians"									
-title: "Old Elthamians v The Min"									
-gameLocation: "Foxbury"									
-gameDate: "18/05/1986"									
-result: "The Min won by 6 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1986"
+serialNumber: "0047"
+game: "Old Elthamians"
+title: "Old Elthamians v The Min"
+gameLocation: "Foxbury"
+gameDate: "18/05/1986"
+result: "The Min won by 6 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Old Elthamians Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Ju Guthrie** | b  | W Wright | 14 | 
 | **Wilson** | c | R Olver | 71 | 
@@ -36,14 +37,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 16 | 21 | 139 | 151 | 168 | 168 | 171 |  |  |  | 
 | **Batsman** | 1 | 3 | 4 | 5 | 2 | 6 | 7 |  |  |  | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **W Wright** | 12 | 3 | 46 | 2 | 
 | **R Olver** | 15 | 7 | 25 | 4 | 
@@ -55,7 +56,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | Napier | 1 | 
 | **J Grant** | c | Manchip | 63 | 
@@ -74,14 +75,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 8 | 106 | 149 | 177 |  |  |  |  | | | 
 | **Batsman** | 1 | 3 | 2 | 5 |  |  |  |  |  | | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Napier** | 6 | 0 | 33 | 1 | 
 | **Wilson** | 5 | 1 | 13 | 0 | 
@@ -93,6 +94,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 2 | 0 | 1 | 0 |

@@ -1,7 +1,8 @@
 ---
-year:"2018"
-game: "Blagdon Hill"
-title: "Blagdon Hill v The Min"
+year: "2018"
+serialNumber "0495"
+game: "Middleton Stoney"
+title: "Middleton Stoney v The Min"
 gameLocation: "Middleton Park"
 gameDate: "22/04/2018"
 result: "Match Drawn"
@@ -87,6 +88,6 @@ The Min won the toss and inserted Middleton Stoney who scored 188-7. The Min rep
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 0 | 0 | 1 | 0 |

@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "Chiswick Flyovers"									
-title: "Chiswick Flyovers v The Min"									
-gameLocation: "Chiswick"									
-gameDate: "12/08/1984"									
-result: "Chiswick Flyovers won by 75 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1984"
+serialNumber: "0024"
+game: "Chiswick Flyovers"
+title: "Chiswick Flyovers v The Min"
+gameLocation: "Chiswick"
+gameDate: "12/08/1984"
+result: "Chiswick Flyovers won by 75 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -19,7 +20,7 @@ Result: {result}
  
 ## Chiswick Flyovers Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Cannell** | c J Wright | W Calvert | 10 | 
 | **Whittread** | c S Maynard | W Calvert | 2 | 
@@ -38,14 +39,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 14 | 21 | 22 | 34 |  |  | | | | | 
 | **Batsman** | 2 | 3 | 1 | 5 | 6 | 7 | 4 | 9 |  | | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Beswick** | 8 | 2 | 20 | 0 | 
 | **W Calvert** | 13 | 3 | 40 | 6 | 
@@ -55,7 +56,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c & b | Stevenson | 6 | 
 | **J Grant &#8224;** | lbw | Stevenson | 8 | 
@@ -74,14 +75,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 6 | 21 | 33 | 40 |  |  |  |  |  |  | 
 | **Batsman** | 1 | 3 | 4 | 2 | 5 | 6 | 8 |  |  |  | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Stevenson** | 10 | 3 | 20 | 6 | 
 | **Scanlon** | 8 | 2 | 13 | 1 | 
@@ -89,6 +90,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 5 | 3 | 2 | 0 |

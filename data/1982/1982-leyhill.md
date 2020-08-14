@@ -1,5 +1,6 @@
 ---
 year: "1982"
+serialNumber: "0007"
 game: "Leyhill"
 title: "Leyhill v The Min"
 gameLocation: "Leyhill"
@@ -17,7 +18,7 @@ Result: {result}
 
 ## Leyhill Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Rideout** | run out| | 3 | |
 | **M Harrlsmitt** | lbw | M Kirwan | 8 | |
@@ -37,13 +38,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | | | | | | | | | | |
 | **Batsman** | 1 | 2| 4 | 3 | 6 | 7 | 8 | 5 | 10| 11 |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 12.2 | 1| 33 | 5 |
 | **A Sylvester** | 6 | 1| 22 | 0 |
@@ -55,7 +56,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **P Butler** | c F Rowe | R Coster | 12 | |
 | **A Gallagher** | b | R Coster | 1 | |
@@ -74,13 +75,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | | | | | | | | | | |
 | **Batsman** | 2 | 3| 1 | 4 | 5 | 6 | 8 | 9 | 7 | 10 |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Coster** | 17.5 | 7| 30 | 6 |
 | **F Rowe** | 14 | 4| 34 | 3 |
@@ -88,6 +89,6 @@ Result: {result}
 
 ### Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 3 | 2 | 1 | 0 |

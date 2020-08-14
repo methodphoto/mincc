@@ -4,7 +4,7 @@ type: "statistics"
 ---
 # {title}
 
-| Year | Batsman | Opponent | Partnership |
+| Year | Batsman |  |  | Partnership |
 |:--- | :--- | :--- | ---: |
 | 2004 | H Ingham (96*) and R Beswick (67*) | v Watton-at-Stone | 186* |
 | 2006 | R Earney (102) and M  Goff (100) | v SB Exiles | 179 |

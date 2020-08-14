@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Old Wilsonians"									
-title: "Old Wilsonians v The Min"									
-gameLocation: "Bramley"									
-gameDate: "18/08/1985"									
-result: "The Min won by 6 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1985"
+serialNumber: "0040"
+game: "Old Wilsonians"
+title: "Old Wilsonians v The Min"
+gameLocation: "Bramley"
+gameDate: "18/08/1985"
+result: "The Min won by 6 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Brook Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Williams** | lbw | A Sylvester | 4 | 
 | **Parkinson** | c Barrowclough | W Calvert | 2 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **A Sylvester** | 5 | 2 | 14 | 3 | 
 | **W Calvert** | 5 | 2 | 9 | 1 | 
@@ -54,7 +55,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | run out |  | 43 | 
 | **J Grant &#8224;** | lbw | Forbes | 0 | 
@@ -73,19 +74,19 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 9 | 9 | 64 | 66 |  |  |  |  |  |  | 
 | **Batsman** | 2 | 3 | 4 | 1 |  |  |  |  |  |  | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Forbes** | - | - | - | 3 | 
 
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 7 | 4 | 1 | 0 |

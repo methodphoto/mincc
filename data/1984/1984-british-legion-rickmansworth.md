@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "British Legion Rickmansworth"									
-title: "British Legion Rickmansworth v The Min"									
-gameLocation: "Scotsridge Field"									
-gameDate: "18/08/1984"									
-result: "British Legion Rickmansworth won by 8 wkts"									
-resultType: "Lost"									
-type: "game"									
+year: "1984"
+serialNumber: "0026"
+game: "British Legion Rickmansworth"
+title: "British Legion Rickmansworth v The Min"
+gameLocation: "Scotsridge Field"
+gameDate: "18/08/1984"
+result: "British Legion Rickmansworth won by 8 wkts"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | b | Edwards | 37 | 
 | **W Calvert** | b | Thomas | 2 |
@@ -36,14 +37,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 6 | 76 | 103 | 107 | 109 | 110 | 112 | 126 |  |  | 
 | **Batsman** | 2 | 1 | 3 | 4 | 6 | 7 |  5 | 9 |  |  | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **S Gravestock** | 11 | 5 | 13 | 0 | 
 | **Thomas** | 6 | 1 | 11 | 1 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## British Legion Rickmansworth Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Strickland** | c R Beswick | J Wright | 18 | 
 | **Thorpe** | b | W Calvert | 23 | 
@@ -72,13 +73,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 7 | 19 | 57 | 67 | 72 | 73 |  |  |  |  | 
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 5 |  |  |  |  | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **W Calvert** | 11 | 1 | 41 | 1 | 
 | **R Beswick** | 4 | 0 | 18 | 0 | 
@@ -90,6 +91,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 5 | 5 | 2 | 0 |

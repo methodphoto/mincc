@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Little Kingshill"									
-title: "Little Kingshill v The Min"									
-gameLocation: "Little Kingshill CC"									
-gameDate: "26/05/1986"									
-result: "The Min won by 6 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1986"
+serialNumber: "0048"
+game: "Little Kingshill"
+title: "Little Kingshill v The Min"
+gameLocation: "Little Kingshill CC"
+gameDate: "26/05/1986"
+result: "The Min won by 6 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Little Kingshill Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **D Chandler** | not out |  | 88 | 
 | **K Borkett** | b | R Olver | 28 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 59 | 65 | 135 | 140 |  |  |  |  |  |  | 
 | **Batsman** | 2 | 3 | 4 | 5 |  |  |  |  |  |  | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 8 | 0 | 27 | 0 | 
 | **R Olver** | 11 | 4 | 28 | 2 | 
@@ -52,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **S Watson** | st N Chapman | J Gear | 24 | 
 | **J Grant &#8224;** | b | J Gear | 16 | 
@@ -71,13 +72,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 41 | 42 | 117 | 127 |  |  |  |  |  |  | 
 | **Batsman** | 2 | 1 | 4 | 5 |  |  |  |  |  |  | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **S Doughty** | 12 | 2 | 35 | 2 | 
 | **D Benning** | 12 | 2 | 28 | 0 | 
@@ -87,6 +88,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 3 | 0 | 1 | 0 |

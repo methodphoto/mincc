@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Stowting"									
-title: "Stowting v The Min"									
-gameLocation: "Stowting"									
-gameDate: "07/09/1986"									
-result: "Stowting won by 74 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1986"
+serialNumber: "0059"
+game: "Stowting"
+title: "Stowting v The Min"
+gameLocation: "Stowting"
+gameDate: "07/09/1986"
+result: "Stowting won by 74 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Stowting Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **D Jackson** | c | W Wright | 35 | 
 | **G Woodward** | b | R Scotts | 0 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 11 | 2 | 49 | 3 | 
 | **A Sylvester** | 11 | 2 | 36 | 2 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | b | A Perry | 25 | 
 | **J Grant &#8224;** | c | A Perry | 11 | 
@@ -72,13 +73,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 37 | 48 | 59 | 65 | 65 | 82 | 85 | 86 | 87 | 96 |
 | **Batsman** | 1 | 2 | 3 | 4 | 6 | 5 | 8 | 7 | 10 | 11 |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **B Falconer** | 11 | 0 | 49 | 0 | 
 | **A Perry** | 16 | 6 | 24 | 7 | 
@@ -86,6 +87,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 6 | 6 | 3 | 0 |

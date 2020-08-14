@@ -6,7 +6,7 @@ type: "statistics"
 
 ## Centuries |
 
-| Year | Player | Opponent | Score |
+| Year | Player |  |  | Score |
 |:--- | :--- | :--- | ---: |
 | 2017 | Mohit Gupta | v Frensham | 100 |
 | 2013 | Ray Damaze | v Frensham | 100* |
@@ -31,16 +31,16 @@ type: "statistics"
 
 ## Fifties |
 
-| Year | Player | Opponent | Score |
+| Year | Player |  |  | Score |
 |:--- | :--- | :--- | ---: |
 | 2019 | Alf Beswick | v Railway Taverners | 50 |
-| 2019 | Alf Beswick | v Kingstonians | 86 |
+| 2019 | Alf Beswick | v Kingstonian | 86 |
 | 2019 | Steven Hornsby | v Broadway & Horton | 52 |
 | 2019 | Alf Beswick | v Cerne Valley | 52 |
 | 2019 | M Ishmael | v Frensham | 70 |
 | 2019 | Jack Stacey | v Newington | 59 |
 | 2019 | Alf Beswick | v Watton-at-Stone | 57 |
-| 2018 | Richard Earney | v Kingstonians | 56 |
+| 2018 | Richard Earney | v Kingstonian | 56 |
 | 2017 | Richard Kitson | v Reigate Pilgrims | 56* |
 | 2017 | Ray Damaze | v Brasted Invicta | 59* |
 | 2017 | Steven Hornsby | v Brasted Invicta | 50* |

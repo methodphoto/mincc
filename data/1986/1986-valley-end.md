@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Valley End"									
-title: "Valley End v The Min"									
-gameLocation: "Valley End"									
-gameDate: "06/07/1986"									
-result: "Match Drawn"									
-resultType: "Drawn"									
-type: "game"									
+year: "1986"
+serialNumber: "0053"
+game: "Valley End"
+title: "Valley End v The Min"
+gameLocation: "Valley End"
+gameDate: "06/07/1986"
+result: "Match Drawn"
+resultType: "Drawn"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Godstone Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **E Mason** | st J Grant | M Taylor | 0 | 
 | **J Talbot** | b | A Sylvester | 8 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 2 | 28 | 36 | 46 | 61 | 90 | 96 | 153 |  |  |
 | **Batsman** | 1 | 2 | 4 | 5 | 3 | 6 | 8 | 9 |  |  |  |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Taylor** | 10 | 1 | 43 | 4 | 
 | **A Sylvester** | 10 | 1 | 35 | 1 | 
@@ -51,7 +52,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c C Chadwick | D Spencer | 10 | 
 | **J Grant &#8224;** | c D Spencer | J King | 28 | 
@@ -70,14 +71,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 12 | 67 | 111 | 124 | 124 | 127 | 131 |  |  |  | 
 | **Batsman** | 1 | 2 | 3 | 5 | 4 | 7 | 8 |  |  |  | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **D Spencer** | 7 | 2 | 17 | 1 | 
 | **E Mason** | 8 | 2 | 19 | 1 | 
@@ -87,6 +88,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 4 | 3 | 2 | 0 |

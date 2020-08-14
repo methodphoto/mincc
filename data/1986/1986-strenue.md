@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Strenue"									
-title: "Strenue v The Min"									
-gameLocation: ""									
-gameDate: "27/07/1986"									
-result: "Strenue won by 33 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1986"
+serialNumber: "0056"
+game: "Strenue"
+title: "Strenue v The Min"
+gameLocation: ""
+gameDate: "27/07/1986"
+result: "Strenue won by 33 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Strenue Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Wilks** | c S Foster | S Mears | 75 | 
 | **Finch** | b | S Foster | 66 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **A Speak** | 7 | 1 | 22 | 0 | 
 | **J Wright** | 9 | 3 | 39 | 0 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c Finch | Chapman | 34 | 
 | **D Young** | run out |  | 18 | 
@@ -72,13 +73,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 48 | 58 | 69 | 79 | 115 | 144 | 149 | 153 | 153 | 153 | 
 | **Batsman** | 1 | 2 | 3 | 5 | 6 | 7 | 3 | 4 | 10 | 11 | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Lawson** | 11 | 2 | 35 | 2 | 
 | **Chapman** | 5 | 1 | 30 | 1 | 
@@ -88,6 +89,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 5 | 5 | 2 | 0 |

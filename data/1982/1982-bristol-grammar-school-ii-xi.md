@@ -1,5 +1,6 @@
 ---
 year: "1982"
+serialNumber: "0004"
 game: "Bristol Grammar School II XI"
 title: "Bristol Grammar School II XI v The Min"
 gameLocation: "Failand Road"
@@ -19,11 +20,11 @@ J Booth and D Mundy: partnership of 100
  
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **D Mundy** | c T Hyatt | C Pickles | 22 |
 | **A Gallagher** | b | C Pickles | 7 |
-| **Newcomb** | c A Falconio | C Pickles | 59 |
+| **P Newcomb** | c A Falconio | C Pickles | 59 |
 | **R Beswick &#42;** | c A Falconio | T Hyatt | 19 |
 | **W Calvert** | b | T Harris | 5 |
 | **R Emanuel** | b | T Cooper | 20 |
@@ -38,13 +39,13 @@ J Booth and D Mundy: partnership of 100
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 25 | 40 | 79 | 92 | 116 | 144 | 145 | 146 | 153 | 171 |
 | **Batsman** | 2 | 1 | 4 | 5 | 6 | 3 | 8 | 9 | 7 | 11 |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **C Pickles** | 13 | 3 | 42 | 5 |
 | **R Charnaud** | 8 | 1 | 27 | 0 |
@@ -54,7 +55,7 @@ J Booth and D Mundy: partnership of 100
 
 ## Bristol Grammar School Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **D Fox** | b | J Wright | 42 |
 | **A Falconio** | lbw | A Sylvester | 2 |
@@ -73,13 +74,13 @@ J Booth and D Mundy: partnership of 100
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 6 | 69 | 77 | 81 | 100 | 116 | 116 | 128 | 129 | 129 |
 | **Batsman** | 2 | 1 | 3 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 13 | 2 | 31 | 3 |
 | **A Sylvester** | 5 | 0 | 29 | 1 |
@@ -89,6 +90,6 @@ J Booth and D Mundy: partnership of 100
 
 ### Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 3 | 0 | 1 | 0 |

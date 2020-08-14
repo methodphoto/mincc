@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Old Elthamians"									
-title: "Old Elthamians v The Min"									
-gameLocation: "Foxbury"									
-gameDate: "01/09/1985"									
-result: "Old Elthamians won by 3 wkts"									
-resultType: "Lost"									
-type: "game"									
+year: "1985"
+serialNumber: "0042"
+game: "Old Elthamians"
+title: "Old Elthamians v The Min"
+gameLocation: "Foxbury"
+gameDate: "01/09/1985"
+result: "Old Elthamians won by 3 wkts"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | c T Manchip | I Whalley | 1 | 
 | **A Gallagher** | c T Manchip | I Whalley | 5 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 7 | 8 | 9 | 68 | 80 | 91 | 92 | 92 | 92 | 104 | 
 | **Batsman** | 2 | 1 | 4 | 3 | 5 | 7 | 6 | 9 | 8 | 11 | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **K Davis** | 7 | 2 | 17 | 1 | 
 | **I Whalley** | 6 | 0 | 28 | 2 | 
@@ -54,7 +55,7 @@ Result: {result}
 
  ## Old Elthamians Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Ji Guthrie** | b | J Wright | 28 | 
 | **K Davis** | b | A Sylvester | 2 | 
@@ -73,13 +74,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 12 | 61 | 73 | 79 | 93 | 94 | 100 |  |  |  |
 | **Batsman** | 2 | 1 | 3 | 5 | 6 | 7 | 8 |  |  |  |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 8 | 2 | 35 | 0 | 
 | **A Sylvester** | 12 | 5 | 32 | 24| 
@@ -89,6 +90,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 7 | 5 | 2 | 0 |

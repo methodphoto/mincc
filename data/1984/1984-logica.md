@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "Logica"									
-title: "Logica v The Min"									
-gameLocation: "Wimbledon Park"									
-gameDate: "05/08/1984"									
-result: "The Min won by 3 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1984"
+serialNumber: "0022"
+game: "Logica"
+title: "Logica v The Min"
+gameLocation: "Wimbledon Park"
+gameDate: "05/08/1984"
+result: "The Min won by 3 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## Logica Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Ford** | b | M Kirwan | 10 | 
 | **Bourne** | c J Grant | M Kirwan | 3 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 8 | 13 | 20 | 34 | 38 | 115 | 144 | 144 | 152 | 153 | 
 | **Batsman** | 2 | 3 | 4 | 10 | 5 | 6 | 7 | 8 | 9 | 11 | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Beswick** | 4.3 | 0 | 16 | 2 | 
 | **M Kirwan** | 12 | 1 | 45 | 5 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | not out |  | 65 | 
 | **D Young** | b | Morzana | 16 | 
@@ -72,14 +73,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 33 | 34 | 38 | 128 | 131 | 143 | 153 |  |  |  | 
 | **Batsman** | 2 | 3 | 4 | 5 | 6 | 7 |  8 |  |  |  | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Walton** | 10 | 1 | 38 | 1 | 
 | **A Sylvester** | 10 | 4 | 19 | 2 | 
@@ -90,6 +91,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 5 | 2 | 2 | 0 |

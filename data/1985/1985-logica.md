@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Logica"									
-title: "Logica v The Min"									
-gameLocation: "Dundonald Recreation Ground"									
-gameDate: "30/06/1985"									
-result: "The Min won by 45 runs"									
-resultType: "Won"									
-type: "game"									
+year: "1985"
+serialNumber: "0037"
+game: "Logica"
+title: "Logica v The Min"
+gameLocation: "Dundonald Recreation Ground"
+gameDate: "30/06/1985"
+result: "The Min won by 45 runs"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | b | Walton | 13 | 
 | **M Gardiner** | b | Walton | 0 | 
@@ -36,14 +37,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 5 | 5 | 24 | 50 | 59 | 60 | 81 | 120 | 123 |  | 
 | **Batsman** | 2 | 3 | 1 | 4 | 6 | 7 | 8 | 9 | 5 |  | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Walton** | 7 | 0 | 19 | 3 | 
 | **Arshad** | 8 | 0 | 21 | 0 | 
@@ -54,7 +55,7 @@ Result: {result}
  
 ## Brook Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Gravesmark** | c J Grant | A Sylvester | 11 | 
 | **Walker** | lbw | A Sylvester | 0 | 
@@ -73,14 +74,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 1 | 19 | 19 | 30 | 32 | 33 | 51 | 71 | 71 | 78 |
 | **Batsman** | 2 | 1 | 4 | 5 | 3 | 7 | 8 | 9 | 10 | 6 |
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **A Sylvester** | 8 | 3 | 12 | 3 | 
 | **J Wright** | 8 | 3 | 8 | 0 | 
@@ -91,6 +92,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 5 | 3 | 1 | 0 |

@@ -1,7 +1,8 @@
 ---
 year: "2019"
+serialNumber: "0509" 
 game: "Cerne Valley"
-title: "Cerne Valley -v- The Min"
+title: "Cerne Valley v The Min"
 gameLocation: "Cerne Abbas"
 gameDate: "4th July 2019"
 result: "The Min won by"
@@ -19,7 +20,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Middleton Stoney Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | N Moorman | st J Grant | I Miah | 100 |
 | H Lancaster | b | P Wigg | 39 |
@@ -38,13 +39,13 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 92 | 92 | 209 | | | |
 | **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | | |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | Ishmael | 6 | 3 | 35 | 0 |
 | I Miah | 5 | 0 | 23 | 1 |
@@ -55,7 +56,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | I Miah | b | S Pettit | 0 |
 | Ishmael | b | E Barton | 10 |
@@ -74,13 +75,13 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 8 | | | | |
 | **Batsman** | 1 | 3 | 2 | | | | | |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | S Pettit |5 |1 |6 |2 |
 | AK Kamal |8 |4 |24 |0 |
@@ -92,7 +93,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
 
@@ -104,32 +105,32 @@ Cerne Valley won the toss, inserted The Min who made 153 from their 20 overs. Ce
 
 The Min Innings
 
-Batsman	Runs
-R Earney	b	Wilkes	13
-A Beswick	retired out	
+BatsmanRuns
+R EarneybWilkes13
+A Beswickretired out
 52
-S Hornsby	retired out	
+S Hornsbyretired out
 19
-Abdul	c D Chubb	M Penny	19
-S Mohammed	b	M Penny	2
-J Stimfig	b	C Daley	6
-J Grant †	not out	
+A Munimc D ChubbM Penny19
+S MohammedbM Penny2
+J StimfigbC Daley6
+J Grant †not out
 13
-N Garland	not out	
+N Garlandnot out
 3
-I Miah	did not bat	
+I Miahdid not bat
 
 
 
-Extras	(0b 2lb 21w 2nb 0p)	25
-Total	(20 overs)	153 6
+Extras(0b 2lb 21w 2nb 0p)25
+Total(20 overs)153 6
 Fall of Wickets
 
-W	1	2	3	4	5	6	7	8	9	10
-Sc	14	
+W12345678910
+Sc14
 
 
-Bt	1	
+Bt1
 
 
 
@@ -137,64 +138,64 @@ Bt	1
 Bowling
 
 
-O	M	R	W
-D England	2	0	14	0
-G Wilkes	3	0	22	1
-S Barratt	3	0	23	0
-D Chubb	2	0	18	0
-A Wilkes	2	0	19	0
-D Beresford	2	0	12	0
-M Penny	2	0	12	2
-C Daley	3	0	15	1
-K Peet	1	0	3	0
+OMRW
+D England20140
+G Wilkes30221
+S Barratt30230
+D Chubb20180
+A Wilkes20190
+D Beresford20120
+M Penny20122
+C Daley30151
+K Peet1030
 
 
 
 Cerne Valley CC Innings
 
-Batsman	Runs
-P Rees	retired out	
+BatsmanRuns
+P Reesretired out
 27
-S Barrett	c & b	R Earney	17
-J Beresford	c	Abdul	2
-M Penny	c R Earney	S Mohammed	4
-A Wilkes	lbw	Abdul	17
-K Peet	b	R Beswick	1
-D Chubb	c	S Hornsby	12
-C Daley	run out	
+S Barrettc & bR Earney17
+J BeresfordcA Munim2
+M Pennyc R EarneyS Mohammed4
+A WilkeslbwA Munim17
+K PeetbR Beswick1
+D ChubbcS Hornsby12
+C Daleyrun out
 6
-G Wilkes	not out	
+G Wilkesnot out
 0
-D England	not out	
+D Englandnot out
 0
 
 
-Extras	(3b 0lb 2w 1nb 0p)	25
-Total	(20 overs)	153 8
+Extras(3b 0lb 2w 1nb 0p)25
+Total(20 overs)153 8
 Fall of Wickets
 
-W	1	2	3	4	5	6	7	8	9	10
-Sc	37	50	74	74	80	87	
+W12345678910
+Sc375074748087
 
 
-Bt	2	3	5	4	6	8	
+Bt235468
 
 
 Bowling
 
 
-O	M	R	W
-I Miah	4	0	14	0
-N Garland	3	1	17	0
-S Mohammed	3	0	14	1
-R Earney	2	0	6	1
-J Grant	3	1	12	0
-Abdul	3	0	12	2
-R Beswick	1	0	2	1
-S Hornsby	1	0	13	1
+OMRW
+I Miah40140
+N Garland31170
+S Mohammed30141
+R Earney2061
+J Grant31120
+A Munim30122
+R Beswick1021
+S Hornsby10131
 Season Win/Loss Record
 
-Win	Loss	Draw	Tie
-2	3	1	0
+WinLossDrawTie
+2310
 
 

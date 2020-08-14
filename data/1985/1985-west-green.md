@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "West Green"									
-title: "West Green v The Min"									
-gameLocation: "Wood Green"									
-gameDate: "05/05/1985"									
-result: "West Green won by 41 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1985"
+serialNumber: "0030"
+game: "West Green"
+title: "West Green v The Min"
+gameLocation: "Wood Green"
+gameDate: "05/05/1985"
+result: "West Green won by 41 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## West Green Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Watson** | b | W Calvert | 5 | 
 | **Clahosy** | lbw | T Purves | 38 | 
@@ -36,14 +37,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 14 | 16 | 81 | 84 | 106 | 126 |  |  |  |  | 
 | **Batsman** | 1 | 2 | 4 | 5 | 3 | 6 |  |  |  |  | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Beswick** | 6 | 3 | 16 | 0 | 
 | **W Calvert** | 11 | 1 | 26 | 1 | 
@@ -54,7 +55,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c & b | Gordon | 8 | 
 | **T Purves** | c Stephens | Khursheed | 14 | 
@@ -73,13 +74,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 19 | 33 | 33 | 33 | 53 | 54 | 77 | 81 | 87 | 82 | 
 | **Batsman** | 1 | 2 | 3 | 4 | 6 | 5 | 8 | 7 | 1 | 10 | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Gordon** | 13 | 6 | 26 | 2 | 
 | **Khursheed** | 9 | 4 | 25 | 2 | 
@@ -88,6 +89,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 2 | 0 | 0 |

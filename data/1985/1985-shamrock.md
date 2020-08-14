@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Shamrock"									
-title: "Shamrock v The Min"									
-gameLocation: "Meridian Cricket Ground"									
-gameDate: "24/06/1985"									
-result: "Match Drawn"									
-resultType: "Drawn"									
-type: "game"									
+year: "1985"
+serialNumber: "0036"
+game: "Shamrock"
+title: "Shamrock v The Min"
+gameLocation: "Meridian Cricket Ground"
+gameDate: "24/06/1985"
+result: "Match Drawn"
+resultType: "Drawn"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | b | Richardson | 12 | 
 | **A Fielding** | b | Cole | 15 | 
@@ -36,14 +37,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 16 | 16 | 33 | 41 | 46 | 46 | 47 | 53 | 53 | 53 | 
 | **Batsman** | 1 | 3 | 4 | 2 | 6 | 7 | 8 | 5 | 10 | 11 | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Richardson** | 6 | 1 | 25 | 2 | 
 | **Humphreys** | 8 | 3 | 16 | 2 | 
@@ -52,7 +53,7 @@ Result: {result}
  
 ## Shamrock Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Johnson** | c D Young | W Calvert | 2 | 
 | **J Tasker** | not out |  | 19 | 
@@ -71,14 +72,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 10 |  |  |  |  |  |  |  |  |  |
 | **Batsman** | 1 |  |  |  |  |  |  |  |  |  |
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **W Calvert** | 4 | 1 | 12 | 1 | 
 | **R Beswick** | 3 | 0 | 21 | 0 | 
@@ -86,6 +87,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 4 | 3 | 1 | 0 |

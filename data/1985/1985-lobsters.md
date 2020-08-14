@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: ""									
-title: "Lobsters v The Min"									
-gameLocation: "New Field"									
-gameDate: "14/07.1985"									
-result: "Lobsters won by 19 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1985"
+serialNumber: "0039"
+game: "Lobsters"
+title: "Lobsters v The Min"
+gameLocation: "New Field"
+gameDate: "14/07.1985"
+result: "Lobsters won by 19 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Brook Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Smallwood** | b | R Olver | 13 | 
 | **Edgell** | c A Sylvester | W Calvert | 10 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 18 | 25 | 65 | 80 | 102 | 133 | 143 |  |  |  |
 | **Batsman** | 1 | 2 | 4 | 3 | 6 | 5 | 8 |  |  |  |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 5 | 2 | 16 | 0 | 
 | **R Olver** | 5 | 2 | 8 | 1 | 
@@ -56,7 +57,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c Rodgers | Smallwood | 1 | 
 | **J Grant &#8224;** | b | Hornby | 3 | 
@@ -67,7 +68,7 @@ Result: {result}
 | **D Newman** | lbw | Hornby | 130 | 
 | **M Gardiner** | b | Hornby | 0 | 
 | **M Kirwan** | c Smallwood | Hornby | 63 | 
-| **R Oliver** | not out |   | 6 | 
+| **R Olver** | not out |   | 6 | 
 | **J Wright** | run out |  | 3 | 
 | **Extras** | | (8b 2lb 9w 1nb) | 20 | 
 | **Total** | | (33.2 overs) | 164 all out | 
@@ -75,13 +76,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 4 | 4 | 5 | 8 | 60 | 73 |  |  | 160 | 164 | 
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 5 | 8 | 7 | 9 | 11 | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Smallwood** | 9 | 3 | 26 | 1 | 
 | **Hornby** | 9.2 | 3 | 23 | 6 | 
@@ -93,6 +94,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 6 | 4 | 1 | 0 |

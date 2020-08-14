@@ -1,7 +1,8 @@
 ---
 year: "1982"
+serialNumber: "0" 
 game: "Clifton Hill House"
-title: "The Min -v- Clifton Hill House "
+title: "The Min v Clifton Hill House "
 gameLocation: "Coombe Dingle"
 gameDate: "29/04/1982"
 result: "The Min won by 28 runs"
@@ -18,7 +19,7 @@ after 20 overs.
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **S Watson** | b | K Crisp | 26 |
 | **J Booth** | c K Crisp | Sullivan | 0 |
@@ -37,13 +38,13 @@ after 20 overs.
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 34 | 49 |  | 109 | | |
 | **Batsman** | 2 | 1 | 4 | 3 | 5 | | | |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **K Sullivan** | 4 | 1 | 13 | 1 |
 | **S Tanner** | 4 | 1 | 28 | 1 |
@@ -53,7 +54,7 @@ after 20 overs.
 
 ## Watton-at-Stone Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Honeyman** | c | M Kirwan | 0 |
 | **C Butler** | lbw | W Calvert | 16 |
@@ -72,13 +73,13 @@ after 20 overs.
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 45 | 47 | 53 | 55 | 76 | 76 | 76 | 80 | |
 | **Batsman** | 1 | | | | | | | | | |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 4 | 4 | 0 | 1 |
 | **A Sylvester** | 4 | 1 | 18 | 0 |
@@ -89,6 +90,6 @@ after 20 overs.
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |

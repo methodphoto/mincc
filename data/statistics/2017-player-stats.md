@@ -6,7 +6,7 @@ type: "statistics"
 
 ## 2017 Season Batting (by Runs)
 
-| Player | Inns | No | Runs | Ave |
+| Player | Inns |  |  | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- |
 | **Richard Beswick** | 10 | 0 | 311 | 31.1 |
 | **Richard Earney** | 9 | 0 | 211 | 23.44 |
@@ -41,7 +41,7 @@ type: "statistics"
 | **R Gosh** | 1 | 0 | 4 | 4 |
 | **C Willey** | 1 | 0 | 4 | 4 |
 | **Alf Beswick** | 2 | 0 | 4 | 2 |
-| **Abdul** | 1 | 0 | 4 | 4 |
+| **A Munim** | 1 | 0 | 4 | 4 |
 | **Jerry Wright** | 7 | 5 | 3 | 1.5 |
 | **J Black** | 1 | 0 | 1 | 1 |
 | **Richard Coyle** | 1 | 0 | 1 | 1 |
@@ -50,7 +50,7 @@ type: "statistics"
 
 ## 2017 Season Batting (by Batting Ave)
 
-| Player | Inns | No | Runs | Ave |
+| Player | Inns |  |  | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- |
 | **Steven Hornsby** | 4 | 2 | 136 | 68 |
 | **Richard Kitson** | 2 | 1 | 56 | 56 |
@@ -81,7 +81,7 @@ type: "statistics"
 | **Moeen Arefin** | 2 | 0 | 9 | 4.5 |
 | **R Gosh** | 1 | 0 | 4 | 4 |
 | **C Willey** | 1 | 0 | 4 | 4 |
-| **Abdul** | 1 | 0 | 4 | 4 |
+| **A Munim** | 1 | 0 | 4 | 4 |
 | **Edward Garland** | 3 | 0 | 11 | 3.67 |
 | **David Brookfield** | 2 | 0 | 4 | 2 |
 | **Alf Beswick** | 2 | 0 | 4 | 2 |
@@ -94,7 +94,7 @@ type: "statistics"
 
 ## 2017 Season Bowling (by Wickets)
 
-| Player | O | M | R | W | Ave | SR |
+| Player | O |  |  | R | W | Ave |  |  |
 |:--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Jerry Wright** | 54 | 2 | 327 | 19 | 17.21 | 17.05 |
 | **Mohit Gupta** | 51.5 | 4 | 235 | 8 | 29.38 | 38.63 |
@@ -123,7 +123,7 @@ type: "statistics"
 
 ## 2017 Season Bowling (by Bowling Ave)
 
-| Player | O | M | R | W | Ave | SR |
+| Player | O |  |  | R | W | Ave |  |  |
 |:--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Richard Earney** | 4 | 0 | 25 | 3 | 8.33 | 8 |
 | **Siam Amin** | 19 | 3 | 73 | 6 | 12.17 | 19 |
@@ -145,7 +145,7 @@ type: "statistics"
 
 ## Career Batting (min 250 Runs)
 
-| Player | M | Inns | NOs | Runs | Ave |
+| Player | M |  |  | NOs | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- | :--- |
 | **Richard Earney** | 334 | 326 | 28 | 8808 | 29.56 |
 | **Richard Beswick** | 458 | 410 | 63 | 7652 | 22.05 |
@@ -192,7 +192,7 @@ type: "statistics"
 
 ## Career Batting by Ave (min 250 Runs)
 
-| Player | M | Inns | NOs | Runs | Ave |
+| Player | M |  |  | NOs | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- | :--- |
 | **James Hylton** | 9 | 8 | 2 | 542 | 90.33 |
 | **David Swann** | 21 | 20 | 5 | 755 | 50.33 |
@@ -240,7 +240,7 @@ type: "statistics"
 
 ## Career Bowling by Wkts (min 25 wkts)
 
-| Player | M | O | M | R | W | Ave | SR |
+| Player | M |  |  | M | R | W |  |  | SR |
 |:--- | :--- | :--- | :--- | :--- | :--- |
 | **Jerry Wright** | 369 | 2619.8 | 351 | 10198 | 531 | 19.21 | 29.60 |
 | **Richard Beswick** | 458 | 2031.9 | 437 | 7346 | 415 | 17.70 | 29.38 |
@@ -272,7 +272,7 @@ type: "statistics"
  
 ## Career Bowling by Ave (min 25 wkts)
 
-| Player | M | O | M | R | W | Ave | SR |
+| Player | M |  |  | M | R | W |  |  | SR |
 |:--- | :--- | :--- | :--- | :--- | :--- |
 | **Tony Purves** | 18 | 111.8 | 14 | 488 | 36 | 13.56 | 18.63 |
 | **Andrew MacFarlane** | 34 | 357.2 | 70 | 1041 | 68 | 15.31 | 31.52 |

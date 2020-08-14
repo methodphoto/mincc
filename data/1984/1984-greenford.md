@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "Greenford"									
-title: "Greenford v The Min"									
-gameLocation: "Perivale"									
-gameDate: "13/05/1984"									
-result: "The Min won by 107 runs"									
-resultType: "Won"									
-type: "game"									
+year: "1984"
+serialNumber: "0016"
+game: "Greenford"
+title: "Greenford v The Min"
+gameLocation: "Perivale"
+gameDate: "13/05/1984"
+result: "The Min won by 107 runs"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -19,7 +20,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **T Purves** | b | Bowler 5 | 23 | 
 | **A Gallagher** | c | Bowler 3 | 27 | 
@@ -38,14 +39,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 51 | 52 | 88 | 162 | 184 | 187 | | | | | 
 | **Batsman** | 2 | 1 | 3 | 5 | 4 | 6 | | | | | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **N Nolder** | 5 | 0 | 29 | 0 | 
 | **Bowler 2** | 12 | 3 | 36 | 2 | 
@@ -56,7 +57,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Allen** | c J Grant | J Wright | 29 | 
 | **Robinson** | c J Grant | A Sylvester | 0 | 
@@ -75,14 +76,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 5 | 27 | 44 | 44 | 52 | 65 | 70 | 76 | 85 | 85 | 
 | **Batsman** | 2 | 3 | 1 | 5 | 6 | 4 | 7 | 8 | 10 | 11 | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **A Sylvester** | 8 | 3 | 8 | 1 | 
 | **R Beswick** | 3 | 1 | 6 | 0 | 
@@ -93,6 +94,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 1 | 1 | 0 | 0 |

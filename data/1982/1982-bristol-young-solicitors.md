@@ -1,5 +1,6 @@
 ---
 year: "1982"
+serialNumber: "0008"
 game: "Bristol Young Solicitors" 
 title: "The Min v Bristol Young Solicitors"
 gameLocation: "Coombe Dingle"
@@ -17,7 +18,7 @@ Result: {result}
 
 ## Bristol Young Solicitors Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Allen** | b | J Wright | 4 | 
 | **Chivers** | c M Kirwan | J Wright | 6 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Score | 11 | 11 | 34 | 41 | 67 | 69 | 70 | 83 | | |
 | Batsman | 1 | 2 | 4 | 5 | 3 | 6 | 8 | 7 | 10 |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 3 | 1 | 5 | 0 |
 | **J Wright** | 3 | 2 | 6 | 2 |
@@ -57,7 +58,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Booth** | c & b | Bretton | 5 | 
 | **A Gallagher** | c & b | Bretton | 0 | 
@@ -76,13 +77,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Score | 4 | 7 | 47 | 67 | 99 | | | | | |
 | Batsman | 2 | 1 | 3 | 5 | 6 | | | | | |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Morris** | 4 | 1 | 8 | 0 |
 | **Bretton** | 4 | 1 | 17 | 2 |
@@ -93,6 +94,6 @@ Result: {result}
 
 ### Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 5 | 2 | 1 | 0 |

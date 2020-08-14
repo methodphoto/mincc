@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Hendon-Edgware"									
-title: "Hendon-Edgware v The Min"									
-gameLocation: "Mill Hill Park"										
-gameDate: "15/09/1985"									
-result: "Hendon-Edgware won by 20 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1985"
+serialNumber: "0044"
+game: "Hendon-Edgware"
+title: "Hendon-Edgware v The Min"
+gameLocation: "Mill Hill Park"
+gameDate: "15/09/1985"
+result: "Hendon-Edgware won by 20 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Hendon-Edgware Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Foskett** | c J Grant | R Olver | 43 | 
 | **James** | b | T Purves | 25 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Beswick** | 6 | 1 | 11 | 0 | 
 | **J Wright** | 14 | 3 | 35 | 1 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c Longuet | P French | 45 | 
 | **J Grant &#8224;** | run out |  | 22 | 
@@ -72,13 +73,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 64 | 70 | 77 | 93 | 135 | 137 | 149 | 149 | 160 | 164 | 
 | **Batsman** | 2 | 3 | 1 | 5 | 6 | 7 | 4 | 8 | 9 | 11 | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **P French** | 11 | 3 | 32 | 1 | 
 | **D Jones** | 7 | 1 | 29 | 0 | 
@@ -88,6 +89,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 8 | 6 | 2 | 0 |

@@ -1,11 +1,12 @@
 ---
-slug: "& Slug &"
-year:"& Year &"
-game: "& Title &"
-title: "& Game &"
-gameLocation: "& Place & "
-gameDate: "& Date & "
-result: "&  Result & "
+year:"2017"
+serialNumber: "0483"
+game: "Middleton Stoney"
+title: "Middleton Stoney v The Min"
+gameLocation: "Middleton Park"
+gameDate: "23/04/2017"
+result: "Middleton Stoney won by 43 runs"
+resultType: ""
 type: "game"
 ---
 
@@ -24,7 +25,7 @@ R.Simpson 100 off 46 balls
 | **S Vadivale** | lbw | S Amin | 15 |
 | **A Willcock** | c M Gupta | I Miah | 22 |
 | **T Riley** | c S Barrowcliff | J Wright | 38 |
-| **J Mumtaz** | c J Islam  | I.Miah | 6 |
+| **J Mumtaz** | c J Islam  | I Miah | 6 |
 | **R Morris &dagger;** | b | J Wright | 5 |
 | **S.Midson** | b | J Wright | 0 |
 | **S Pettit** | b  | I Miah | 0 |
@@ -92,6 +93,6 @@ R.Simpson 100 off 46 balls
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 0 | 1 | 0 | 0 |

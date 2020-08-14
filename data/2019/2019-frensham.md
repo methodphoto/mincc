@@ -1,7 +1,8 @@
 ---
 year: "2019"
+serialNumber: "0507" 
 game: "Blagdon Hill"
-title: "Blagdon Hill -v- The Min"
+title: "Blagdon Hill v The Min"
 gameLocation: "Sellicks Green"
 gameDate: "4th July 2019"
 result: "The Min won by 4 wkts"
@@ -19,7 +20,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Middleton Stoney Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | N Moorman | st J Grant | I Miah | 100 |
 | H Lancaster | b | P Wigg | 39 |
@@ -38,13 +39,13 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 92 | 92 | 209 | | | |
 | **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | | |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | Ishmael | 6 | 3 | 35 | 0 |
 | I Miah | 5 | 0 | 23 | 1 |
@@ -55,7 +56,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | I Miah | b | S Pettit | 0 |
 | Ishmael | b | E Barton | 10 |
@@ -74,13 +75,13 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 8 | | | | |
 | **Batsman** | 1 | 3 | 2 | | | | | |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | S Pettit |5 |1 |6 |2 |
 | AK Kamal |8 |4 |24 |0 |
@@ -92,7 +93,7 @@ Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 11
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |
 
@@ -111,7 +112,7 @@ Frensham won the toss and batted first. They made 192-9. The Min replied with 19
 </tr>
 <tr>
 <td class="bold">A.Peers</td>
-<td>b</td><td>I.Miah</td>
+<td>b</td><td>I Miah</td>
 <td>0</td>
 </tr>
 <tr>
@@ -121,12 +122,12 @@ Frensham won the toss and batted first. They made 192-9. The Min replied with 19
 </tr>
 <tr>
 <td class="bold">S.Richards</td>
-<td>lbw</td><td>I.Miah</td>
+<td>lbw</td><td>I Miah</td>
 <td>3</td>
 </tr>
 <tr>
 <td class="bold">H.Dibdin</td>
-<td>b</td><td>I.Miah</td>
+<td>b</td><td>I Miah</td>
 <td>1</td>
 </tr>
 <tr>
@@ -238,7 +239,7 @@ Frensham won the toss and batted first. They made 192-9. The Min replied with 19
 <td>0</td>
 </tr>
 <tr>
-<td class="bold">I.Miah</td>
+<td class="bold">I Miah</td>
 <td>8</td>
 <td>4</td>
 <td>26</td>
@@ -339,7 +340,7 @@ Frensham won the toss and batted first. They made 192-9. The Min replied with 19
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td class="bold">I.Miah</td>
+<td class="bold">I Miah</td>
 <td>dnb</td><td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>

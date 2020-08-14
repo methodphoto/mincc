@@ -1,5 +1,6 @@
 ---
 year: "1982"
+serialNumber: "0003"
 game: "Another Man's Meat"
 title: "The Min v Another Man's Meat"
 gameLocation: "Coombe Dingle"
@@ -17,9 +18,9 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 
 ## The Min Innings 
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Mason** | c M Sallitt | B Colethorpe | 1 |
+| **P Mason** | c M Sallitt | B Colethorpe | 1 |
 | **J Grant** | st M Sallitt | B Colethorpe | 19 |
 | **R Beswick** | c M Sallitt | B Colethorpe | 0 |
 | **W Calvert** | c S Chambers | B Colethorpe | 0 |
@@ -36,13 +37,13 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 ### Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 1 | 1 | 6 | 38 | 48 | 56 | 72 | 100 | 111 | 134 |
 | **Batsman** | 1 | 3 | 4 | 2 | 5 | 7 | 6 | 8 | 9 | 10 |
 
 ### Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Crombie** | 8 | 3 | 19 | 1 |
 | **B Colethorpe** | 8.3 | 3 | 25 | 4 |
@@ -57,7 +58,7 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 
 ## Another Man's Meat Innings 
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **N Hoare** | b | A Sylvester | 5 |
 | **A Sitwell** | c jGrant | M Kirwan | 23 |
@@ -76,13 +77,13 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 ### Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 5 | 33 | 79 | 80 | 90 | 92 | 99 | 99 | 99 | 100 |
 | **Batsman** | 1 | 3 | 2 | 4 | 5 | 6 | 7 | 9 | 8 | 10 |
 
 ### Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 8 | 0 | 37 | 1 |
 | **A Sylvester** | 6 | 0 | 48 | 2 |
@@ -91,6 +92,6 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 
 ### Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 2 | 0 | 1 | 0 |

@@ -21,7 +21,7 @@ type: "fixtures"
 ## June
 
 |:---|:---|:---|
-| 2nd | [Petts Wood](1985-petts-wood) | [Away](https://goo.gl/maps/GSxny1YCcc3PhEtD6) |
+| 2nd | [Petts Wood](1985-petts-wood) | [Away](https://goo.gl/maps/GSxny1YCCc3PhEtD6) |
 | 15th | [Brook](1985-brook) | [Away](https://goo.gl/maps/dQwigbDWBHfwzub68) |
 | 24th | [Shamrock](1985-shamrock) | Away |
 | 30th | [Logica](1985-logica) | [Away](https://goo.gl/maps/Fx66VqDovzYn2pBCA) |
@@ -36,7 +36,7 @@ type: "fixtures"
 
 |:---|:---|:---|
 | 18th | [Old Wilsonians](1985-old-wilsonians) | [Away](https://goo.gl/maps/n8uSTWABtMzXyRX99) |
-| 25th | [Ealonians](1985-ealonians) | [Away](https://goo.gl/maps/PsUYWdT94Y2EWxa16) |
+| 25th | [Ealonian](1985-ealonian) | [Away](https://goo.gl/maps/PsUYWdT94Y2EWxa16) |
 
 ## September
 

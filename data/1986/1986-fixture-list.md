@@ -8,7 +8,7 @@ type: "fixtures"
 ## April
 
 |:---|:---|:---|:---|
-| 26th | [Petts Wood](petts-wood) | [Away](https://goo.gl/maps/GSxny1YCcc3PhEtD6) |
+| 26th | [Petts Wood](1986-petts-wood) | [Away](https://goo.gl/maps/GSxny1YCCc3PhEtD6) |
 
 ## May
 

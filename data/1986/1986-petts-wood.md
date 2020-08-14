@@ -1,12 +1,13 @@
 ---
-year: "1986"									
-game: "Petts Wood"									
-title: "Petts Wood CC v The Min"									
-gameLocation: "Willett Recreation Ground"									
-gameDate: "26/04/1986"									
-result: "Match Drawn"									
-resultType: "Drawn"									
-type: "game"									
+year: "1986"
+serialNumber: "0045"
+game: "Petts Wood"
+title: "Petts Wood CC v The Min"
+gameLocation: "Willett Recreation Ground"
+gameDate: "26/04/1986"
+result: "Match Drawn"
+resultType: "Drawn"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Petts Wood Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Cook** | c J Grant | M Kirwan | 0 | 
 | **Overend** | not out |  | 50 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 29 | 45 |  |  |  |  |  |  |  | 
 | **Batsman** | 1 | 3 | 4 |  |  |  |  |  |  |  | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 16 | 3 | 55 | 2 | 
 | **A Sylvester** | 9 | 1 | 35 | 1 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c | Chisholm | 15 | 
 | **J Grant &#8224;** | b | Smith | 3 | 
@@ -72,14 +73,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 4 | 21 | 69 | 96 | 142 | 154 |  |  | | | 
 | **Batsman** | 2 | 1 | 4 | 3 | 5 | 7 |  |  |  | | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Chisholm** | 11 | 0 | 41 | 2 | 
 | **Smith** | 7 | 3 | 6 | 1 | 
@@ -90,6 +91,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |

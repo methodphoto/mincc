@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Brook"									
-title: "Brook v The Min"									
-gameLocation: "The Pirrie Hall Recreation Ground"									
-gameDate: "15/05/1985"									
-result: "Brook won by 64 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1985"
+serialNumber: "0035"
+game: "Brook"
+title: "Brook v The Min"
+gameLocation: "The Pirrie Hall Recreation Ground"
+gameDate: "15/05/1985"
+result: "Brook won by 64 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,11 +18,11 @@ Result: {result}
  
 ## Brook Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Wallis** | b | R Beswick | 14 | 
 | **Thomas** | c D Young | R Beswick | 0 | 
-| **North** | c J Packenham-Walsh | J Wright | 50 | 
+| **North** | c J Pakenham-Walsh | J Wright | 50 | 
 | **Fletcher** | c J Wright | R Beswick | 68 | 
 | **Reynolds** | b | A Sylvester | 25 | 
 | **Bogden** | c & b | A Sylvester | 37 | 
@@ -36,14 +37,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Beswick** | 13 | 2 | 66 | 3 | 
 | **A Sylvester** | 15 | 1 | 53 | 2 | 
@@ -52,11 +53,11 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | c Wallis | Mayo | 15 | 
 | **M Lawrence** | run out |  | 0 | 
-| **J Packenham-Walsh** | c Wallis | Bogden | 14 | 
+| **J Pakenham-Walsh** | c Wallis | Bogden | 14 | 
 | **A Gallagher** | c | Hill | 31 | 
 | **D Mundy** | b  | Mayo | 1 | 
 | **Pollock** | b | Bogden | 2 | 
@@ -71,14 +72,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 25 | 44 | 45 | 49 | 56 | 58 | 68 | 119 | 141 | 163 | 
 | **Batsman** | 2 | 1 | 3 | 5 | 6 | 7 | 8 | 4 | 10 | 11 | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Bogden** | 8 | 0 | 25 | 2 | 
 | **Mayo** | 12 | 1 | 33 | 2 | 
@@ -88,6 +89,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 4 | 3 | 0 | 0 |

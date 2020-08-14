@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "West Green"									
-title: "West Green v The Min"									
-gameLocation: "Belmont Recreation Ground"									
-gameDate: "12/05/1984"									
-result: "West Green won by 6 wkts"									
-resultType: "Lost"									
-type: "game"									
+year: "1984"
+serialNumber: "0015"
+game: "West Green"
+title: "West Green v The Min"
+gameLocation: "Belmont Recreation Ground"
+gameDate: "12/05/1984"
+result: "West Green won by 6 wkts"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | Khursheed | 7 | 
 | **J Stimfig** | b | Gordon | 2 | 
@@ -36,14 +37,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 14 | 18 | 21 | 25 | 45 | 46 | 60 | 84 | 89 | | 
 | **Batsman** | 1 | 2 | 3 | 5 | 6 | 7 | 8 | 9 | 10 | | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Khursheed** | 9 | 2 | 34 | 2 | 
 | **Gordon** | 14 | 4 | 23 | 4 | 
@@ -53,7 +54,7 @@ Result: {result}
 
 ## West Green Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Abbott** | c & b | R Beswick | 12 | 
 | **P Harvey** | b | R Beswick | 4 | 
@@ -72,14 +73,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | | | | | | | | | | | 
 | **Batsman** | 2 | 1 | 4 | 5 | | | | | | | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **W Calvert** | 7 | 1 | 24 | 0 | 
 | **R Beswick** | 8.4 | 2 | 44 | 2 | 
@@ -88,6 +89,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 0 | 1 | 0 |

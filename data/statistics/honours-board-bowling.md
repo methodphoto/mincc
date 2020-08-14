@@ -6,9 +6,9 @@ type: "statistics"
 
 ## 6 or more wickets in an Innings
 
-| Year | Player | Opponent | Figures |
+| Year | Player |  |  | Figures |
 |:--- | :--- | :--- | ---: |
-|2018 | Phil Beswick | v Kingstonians | 4-1-7-6 |
+| 2018 | Phil Beswick | v Kingstonian | 4-1-7-6 |
 | 2013 | Chris Martin | v Newington | 15-6-27-6 |
 | 2011 | Ned Garland | v Kilmington & Stourton | 7-0-27-7 |
 | 2009 | Ned Garland | v Newdigate | 10.3-1-44-6 |
@@ -29,11 +29,11 @@ type: "statistics"
 
 ## 5 or more wickets in an Innings
 
-| Year | Player | Opponent | Score |
+| Year | Player |  |  | Score |
 |:--- | :--- | :--- | ---: |
 | 2019 | Richard Earney | v Railway Taverners | 6-0-27-5 |
 | 2019 | Patrick Wigg | v Broadway & Horton | 6-3-12-5 |
-| 2018 | Phil Beswick | v Kingstonians | 4-1-7-6 |
+| 2018 | Phil Beswick | v Kingstonian | 4-1-7-6 |
 | 2017 | Jerry Wright | v Broadway & Horton | 8-0-49-5 |
 | 2013 | Chris Martin | v Newington | 15-6-27-6 |
 | 2011 | Ned Garland | v Kilmington & Stourton | 7-0-27-7 |

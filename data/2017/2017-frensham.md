@@ -1,29 +1,30 @@
 ---
-slug: "& Slug &"
-year:"& Year &"
-game: "& Title &"
-title: "& Game &"
-gameLocation: "& Place & "
-gameDate: "& Date & "
-result: "&  Result & "
+year: "2017"
+serialNumber: "0486"
+game: "Frensham"
+title: "Frensham v The Min"
+gameLocation: "Frensham"
+gameDate: "04/06/2017"
+result: "The Min won by 7 wkts"
+resultType: "Won"
 type: "game"
 ---
 
-Played at Frensham on 04 06 2017
+Played at [gameLocation] on {04/06/2017}
 
-The Min won the toss and inserted Frensham, who made 198-7  The Min replied with 199-3, so won by 7 wkts
+The Min won the toss and inserted Frensham, who made 198-7  The Min replied with 199 for 3 wkts
 
 ## Frensham Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **P Chuter** | run out (J Grant) |  | 0 |
-| **M Taylor** | c J Grant b I Marshall |  | 30 |
-| **R Champneys** | c Grant b J Wright |  | 35 |
-| **A Peers** | c J Grant b I Marshall |  | 0 |
-| **J Richards** | b M Gupta |  | 94 |
-| **D Smith** | b J Wright |  | 4 |
-| **J Barton** | b M Elwin |  | 2 |
+| **M Taylor** | c J Grant | I Marshall | 30 |
+| **R Champneys** | c Grant | J Wright | 35 |
+| **A Peers** | c J Grant | I Marshall | 0 |
+| **J Richards** | b | M Gupta | 94 |
+| **D Smith** | b | J Wright | 4 |
+| **J Barton** | b | M Elwin | 2 |
 | **S Lyford** | not out |  | 1 |
 | **H Baldock** | not out |  | 9 |
 | **J Frost** | dnb |  |  |
@@ -42,31 +43,29 @@ The Min won the toss and inserted Frensham, who made 198-7  The Min replied with
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **N Weller** | 5 4 | 0 | 62 | 0 |
-| **H Baldock** | 11 | 3 | 43 | 2 |
-| **J Richards** | 4 | 1 | 10 | 0 |
-| **J Frost** | 4 | 0 | 35 | 0 |
-| **R Champneys** | 3 | 0 | 21 | 0 |
-| **D Smith** | 2 | 0 | 15 | 1 |
-| **** |  |  |  |  |
+| **M Gupta** | 7 | 1 | 31 | 1 |
+| **M Elwin** | 10 | 2 | 27 | 1 |
+| **I Marshall** | 6 | 2 | 38 | 2 |
+| **J Wright** | 9 | 0 | 52 | 2 |
+| **R Beswick** | 5 | 0 | 35 | 0 |
 
 ## The Min Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **R Earney** | b Baldock |  | 21 |
-| **R Damaze** | c P Chuter |  | 4 |
-| **M Gupta** | c; b D Smith |  | 100 |
+| **R Earney** | b | Baldock | 21 |
+| **R Damaze** | c | P Chuter | 4 |
+| **M Gupta** | c; | D Smith  100 |
 | **S Hornsby** | not out  |  | 47 |
 | **A Gallagher** | not out  |  | 3 |
 | **W Calvert** | dnb |  |  |
 | **M Elwin** | dnb |  |  |
-| **R Beswick *** | dnb |  |  |
+| **R Beswick &#42;** | dnb |  |  |
 | **J Grant &dagger;** | dnb |  |  |
 | **I Marshall** | dnb |  |  |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (10b 6lb 5w 0nb 0p) | **21** |
-| **Total** | | (37 overs) | **198 for 7 wkts** |
+| **Total** | | (37 overs) | **199 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -79,16 +78,15 @@ The Min won the toss and inserted Frensham, who made 198-7  The Min replied with
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **M Gupta** | 7 | 1 | 31 | 1 |
-| **M Elwin** | 10 | 2 | 27 | 1 |
-| **I Marshall** | 6 | 2 | 38 | 2 |
-| **J Wright** | 9 | 0 | 52 | 2 |
-| **R Beswick** | 5 | 0 | 35 | 0 |
-| **** |  |  |  |  |
-| **** |  |  |  |  |
+| **N Weller** | 5 4 | 0 | 62 | 0 |
+| **H Baldock** | 11 | 3 | 43 | 2 |
+| **J Richards** | 4 | 1 | 10 | 0 |
+| **J Frost** | 4 | 0 | 35 | 0 |
+| **R Champneys** | 3 | 0 | 21 | 0 |
+| **D Smith** | 2 | 0 | 15 | 1 |
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 1 | 3 | 0 | 0 |

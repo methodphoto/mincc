@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: ""									
-title: "Ealonian v The Min"									
-gameLocation: "Ealonian"									
-gameDate: "25/08/1985"									
-result: "Match Drawn"									
-resultType: "Drawn"									
-type: "game"									
+year: "1985"
+serialNumber: "0041"
+game: "Ealonian"
+title: "Ealonian v The Min"
+gameLocation: "Ealonian"
+gameDate: "25/08/1985"
+result: "Match Drawn"
+resultType: "Drawn"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Ealonian Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Barker** | c R Beswick | W Calvert | 52 | 
 | **Davies** | st J Grant | W Calvert | 42 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **W Calvert** | 13 | 0 | 57 | 2 | 
 | **R Beswick** | 15 | 0 | 49 | 0 | 
@@ -51,7 +52,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c | Cox | 26 | 
 | **J Grant &#8224;** | c Anderson | Davies | 13 | 
@@ -70,13 +71,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Cox** | - | - | - | - | 
 | **Davies** | - | - | - | - | 
@@ -85,6 +86,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 7 | 4 | 2 | 0 |

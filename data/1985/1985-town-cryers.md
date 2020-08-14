@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "Town Cryers"									
-title: "Town Cryers v The Min"									
-gameLocation: "Wandsworth Park"									
-gameDate: "19/05/1985"									
-result: "The Min won by 4 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1985"
+serialNumber: "0032"
+game: "Town Cryers"
+title: "Town Cryers v The Min"
+gameLocation: "Wandsworth Park"
+gameDate: "19/05/1985"
+result: "The Min won by 4 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Town Cryers Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **B Simpson** | b | A Sylvester | 18 | 
 | **J Humphrey** | st J Grant | T Purves | 4 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 10 | 19 | 21 | 30 | 31 | 40 |  |  |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 | 6 | 5 | 7 | 8 |  |  |  |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 8 | 5 | 10 | 2 | 
 | **T Purves** | 10 | 2 | 15 | 2 | 
@@ -52,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Fielding** | b | J Seklecki | 39 | 
 | **W Calvert** | b | J Humphrey | 6 | 
@@ -71,14 +72,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 2 | 10 | 18 | 19 | 28 | 32 |  |  |  |  | 
 | **Batsman** | 1 | 2 | 3 | 4 | 5 | 6 |  |  |  |  | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **J Seklecki** | 13 | 5 | 13 | 4 | 
 | **J Humphrey** | 7 | 1 | 22 | 1 | 
@@ -86,6 +87,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 2 | 2 | 0 | 0 |

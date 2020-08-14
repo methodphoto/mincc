@@ -26,15 +26,15 @@ type: "fixtures"
 ## July/August - The Min Tour
 
 |:---|:---|:---|
-| 31st | [Broadway and Horton](1992-broadway-and-horton) | [Away]() |
-| 1st | [Shepton Beauchamp](1992-shepton-beauchamp) | [Away]() |
-| 2nd | [Dowlish Wake](1992-dowlish-wake) | [Away]() |
+| 31st | [Broadway & Horton](1992-broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
+| 1st | [Shepton Beauchamp](1992-shepton-beauchamp) | [Away](https://goo.gl/maps/U9dz6eSd2xoKyCbLA) |
+| 2nd | [Dowlish Wake](1992-dowlish-wake) | [Away](https://goo.gl/maps/b8LCqQEPKGkiWa7f6) |
 
 ## August
 
 |:---|:---|:---|
 | 9th | [Checkendon](1992-checkendon) | [Away]() |
-| 23rd | [Long Hanborough](1992-long-hanborough) | [Away]() |
+| 23rd | [Long Hanborough](1992-long-hanborough) | [Away](https://goo.gl/maps/6LxZBbPRzeLCtiJR7) |
 
 ## September
 

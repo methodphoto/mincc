@@ -1,12 +1,13 @@
 ---
-year: "1984"									
-game: "Harrowdene"									
-title: "Harrowdene v The Min"									
-gameLocation: "Harrowdene"									
-gameDate: "01/07/1984"									
-result: "The Min won by 9 wkts"									
-resultType: "Won"									
-type: "game"									
+year: "1984"
+serialNumber: "0019"
+game: "Harrowdene"
+title: "Harrowdene v The Min"
+gameLocation: "Harrowdene"
+gameDate: "01/07/1984"
+result: "The Min won by 9 wkts"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Harrowdene Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Coker** | c J Grant | J Wright | 20 | 
 | **Barrett** | c J Grant | R Beswick | 0 | 
@@ -36,14 +37,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | | | | | | | | | | | 
 | **Batsman** | | | | | | | | | | | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **R Beswick** | 5 | 2 | 7 | 1 | 
 | **J Wright** | 13.2 | 4 | 30 | 3 | 
@@ -54,7 +55,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | S Marshall | 17 | 
 | **J Grant &#8224;** | not out | | 13 | 
@@ -73,14 +74,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 25 | | | | | | | | | | 
 | **Batsman** | 1 | | | | | | | | | | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **N Marshall** | 5 | 0 | 28 | 0 | 
 | **S Marshall** | 4 | 1 | 20 | 1 | 
@@ -89,6 +90,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 2 | 1 | 2 | 0 |

@@ -1,12 +1,13 @@
 ---
-year: "1985"									
-game: "The Artisans"									
-title: "The Artisans v The Min"									
-gameLocation: "Surbiton"									
-gameDate: "11/05/1985"									
-result: "The Min won by 122 runs"									
-resultType: "Won"									
-type: "game"									
+year: "1985"
+serialNumber: "0031"
+game: "The Artisans"
+title: "The Artisans v The Min"
+gameLocation: "Surbiton"
+gameDate: "11/05/1985"
+result: "The Min won by 122 runs"
+resultType: "Won"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c Bane | Middleton | 85 | 
 | **J Grant &#8224;** | c & b | Sullivan | 31 | 
@@ -36,14 +37,14 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | **108** | 111 | 121 | 133 |  |  |  |  |  |  | 
 | **Batsman** | 2 | 3 | 1 | 5 |  |  |  |  |  |  | 
 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **Middleton** | 14 | 3 | 47 | 2 | 
 | **Boyce** | 12 | 0 | 77 | 0 | 
@@ -52,7 +53,7 @@ Result: {result}
  
 ## The Artisans Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Rayner** | run out |  | 7 | 
 | **Issitt** | b | R Scotts | 0 | 
@@ -71,13 +72,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **A Beard** | 7 | 1 | 20 | 1 | 
 | **R Scotts** | 6 | 1 | 9 | 3 | 
@@ -87,6 +88,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 1 | 2 | 0 | 0 |

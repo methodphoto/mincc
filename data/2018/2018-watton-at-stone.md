@@ -1,5 +1,6 @@
 ---
-year:"2018"
+year: "2018"
+serialNumber: "0498"
 game: "Watton-at-Stone"
 title: "Watton-at-Stone v The Min"
 gameLocation: "The Meadow"
@@ -89,6 +90,6 @@ The Min won the toss and inserted Watton who made a rather large 295-3 in 40 ove
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 |  |  |  |  |

@@ -1,5 +1,6 @@
 ---
-year:"2018"
+year: "2018"
+serialNumber: "0499"
 game: "Blagdon Hill"
 title: "Blagdon Hill v The Min"
 gameLocation: "Blagdon Hill"
@@ -87,6 +88,6 @@ The Min won the toss and batted first but only made 139-8 in their 40 overs  Bla
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
 | 2 | 2 | 1 | 0 |

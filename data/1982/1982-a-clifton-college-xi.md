@@ -1,7 +1,8 @@
 ---
 year: "1982"
+serialNumber: "0011"
 game: "A Clifton College XI"
-title: "A Clifton College XI -v- The Min"
+title: "A Clifton College XI v The Min"
 gameLocation: "The Close"
 gameDate: "17/06/1982"
 result: "Match Drawn"
@@ -17,7 +18,7 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 
 ## A Clifton College XI Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Matthews** | c J Grant | K Sullivan | 37 |
 | **J Cole** | b | K Sullivan | 27 |
@@ -36,13 +37,13 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 68 | 78 | 118 | 182 | | | | | | |
 | **Batsman** | 2 | 3 | 1 | 5 | 6 | | | | | |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **M Kirwan** | 9 | 0 | 40 | 2 |
 | **K Sullivan** | 11 | 2 | 43 | 2 |
@@ -53,7 +54,7 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Booth** | c Heard | J Wright | 10 |
 | **P Newcomb** | b | Dale | 0 |
@@ -71,7 +72,7 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **J Wright** | 14 | 2 | 24 | 1 |
 | **Dale** | 6 | 0 | 18 | 0 |
@@ -82,6 +83,6 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 
 ### Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 6 | 3 | 2 | 0 |

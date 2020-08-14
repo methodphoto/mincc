@@ -1,12 +1,13 @@
 ---
-year: "1990"									
-game: "Ockley"									
-title: "Ockley v The Min"									
-gameLocation: "Ockley Green"									
-gameDate: "/1990"									
-result: "Ockley won by 77 runs"									
-resultType: "Lost"									
-type: "game"									
+year: "1990"
+serialNumber: "0110" 
+game: "Ockley"
+title: "Ockley v The Min"
+gameLocation: "Ockley Green"
+gameDate: "/1990"
+result: "Ockley won by 77 runs"
+resultType: "Lost"
+type: "game"
 ---
 
 Played at {gameLocation} on {gameDate} 
@@ -17,7 +18,7 @@ Result: {result}
  
 ## Ockley Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **T Smith** | c | A MacFarlane | 22 | 
 | **R Cowles** | b | I Marshall | 24 | 
@@ -36,13 +37,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **A MacFarlane** | 16 | 4 | 41 | 2 | 
 | **I Marshall** | 13 | 2 | 46 | 1 | 
@@ -52,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **W Chapman;** | c & b | J Yerrell | 2 | 
 | **J Grant &#8224;** | b | J Yerrell | 0 | 
@@ -71,13 +72,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 2 | 3 | 9 | 48 | 49 | 100 | 107 | 113 | 117 | 118 | 
 | **Batsman** | 2 | 1 | 4 | 5 | 3 | 6 | 7 | 8 | 9 | 10 | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 | **D Potts** | 7 | 2 | 23 | 0 | 
 | **J Yerrell** | 9 | 3 | 14 | 3 | 
@@ -86,6 +87,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
 | 0 | 1 | 0 | 0 |
