@@ -18,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | Platt | 0 | 
 | **E Bishop** | b | Platt | 0 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 0 | 18 | 55 | 64 | 95 | 97 | 102 | 121 |  | 
 | **Batsman** | 1 | 2 | 4 | 5 | 3 | 6 | 5 | 8 | 7 | 10 | 
 
@@ -55,7 +55,7 @@ Result: {result}
 
  ## Alex Beard's XI Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Will** | c J Wright | R Beswick | 4 | 
 | **Phil** | b | R Beswick | 2 | 
@@ -74,7 +74,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 7 | 8 | 9 | 9 | 30 | 32 | 35 | 40 |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 

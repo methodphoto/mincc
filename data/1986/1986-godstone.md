@@ -18,7 +18,7 @@ Result: {result}
  
 ## Godstone Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Lilley** | st J Grant | T Purves | 34 | 
 | **C Knight** | c E Garland | J Wright | 29 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -54,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c & b | Webb | 21 | 
 | **J Grant &#8224;** | c | 2 | 4 | 
@@ -73,7 +73,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 26 | 26 | 36 | 38 | 47 | 54 | 62 | 65 | 67 |  | 
 | **Batsman** | 1 | 2 | 3 | 5 | 4 | 6 | 7 | 9 | 10 |  | 
 

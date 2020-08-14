@@ -18,7 +18,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c | N Sercombe | 13 | 
 | **R Olver** | b | P Lovett | 34 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 45 | 48 |  |  |  |  |  |  | | | 
 | **Batsman** | 1 | 2 |  |  |  |  |  |  |  | | 
 
@@ -53,7 +53,7 @@ Result: {result}
 
 ## Horningsham Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **B Pollard** | b | J Wright | 13 | 
 | **M Lapham** | c & b | J Grant | 10 | 
@@ -72,7 +72,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 15 | 27 | 68 | 81 | 130 | 131 | 136 | 143 | 173 |  | 
 | **Batsman** | 1 | 3 | 2 | 5 | 6 | 7 | 4 | 9 | 10 |  | 
 

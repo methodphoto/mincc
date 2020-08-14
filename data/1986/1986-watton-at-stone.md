@@ -18,7 +18,7 @@ Result: {result}
  
 ## Watton-at-Stone Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Carter** | b | M Kirwan | 0 | 
 | **Spinks** | c A Fielding | A Sylvester | 85 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -53,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | R Clayton | 59 | 
 | **J Grant &#8224;** | b | Underdown | 1 | 
@@ -72,7 +72,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 13 | 13 | 84 | 105 | 116 | 124 | 140 | 142 | 142 |  | 
 | **Batsman** | 2 | 3 | 4 | 5 | 1 | 7 | 6 | 9 | 10 |  | 
 

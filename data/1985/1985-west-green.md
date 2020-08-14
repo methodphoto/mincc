@@ -18,7 +18,7 @@ Result: {result}
  
 ## West Green Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Watson** | b | W Calvert | 5 | 
 | **Clahosy** | lbw | T Purves | 38 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 14 | 16 | 81 | 84 | 106 | 126 |  |  |  |  | 
 | **Batsman** | 1 | 2 | 4 | 5 | 3 | 6 |  |  |  |  | 
 
@@ -55,7 +55,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c & b | Gordon | 8 | 
 | **T Purves** | c Stephens | Khursheed | 14 | 
@@ -74,7 +74,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 19 | 33 | 33 | 33 | 53 | 54 | 77 | 81 | 87 | 82 | 
 | **Batsman** | 1 | 2 | 3 | 4 | 6 | 5 | 8 | 7 | 1 | 10 | 
 

@@ -18,7 +18,7 @@ Reigate won the toss and batted first, making 151-9. The Min replied with 146-8 
 
 ## Reigate Pilgrims Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Burgess** | run out (A Beswick) |  | 6 |
 | **Janardanan** | b | I Marshall | 7 |
@@ -38,7 +38,7 @@ Reigate won the toss and batted first, making 151-9. The Min replied with 146-8 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 13 | 13 | 18 | 47 | 102 | 102 | 126 |127 |151| |
 | **Batsman** | 2 | 1 | 3 | 4 | 6 | 7 | 8 | 5 | |
 
@@ -54,7 +54,7 @@ Reigate won the toss and batted first, making 151-9. The Min replied with 146-8 
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **I Miah** | b | S Pettit | 0 |
 | **Ishmael** | b | E Barton | 10 |
@@ -73,7 +73,7 @@ Reigate won the toss and batted first, making 151-9. The Min replied with 146-8 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 8 | | | | |
 | **Batsman** | 1 | 3 | 2 | | | | | |
 

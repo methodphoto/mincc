@@ -18,7 +18,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | Liffen | 84 | 
 | **J Grant &#8224;** | b | Dolan | 5 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 16 | 62 | 83 | 109 | 113 | 65 | 98 | 101 | | | 
 | **Batsman** | 2 | 3 | 4 | 5 | 1 | 6 | 7 | 9 | 10| | 
 
@@ -53,7 +53,7 @@ Result: {result}
 
 ## Standard Bridge Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Watson** | c M Gardiner | A Sylvester | 11 | 
 | **Dolan** | c D Young | A Sylvester | 16 | 
@@ -72,7 +72,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | | | | | | | | | | | 
 | **Batsman** | | | | | | | | | | | 
 

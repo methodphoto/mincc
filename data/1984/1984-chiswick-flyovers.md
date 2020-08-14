@@ -20,7 +20,7 @@ Result: {result}
  
 ## Chiswick Flyovers Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Cannell** | c J Wright | W Calvert | 10 | 
 | **Whittread** | c S Maynard | W Calvert | 2 | 
@@ -39,7 +39,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 14 | 21 | 22 | 34 |  |  | | | | | 
 | **Batsman** | 2 | 3 | 1 | 5 | 6 | 7 | 4 | 9 |  | | 
 
@@ -56,7 +56,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c & b | Stevenson | 6 | 
 | **J Grant &#8224;** | lbw | Stevenson | 8 | 
@@ -75,7 +75,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 6 | 21 | 33 | 40 |  |  |  |  |  |  | 
 | **Batsman** | 1 | 3 | 4 | 2 | 5 | 6 | 8 |  |  |  | 
 

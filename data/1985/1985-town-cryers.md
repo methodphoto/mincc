@@ -18,7 +18,7 @@ Result: {result}
  
 ## Town Cryers Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **B Simpson** | b | A Sylvester | 18 | 
 | **J Humphrey** | st J Grant | T Purves | 4 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 10 | 19 | 21 | 30 | 31 | 40 |  |  |  |  |
 | **Batsman** | 2 | 3 | 4 | 1 | 6 | 5 | 7 | 8 |  |  |  |
 
@@ -53,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Fielding** | b | J Seklecki | 39 | 
 | **W Calvert** | b | J Humphrey | 6 | 
@@ -72,7 +72,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 2 | 10 | 18 | 19 | 28 | 32 |  |  |  |  | 
 | **Batsman** | 1 | 2 | 3 | 4 | 5 | 6 |  |  |  |  | 
 

@@ -18,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | b | Brown | 12 | 
 | **J Grant &#8224;** | b | Ryan | 52 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 21 | 42 | 96 | 109 | 141 | 154 | 165 |  |  |  | 
 | **Batsman** | 1 | 1 | 4 | 5 | 2 | 7 | 8 | 6 |  |  | 
 
@@ -55,7 +55,7 @@ Result: {result}
  
 ## Harrow 3rd XI Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Sheffield** | c D Young | M Kirwan | 7 | 
 | **Sumar** | b | A Gallagher | 72 | 
@@ -74,7 +74,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 22 | 39 | 96 | 114 | 122 | 123 | 124 | 125 |  |  |
 | **Batsman** | 1 | 3 | 4 | 5 | 6 | 7 | 8 | 2 | 9 |  |
 

@@ -18,7 +18,7 @@ The Min won the toss and batted first in a 35 over game. The Min made 159 for 8 
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick *** | c (keeper) | Williams | 32 |
 | **R Earney** | b | Gundy | 24 |
@@ -37,7 +37,7 @@ The Min won the toss and batted first in a 35 over game. The Min made 159 for 8 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 34 | 46 | 58 | 101 | 101 | 101 | 157 |
 | **Batsman** | 2 | 3 | 4 | 1 | 6 | 7 | 8 | 9 |
 
@@ -54,7 +54,7 @@ The Min won the toss and batted first in a 35 over game. The Min made 159 for 8 
 
 ## Watton-at-Stone Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **W Emsley** | b | R.Earney | 5 |
 | **R Atkin** | not out |   | 64 |
@@ -73,7 +73,7 @@ The Min won the toss and batted first in a 35 over game. The Min made 159 for 8 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 10 | 10 | | | | | | | | |
 | **Batsman** | 1 | 3 | | | | | | | | |
 

@@ -18,7 +18,7 @@ Result: {result}
  
 ## White City Allstars Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **P Swaab** | run out |  | 99 | 
 | **P Stevenson** | c S Watson | R Beswick | 5 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 6 | 51 | 65 | 104 | 108 | 137 | 138 | 142 | 143 | 161 | 
 | **Batsman** | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 1 | 10 | 11 | 
 
@@ -55,7 +55,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Fielding** | b | A Beard | 12 | 
 | **J Grant** | lbw | ? | 1 | 
@@ -74,7 +74,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |  |
 

@@ -18,7 +18,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | J Ashton | 32 | 
 | **J Grant &#8224;** | b | J Ashton | 9 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 39 | 45 | 77 | 98 | | 117 |  |  |  |  | 
 | **Batsman** | 1 | 2 | 4 | 5 | 6 | 3 | 8 |  |  |  | 
 
@@ -53,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Cheetham** | c J Wright | A Sylvester | 4 | 
 | **Phillipson** | c J Grant | A Sylvester | 21 | 
@@ -72,7 +72,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 18 | 27 | 28 | 43 | 53 | 53 |  |  | |  | 
 | **Batsman** | 1 | 2 | 4 | 3 | 5 | 7 |  |  |  |  | 
 

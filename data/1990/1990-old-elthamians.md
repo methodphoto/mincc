@@ -18,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Olver** | b | I Whalley | 0 | 
 | **R Earney** | c & b | M Wright | 0 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 0 | 45 | 64 | 69 | 69 | 69 | 88 | 101 | 112 | 
 | **Batsman** | 1 | 2 | 4 | 5 | 3 | 7 | 6 | 8 | 10 | 11 | 
 
@@ -55,7 +55,7 @@ Result: {result}
 
  ## Old Elthamians Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Hart** | c T Thirlwall | W Calvert | 30 | 
 | **H Sylvester** | c A Fielding | T Thirlwall | 21 | 
@@ -74,7 +74,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 

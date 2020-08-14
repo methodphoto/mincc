@@ -18,7 +18,7 @@ Result: {result}
  
 ## Petts Wood Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Cook** | c J Grant | A Sylvester | 7 | 
 | **Overend** | run out |  | 21 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 19 | 19 | 23 | 41 | 45 | 95 | 95 | 126 | 132 | 146 |
 | **Batsman** | 1 | 3 | 4 | 2 | 5 | 7 | 6 | 8 | 10 | 9 |
 
@@ -51,7 +51,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c | Slade | 22 | 
 | **J Grant &#8224;** | c | Walshe | 16 | 
@@ -70,7 +70,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 33 | 51 | 92 | 119 | 139 |  |  |  |  |  | 
 | **Batsman** | 1 | 2 | 4 | 5 | 3 |  |  |  |  |  | 
 

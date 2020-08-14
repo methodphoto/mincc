@@ -18,7 +18,7 @@ Newington won the toss and batted first in a 35 over game. They scored 223 for 3
 
 ## Middleton Stoney Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **L Jessup** | not out |   | 110 |
 | **M Parsons** | retired hurt |  | 50 |
@@ -37,7 +37,7 @@ Newington won the toss and batted first in a 35 over game. They scored 223 for 3
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 92 | 92 | 209 | | | |
 | **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | | |
 
@@ -54,7 +54,7 @@ Newington won the toss and batted first in a 35 over game. They scored 223 for 3
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | c | Morgan | 48 |
 | **J Grant &#8224;** | c | Morgan | 0 |
@@ -73,7 +73,7 @@ Newington won the toss and batted first in a 35 over game. They scored 223 for 3
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 25 | 123 | 125 | 154 | 179 |  |  |  |  |
 | **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | 9 | 10 | 8 |
 

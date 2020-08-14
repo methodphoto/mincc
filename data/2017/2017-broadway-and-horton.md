@@ -18,7 +18,7 @@ Result: {result}
  
 ## Brook Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 
 | **D Cook** | c J Grant | P Wigg | 8 |
@@ -38,7 +38,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 8 | 8 | 70 | 109 | 126 | 128 | 130 | 151 | 151 | 164 |
 | **Batsman** | 2 | 1 | 4 | 3 | 5 | 6 | 8 | 9 | 6 | 7 |
 
@@ -56,7 +56,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 
 R Earneyc S Driskell b Norman0
@@ -92,7 +92,7 @@ Total(33 4 overs)164 all out
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 6 | 6 | 7 | 30 | 79 | 91 | 100 | 102 | 132 | 
 | **Batsman** | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 9 | 8 | 10 | 
 

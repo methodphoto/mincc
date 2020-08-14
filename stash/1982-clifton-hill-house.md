@@ -19,7 +19,7 @@ after 20 overs.
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **S Watson** | b | K Crisp | 26 |
 | **J Booth** | c K Crisp | Sullivan | 0 |
@@ -38,7 +38,7 @@ after 20 overs.
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 34 | 49 |  | 109 | | |
 | **Batsman** | 2 | 1 | 4 | 3 | 5 | | | |
 
@@ -54,7 +54,7 @@ after 20 overs.
 
 ## Watton-at-Stone Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Honeyman** | c | M Kirwan | 0 |
 | **C Butler** | lbw | W Calvert | 16 |
@@ -73,7 +73,7 @@ after 20 overs.
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 45 | 47 | 53 | 55 | 76 | 76 | 76 | 80 | |
 | **Batsman** | 1 | | | | | | | | | |
 

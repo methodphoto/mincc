@@ -18,7 +18,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | Khursheed | 7 | 
 | **J Stimfig** | b | Gordon | 2 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 14 | 18 | 21 | 25 | 45 | 46 | 60 | 84 | 89 | | 
 | **Batsman** | 1 | 2 | 3 | 5 | 6 | 7 | 8 | 9 | 10 | | 
 
@@ -54,7 +54,7 @@ Result: {result}
 
 ## West Green Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Abbott** | c & b | R Beswick | 12 | 
 | **P Harvey** | b | R Beswick | 4 | 
@@ -73,7 +73,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | | | | | | | | | | | 
 | **Batsman** | 2 | 1 | 4 | 5 | | | | | | | 
 

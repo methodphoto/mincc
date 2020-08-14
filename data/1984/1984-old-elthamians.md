@@ -19,7 +19,7 @@ Result: {result}
 
 ## Old Elthamians Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **N Comber** | c J Wright | A Sylvester | 40 | 
 | **M Wright** | b | A Sylvester | 8 | 
@@ -38,7 +38,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  | 
 | **Batsman** |  |  |  |  |  |  |  |  |  |  | 
 
@@ -57,7 +57,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | b | N Comber | 2 | 
 | **D Young** | b | N Comber | 0 |
@@ -76,7 +76,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 2 | 18 | 29 | 55 | 91 | 122 | 128 | 141 |  |  | 
 | **Batsman** | 1 | 2 | 3 | 4 | 5 | 7 |  8 | 6 |  |  | 
 

@@ -18,7 +18,7 @@ Result: {result}
  
 ## Brook Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Smallwood** | b | R Olver | 13 | 
 | **Edgell** | c A Sylvester | W Calvert | 10 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 18 | 25 | 65 | 80 | 102 | 133 | 143 |  |  |  |
 | **Batsman** | 1 | 2 | 4 | 3 | 6 | 5 | 8 |  |  |  |
 
@@ -57,7 +57,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c Rodgers | Smallwood | 1 | 
 | **J Grant &#8224;** | b | Hornby | 3 | 
@@ -76,7 +76,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 4 | 4 | 5 | 8 | 60 | 73 |  |  | 160 | 164 | 
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 5 | 8 | 7 | 9 | 11 | 
 

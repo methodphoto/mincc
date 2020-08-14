@@ -18,7 +18,7 @@ Result: {result}
  
 ## Petts Wood Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Cook** | c J Grant | M Kirwan | 0 | 
 | **Overend** | not out |  | 50 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 29 | 45 |  |  |  |  |  |  |  | 
 | **Batsman** | 1 | 3 | 4 |  |  |  |  |  |  |  | 
 
@@ -54,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c | Chisholm | 15 | 
 | **J Grant &#8224;** | b | Smith | 3 | 
@@ -73,7 +73,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 4 | 21 | 69 | 96 | 142 | 154 |  |  | | | 
 | **Batsman** | 2 | 1 | 4 | 3 | 5 | 7 |  |  |  | | 
 

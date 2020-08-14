@@ -18,7 +18,7 @@ Result: {result}
  
 ## Stowting Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **D Jackson** | c | W Wright | 35 | 
 | **G Woodward** | b | R Scotts | 0 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -54,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | b | A Perry | 25 | 
 | **J Grant &#8224;** | c | A Perry | 11 | 
@@ -73,7 +73,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 37 | 48 | 59 | 65 | 65 | 82 | 85 | 86 | 87 | 96 |
 | **Batsman** | 1 | 2 | 3 | 4 | 6 | 5 | 8 | 7 | 10 | 11 |
 

@@ -20,7 +20,7 @@ Andrew Gallagher and Phill Goult: 100 partnership
  
 ## West Wickham Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Yarrow** | c | W Wright | 35 | 
 | **Hanley** | b | R Scotts | 0 | 
@@ -39,7 +39,7 @@ Andrew Gallagher and Phill Goult: 100 partnership
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -56,7 +56,7 @@ Andrew Gallagher and Phill Goult: 100 partnership
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | lbw | Yarrow | 39 | 
 | **J Grant &#8224;** | b | S Wright | 6 | 
@@ -75,7 +75,7 @@ Andrew Gallagher and Phill Goult: 100 partnership
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 23 | **139** | 139 | 146 | 147 | 160 | 162 |  | | | 
 | **Batsman** | 2 | 1 | 3 | 5 | 6 | 7 | 4 | 9 |  | | 
 

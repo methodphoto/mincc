@@ -18,7 +18,7 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 
 ## The Min Innings 
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **P Mason** | c M Sallitt | B Colethorpe | 1 |
 | **J Grant** | st M Sallitt | B Colethorpe | 19 |
@@ -37,7 +37,7 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 ### Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 1 | 1 | 6 | 38 | 48 | 56 | 72 | 100 | 111 | 134 |
 | **Batsman** | 1 | 3 | 4 | 2 | 5 | 7 | 6 | 8 | 9 | 10 |
 
@@ -58,7 +58,7 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 
 ## Another Man's Meat Innings 
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **N Hoare** | b | A Sylvester | 5 |
 | **A Sitwell** | c jGrant | M Kirwan | 23 |
@@ -77,7 +77,7 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 ### Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 5 | 33 | 79 | 80 | 90 | 92 | 99 | 99 | 99 | 100 |
 | **Batsman** | 1 | 3 | 2 | 4 | 5 | 6 | 7 | 9 | 8 | 10 |
 

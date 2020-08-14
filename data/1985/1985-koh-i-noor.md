@@ -18,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | c & b | 3 | 73 | 
 | **A Fielding** | run out |  | 58 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | **106** | 145 |  |  | 188 | 196 | 212 |  |  |  | 
 | **Batsman** | 1 | 2 | 3 | 4 | 5 | 6 | 8 |  |  |  | 
 
@@ -52,7 +52,7 @@ Result: {result}
 
  ## Brook Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Reg** | c A Fielding | D Newman | 20 | 
 | **Sortit** | c A Fielding | E Harcourt | 8 | 
@@ -71,7 +71,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 

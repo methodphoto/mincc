@@ -17,26 +17,26 @@ Blagdon Hill won the toss and batted first. They made 213 for 9 wkts in 35 overs
 
 ## Blagdon Hill Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-|  **L Trottman** | b | P Wigg | 18 |
-|  **P Free** | c | P Wigg | 39 |
-|  **G Welsh** | b | R Beswick | 5 |
-|  **G Higgins** | c R Earney | P Wigg | 0 |
-|  **C Wyatt** | run out |  | 60 |
-|  **A Williams** | b | Abdul | 27 |
-|  **A Hotham** | c | Abdul | 3 |
-|  **E Trottman** | not out | | 15 |
-|  **G Williams** | lbw | I Miah | 6 |
-|  **T Knight** | c	| 	| 12 |
-|  **H Welsh** | not out | | 2 |
-|  **Extras** |  | (6b 1lb 3w 1nb 0p) | 11 |
-|  **Total** |  | (35 overs) | 213 for 9 wkts |
+| **L Trottman** | b | P Wigg | 18 |
+| **P Free** | c | P Wigg | 39 |
+| **G Welsh** | b | R Beswick | 5 |
+| **G Higgins** | c R Earney | P Wigg | 0 |
+| **C Wyatt** | run out |  | 60 |
+| **A Williams** | b | Abdul | 27 |
+| **A Hotham** | c | Abdul | 3 |
+| **E Trottman** | not out | | 15 |
+| **G Williams** | lbw | I Miah | 6 |
+| **T Knight** | c	| 	| 12 |
+| **H Welsh** | not out | | 2 |
+| **Extras** |  | (6b 1lb 3w 1nb 0p) | 11 |
+| **Total** |  | (35 overs) | 213 for 9 wkts |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 1 | 27 | 29 | 130 | 156 |  | 169 | 171 | 192 |  |
 | **Batsman** | 1 | 3 | 4 | 2 | 6 | 7 | 5 | 9 | 10 |  |
 
@@ -53,7 +53,7 @@ Blagdon Hill won the toss and batted first. They made 213 for 9 wkts in 35 overs
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | lbw | A Williams | 6 |
 | **R Earney** | c & b | G Williams | 47 |
@@ -72,7 +72,7 @@ Blagdon Hill won the toss and batted first. They made 213 for 9 wkts in 35 overs
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 51 | 58 | 65 | 106 | 122 | 126 | 167 | 171 | 171 | 202 |
 | **Batsman** | 2 | 1 | 4 | 5 | 3 | 6 | 7 | 8 | 9 | 10 |
 

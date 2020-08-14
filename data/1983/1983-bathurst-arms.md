@@ -18,7 +18,7 @@ Result: {result}
  
 ## Lobsters Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Evans** | c & b | M Kirwan | 1 | 
 | **Good** | c & b | M Kirwan | 4 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 5 | 15 | 20 | 46 | 76 | | | | 78 | 85 | 
 | **Batsman** | 1 | 2 | | | | | | | 10 | 11 | 
 
@@ -59,7 +59,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Booth** | b | T Calvert | 55 | 
 | **A Gallagher** | run out | | 19 | 
@@ -78,7 +78,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 48 | 50 | 59 | 60 | 69 | | | | | | 
 | **Batsman** | 2 | 3 | 4 | 5 | 6 | | | | | | 
 

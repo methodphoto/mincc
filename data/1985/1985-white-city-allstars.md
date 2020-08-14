@@ -18,7 +18,7 @@ Result: {result}
  
 ## White City All Stars Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **P Stevenson** |  | M Kirwan | 1 | 
 | **R Gordon-Walker** | c W Calvert | M Kirwan | 64 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 7 | 81 | 85 | 104 | 129 | 129 | 136 | 139 |  |  | 
 | **Batsman** | 2 | 3 | 1 | 5 | 4 | 6 | 7 | 9 | 10 |  | 
 
@@ -54,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | N Oborne | 30 | 
 | **M Kirwan** | b | A Jacot | 4 | 
@@ -73,7 +73,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 12 | 14 | 21 | 43 | 51 | 67 | 67 | 67 | 108 |  | 
 | **Batsman** | 2 | 3 | 4 | 5 | 1 | 7 | 8 | 9 | 10 |  | 
 

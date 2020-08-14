@@ -18,7 +18,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c C Bowman | P Whitehead | 81 | 
 | **S Watson** | b | C Bowman | 21 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | | | 100| | | | | | | | 
 | **Batsman** | 2 | 3 | 4 | 5 | | | | | | | 
 
@@ -54,7 +54,7 @@ Result: {result}
 
 ## Nigel Hoare's XI Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Hoare** | c | M Kirwan | 0 | 
 | **M Webb** | b | A Jones | 30 | 
@@ -73,7 +73,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 1 | 2 | | | | | | 75 | 82 | | 
 | **Batsman** | 1 | 3 | 2 | 5 | 6 | 4 | 7 | 8 | 10 | | 
 

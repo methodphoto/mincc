@@ -18,7 +18,7 @@ Result: {result}
  
 ## Little Kingshill Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **D Chandler** | not out |  | 88 | 
 | **K Borkett** | b | R Olver | 28 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 59 | 65 | 135 | 140 |  |  |  |  |  |  | 
 | **Batsman** | 2 | 3 | 4 | 5 |  |  |  |  |  |  | 
 
@@ -53,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **S Watson** | st N Chapman | J Gear | 24 | 
 | **J Grant &#8224;** | b | J Gear | 16 | 
@@ -72,7 +72,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 41 | 42 | 117 | 127 |  |  |  |  |  |  | 
 | **Batsman** | 2 | 1 | 4 | 5 |  |  |  |  |  |  | 
 

@@ -18,7 +18,7 @@ Result: {result}
 
 ## Logica Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Ford** | b | M Kirwan | 10 | 
 | **Bourne** | c J Grant | M Kirwan | 3 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 8 | 13 | 20 | 34 | 38 | 115 | 144 | 144 | 152 | 153 | 
 | **Batsman** | 2 | 3 | 4 | 10 | 5 | 6 | 7 | 8 | 9 | 11 | 
 
@@ -54,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | not out |  | 65 | 
 | **D Young** | b | Morzana | 16 | 
@@ -73,7 +73,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 33 | 34 | 38 | 128 | 131 | 143 | 153 |  |  |  | 
 | **Batsman** | 2 | 3 | 4 | 5 | 6 | 7 |  8 |  |  |  | 
 

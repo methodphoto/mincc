@@ -21,7 +21,7 @@ Ken Sullivan - Best Bowling by The Min
 
 ## A Good Length Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **P Clothier** | c J Grant | M Kirwan | 45 |
 | **T Gladstone** | run out | | 7 |
@@ -40,7 +40,7 @@ Ken Sullivan - Best Bowling by The Min
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 12 | 61 | 63 | 64 | 73 | 104 | 107 | 130 | 131 | 134 |
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 5 | 8 | 9 | 7 | 11 |
 
@@ -55,7 +55,7 @@ Ken Sullivan - Best Bowling by The Min
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Booth** | not out | 20 |
 | **J Grant &#8224;** | not out | 19 |
@@ -74,7 +74,7 @@ Ken Sullivan - Best Bowling by The Min
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |  |
 

@@ -18,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | b | Edwards | 37 | 
 | **W Calvert** | b | Thomas | 2 |
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 6 | 76 | 103 | 107 | 109 | 110 | 112 | 126 |  |  | 
 | **Batsman** | 2 | 1 | 3 | 4 | 6 | 7 |  5 | 9 |  |  | 
 
@@ -54,7 +54,7 @@ Result: {result}
 
 ## British Legion Rickmansworth Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Strickland** | c R Beswick | J Wright | 18 | 
 | **Thorpe** | b | W Calvert | 23 | 
@@ -73,7 +73,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 7 | 19 | 57 | 67 | 72 | 73 |  |  |  |  | 
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 5 |  |  |  |  | 
 

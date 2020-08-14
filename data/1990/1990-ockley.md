@@ -18,7 +18,7 @@ Result: {result}
  
 ## Ockley Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **T Smith** | c | A MacFarlane | 22 | 
 | **R Cowles** | b | I Marshall | 24 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
@@ -53,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **W Chapman;** | c & b | J Yerrell | 2 | 
 | **J Grant &#8224;** | b | J Yerrell | 0 | 
@@ -72,7 +72,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 2 | 3 | 9 | 48 | 49 | 100 | 107 | 113 | 117 | 118 | 
 | **Batsman** | 2 | 1 | 4 | 5 | 3 | 6 | 7 | 8 | 9 | 10 | 
 

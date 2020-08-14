@@ -18,7 +18,7 @@ Result: {result}
 
 ## Newdigate Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **S Levinson** | c R Olver | R Beswick | 2 | 
 | **E Case** | c J Grant | R Olver | 2 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 3 | 3 | 7 | 7 | 8 | 10 | 14 | 50 | 54 | 54 |
 | **Batsman** | 1 | 3 | 2 | 4 | 5 | 7 | 8 | 6 | 10 | 11 |
 
@@ -53,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | lbw | J Coulson | 0 | 
 | **D Young** | b | D Harris | 0 | 
@@ -72,7 +72,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 0 | 139 | 11 | 33 |  |  |  |  |  | 
 | **Batsman** | 1 | 3 | 2 | 5 | 6 |  |  |  |  |  | 
 

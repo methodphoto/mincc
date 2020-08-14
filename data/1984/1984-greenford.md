@@ -20,7 +20,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **T Purves** | b | Bowler 5 | 23 | 
 | **A Gallagher** | c | Bowler 3 | 27 | 
@@ -39,7 +39,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 51 | 52 | 88 | 162 | 184 | 187 | | | | | 
 | **Batsman** | 2 | 1 | 3 | 5 | 4 | 6 | | | | | 
 
@@ -57,7 +57,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Allen** | c J Grant | J Wright | 29 | 
 | **Robinson** | c J Grant | A Sylvester | 0 | 
@@ -76,7 +76,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 5 | 27 | 44 | 44 | 52 | 65 | 70 | 76 | 85 | 85 | 
 | **Batsman** | 2 | 3 | 1 | 5 | 6 | 4 | 7 | 8 | 10 | 11 | 
 

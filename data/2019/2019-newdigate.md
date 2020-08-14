@@ -18,7 +18,7 @@ The Min won the toss and for some reason batted first on a sticky wicket. They w
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | c T Ridder | H Elliss | 5 |
 | **A Catternack** | c J Bowley | T Ridder | 4 |
@@ -37,7 +37,7 @@ The Min won the toss and for some reason batted first on a sticky wicket. They w
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 10 | 14 | 27 | 31 | 40 | 52 | 52 | 77 | 78 | 79 |
 | **Batsman** | 2 | 1 | 3 | 4 | 5 | 7 | 6 | 8 | 9 | 10 |
 
@@ -54,7 +54,7 @@ The Min won the toss and for some reason batted first on a sticky wicket. They w
 
 ## Newdigate Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Goldsmid** | b | A Catternack | 7 |
 | **A Harper** | b | A Catternack | 4 |
@@ -73,7 +73,7 @@ The Min won the toss and for some reason batted first on a sticky wicket. They w
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 4 | 13 | | | | | | | | |
 | **Batsman** | 2 | 1 | 0 | | | | | | | |
 

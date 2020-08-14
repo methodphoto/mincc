@@ -18,7 +18,7 @@ Result: {result}
 
 ## Nigel Hoare's XI Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Hawkyns** | b | A Sylvester | 0 | 
 | **N Hoare** | c W Calvert | M Kirwan | 0 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  | 
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |  
 
@@ -53,7 +53,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | c & b | de Norman | 9 |
 | **M Kirwan** | c Benney | Sellcombe | 4 | 
@@ -72,7 +72,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 9 | 20 | 58 | 79 | 153 |  |  |  |  |  | 
 | **Batsman** | 2 | 1 | 3 | 4 | 5 |  |   |  |  |  | 
 

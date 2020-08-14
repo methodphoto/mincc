@@ -18,7 +18,7 @@ Result: {result}
  
 ## Godstone Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **E Mason** | st J Grant | M Taylor | 0 | 
 | **J Talbot** | b | A Sylvester | 8 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 2 | 28 | 36 | 46 | 61 | 90 | 96 | 153 |  |  |
 | **Batsman** | 1 | 2 | 4 | 5 | 3 | 6 | 8 | 9 |  |  |  |
 
@@ -52,7 +52,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c C Chadwick | D Spencer | 10 | 
 | **J Grant &#8224;** | c D Spencer | J King | 28 | 
@@ -71,7 +71,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 12 | 67 | 111 | 124 | 124 | 127 | 131 |  |  |  | 
 | **Batsman** | 1 | 2 | 3 | 5 | 4 | 7 | 8 |  |  |  | 
 

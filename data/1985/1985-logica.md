@@ -18,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | b | Walton | 13 | 
 | **M Gardiner** | b | Walton | 0 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 5 | 5 | 24 | 50 | 59 | 60 | 81 | 120 | 123 |  | 
 | **Batsman** | 2 | 3 | 1 | 4 | 6 | 7 | 8 | 9 | 5 |  | 
 
@@ -55,7 +55,7 @@ Result: {result}
  
 ## Brook Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Gravesmark** | c J Grant | A Sylvester | 11 | 
 | **Walker** | lbw | A Sylvester | 0 | 
@@ -74,7 +74,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 1 | 19 | 19 | 30 | 32 | 33 | 51 | 71 | 71 | 78 |
 | **Batsman** | 2 | 1 | 4 | 5 | 3 | 7 | 8 | 9 | 10 | 6 |
 

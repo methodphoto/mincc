@@ -18,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | b | Richardson | 12 | 
 | **A Fielding** | b | Cole | 15 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 16 | 16 | 33 | 41 | 46 | 46 | 47 | 53 | 53 | 53 | 
 | **Batsman** | 1 | 3 | 4 | 2 | 6 | 7 | 8 | 5 | 10 | 11 | 
 
@@ -53,7 +53,7 @@ Result: {result}
  
 ## Shamrock Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Johnson** | c D Young | W Calvert | 2 | 
 | **J Tasker** | not out |  | 19 | 
@@ -72,7 +72,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 10 |  |  |  |  |  |  |  |  |  |
 | **Batsman** | 1 |  |  |  |  |  |  |  |  |  |
 

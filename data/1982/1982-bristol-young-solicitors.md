@@ -18,7 +18,7 @@ Result: {result}
 
 ## Bristol Young Solicitors Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Allen** | b | J Wright | 4 | 
 | **Chivers** | c M Kirwan | J Wright | 6 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Score | 11 | 11 | 34 | 41 | 67 | 69 | 70 | 83 | | |
 | Batsman | 1 | 2 | 4 | 5 | 3 | 6 | 8 | 7 | 10 |
 
@@ -58,7 +58,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Booth** | c & b | Bretton | 5 | 
 | **A Gallagher** | c & b | Bretton | 0 | 
@@ -77,7 +77,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Score | 4 | 7 | 47 | 67 | 99 | | | | | |
 | Batsman | 2 | 1 | 3 | 5 | 6 | | | | | |
 

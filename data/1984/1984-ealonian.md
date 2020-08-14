@@ -18,7 +18,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | Cox | 17 |
 | **J Grant &#8224;** | c | Filmer | 0 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 7 | 29 | 39 | 59 | 67 | 143 | 75 | 98 | 102 | 107 | 
 | **Batsman** | 2 | 1 | 4 | 3 | 4 | 6 |  7 | 8 | 9 | 11 | 
 
@@ -53,7 +53,7 @@ Result: {result}
 
 ## Ealonians Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Barker** | c J Grant | W Calvert | 9 | 
 | **Cutlin** | c J Wright | R Beswick | 2 | 
@@ -72,7 +72,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 7 | 19 | 57 | 67 | 72 | 73 |  |  |  |  | 
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 5 |  |  |  |  | 
 

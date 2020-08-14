@@ -20,7 +20,7 @@ J Booth and D Mundy: partnership of 100
  
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **D Mundy** | c T Hyatt | C Pickles | 22 |
 | **A Gallagher** | b | C Pickles | 7 |
@@ -39,7 +39,7 @@ J Booth and D Mundy: partnership of 100
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 25 | 40 | 79 | 92 | 116 | 144 | 145 | 146 | 153 | 171 |
 | **Batsman** | 2 | 1 | 4 | 5 | 6 | 3 | 8 | 9 | 7 | 11 |
 
@@ -55,7 +55,7 @@ J Booth and D Mundy: partnership of 100
 
 ## Bristol Grammar School Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **D Fox** | b | J Wright | 42 |
 | **A Falconio** | lbw | A Sylvester | 2 |
@@ -74,7 +74,7 @@ J Booth and D Mundy: partnership of 100
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 6 | 69 | 77 | 81 | 100 | 116 | 116 | 128 | 129 | 129 |
 | **Batsman** | 2 | 1 | 3 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 

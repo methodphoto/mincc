@@ -18,7 +18,7 @@ Result: {result}
  
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | c (keeper) | Joy | 0 | 
 | **J Grant &#8224;** | c | Joy | 10 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 25 | 35 | 36 | 60 | 65 | 98 | 101 | | | 
 | **Batsman** | 1 | 2 | 4 | 5 | 6 | 3 | 7 | 8 | | | 
 
@@ -56,7 +56,7 @@ Result: {result}
 
 ## Standard Bridge Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Lubienski** | c J Pakenham-Walsh | R Beswick | 1 | 
 | **Malloni** | not out | | 29 | 
@@ -75,7 +75,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 6 | 12 | 13 | 19 | | | | | | | 
 | **Batsman** | 1 | 3 | 4 | 5 | | |  | | | | 
 

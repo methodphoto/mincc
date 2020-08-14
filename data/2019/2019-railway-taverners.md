@@ -37,7 +37,7 @@ R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
@@ -55,7 +55,7 @@ R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 
 ###  The Min CC Innings
 
-| Batsman | Dismissal | Runs |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick** | st | I Chowdry | 19 |
 | **R Earney** | b | S Parr | 15 |

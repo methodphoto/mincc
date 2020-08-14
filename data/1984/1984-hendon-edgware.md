@@ -18,7 +18,7 @@ Result: {result}
  
 ## Hendon-Edgware Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J French** | c R Beswick | A Sylvester | 1 | 
 | **T Ryan** | b | R Beswick | 0 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 3 | 3 | 18 | 29 | 30 | 35 | 45 | 45 | 59 | 62 | 
 | **Batsman** | 2 | 3 | 1 | 5 | 6 | 8 | 9 | 4 | 10 | 11 | 
 
@@ -57,7 +57,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **D Gallagher** | c R French | B Newton | 10 | 
 | **N Hoare** | run out |  | 4 | 
@@ -76,7 +76,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 12 | 34 |  |  |  |  |  |  | | | 
 | **Batsman** | 2 | 1 |  |  |  |  |  |  |  | | 
 

@@ -18,7 +18,7 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 
 ## A Clifton College XI Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Matthews** | c J Grant | K Sullivan | 37 |
 | **J Cole** | b | K Sullivan | 27 |
@@ -37,7 +37,7 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 68 | 78 | 118 | 182 | | | | | | |
 | **Batsman** | 2 | 3 | 1 | 5 | 6 | | | | | |
 
@@ -54,7 +54,7 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Booth** | c Heard | J Wright | 10 |
 | **P Newcomb** | b | Dale | 0 |

@@ -20,7 +20,7 @@ E Garland: Best bowling
  
 ## Brook Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Wallis** | b | M Kirwan | 24 | 
 | **North** | c R Beswick | A Sylvester | 35 | 
@@ -39,7 +39,7 @@ E Garland: Best bowling
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 61 | 62 | 76 | 76 | 90 | 91 | 97 | 101 | 106 | 123 | 
 | **Batsman** | 2 | 3 | 4 | 1 | 5 | 7 | 8 | 9 | 10 | 6 | 
 
@@ -56,7 +56,7 @@ E Garland: Best bowling
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Grant &#8224;** | c | North | 5 | 
 | **A Fielding** | c Richardson | North | 0 | 
@@ -75,7 +75,7 @@ E Garland: Best bowling
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 13 | 15 | 48 | 84 | 120 |  |  | | | 
 | **Batsman** | 2 | 1 | 4 | 5 | 6 | 7 |  |  |  |  | 
 

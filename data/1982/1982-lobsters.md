@@ -18,7 +18,7 @@ Result: {result}
  
 ## Lobsters Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Scott** | b | M Kirwan | 4 | 
 | **S Scott** | c M Gardiner | M Kirwan | 43 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 4 | 14 | 47 | 58 | 84 | 91 | 124 | | | | 
 | **Batsman** | 1 | 3 | 4 | 5 | 3 | 7 | 2 | | | | 
 
@@ -56,7 +56,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **J Booth** | b | Jacobs | 10 | 
 | **J Grant &#8224;** | b | Heald | 0 | 
@@ -75,7 +75,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 2 | 22 | 26 | 28 | | | | | | | 
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 7 | 8 | 9 | 5 | | 
 

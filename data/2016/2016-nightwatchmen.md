@@ -20,7 +20,7 @@ The Min won the toss and inserted Nightwatchmen, who made 264-5 in 40 overs. The
 
 ## Nightwatchmen Batting
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **D Brookfield** | not out |  | 78 |
 | **I Miah** | run out |  | 5 |
@@ -70,7 +70,7 @@ The Min won the toss and inserted Nightwatchmen, who made 264-5 in 40 overs. The
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 47 | 99 | 101 | 139 | 141 | 162 | 163 | 191 | 207 |   |
 | **Batsman** | 1 | 2 | 4 | 3 | 6 | 5 | 8 | 7 | 10 |   |
 

@@ -18,7 +18,7 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **T Purves** | c Milligan | Nuttall | 27 |
 | **A Gallagher** | c Rodgers | Trafford | 25 |
@@ -37,7 +37,7 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 33 | 67 | 76 | 121 | 121 | | | | | |
 | **Batsman** | 1 | 2 | 4 | 5 | 3 | | | | | |
 
@@ -57,7 +57,7 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 
 ## Lobsters Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **Nuttall** | c & b | P Challoner | 17 |
 | **Trafford** | run out |  | 0 |
@@ -76,7 +76,7 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 6 | 36 | 43 | 44 | 44 | 65 | 68 | | | |
 | **Batsman** | 2 | 1 | 4 | 5 | 6 | 7 | 3 | 9 | | |
 

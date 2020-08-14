@@ -18,7 +18,7 @@ Result: {result}
  
 ## A Good Length Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **M Pollit** | b | A Sylvester | 23 | 
 | **R Emanuel** | b | M Kirwan | 7 | 
@@ -37,7 +37,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 13 | 35 | 49 | 50 | 54 | 62 | 67 | 79 | 80 | 81 | 
 | **Batsman** | 2 | 1 | 4 | 3 | 5 | 7 | 6 | 9 | 8 | 10 | 
 
@@ -54,7 +54,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | not out | | 50 | 
 | **A Fielding** | not out | | 24 | 
@@ -73,7 +73,7 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 2 | 22 | 26 | 28 | | | | | | | 
 | **Batsman** | 2 | 1 | 4 | 3 | 6 | 7 | 8 | 9 | 5 | | 
 
