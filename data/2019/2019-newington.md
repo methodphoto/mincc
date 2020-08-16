@@ -31,15 +31,15 @@ Newington won the toss and batted first in a 35 over game. They scored 223 for 3
 | **R Joshi** | dnb |  |  |
 | **D Ward** | dnb |  |  |
 | **L Morgan** | dnb |  |  |
-| **Extras** | | (14b 3lb 2w 0nb 0p) | 19 |
-| **Total** |  |(35 overs) | 223 for 3 wkts |
+| **Extras** | | (14b 3lb 2w 0nb 0p) | **19** |
+| **Total** |  |(35 overs) | **223 for 3 wkts** |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 92 | 92 | 209 | | | |
-| **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | | |
+| **Score** |  |  |  |  |  |  |  |  |  |  |
+| **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
@@ -75,7 +75,7 @@ Newington won the toss and batted first in a 35 over game. They scored 223 for 3
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 0 | 25 | 123 | 125 | 154 | 179 |  |  |  |  |
-| **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | 9 | 10 | 8 |
+| **Batsman** | 2 | 3 | 1 | 4 | 5 | 6 | 9 | 10 | 8 |  |
 
 ## Bowling
 
@@ -85,7 +85,7 @@ Newington won the toss and batted first in a 35 over game. They scored 223 for 3
 | **L Morgan** | 7 | 0 | 30 | 2 |
 | **D Ward** | 7 | 1 | 21 | 0 |
 | **R Joshi** | 4 | 0 | 41 | 0 |
-| **S Gallagher** | 4 | 0 | 17 | 3 |
+| **S Gallagher** | 4 | 0 | 17 | 0 |
 | **D Mason** | 6.1 | 0 | 31 | 3 |
 | **TJ Singh** | 6 | 0 | 44 | 1 |
 
