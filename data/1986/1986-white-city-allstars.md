@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **W Calvert** | 8 | 0 | 35 | 0 | 
 | **R Beswick** | 5 | 1 | 21 | 1 | 
@@ -81,7 +81,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **A Beard** | - | - | - | 4 | 
 | **C Pressley** | - | - | - | 1 | 

@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 8 | 1 | 27 | 3 | 
 | **A Sylvester** | 7 | 1 | 26 | 2 | 
@@ -80,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **D Musgrave** | 2.1 | 1 | 12 |  | 
 | **PR Smith** | 2 | 0 | 11 | 0 | 

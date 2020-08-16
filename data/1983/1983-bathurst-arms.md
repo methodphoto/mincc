@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 4 | 1 | 11 | 2 | 
 | **A Sylvester** | 3 | 0 | 15 | 0 | 
@@ -85,7 +85,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **C Nicholls** | 6 | 2 | 35 | 1 | 
 | **N Nicholls** | 3 | 0 | 20 | 1 | 

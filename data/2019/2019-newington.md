@@ -43,7 +43,7 @@ Newington won the toss and batted first in a 35 over game. They scored 223 for 3
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **I Marshall** | 7 | 1 | 20 | 0 |
 | **S Amin** | 6 | 1 | 27 | 0 |
@@ -79,7 +79,7 @@ Newington won the toss and batted first in a 35 over game. They scored 223 for 3
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 
 | **L Morgan** | 7 | 0 | 30 | 2 |

@@ -43,7 +43,7 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Dunfield** | 2 | 0 | 11 | 0 |
 | **Siddle** | 2 | 0 | 18 | 0 |
@@ -82,7 +82,7 @@ The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **A Sylvester** | 2 | 0 | 9 | 0 |
 | **Jones** | 2 | 1 | 3 | 0 |

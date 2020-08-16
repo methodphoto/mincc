@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 16 | 3 | 55 | 2 | 
 | **A Sylvester** | 9 | 1 | 35 | 1 | 
@@ -80,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Chisholm** | 11 | 0 | 41 | 2 | 
 | **Smith** | 7 | 3 | 6 | 1 | 

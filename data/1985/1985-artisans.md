@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Middleton** | 14 | 3 | 47 | 2 | 
 | **Boyce** | 12 | 0 | 77 | 0 | 
@@ -78,7 +78,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **A Beard** | 7 | 1 | 20 | 1 | 
 | **R Scotts** | 6 | 1 | 9 | 3 | 

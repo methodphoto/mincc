@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 8 | 5 | 10 | 2 | 
 | **T Purves** | 10 | 2 | 15 | 2 | 
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **J Seklecki** | 13 | 5 | 13 | 4 | 
 | **J Humphrey** | 7 | 1 | 22 | 1 | 

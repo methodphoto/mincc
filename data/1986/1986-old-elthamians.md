@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **W Wright** | 12 | 3 | 46 | 2 | 
 | **R Olver** | 15 | 7 | 25 | 4 | 
@@ -82,7 +82,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Napier** | 6 | 0 | 33 | 1 | 
 | **Wilson** | 5 | 1 | 13 | 0 | 

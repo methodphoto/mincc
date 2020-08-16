@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 11 | 2 | 49 | 3 | 
 | **A Sylvester** | 11 | 2 | 36 | 2 | 
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **B Falconer** | 11 | 0 | 49 | 0 | 
 | **A Perry** | 16 | 6 | 24 | 7 | 

@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Taylor** | 10 | 1 | 43 | 4 | 
 | **A Sylvester** | 10 | 1 | 35 | 1 | 
@@ -78,7 +78,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **D Spencer** | 7 | 2 | 17 | 1 | 
 | **E Mason** | 8 | 2 | 19 | 1 | 

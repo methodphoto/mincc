@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **O'Connor** | 7 | 0 | 31 | 1 | 
 | **Pott** | 6 | 1 | 38 | 2 | 
@@ -78,7 +78,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Beswick** | 6 | 2 | 14 | 2 | 
 | **W Calvert** | 7 | 4 | 9 | 2 | 

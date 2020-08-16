@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **D Geensen** | 8 | 2 | 9 | 3 | 
 | **G Gibbs** | 3 | 0 | 13 | 0 | 
@@ -80,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **P Wigg** | 8 | 1 | 18 | 3 | 
 | **M Carlton** | 6 | 0 | 22 | 1 | 

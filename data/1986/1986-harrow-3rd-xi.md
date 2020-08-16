@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Mason** | 10 | 2 | 36 | 1 | 
 | **Brown** | 16 | 3 | 47 | 3 | 
@@ -80,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 13 | 4 | 34 | 1 | 
 | **A Sylvester** | 10 | 4 | 35 | 1 | 

@@ -40,7 +40,7 @@ The Min won the toss and inserted Nightwatchmen, who made 264-5 in 40 overs. The
 
 ### Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **S Mohammed** | 6 | 1 | 28 | 1 |
 | **I Marshall** | 5 | 0 | 28 | 0 |
@@ -77,7 +77,7 @@ The Min won the toss and inserted Nightwatchmen, who made 264-5 in 40 overs. The
 
 ## Nightwatchmen Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Pav** | 4.2 | 0 | 29 | 2 |
 | **Maruf** | 7 | 2 | 25 | 1 |

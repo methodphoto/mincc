@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **P Lovett** | 9 | 0 | 39 | 1 | 
 | **N Sercombe** | 7 | 1 | 29 | 1 | 
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **A Fielding** | 1 | 0 | 12 | 0 | 
 | **J Wright** | 6 | 1 | 12 | 2 | 

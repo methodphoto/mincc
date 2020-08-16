@@ -43,7 +43,7 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 
 ### Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Crombie** | 8 | 3 | 19 | 1 |
 | **B Colethorpe** | 8.3 | 3 | 25 | 4 |
@@ -83,7 +83,7 @@ The Min scored 134 all out and had Another Man's Meat all out for 100
 
 ### Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 8 | 0 | 37 | 1 |
 | **A Sylvester** | 6 | 0 | 48 | 2 |

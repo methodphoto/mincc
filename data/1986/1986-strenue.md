@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **A Speak** | 7 | 1 | 22 | 0 | 
 | **J Wright** | 9 | 3 | 39 | 0 | 
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Lawson** | 11 | 2 | 35 | 2 | 
 | **Chapman** | 5 | 1 | 30 | 1 | 

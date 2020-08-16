@@ -46,7 +46,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **N Nolder** | 5 | 0 | 29 | 0 | 
 | **Bowler 2** | 12 | 3 | 36 | 2 | 
@@ -83,7 +83,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **A Sylvester** | 8 | 3 | 8 | 1 | 
 | **R Beswick** | 3 | 1 | 6 | 0 | 

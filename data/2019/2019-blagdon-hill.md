@@ -42,7 +42,7 @@ Blagdon Hill won the toss and batted first. They made 213 for 9 wkts in 35 overs
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **S Mohammed** | 7 | 0 | 20 | 0 |
 | **R Earney** | 6 | 0 | 63 | 0 |
@@ -78,7 +78,7 @@ Blagdon Hill won the toss and batted first. They made 213 for 9 wkts in 35 overs
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **G Welsh** | 7 | 0 | 64 | 1 |
 | **A Williams** | 7 | 0 | 19 | 2 |

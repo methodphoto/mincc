@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **C Cottrell** | 4 | 0 | 14 | 0 | 
 | **Grummet** | 4 | 0 | 25 | 0 | 
@@ -85,7 +85,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 5 | 1 | 15 | 1 | 
 | **A Sylvester** | 4 | 1 | 13 | 0 | 

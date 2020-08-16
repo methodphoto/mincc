@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 13 | 0 | 38 | 4 | 
 | **R Beswick** | 5 | 0 | 31 | 0 | 
@@ -80,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **N Oborne** | 9 | 0 | 38 | 3 | 
 | **A Jacot** | 6.4 | 1 | 23 | 3 | 

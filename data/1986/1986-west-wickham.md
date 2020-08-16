@@ -45,7 +45,7 @@ Andrew Gallagher and Phill Goult: 100 partnership
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **W Calvert** | 10 | 1 | 44 | 2 | 
 | **R Scotts** | 4 | 0 | 28 | 1 | 
@@ -82,7 +82,7 @@ Andrew Gallagher and Phill Goult: 100 partnership
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **S Wright** | 6 | 0 | 34 | 1 | 
 | **Jobson** | 5 | 0 | 29 | 0 | 

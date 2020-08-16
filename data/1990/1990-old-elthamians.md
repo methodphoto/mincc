@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **I Whalley** | 7 | 3 | 11 | 1 | 
 | **M Wright** | 10 | 4 | 26 | 1 | 
@@ -80,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **I Marshall** | 8 | 3 | 14 | 0 | 
 | **R Olver** | 5 | 1 | 11 | 0 | 

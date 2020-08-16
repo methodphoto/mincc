@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Beswick** | 6 | 1 | 11 | 0 | 
 | **J Wright** | 14 | 3 | 35 | 1 | 
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **P French** | 11 | 3 | 32 | 1 | 
 | **D Jones** | 7 | 1 | 29 | 0 | 

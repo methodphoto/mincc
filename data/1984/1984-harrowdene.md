@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Beswick** | 5 | 2 | 7 | 1 | 
 | **J Wright** | 13.2 | 4 | 30 | 3 | 
@@ -81,7 +81,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **N Marshall** | 5 | 0 | 28 | 0 | 
 | **S Marshall** | 4 | 1 | 20 | 1 | 

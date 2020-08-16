@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 12.2 | 1| 33 | 5 |
 | **A Sylvester** | 6 | 1| 22 | 0 |
@@ -81,7 +81,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Coster** | 17.5 | 7| 30 | 6 |
 | **F Rowe** | 14 | 4| 34 | 3 |

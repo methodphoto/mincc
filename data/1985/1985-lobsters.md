@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 5 | 2 | 16 | 0 | 
 | **R Olver** | 5 | 2 | 8 | 1 | 
@@ -82,7 +82,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Smallwood** | 9 | 3 | 26 | 1 | 
 | **Hornby** | 9.2 | 3 | 23 | 6 | 

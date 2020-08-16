@@ -43,7 +43,7 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 9 | 0 | 40 | 2 |
 | **K Sullivan** | 11 | 2 | 43 | 2 |
@@ -72,7 +72,7 @@ A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **J Wright** | 14 | 2 | 24 | 1 |
 | **Dale** | 6 | 0 | 18 | 0 |

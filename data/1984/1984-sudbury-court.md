@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Dolan** | 10 | 1 | 47 | 3 | 
 | **Liffen** | 13 | 1 | 68 | 2 | 
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 9 | 1 | 22 | 0 | 
 | **A Sylvester** | 13 | 6 | 23 | 3 | 

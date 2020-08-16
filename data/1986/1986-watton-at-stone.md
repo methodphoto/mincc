@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 9 | 0 | 67 | 1 | 
 | **R Scotts** | 3 | 0 | 23 | 0 | 
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Underdown** | 11 | 2 | 50 | 2 | 
 | **Spinks** | 10.2 | 2 | 27 | 3 | 

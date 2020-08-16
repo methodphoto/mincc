@@ -46,7 +46,7 @@ E Garland: Best bowling
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 14 | 1 | 28 | 2 | 
 | **R Olver** | 6 | 0 | 35 | 0 | 
@@ -82,7 +82,7 @@ E Garland: Best bowling
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Richardson** | 14 | 3 | 36 | 2 | 
 | **North** | 15.1 | 3 | 41 | 3 | 

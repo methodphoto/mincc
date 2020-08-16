@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **K Davis** | 7 | 2 | 17 | 1 | 
 | **I Whalley** | 6 | 0 | 28 | 2 | 
@@ -80,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 8 | 2 | 35 | 0 | 
 | **A Sylvester** | 12 | 5 | 32 | 24| 

@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Platt** | 6 | 2 | 14 | 4 | 
 | **A Beard** | 6 | 1 | 22 | 1 | 
@@ -80,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Beswick** | 4 | 2 | 2 | 2 | 
 | **G Palengort** | 4 | 1 | 2 | 2 | 

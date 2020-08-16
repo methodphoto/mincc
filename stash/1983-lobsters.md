@@ -46,7 +46,7 @@ William Calvert - Highest Score for The Min. James Booth - First duck for The Mi
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **K Sullivan** | 4 | 1 | 13 | 1 |
 | **S Tanner** | 4 | 1 | 28 | 1 |
@@ -81,7 +81,7 @@ William Calvert - Highest Score for The Min. James Booth - First duck for The Mi
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 4 | 4 | 0 | 1 |
 | **A Sylvester** | 4 | 1 | 18 | 0 |

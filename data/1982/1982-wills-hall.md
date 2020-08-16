@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Ellis** | 3 | 1 | 7 | 0 |
 | **Scanlon** | 3 | 0 | 16 | 0 |
@@ -78,7 +78,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **A Sylvester** | 3 | 2 | 8 | 0 |
 | **L Sheridan** | 3 | 1 | 3 | 3 |

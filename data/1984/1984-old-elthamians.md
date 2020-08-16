@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 9 | 3 | 39 | 2 | 
 | **A Sylvester** | 8 | 3 | 37 | 2 | 
@@ -83,7 +83,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **N Comber** | 16.2 | 7 | 31 | 3 | 
 | **K Gilmour** | 5 | 1 | 21 | 0 | 

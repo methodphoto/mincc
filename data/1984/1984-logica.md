@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Beswick** | 4.3 | 0 | 16 | 2 | 
 | **M Kirwan** | 12 | 1 | 45 | 5 | 
@@ -80,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Walton** | 10 | 1 | 38 | 1 | 
 | **A Sylvester** | 10 | 4 | 19 | 2 | 

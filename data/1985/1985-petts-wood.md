@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Beswick** | 17 | 4 | 49 | 3 | 
 | **A Sylvester** | 10 | 4 | 32 | 5 | 
@@ -77,7 +77,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Slade** | 11 | 0 | 45 | 2 | 
 | **Cope** | 4 | 0 | 15 | 0 | 

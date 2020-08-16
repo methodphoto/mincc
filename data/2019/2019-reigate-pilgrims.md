@@ -44,7 +44,7 @@ Reigate won the toss and batted first, making 151-9. The Min replied with 146-8 
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **I Marshall** | 9.4 | 2 | 27 | 1 |
 | **C Wright** | 9 | 1 | 39 | 2 |
@@ -79,7 +79,7 @@ Reigate won the toss and batted first, making 151-9. The Min replied with 146-8 
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **S Pettit** |5 |1 |6 |2 |
 | **AK Kamal** |8 |4 |24 |0 |

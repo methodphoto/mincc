@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Beswick** | 13 | 2 | 66 | 3 | 
 | **A Sylvester** | 15 | 1 | 53 | 2 | 
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Bogden** | 8 | 0 | 25 | 2 | 
 | **Mayo** | 12 | 1 | 33 | 2 | 

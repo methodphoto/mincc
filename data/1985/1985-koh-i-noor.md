@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **D Harris** | 13 | 0 | 55 | 1 | 
 | **J Harris** | 9 | 0 | 55 | 0 | 
@@ -77,7 +77,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **D Newman** | 4 | 0 | 15 | 2 | 
 | **E Harcourt** | 4 | 0 | 18 | 1 | 

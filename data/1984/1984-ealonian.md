@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Cox** | 10 | 2 | 20 | 1 | 
 | **Filmer** | 7.1 | 0 | 28 | 4 | 
@@ -78,7 +78,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Beswick** | 7.2 | 0 | 39 | 1 | 
 | **W Calvert** | 11 | 0 | 33 | 4 | 

@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Khursheed** | 9 | 2 | 34 | 2 | 
 | **Gordon** | 14 | 4 | 23 | 4 | 
@@ -80,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **W Calvert** | 7 | 1 | 24 | 0 | 
 | **R Beswick** | 8.4 | 2 | 44 | 2 | 

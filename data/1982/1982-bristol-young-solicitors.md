@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 3 | 1 | 5 | 0 |
 | **J Wright** | 3 | 2 | 6 | 2 |
@@ -83,7 +83,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Morris** | 4 | 1 | 8 | 0 |
 | **Bretton** | 4 | 1 | 17 | 2 |

@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Walton** | 7 | 0 | 19 | 3 | 
 | **Arshad** | 8 | 0 | 21 | 0 | 
@@ -81,7 +81,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **A Sylvester** | 8 | 3 | 12 | 3 | 
 | **J Wright** | 8 | 3 | 8 | 0 | 

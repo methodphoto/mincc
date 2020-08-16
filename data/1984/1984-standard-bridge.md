@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Joy** | 7 | 5 | 12 | 3 | 
 | **Taylor** | 6 | 0 | 22 | 1 | 
@@ -82,7 +82,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Beswick** | 7 | 3 | 5 | 2 | 
 | **W Calvert** | 9 | 4 | 19 | 2 | 

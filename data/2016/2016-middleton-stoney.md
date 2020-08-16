@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Gupta** | 6 | 2 | 26 | 0 |
 | **S Habib** | 9 | 0 | 18 | 0 |
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **T Cranston** | 11 | 1 | 30 | 1 |
 | **P Wordsworth** | 6 | 2 | 7 | 1 |

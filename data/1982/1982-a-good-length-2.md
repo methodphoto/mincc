@@ -43,7 +43,7 @@ A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 11 | 2 | 15 | 5 |
 | **W Calvert** | 4 | 1 | 28 | 0 |
@@ -71,7 +71,7 @@ A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Kendrick** | 14 | 2 | 24 | 1 |
 | **R Ashe** | 6 | 0 | 18 | 0 |

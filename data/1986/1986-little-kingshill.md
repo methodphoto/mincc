@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 8 | 0 | 27 | 0 | 
 | **R Olver** | 11 | 4 | 28 | 2 | 
@@ -78,7 +78,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **S Doughty** | 12 | 2 | 35 | 2 | 
 | **D Benning** | 12 | 2 | 28 | 0 | 

@@ -45,7 +45,7 @@ A Gallagher: 54* off 45 balls
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Kashif** | 6 | 1 | 18 | 2 | 
 | **Nick** | 5 | 1 | 27 | 0 | 
@@ -83,7 +83,7 @@ A Gallagher: 54* off 45 balls
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **P Wigg** | 6 | 4 | 7 | 2 | 
 | **S Ali** | 5 | 1 | 12 | 0 | 

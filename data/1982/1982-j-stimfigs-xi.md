@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **S Miller-Jones** | 10.2 | 1 | 51 | 2 |
 | **S Turner** | 6 | 1 | 20 | 0 |
@@ -78,7 +78,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 15 | 4 | 55 | 1|
 | **A Sylvester** | 16 | 2 | 71 | 3|

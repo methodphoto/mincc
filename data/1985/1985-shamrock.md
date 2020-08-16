@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Richardson** | 6 | 1 | 25 | 2 | 
 | **Humphreys** | 8 | 3 | 16 | 2 | 
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **W Calvert** | 4 | 1 | 12 | 1 | 
 | **R Beswick** | 3 | 0 | 21 | 0 | 

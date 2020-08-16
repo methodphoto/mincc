@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Olver** | 9 | 5 | 11 | 3 | 
 | **R Beswick** | 8 | 4 | 4 | 4 | 
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **J Coulson** | 5 | 2 | 26 | 3 | 
 | **D Harris** | 8 | 4 | 18 | 2 | 

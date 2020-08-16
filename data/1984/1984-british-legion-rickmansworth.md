@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **S Gravestock** | 11 | 5 | 13 | 0 | 
 | **Thomas** | 6 | 1 | 11 | 1 | 
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **W Calvert** | 11 | 1 | 41 | 1 | 
 | **R Beswick** | 4 | 0 | 18 | 0 | 

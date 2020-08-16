@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Olver** | 8 | 6 | 2 | 2 | 
 | **R Scotts** | 5 | 2 | 16 | 1 | 
@@ -80,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **D Fieldhouse** | 8 | 0 | 56 | 2 | 
 | **S Leegood** | 6 | 0 | 37 | 0 | 

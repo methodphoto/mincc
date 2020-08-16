@@ -46,7 +46,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **R Beswick** | 8 | 2 | 20 | 0 | 
 | **W Calvert** | 13 | 3 | 40 | 6 | 
@@ -82,7 +82,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Stevenson** | 10 | 3 | 20 | 6 | 
 | **Scanlon** | 8 | 2 | 13 | 1 | 

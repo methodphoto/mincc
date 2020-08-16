@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **A Sylvester** | 3 | 0 | 7 | 3 | 
 | **R Beswick** | 3 | 1 | 10 | 2 | 
@@ -83,7 +83,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **J French** | 2 | 1 | 4 | 0 | 
 | **R Norris** | 2 | 1 | 8 | 0 | 

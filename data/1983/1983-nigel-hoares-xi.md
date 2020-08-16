@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **C Bowman** | 8 | 2 | 39 | 1 | 
 | **R Lovegrove** | 5 | 1 | 21 | 0 | 
@@ -80,7 +80,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 7 | 0 | 28 | 3 | 
 | **A Sylvester** | 4 | 0 | 30 | 1 | 

@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 
 | **P Wigg** | 8 | 1 | 36 | 1 |
@@ -98,7 +98,7 @@ Total(33 4 overs)164 all out
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 
  | **Norman** | 4 | 1 | 9 | 3 |

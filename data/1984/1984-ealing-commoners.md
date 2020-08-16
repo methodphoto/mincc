@@ -44,7 +44,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Neville** | 14 | 2 | 40 | 0 | 
 | **J Ashton** | 12 | 1 | 42 | 2 | 
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 6 | 1 | 12 | 0 | 
 | **A Sylvester** | 10 | 3 | 13 | 2 | 

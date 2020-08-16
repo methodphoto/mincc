@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **A MacFarlane** | 16 | 4 | 41 | 2 | 
 | **I Marshall** | 13 | 2 | 46 | 1 | 
@@ -78,7 +78,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **D Potts** | 7 | 2 | 23 | 0 | 
 | **J Yerrell** | 9 | 3 | 14 | 3 | 

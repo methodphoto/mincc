@@ -46,7 +46,7 @@ Ken Sullivan - Best Bowling by The Min
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 12 | 4 | 31 | 2 |
 | **A Sylvester** | 6 | 0 | 25 | 0 |
@@ -80,7 +80,7 @@ Ken Sullivan - Best Bowling by The Min
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Davis** | 5 | 0 | 19 | 0 |
 | **R Ashe** | 7.1 | 4 | 8 | 0 |

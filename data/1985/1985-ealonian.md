@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **W Calvert** | 13 | 0 | 57 | 2 | 
 | **R Beswick** | 15 | 0 | 49 | 0 | 
@@ -77,7 +77,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Cox** | - | - | - | - | 
 | **Davies** | - | - | - | - | 

@@ -43,7 +43,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 7 | 0 | 30 | 2 | 
 | **A Sylvester** | 9 | 1 | 39 | 3 | 
@@ -79,7 +79,7 @@ Result: {result}
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **Sellcombe** | 10 | 0 | 45 | 2 | 
 | **de Norman** | 5 | 0 | 34 | 1 | 

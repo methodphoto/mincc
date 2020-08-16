@@ -45,7 +45,7 @@ J Booth and D Mundy: partnership of 100
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **C Pickles** | 13 | 3 | 42 | 5 |
 | **R Charnaud** | 8 | 1 | 27 | 0 |
@@ -80,7 +80,7 @@ J Booth and D Mundy: partnership of 100
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **M Kirwan** | 13 | 2 | 31 | 3 |
 | **A Sylvester** | 5 | 0 | 29 | 1 |
