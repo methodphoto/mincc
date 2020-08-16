@@ -31,8 +31,8 @@ The Min won the toss and for some reason batted first on a sticky wicket. They w
 | **N Garland** | b | I Kehl | 3 |
 | **J Grant &#8224;** | c A Harper | I Kehl | 2 |
 | **C Wright** | not out | 0 |
-| **Extras** |  | (3b 0lb 8w 1nb 0p) | 12 |
-| **Total** |  | (27.2 overs) | 79 all out |
+| **Extras** |  | (3b 0lb 8w 1nb 0p) | **12** |
+| **Total** |  | (27.2 overs) | **79 all out** |
 
 ## Fall of Wickets
 
@@ -47,10 +47,10 @@ The Min won the toss and for some reason batted first on a sticky wicket. They w
 |---|---|---|---|---|
 | **T Ridder** | 5 | 1 | 15 | 1 | 
 | **H Elliss** | 5 | 2 | 10 | 1 | 
-| **Crook** | 5 | 2 | 4 | 2 | 
-| **I Kehl** | 4.2 | 0 | 16 | 5 | 
-| **A Kehl** | 4 | 0 | 20 | 1 | 
-| **J Bowley** | 4 | 0 | 10 | 0 | 
+| **B Crook** | 5 | 2 | 4 | 2 | 
+| **A Kehl** | 4 | 0 | 20 | 1 |
+| **I Kehl** | 4.2 | 0 | 16 | 5 |
+| **J Bowley** | 4 | 0 | 8 | 0 | 
 
 ## Newdigate Innings
 
@@ -68,14 +68,14 @@ The Min won the toss and for some reason batted first on a sticky wicket. They w
 | **B Crook** | dnb |  |  |
 | **I Kehl** | dnb |  |  |
 | **Extras** |  | (0b 1lb 0w 0nb 0p) | 1 |
-| **Total** | | (15.4 overs) | 85 for 2 wkts |
+| **Total** | | (15.4 overs) | 84 for 2 wkts |
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** | 4 | 13 | | | | | | | | |
-| **Batsman** | 2 | 1 | 0 | | | | | | | |
+| **Batsman** | 1 | 2 |  | | | | | | | |
 
 ### Bowling
 
@@ -90,4 +90,4 @@ The Min won the toss and for some reason batted first on a sticky wicket. They w
 
 | Win | Loss |  |  |Tie |
 |:---|:---|:---|---:|
-| 0 | 0 | 1 | 0 |
+| 1 | 3 | 1 | 0 |

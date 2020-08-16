@@ -1,6 +1,6 @@
 ---
 year: "2007"
-serialNumber: "0" 
+serialNumber: "0345" 
 game: "Horningsham"
 title: "Horningsham v The Min"
 gameLocation: "Horningsham"

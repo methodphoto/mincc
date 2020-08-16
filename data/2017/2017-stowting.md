@@ -1,7 +1,8 @@
 ---
-year:"2017"
+year: "2017"
+serialNumber "0491"
 game: "Stowting"
-title: "Stowting v The Min"
+title: "Stowting -v- The Min"
 gameLocation: "Dawes Field"
 gameDate: "28/08/2017"
 result: "Stowting won by 13 runs"

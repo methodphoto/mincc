@@ -1,8 +1,9 @@
 ---
-year:"2017"
+year: "2017"
+serialNumber "0493"
 game: "Reigate Pilgrims"
-title: "Reigate Pilgrims v The Min"
-gameLocation: "Betchworth"
+title: "Reigate Pilgrims -v- The Min"
+gameLocation: "The Red Lion, Betchworth"
 gameDate: "17/09/2017"
 result: "Reigate Pilgrims won by 5 wkts"
 resultType: "Lost"

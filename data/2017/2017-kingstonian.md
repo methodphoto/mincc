@@ -1,5 +1,5 @@
 ---
-year:"2017"
+year: "2017"
 serialNumber: "0484"
 game: "Kingstonian"
 title: "Kingstonian v The Min"
@@ -55,7 +55,7 @@ The Min batted first and scored 200-8 (all out). Kingstonian replied with 204 fo
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **Dhruv** | c J.Grant | R Beswick | 47 |
+| **Dhruv** | c J Grant | R Beswick | 47 |
 | **Shib** | b | P Beswick | 8 |
 | **Ruger** | lbw | P Beswick | 6 |
 | **Tarveed** | b | R Beswick | 29 |

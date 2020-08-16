@@ -1,7 +1,8 @@
 ---
-year:"2017"
+year: "2017"
+serialNumber "0492"
 game: "Brasted Invicta"
-title: "Brasted Invicta v The Min"
+title: "Brasted Invicta -v- The Min"
 gameLocation: "Upper Neville Ground, Tunbridge Wells"
 gameDate: "10/09/2017"
 result: "The Min won by 185 runs"
@@ -24,7 +25,7 @@ S Amin best bowling for The Min.  P Wigg second best bowling for The Min
 | **R Earney** | b Campbell |  | 44 |
 | **R Kitson** | lbw b Callan |  | 0 |
 | **P Beswick** | b S Bishop |  | 27 |
-| **A Munim** | b Campbell |  | 4 |
+| **Abdul** | b Campbell |  | 4 |
 | **I Muntakim** | run out |  | 1 |
 | **I Miah** | not out |  | 3 |
 | **M Gupta** | not out |  | 1 |

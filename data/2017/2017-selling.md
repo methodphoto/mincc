@@ -1,7 +1,8 @@
 ---
-year:"2017"
+year: "2017"
+serialNumber "0494"
 game: "Selling"
-title: "Selling v The Min"
+title: "Selling -v- The Min"
 gameLocation: "Cadman's Meadow"
 gameDate: "24/9/2017"
 result: "Selling won by 89 runs"

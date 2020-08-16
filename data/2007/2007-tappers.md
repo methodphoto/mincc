@@ -1,10 +1,10 @@
 ---
 year: "2007"
-serialNumber: "0" 
+serialNumber: "0338" 
 game: "Tappers"
-title: "Tappers v The Min"
+title: "Tappers -v- The Min"
 gameLocation: ""
-gameDate: ""
+gameDate: "
 result: ""
 resultType: ""
 type: "game"

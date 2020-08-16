@@ -1,8 +1,8 @@
 ---
 year: "2017"
-serialNumber: "0" 
+serialNumber: "0490" 
 game: "Broadway & Horton"
-title: "Broadway & Horton v The Min"
+title: "Broadway & Horton -v- The Min"
 gameLocation: "Horton Cross"
 gameDate: "07/07/2017"
 result: " Broadway retained The Ashes by 32 runs"
@@ -18,7 +18,7 @@ Result: {result}
  
 ## Brook Innings
 
-| Batsman | Dismissal |  | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 
 | **D Cook** | c J Grant | P Wigg | 8 |
@@ -38,13 +38,13 @@ Result: {result}
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 8 | 8 | 70 | 109 | 126 | 128 | 130 | 151 | 151 | 164 |
 | **Batsman** | 2 | 1 | 4 | 3 | 5 | 6 | 8 | 9 | 6 | 7 |
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 
 | **P Wigg** | 8 | 1 | 36 | 1 |
@@ -56,7 +56,7 @@ Result: {result}
 
 ## The Min Innings
 
-| Batsman | Dismissal |  | Runs |
+| Batsman | Dismissal |  |  |
 |:---|:---|---|---:|
 
 R Earneyc S Driskell b Norman0
@@ -92,13 +92,13 @@ Total(33 4 overs)164 all out
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 0 | 6 | 6 | 7 | 30 | 79 | 91 | 100 | 102 | 132 | 
 | **Batsman** | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 9 | 8 | 10 | 
 
 ## Bowling
 
-| | O | M | R | W |
+| | O | M |  |  | W |
 |---|---|---|---|---|
 
  | **Norman** | 4 | 1 | 9 | 3 |
