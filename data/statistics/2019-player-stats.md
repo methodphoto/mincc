@@ -45,7 +45,6 @@ type: "statistics"
 | **George Holt** | 1 | 0 | 0 | 0 |
 | **Phil Beswick** | 1 | 0 |  | 0|
 
-
 ## 2019 Season Batting (by Batting Ave)
 
 | Player | Inns |  |  | Runs | Ave |
@@ -131,7 +130,6 @@ type: "statistics"
 
 ## Career Batting (min 250 Runs)
 
-PlayerMInnsNOsRunsAve
 | Player | M |  |  | NOs | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- | :--- |
 | **Richard Earney** | 350 | 342 | 28 | 9179 | 29.23 |
@@ -224,7 +222,6 @@ PlayerMInnsNOsRunsAve
 | **Jerry Wright** | 379 | 183 | 72 | 922 | 8.31 |
 | **Richard Coyle** | 72 | 64 | 16 | 370 | 7.71 |
 
-
 ###Career Bowling by Wkts (min 25 wkts)
 
 | Player | M |  |  | M | R | W |  |  | SR |
@@ -258,7 +255,6 @@ PlayerMInnsNOsRunsAve
 | **Andrew Slight** | 112 | 72.8 | 2 | 429 | 26 | 16.50 | 16.80 |
 
 ###Career Bowling by Ave (min 25 wkts)
-
 
 | Player | M |  |  | M | R | W |  |  | SR |
 |:--- | :--- | :--- | :--- | :--- | :--- |

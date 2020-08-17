@@ -5,7 +5,7 @@ game: "Railway Tavereners"
 title: "Railway Tavereners v The Min"
 gameLocation: "North Middlesex CC"
 gameDate: "01/09/2019"
-result: "The Min won by
+result: "The Min won by "
 resultType: "Won"
 type: "game"
 ---
@@ -31,8 +31,8 @@ R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 | **S Parr** | run out |  | 3 |
 | **G Katakos** | lbw | R Earney | 3 |
 | **B Whatley** | not out |  | 0 |
-| **Extras** |  | (6b 2lb 5w 2nb 0p) | 15 |
-| **Total** | |  (33.1 overs) | 178 all out |
+| **Extras** |  | (6b 2lb 5w 2nb 0p) | **15** |
+| **Total** | |  (33.1 overs) | **178 all out** |
 
 ## Fall of Wickets
 
@@ -41,19 +41,19 @@ R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 | **Score** |  |  |  |  |  |  |  |  |  |  |
 | **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
-### Bowling
+## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
+| **S Amin** | 5 | 0 | 30 | 0 |
+| **C Wright** | 7 | 0 | 40 | 0 |
+| **R Beswick** | 7 | 1 | 29 | 0 |
+| **K Gallagher** | 7 | 0 | 32 | 2 |
+| **R Earney** | 6 | 0 | 27 | 5 |
+| **A Gallagher** | 1 | 0 | 12 | 0 |
+| **B Boyd-Taylor** | 0.1 | 0 | 0 | 1 |
 
-| **D Geenson** | 7 | 0 | 31 | 0 |
-| **S Parr** | 4 | 0 | 28 | 1 |
-| **I Choudry** | 6 | 0 | 35 | 3 |
-| **A Spee** | 2 | 05 | 0 |
-| **M Winter** | 3 | 0 | 30 | 1 |
-| **J Mulligan** | 1.1 | 0 | 14 | 0 |
-
-###  The Min CC Innings
+## The Min CC Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
@@ -66,15 +66,31 @@ R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 | **K Usanga** | b | A Spee | 0 |
 | **S Amin** | c J Mulligan | I Choudry | 6 |
 | **K Gallagher** | not out | | 5 |
-| **J Grant &#8224;** | did not bat |  |  |
-| **C Wright** | did not bat |  |  |
-| **Extras** |  | (0b 3lb 11w 3nb 0p) | 15 |
-| **Total** |  | (30.1 overs) | 178 for 8 wkts |
+| **J Grant &#8224;** | dnb |  |  |
+| **C Wright** | dnb |  |  |
+| **Extras** |  | (0b 2lb 11w 3nb 0p) | **16** |
+| **Total** |  | (30.1 overs) | **180 for 8 wkts** |
 
-Fall of Wickets
+## Fall of Wickets
 
-| **W** | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Sc** | 31 | 48 | 52 | 122 | 132 | 135 | 160 |  |  |  |
 | **Bt** | 2 | 1 | 3 | 4 | 5 | 7 | 8 |  |  |  |
 
+## Bowling
 
+| | O | M | R | W |
+|---|---|---|---|---|
+| **D Geenson** | 7 | 0 | 31 | 0 |
+| **S Parr** | 4 | 0 | 28 | 1 |
+| **I Choudry** | 6 | 0 | 35 | 3 |
+| **A Spee** | 2 | 05 | 0 |
+| **M Winter** | 3 | 0 | 30 | 1 |
+| **J Mulligan** | 1.1 | 0 | 14 | 0 |
+
+## Win/Loss Ratio
+
+| Win | Loss | Draw |Tie |
+|:---|:---|:---|---:|
+| 5 | 4 | 1 | 0 |
