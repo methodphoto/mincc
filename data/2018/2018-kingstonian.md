@@ -30,7 +30,7 @@ The Min won the toss and inserted Kingstonian who made 171 all out in 32 overs  
 | **Jim** | not out |  | 0 |
 | **Temy** | b | P Beswick | 1 |
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
-| **Total** | | (34.2 overs) | **171 all out** |
+| **Total** | | (39.4 overs) | **171 all out** |
 
 ## Fall of Wickets
 
@@ -50,6 +50,7 @@ The Min won the toss and inserted Kingstonian who made 171 all out in 32 overs  
 | **R Earney** | 4 | 0 | 16 | 0 |
 | **C Wright** | 4 | 0 | 35 | 2 |
 | **P Beswick** | 4 | 1 | 7 | 6 |
+| **E Garland** | 3.4 | 0 | 14 | 1 |
 
 ## The Min Innings
 
@@ -60,14 +61,14 @@ The Min won the toss and inserted Kingstonian who made 171 all out in 32 overs  
 | **S Barrowcliff** | st Arab | Jacobs | 31 |
 | **R Beswick** | c; | Jacobs | 9 |
 | **I Miah** | not out |  | 25 |
-| **S Amin** | not out |  | 15 |
-| **P Beswick** | did not bat |  |  |
-| **J Grant** | did not bat |  |  |
-| **N Garland** | did not bat |  |  |
-| **C Wright** | did not bat |  |  |
-| **J Wright** | did not bat |  |  |
-| **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
-| **Total** | | (38 4 overs) | **171 all out** |
+| **S Amin** | not out |  | 13 |
+| **P Beswick** | dnb |  |  |
+| **J Grant** | dnb |  |  |
+| **N Garland** | dnb |  |  |
+| **C Wright** | dnb |  |  |
+| **J Wright** | dnb |  |  |
+| **Extras** | | (2b 0lb 1w 0nb 0p) | **10** |
+| **Total** | | (37.2 overs) | **172 for 4 wkts** |
 
 ## Fall of Wickets
 

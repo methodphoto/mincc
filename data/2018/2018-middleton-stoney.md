@@ -18,7 +18,7 @@ The Min won the toss and inserted Middleton Stoney who scored 188-7. The Min rep
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **N Moorman** | c & b  | R Earney | 69 |
+| **N Moorman** | c & b | R Earney | 69 |
 | **M Ford-Langstaff** | c R Beswick | R Earney | 33 |
 | **J Mumtaz** | c & b  | R Earney | 7 |
 | **T House** | c J Wright | R Earney | 14 |
@@ -30,7 +30,14 @@ The Min won the toss and inserted Middleton Stoney who scored 188-7. The Min rep
 | **J Watson** | dnb |  |  |
 | **T Cranston** | dnb |  |  |
 | **Extras** | | (6b 3lb 13w 1nb 0p) | **23** |
-| **Total** | | ((38 overs) overs) | **188 7wkts** |
+| **Total** | | (42 overs) | **188 for 7 wkts** |
+
+## Fall of Wickets
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Score** | 77 | 95 | 120 | 138 | 175 | 175 | 182 |  |  |  |
+| **Batsman** | 2 | 3 | 4 | 1 | 5 | 7 | 8 |  |  |  |
 
 ## Bowling
 
@@ -38,17 +45,10 @@ The Min won the toss and inserted Middleton Stoney who scored 188-7. The Min rep
 |---|---|---|---|---|
 | **P Wigg** | 8 | 0 | 46 | 1 |
 | **S Amin** | 4 | 0 | 23 | 0 |
-| **R Earney** | 13 | 1 | 61 | 4 |
-| **R Beswick** | 10 | 0 | 22 | 0 |
+| **R Earney** | 13 | 1 | 62 | 4 |
+| **R Beswick** | 10 | 0 | 23 | 0 |
 | **J Wright** | 5 | 0 | 18 | 1 |
 | **P Beswick** | 2 | 0 | 16 | 0 |
-
-## Fall of Wickets
-
-| | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
-|---|---|---|---|---|---|---|---|---|---|---|
-| **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
 
 ## The Min Innings
 
@@ -65,8 +65,8 @@ The Min won the toss and inserted Middleton Stoney who scored 188-7. The Min rep
 | **W Calvert** | lbw | S Vadivale | 8 |
 | **J Grant &#8224;** | not out |  | 4 |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (6b 3lb 13w 1nb 0p) | **23** |
-| **Total** | | ((38 overs) overs) | **107 for 8 wkts** |
+| **Extras** | | (2b 2lb 5w 1nb 0p) | **10** |
+| **Total** | | (35 overs) | **107 for 8 wkts** |
 
 ## Fall of Wickets
 

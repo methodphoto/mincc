@@ -12,7 +12,7 @@ type: "game"
 
 Played at {gameLocation} on {gameDate} 
 
-The Min won the toss and inserted Watton who made a rather large 295-3 in 40 overs. The Min were all out for 168 (including 3 run outs) 
+The Min won the toss and inserted Watton who made a rather large 295-3 in 40 overs. The Min were all out for 168 
 
 ## Watton-at-Stone Innings
 
@@ -23,20 +23,20 @@ The Min won the toss and inserted Watton who made a rather large 295-3 in 40 ove
 | **J Fox** | st W Calvert | P Beswick | 38 |
 | **R Ansell** | not out |  | 56 |
 | **D Bloomfield** | not out |  | 33 |
-| **D Kiddie** | did not bat |  |  |
-| **A Gundy** | did not bat |  |  |
-| **J Wing** | did not bat |  |  |
-| **K Posner** | did not bat |  |  |
-| **S Vincent** | did not bat |  |  |
+| **D Kiddie** | dnb |  |  |
+| **A Gundy** | dnb |  |  |
+| **J Wing** | dnb |  |  |
+| **K Posner** | dnb |  |  |
+| **S Vincent** | dnb |  |  |
 | **** |  |  |  |
-| **Extras** | | (12w 12b 4lb 1nb  0p) | **29** |
+| **Extras** | | (12w 12b 4lb 1nb 0p) | **29** |
 | **Total** | | (40 overs) | **295  for 3 wkts** |
 
 ## Fall of Wickets
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Score** | 35 | 157 | 226 |  |  |  |  |  |  |  |
+| **Score** | 35 | **157** | 226 |  |  |  |  |  |  |  |
 | **Batsman** | 2 | 3 | 1 |  |  |  |  |  |  |  |
 
 ## Bowling
@@ -45,11 +45,11 @@ The Min won the toss and inserted Watton who made a rather large 295-3 in 40 ove
 |---|---|---|---|---|
 | **N Garland** | 5 | 0 | 37 | 1 |
 | **S Amin** | 6 | 0 | 19 | 0 |
-| **Alastair** | 8 | 0 | 56 | 0 |
+| **A Dell** | 8 | 0 | 56 | 0 |
 | **J Wright** | 4 | 0 | 31 | 0 |
 | **Johnstone** | 5 | 0 | 45 | 0 |
 | **R Beswick** | 5 | 0 | 27 | 1 |
-| **B Coffer** | 2 | 019 | 19 | 0 |
+| **B Coffer** | 2 | 0 | 19 | 0 |
 
 ## The Min Innings
 
@@ -57,17 +57,17 @@ The Min won the toss and inserted Watton who made a rather large 295-3 in 40 ove
 |:---|:---|---|---:|
 | **R Beswick** | run out (J Fox) |  | 32 |
 | **B Coffer** | c D Kiddie | R Ansell | 6 |
-| **Alastair** | c B Williams | J Wing | 49 |
+| **A Dell** | c B Williams | J Wing | 49 |
 | **R Damaze** | c & b | J Wing | 29 |
 | **S Hornsby** | b | A Gundy | 1 |
-| **W Calvert &dagger;** | b | J Wing | 5 |
-| **P Beswick** | run out | (B Williams) | 6 |
+| **W Calvert &#8224;** | b | J Wing | 5 |
+| **P Beswick** | run out (B Williams) |  | 6 |
 | **S Amin** | b | J Wing | 10 |
-| **N Garland** | run out | (R Ansell) | 0 |
+| **N Garland** | run out (R Ansell) |  | 0 |
 | **Johnstone** | b  | S Vincent | 0 |
 | **J Wright** | not out |  | 0 |
-| **Extras** | | (12w 12b 4lb 1nb  0p) | **29** |
-| **Total** | | (40 overs) | **295  for 3 wkts** |
+| **Extras** | | (0w 3b 17lb 5nb 0p) | **25** |
+| **Total** | | (27.3 overs) | **168 all out** |
 
 ## Fall of Wickets
 
@@ -85,11 +85,9 @@ The Min won the toss and inserted Watton who made a rather large 295-3 in 40 ove
 | **J Wing** | 8 | 1 | 32 | 4 |
 | **A Gundy** | 6 | 0 | 34 | 1 |
 | **S Vincent** | 1 3 | 0 | 5 | 1 |
-| **** |  |  |  |  |
-| **** |  |  |  |  |
 
 ## Season Win/Loss Record
 
 | Win | Loss |  |  |Tie |
 |:---|:---|---|---:|
-|  |  |  |  |
+| 2 | 1 | 1 | 0 |
