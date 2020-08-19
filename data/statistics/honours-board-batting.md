@@ -6,7 +6,7 @@ type: "statistics"
 
 ## Centuries |
 
-| Year | Player |  |  | Score |
+| Year | Player | Opponent | Score |
 |:--- | :--- | :--- | ---: |
 | 2017 | Mohit Gupta | v Frensham | 100 |
 | 2013 | Ray Damaze | v Frensham | 100* |
@@ -31,8 +31,10 @@ type: "statistics"
 
 ## Fifties |
 
-| Year | Player |  |  | Score |
+| Year | Player | Opponent | Score |
 |:--- | :--- | :--- | ---: |
+| 2020 | Patrick Wigg | v Railway Taverners | 54 |
+| 2020 | Andrew Gallager | v Kingstonian | 54 |
 | 2019 | Alf Beswick | v Railway Taverners | 50 |
 | 2019 | Alf Beswick | v Kingstonian | 86 |
 | 2019 | Steven Hornsby | v Broadway & Horton | 52 |
@@ -86,7 +88,7 @@ type: "statistics"
 | 2013 | Richard Beswick | v Britwell Salome | 50 |
 | 2012 | Richard Earney | v Newington | 89* |
 | 2012 | Richard Earney | v Middleton Stoney | 65* |
-| 2011 | Ray Damaje | v SB Exiles | 74 |
+| 2011 | Ray Damaze | v SB Exiles | 74 |
 | 2011 | Devanka Pathak | v SB Exiles | 52 |
 | 2011 | Richard Beswick | v SB Exiles | 60 |
 | 2011 | Anu Narula | v SAC | 64 |

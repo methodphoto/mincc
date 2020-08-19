@@ -5,7 +5,7 @@ type: "results"
 
 # {title}
 
-| Date | Opponents |  |  |
+| Date | Opponents | Result |
 |:--- | :--- | :--- |
 | **2019** | | |
 | 19/07/2020 | [Kingstonian](2020-kingstonian) | Won |

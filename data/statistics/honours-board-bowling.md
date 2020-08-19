@@ -6,7 +6,7 @@ type: "statistics"
 
 ## 6 or more wickets in an Innings
 
-| Year | Player |  |  | Figures |
+| Year | Player | Opponent | Figures |
 |:--- | :--- | :--- | ---: |
 | 2018 | Phil Beswick | v Kingstonian | 4-1-7-6 |
 | 2013 | Chris Martin | v Newington | 15-6-27-6 |
@@ -29,7 +29,7 @@ type: "statistics"
 
 ## 5 or more wickets in an Innings
 
-| Year | Player |  |  | Score |
+| Year | Player | Opponent | Figures |
 |:--- | :--- | :--- | ---: |
 | 2019 | Richard Earney | v Railway Taverners | 6-0-27-5 |
 | 2019 | Patrick Wigg | v Broadway & Horton | 6-3-12-5 |
