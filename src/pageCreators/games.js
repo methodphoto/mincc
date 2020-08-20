@@ -24,7 +24,7 @@ const createGamePages = (graphql, createPage) => graphql(`
   });
 
   filtered.forEach(({ node }) => {
-    const { html, frontmatter: { game, year } } = node;
+    const { html, frontmatter: { game, year, } } = node;
 
     createPage({
       path: `/${year}/$year-${slugify(game)}`,

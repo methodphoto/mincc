@@ -19,7 +19,7 @@ const createGamePages = (graphql, createPage) => graphql(`
     const GameTemplate = path.resolve(`src/templates/fixtureTemplateTemplate.jsx`);
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      const { html, frontmatter: { type, year } } = node;
+      const { html, frontmatter: { type, year, } } = node;
 
       createPage({
         path: `/${year}-$type`,,
