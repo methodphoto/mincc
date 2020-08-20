@@ -5,17 +5,17 @@ const createGamePages = (graphql, createPage) =>
   graphql(`
     query {
       allMarkdownRemark(filter: { frontmatter: { type: { eq: "fixtures" } } }) {
-        edges {
-          node {
-            frontmatter {
-              game
-              year
+   		 edges {
+     		 node {
+        		frontmatter {
+         		 year
+         		 type
+        	   }
+        	   html
             }
-            html
           }
         }
       }
-    }
   `).then((result) => {
     const GameTemplate = path.resolve(`src/templates/fixtureTemplateTemplate.jsx`);
 
