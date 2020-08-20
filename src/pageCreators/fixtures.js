@@ -27,7 +27,7 @@ const createGamePages = (graphql, createPage) =>
         component: GameTemplate,
         context: {
           game: game,
-          year: year,
+          type: type,
           html: html,
         },
       });
