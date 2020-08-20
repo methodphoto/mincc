@@ -40,4 +40,4 @@ const createGamePages = (graphql, createPage) => graphql(`
 
 module.exports = {
   createGamePages,
-}
+};
