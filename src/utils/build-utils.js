@@ -1,7 +1,7 @@
 const slugify = (str) => str
+  .replace(/&/g, " and ")
   .replace(/\s/g, "-")
   .replace(/'/g, "")
-  .replace(/&/g, " and ")
   .toLowerCase();
 
 module.exports = {

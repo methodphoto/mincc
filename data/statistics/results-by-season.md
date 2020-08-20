@@ -1,6 +1,6 @@
 ---
 title: "Results by Season"
-type: "results"
+type: "statistics"
 ---
 
 # {title}

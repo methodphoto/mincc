@@ -1,5 +1,5 @@
 ---
-title: "2018 Statistics"
+year: "2018"
 type: "statistics"
 ---
 # {title}
