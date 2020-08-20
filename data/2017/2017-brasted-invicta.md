@@ -1,6 +1,6 @@
 ---
 year: "2017"
-serialNumber "0492"
+serialNumber: "0492"
 game: "Brasted Invicta"
 title: "Brasted Invicta -v- The Min"
 gameLocation: "Upper Neville Ground, Tunbridge Wells"
@@ -14,7 +14,7 @@ Played at Upper Neville Ground, Tunbridge Wells on 10/09/2017
 
 The Min won the toss and batted first scoring 215-5 in 35 overs. Brasted were bowled out for 30
 
-S Amin best bowling for The Min.  P Wigg second best bowling for The Min
+S Amin best bowling for The Min. P Wigg second best bowling for The Min
 
 ## The Min Innings
 

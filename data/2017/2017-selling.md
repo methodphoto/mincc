@@ -1,6 +1,6 @@
 ---
 year: "2017"
-serialNumber "0494"
+serialNumber: "0494"
 game: "Selling"
 title: "Selling -v- The Min"
 gameLocation: "Cadman's Meadow"

@@ -1,6 +1,6 @@
 ---
 year: "2018"
-serialNumber "0497"
+serialNumber: "0497"
 game: "Newington"
 title: "Newington v The Min"
 gameLocation: "Bobbing Court"

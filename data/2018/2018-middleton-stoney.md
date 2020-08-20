@@ -1,6 +1,6 @@
 ---
 year: "2018"
-serialNumber "0495"
+serialNumber: "0495"
 game: "Middleton Stoney"
 title: "Middleton Stoney v The Min"
 gameLocation: "Middleton Park"

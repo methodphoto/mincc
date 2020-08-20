@@ -1,6 +1,6 @@
 ---
 year: "2017"
-serialNumber "0491"
+serialNumber: "0491"
 game: "Stowting"
 title: "Stowting -v- The Min"
 gameLocation: "Dawes Field"

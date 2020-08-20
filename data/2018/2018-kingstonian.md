@@ -1,6 +1,6 @@
 ---
 year: "2018"
-serialNumber "0496"
+serialNumber: "0496"
 game: "Kingstonian"
 title: "Kingstonian v The Min"
 gameLocation: "KCL"
