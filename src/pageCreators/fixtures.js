@@ -20,13 +20,13 @@ const createGamePages = (graphql, createPage) =>
     const GameTemplate = path.resolve(`src/templates/fixtureTemplateTemplate.jsx`);
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      const { html, frontmatter: { game, year, slug } } = node;
+      const { html, frontmatter: { type, year } } = node;
 
       createPage({
         path: `/${year}-$type`,,
         component: GameTemplate,
         context: {
-          game: game,
+          year: year,
           type: type,
           html: html,
         },
