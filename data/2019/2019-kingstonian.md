@@ -6,7 +6,7 @@ title: "Kingstonian v The Min"
 gameLocation: "Old Tiffinians Association Sports Ground"
 gameDate: "4th July 2019"
 result: "The Min won by 59 runs"
-resultType: "Won
+resultType: "Won"
 type: "game"
 ---
 
