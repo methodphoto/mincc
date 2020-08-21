@@ -10,7 +10,7 @@ resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
+Played at {gameLocation} on {gameDate}
 
 The Min batted first and made 176 for 6 wkts. Kingstonian made 143 all out in reply.
 
