@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default function GameTemplate({ pageContext }) {
-  const { html, game, year, title, gameLocation, gameDate, result,  } = pageContext;
+  const { html, game, year, title, gameLocation, gameDate, result, serialNumber, resultType,  } = pageContext;
 
   return (
     <div>

@@ -16,22 +16,22 @@ const createGamePages = (graphql, createPage) => graphql(`
     }
   }`
 ).then((result) => {
-    const GameTemplate = path.resolve(`src/templates/fixtureTemplateTemplate.jsx`);
+  const GameTemplate = path.resolve(`src/templates/gameTemplate.jsx`);
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       const { html, frontmatter: { type, year, } } = node;
 
-      createPage({
-        path: `/${year}-$type`,,
-        component: GameTemplate,
-        context: {
-          year: year,
-          type: type,
-          html: html,
-        },
-      });
+    createPage({
+      path: `/${year}-$type`,
+      component: GameTemplate,
+      context: {
+        game: game,
+        year: year,
+        html: html,
+      }, 
     });
   });
+});
 
 module.exports = {
   createGamePages,
