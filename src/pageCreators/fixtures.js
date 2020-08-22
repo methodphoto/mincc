@@ -20,14 +20,14 @@ const createFixtures = (graphql, createPage) => graphql(`
 const GameTemplate = path.resolve(`src/templates/gameTemplate.jsx`);
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      const { html, frontmatter: { type, year, } } = node;
+      const { html, frontmatter: { year, type, } } = node;
 
     createPage({
       path: `/${year}-${type}`,
       component: GameTemplate,
       context: {
-        game: game,
         year: year,
+        type: type,
         html: html,
       }, 
     });
