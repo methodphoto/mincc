@@ -16,16 +16,16 @@ const createFixtures = (graphql, createPage) => graphql(`
     }
   }`
 ).then((result) => {
-  const FixtureTemplate = path.resolve(`src/templates/gameTemplate.jsx`);
+const GameTemplate = path.resolve(`src/templates/gameTemplate.jsx`);
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       const { html, frontmatter: { type, year, } } = node;
 
     createPage({
       path: `/${year}-${type}`,
-      component: Fixtures,
+      component: GameTemplate,
       context: {
-        type: type,
+        game: game,
         year: year,
         html: html,
       }, 
@@ -34,5 +34,5 @@ const createFixtures = (graphql, createPage) => graphql(`
 });
 
 module.exports = {
-  createFixtures,
+  createGamePages,
 };
