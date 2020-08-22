@@ -16,6 +16,7 @@ const createFixtures = (graphql, createPage) => graphql(`
     }
   }`
 ).then((result) => {
+
 const GameTemplate = path.resolve(`src/templates/gameTemplate.jsx`);
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
@@ -31,7 +32,6 @@ const GameTemplate = path.resolve(`src/templates/gameTemplate.jsx`);
       }, 
     });
   });
-});
 
 module.exports = {
   createGamePages,
