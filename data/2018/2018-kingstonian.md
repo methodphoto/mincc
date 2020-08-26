@@ -5,14 +5,11 @@ game: "Kingstonian"
 title: "Kingstonian v The Min"
 gameLocation: "KCL"
 gameDate: "06/05/2018"
+shortReport: "The Min won the toss and inserted Kingstonian who made 171 all out in 32 overs  The Min scored 172-4 in 34.2 overs "
 result: "THe Min won by 6 wkts"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-The Min won the toss and inserted Kingstonian who made 171 all out in 32 overs  The Min scored 172-4 in 34.2 overs 
 
 ## Kingstonian Innings
 

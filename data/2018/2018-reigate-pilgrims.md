@@ -5,14 +5,11 @@ game: "Reigate Pilgrims"
 title: "Reigate Pilgrims v The Min"
 gameLocation: "The Red Lion, Betchworth"
 gameDate: "16/09/2018"
+shortReport: "Reigate Pilgrims won the toss and inserted The Min, who made 184-6  Reigate Pilgrims made 189-5 when they batted so won by 5 wkts"
 result: "Reigate Pilgrims won by 5 wkts"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at The Red Lion, Betchworth on 16/09/2018
-
-Reigate Pilgrims won the toss and inserted The Min, who made 184-6  Reigate Pilgrims made 189-5 when they batted so won by 5 wkts
 
 ## The Min Innings
 

@@ -5,14 +5,11 @@ game: "Selling"
 title: "Selling v The Min"
 gameLocation: "Cadman's Meadow"
 gameDate: "21/07/2018"
+shortReport: "The Min won the toss and batted first scoring 188 all out (34 overs). Selling were bowled out for 133"
 result: "The Min won by 55 runs"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-The Min won the toss and batted first scoring 188 all out (34 overs). Selling were bowled out for 133  
 
 ## The Min Innings
 

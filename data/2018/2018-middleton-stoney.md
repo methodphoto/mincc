@@ -5,14 +5,11 @@ game: "Middleton Stoney"
 title: "Middleton Stoney v The Min"
 gameLocation: "Middleton Park"
 gameDate: "22/04/2018"
+shortReport: "The Min won the toss and inserted Middleton Stoney who scored 188-7. The Min replied with 107-8 when time ran out"
 result: "Match Drawn"
 resultType: "Draw"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-The Min won the toss and inserted Middleton Stoney who scored 188-7. The Min replied with 107-8 when time ran out
 
 ## Middleton Stoney Innings
 

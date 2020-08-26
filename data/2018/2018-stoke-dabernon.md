@@ -5,14 +5,11 @@ game: "Stoke D'Aberdon"
 title: "Stoke D'Aberdon v The Min"
 gameLocation: "Newdigate"
 gameDate: "30/09/2018"
+shortReport: "In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs. The Min replied with 196 all out"
 result: "Stoke D'Aberdon won by 55 runs"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs. The Min replied with 196 all out
 
 ## Stoke D'Abernon CC Innings
 

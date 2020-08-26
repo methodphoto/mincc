@@ -5,14 +5,11 @@ game: "Broadway & Horton"
 title: "Broadway & Horton v The Min"
 gameLocation: "Horton Cross"
 gameDate: "06/07/2018"
+shortReport: "Broadway & Horton won the toss and batted first making 184 all out in 39.2 overs. The Min replied with 185 for 6 in 36.2 overs"
 result: "The Min won by 4 wkts"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-Broadway & Horton won the toss and batted first making 184 all out in 39.2 overs. The Min replied with 185 for 6 in 36.2 overs 
 
 S Barrowcliff 50 off 68 balls
 

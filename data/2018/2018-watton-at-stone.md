@@ -5,14 +5,11 @@ game: "Watton-at-Stone"
 title: "Watton-at-Stone v The Min"
 gameLocation: "The Meadow"
 gameDate: "24/06/2018"
+shortReport: "The Min won the toss and inserted Watton who made a rather large 295-3 in 40 overs. The Min were all out for 168 (including 3 run outs)"
 result: "Watton won by 127 runs"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-The Min won the toss and inserted Watton who made a rather large 295-3 in 40 overs. The Min were all out for 168 (including 3 run outs) 
 
 ## Watton-at-Stone Innings
 
