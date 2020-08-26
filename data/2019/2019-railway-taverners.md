@@ -1,11 +1,11 @@
 ---
 year: "2019"
 serialNumber: "0508" 
-game: "Railway Tavereners"
-title: "Railway Tavereners v The Min"
+game: "Railway Taverners"
+title: "Railway Taverners v The Min"
 gameLocation: "North Middlesex CC"
 gameDate: "01/09/2019"
-shortReport: "Railway Tavereners scored 178 all out. The Min replied with 180 for 7 wkts"
+shortReport: "Railway Taverners scored 178 all out. The Min replied with 180 for 7 wkts"
 result: "The Min won by 3 wkts"
 resultType: "Won"
 type: "game"
@@ -15,6 +15,8 @@ R Earney 5 wkts. B Boyd-Taylor a wicket with his first ball for The Min
 
 ## Railway Taverners Innings
 
+| Batsman | Dismissal |  | Runs |
+|:---|:---|---|---:|
 | **N Lalluan** | c C Wright | K Gallagher | 36 |
 | **E Reilly** | run out |  | 25 |
 | **D Skinner** | b | B Boyd-Taylor | 64 |

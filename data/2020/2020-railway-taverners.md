@@ -8,7 +8,7 @@ gameDate: "02/08/2020"
 shortReport: "The Min batted first and made 179 all out in 38.3 overs. Railway Taverners made 148 all out in reply"
 result: "The Min won by 31 runs"
 resultType: "Won"
-type:"game"
+type: "game"
 ---
 
 ## The Min Innings
