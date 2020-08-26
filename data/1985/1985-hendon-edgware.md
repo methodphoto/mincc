@@ -5,17 +5,12 @@ game: "Hendon-Edgware"
 title: "Hendon-Edgware v The Min"
 gameLocation: "Mill Hill Park"
 gameDate: "15/09/1985"
+shortReport: "Hendon-Edgware batted first made 184 for 8 wkts. The Min replied with 164 all out."
 result: "Hendon-Edgware won by 20 runs"
 resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Hendon-Edgware batted first made 184 for 8 wkts. The Min replied with 164 all out.
-
-Result: {result}
- 
 ## Hendon-Edgware Innings
 
 | Batsman | Dismissal |  | Runs |

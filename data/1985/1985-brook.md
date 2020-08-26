@@ -5,17 +5,12 @@ game: "Brook"
 title: "Brook v The Min"
 gameLocation: "The Pirrie Hall Recreation Ground"
 gameDate: "15/05/1985"
+shortReport: "Brook batted first made 217 all out. The Min replied with 163 all out."
 result: "Brook won by 64 runs"
 resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Brook batted first made 217 all out. The Min replied with 163 all out.
-
-Result: {result}
- 
 ## Brook Innings
 
 | Batsman | Dismissal |  | Runs |

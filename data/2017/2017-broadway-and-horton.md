@@ -10,7 +10,7 @@ resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
+Played at {gameLocation} on {gameDate}
 
 Broadway won the toss and batted first scoring 164 all out in 35 overs. The Min replied with 132 all out in 33.4 overs
 

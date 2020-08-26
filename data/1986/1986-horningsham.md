@@ -5,17 +5,12 @@ game: "Horningsham"
 title: "Horningsham v The Min"
 gameLocation: "Horningsham"
 gameDate: "21/06/1986"
+shortReport: "The Min batted first and scored 187 for 2 wkts. Horningsham replied with 192 for 9 wkts."
 result: "Horningsham won by 1 wkt"
 resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first and scored 187 for 2 wkts. Horningsham replied with 192 for 9 wkts.
-
-Result: {result}
- 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

@@ -5,18 +5,13 @@ game: "Middleton Stoney"
 title: "Middleton Stoney v The Min"
 gameLocation: "Middleton Park"
 gameDate: "21/04/2019"
+shortReport: "Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 111-8 when time ran out."
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate}
-
-Middleton Stoney won the toss and batted, scoring 229-6. The Min replied with 111-8 when time ran out. 
-
-**Result:** {result}
-
-<a href="http://www.middletonstoneycc.co.uk/club-news/2019/mscc-vs-the-min-2019/">Match report</a>
+[Match report](http://www.middletonstoneycc.co.uk/club-news/2019/mscc-vs-the-min-2019/)
 
 ## Middleton Stoney Innings
 

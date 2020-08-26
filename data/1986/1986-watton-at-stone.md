@@ -5,17 +5,12 @@ game: "Watton-at-Stone"
 title: "Watton-at-Stone v The Min"
 gameLocation: "The Meadow"
 gameDate: "20/07/1986"
+shortReport: ""
 result: "Watton-at-Stone won by 95 runs"
-resultType: ""
+resultType: "Watton-at-Stone batted first and made 237 for 5 wkts. The Min replied with 142 for 9 (all out)."
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Watton-at-Stone batted first and made 237 for 5 wkts. The Min replied with 142 for 9 (all out).
-
-Result: {result}
- 
 ## Watton-at-Stone Innings
 
 | Batsman | Dismissal |  | Runs |

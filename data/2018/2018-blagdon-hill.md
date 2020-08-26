@@ -10,7 +10,7 @@ resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
+Played at {gameLocation} on {gameDate}
 
 The Min won the toss and batted first but only made 139-8 in their 40 overs  Blagdon Hill knocked off the runs in 26 overs and made 145 for 5 wkts
 

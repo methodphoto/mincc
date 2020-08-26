@@ -5,9 +5,8 @@ game: "Hetairoi"
 title: "Hetairoi v The Min"
 gameLocation: "Cranleigh School"
 gameDate: ""
+shortReport: ""
 result: ""
 resultType: ""
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 

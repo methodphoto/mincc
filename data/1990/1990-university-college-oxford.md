@@ -5,7 +5,9 @@ game: "University College, Oxford"
 title: "University College, Oxford v The Min"
 gameLocation: "University College Sports Ground"
 gameDate: "/1990"
+shortReport: ""
 result: ""
+
 resultType: ""
 type: "game"
 ---

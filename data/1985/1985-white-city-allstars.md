@@ -5,17 +5,12 @@ game: "White City All Stars"
 title: "White City All Stars v The Min"
 gameLocation: "Gunnersbury Park"
 gameDate: "27/04/1985"
+shortReport: "White City All Stars batted first and made 163 for 9 wkts. The Min replied with 108 for 9 wkts (all out)."
 result: "White City All Stars won by 55 runs"
 resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-White City All Stars batted first and made 163 for 9 wkts. The Min replied with 108 for 9 wkts (all out).
-
-Result: {result}
- 
 ## White City All Stars Innings
 
 | Batsman | Dismissal |  | Runs |

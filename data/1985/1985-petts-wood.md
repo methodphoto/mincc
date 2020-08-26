@@ -5,17 +5,12 @@ game: "Petts Wood"
 title: "Petts Wood v The Min"
 gameLocation: "Willett Recreation Ground"
 gameDate: "02/06/1985"
+shortReport: "Petts Wood batted first made 146 all out. The Min replied with 145 for 5 wkts."
 result: "The Min won by 5 wkts"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Petts Wood batted first made 146 all out. The Min replied with 145 for 5 wkts.
-
-Result: {result}
- 
 ## Petts Wood Innings
 
 | Batsman | Dismissal |  | Runs |

@@ -5,16 +5,11 @@ game: "Logica"
 title: "Logica v The Min"
 gameLocation: "Wimbledon Park"
 gameDate: "05/08/1984"
+shortReport: "Logica batted first and scored 153 all out. The Min replied with 154 for 7."
 result: "The Min won by 3 wkts"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-Logica batted first and scored 153 all out. The Min replied with 154 for 7.
-
-Result: {result}
 
 ## Logica Innings
 

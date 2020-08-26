@@ -5,16 +5,11 @@ game: "Newington"
 title: "Newington v The Min"
 gameLocation: "Bobbing Court"
 gameDate: "19/05/2019"
+shortReport: "Newington won the toss and batted first in a 35 over game. They scored 223 for 3 wkts. The Min replied with 203 for 9 wkts (all out)"
 result: "Newington won by 20 runs"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-Newington won the toss and batted first in a 35 over game. They scored 223 for 3 wkts. The Min replied with 203 for 9 wkts (all out)
-
-**Result:** {result}
 
 ## Middleton Stoney Innings
 

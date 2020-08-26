@@ -5,16 +5,11 @@ game: "Reigate Pilgrims"
 title: "Reigate Pilgrims v The Min"
 gameLocation: "Betchworth"
 gameDate: "15/09/2019"
+shortReport: "Reigate won the toss and batted first, making 151 for 9 wkts. The Min replied with 146 for 8 wkts before time ran out. "
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-Reigate won the toss and batted first, making 151 for 9 wkts. The Min replied with 146 for 8 wkts before time ran out. 
-
-**Result:** {result}
 
 ## Reigate Pilgrims Innings
 

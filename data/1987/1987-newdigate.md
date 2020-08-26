@@ -5,9 +5,8 @@ game: "Newdigate"
 title: "Newdigate v The Min"
 gameLocation: "Newdigate"
 gameDate: ""
+shortReport: ""
 result: ""
 resultType: ""
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 

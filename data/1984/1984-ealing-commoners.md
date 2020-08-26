@@ -5,17 +5,12 @@ game: "Ealing Commoners"
 title: "Ealing Commoners v The Min"
 gameLocation: "Ealing"
 gameDate: "13/05/1984"
+shortReport: "The Min batted first, scoring 137 for 7 wkts. Ealing Commoners made 72 for 6 in reply before time ran out."
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first, scoring 137 for 7 wkts. Ealing Commoners made 72 for 6 in reply before time ran out.
-
-Result: {result}
- 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

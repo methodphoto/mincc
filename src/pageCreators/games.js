@@ -9,6 +9,11 @@ const createGamePages = (graphql, createPage) => graphql(`
           frontmatter {
             game
             year
+            title
+            gameLocation
+            shortReport
+            result
+            gameDate
           }
           html
         }
@@ -24,15 +29,20 @@ const createGamePages = (graphql, createPage) => graphql(`
   });
 
   filtered.forEach(({ node }) => {
-    const { html, frontmatter: { game, year, } } = node;
+    const { html, frontmatter: { game, year, title, gameLocation, shortReport, result, gameDate,  } } = node;
 
     createPage({
-      path: `/${year}/$year-${slugify(game)}`,
+      path: `/${year}/${year}-${slugify(game)}`,
       component: GameTemplate,
       context: {
         game: game,
         year: year,
         html: html,
+        title: title,
+        gameLocation: gameLocation,
+        shortReport: shortReport,
+        result: result,
+        gameDate: gameDate,
       }, 
     });
   });

@@ -5,17 +5,12 @@ game: "West Green"
 title: "West Green v The Min"
 gameLocation: "Belmont Recreation Ground"
 gameDate: "12/05/1984"
+shortReport: "The Min batted first and scored 126 for 9 wkts. West Green replied with 127 for 4 wkts. "
 result: "West Green won by 6 wkts"
 resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first and scored 126 for 9 wkts. West Green replied with 127 for 4 wkts. 
-
-Result: {result}
- 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

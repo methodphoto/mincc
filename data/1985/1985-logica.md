@@ -5,16 +5,11 @@ game: "Logica"
 title: "Logica v The Min"
 gameLocation: "Dundonald Recreation Ground"
 gameDate: "30/06/1985"
+shortReport: "The Min batted first and scored 123 for 9 wkts (all out). Logica were bowled out in reply for 78 runs."
 result: "The Min won by 45 runs"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first and scored 123 for 9 wkts (all out). Logica were bowled out in reply for 78 runs.
-
-Result: {result}
 
 ## The Min Innings
 

@@ -10,7 +10,7 @@ resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
+Played at {gameLocation} on {gameDate}
 
 Middleton Stoney won the toss and batted first, making 119 for 7. The Min replied with 121-5.
 

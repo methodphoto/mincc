@@ -5,15 +5,11 @@ game: "Blagdon Hill"
 title: "Blagdon Hill -v- The Min"
 gameLocation: "Sellicks Green"
 gameDate: "04/07/2019"
+shortReport: "Blagdon Hill won the toss and batted first. They made 213 for 9 wkts in 35 overs. The Min replied with 202 all out in 33.3 overs"
 result: "Blagdon Hill won by 11 runs"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-Blagdon Hill won the toss and batted first. They made 213 for 9 wkts in 35 overs. The Min replied with 202 all out in 33.3 overs
-**Result:** {result}
 
 ## Blagdon Hill Innings
 

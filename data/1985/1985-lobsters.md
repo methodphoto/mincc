@@ -5,17 +5,12 @@ game: "Lobsters"
 title: "Lobsters v The Min"
 gameLocation: "New Field"
 gameDate: "14/07.1985"
+shortReport: "Lobsters batted first made 183 for 7 wkts. The Min replied with 164 all out."
 result: "Lobsters won by 19 runs"
 resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Lobsters batted first made 183 for 7 wkts. The Min replied with 164 all out.
-
-Result: {result}
- 
 ## Brook Innings
 
 | Batsman | Dismissal |  | Runs |

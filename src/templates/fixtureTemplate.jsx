@@ -5,7 +5,7 @@ export default function GameTemplate({ pageContext }) {
 
   return (
     <div>
-      <h1>{game}</h1>
+      <h1>{year} Fixtures</h1>
     <div
       dangerouslySetInnerHTML={{ __html: html }}
     />

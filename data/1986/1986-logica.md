@@ -5,17 +5,12 @@ game: "Logica"
 title: "Logica v The Min"
 gameLocation: "Wimbledon Park"
 gameDate: "13/07/1986"
+shortReport: "Logica batted first and were all out for 102. The Min replied with 103 for 2 wkts."
 result: "The Min won by 8 wkts"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Logica batted first and were all out for 102. The Min replied with 103 for 2 wkts.
-
-Result: {result}
- 
 ## Logica Innings
 
 | Batsman | Dismissal |  | Runs |

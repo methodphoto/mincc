@@ -5,16 +5,11 @@ game: "Another Man's Meat"
 title: "The Min v Another Man's Meat"
 gameLocation: "Coombe Dingle"
 gameDate: "08/05/1982"
+shortReport: "The Min scored 134 all out and had Another Man's Meat all out for 100"
 result: "The Min won by 34 runs"
 resultType: "Won"
-type: "game"
----
-
-Played at {gameLocation} on {gameDate}
-
-The Min scored 134 all out and had Another Man's Meat all out for 100
-
-**Result:** {result} 
+type="game"
+--- 
 
 ## The Min Innings 
 

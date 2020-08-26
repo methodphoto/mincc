@@ -5,16 +5,11 @@ game: "Alex Beard's XI"
 title: "Alex Beard's XI v The Min"
 gameLocation: "Regent's Park"
 gameDate: "08/09/1985"
+shortReport: "The Min batted first and made 124 all out. Brook replied with 163 all out."
 result: "The Min won by 84 runs"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first and made 124 all out. Brook replied with 163 all out.
-
-Result: {result}
 
 ## The Min Innings
 

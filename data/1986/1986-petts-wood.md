@@ -5,17 +5,12 @@ game: "Petts Wood"
 title: "Petts Wood CC v The Min"
 gameLocation: "Willett Recreation Ground"
 gameDate: "26/04/1986"
+shortReport: "Petts Wood made 190 for 3 wkts. The Min replied with 190 for 6 wkts when time ran out with scores level."
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Petts Wood made 190 for 3 wkts. The Min replied with 190 for 6 wkts when time ran out with scores level.
-
-Result: {result}
- 
 ## Petts Wood Innings
 
 | Batsman | Dismissal |  | Runs |

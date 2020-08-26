@@ -5,16 +5,11 @@ game: "Bristol Grammar School II XI"
 title: "Bristol Grammar School II XI v The Min"
 gameLocation: "Failand Road"
 gameDate: "13/05/1982"
+shortReport: "The Min scored 171 all out. Bristol Grammar School made 129 all out in reply."
 result: "The Min won by 42 runs" 
 resultType: "Won" 
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-The Min scored 171 all out. Bristol Grammar School made 129 all out in reply.        
-
-Result: {result}
 
 J Booth and D Mundy: partnership of 100
  

@@ -5,17 +5,12 @@ game: "Valley End"
 title: "Valley End v The Min"
 gameLocation: "Valley End"
 gameDate: "06/07/1986"
+shortReport: "Valley End batted first and made 167 for 8 wkts. The Min replied with 132 for 7 wkts before time ran out."
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Valley End batted first and made 167 for 8 wkts. The Min replied with 132 for 7 wkts before time ran out.
-
-Result: {result}
- 
 ## Godstone Innings
 
 | Batsman | Dismissal |  | Runs |

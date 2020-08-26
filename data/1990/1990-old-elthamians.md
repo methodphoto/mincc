@@ -10,7 +10,7 @@ resultType: "Drawn"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
+Played at {gameLocation} on {gameDate}
 
 The Min batted first and made 112 all out. Brook replied with 163 all out.
 

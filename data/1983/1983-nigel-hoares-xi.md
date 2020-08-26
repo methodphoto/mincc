@@ -5,17 +5,12 @@ game: "Nigel Hoare's XI"
 title: "The Min v Nigel Hoare's XI"
 gameLocation: "Coombe Dingle"
 gameDate: "12/06/1983"
+shortReport: "Lobsters batted first and scored 125 for 7 wkts. The Min replied with 97 for 9 wkts (all out)"
 result: "The Min won by 43 runs"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Lobsters batted first and scored 125 for 7 wkts. The Min replied with 97 for 9 wkts (all out)
-
-Result: {result}
- 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

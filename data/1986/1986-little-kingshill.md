@@ -5,17 +5,12 @@ game: "Little Kingshill"
 title: "Little Kingshill v The Min"
 gameLocation: "Little Kingshill CC"
 gameDate: "26/05/1986"
+shortReport: "Little Kingshill batted first and scored 177 for 4 wkts. The Min replied with 178 for 4 wkts"
 result: "The Min won by 6 wkts"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Little Kingshill batted first and scored 177 for 4 wkts. The Min replied with 178 for 4 wkts.
-
-Result: {result}
- 
 ## Little Kingshill Innings
 
 | Batsman | Dismissal |  | Runs |

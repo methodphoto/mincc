@@ -5,16 +5,11 @@ game: "Kingstonian"
 title: "Kingstonian v The Min"
 gameLocation: "Old Tiffinians Association Sports Ground"
 gameDate: "10/07/2020"
+shortReport: "The Min batted first and made 176 for 6 wkts. Kingstonian made 143 all out in reply."
 result: "The Min won by 33 runs"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first and made 176 for 6 wkts. Kingstonian made 143 all out in reply.
-
-Result: {result}
 
 A Gallagher: 54* off 45 balls
 

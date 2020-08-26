@@ -5,16 +5,11 @@ game: "Chiswick Flyovers"
 title: "Chiswick Flyovers v The Min"
 gameLocation: "Chiswick"
 gameDate: "12/08/1984"
+shortReport: "Chiswick Flyovers batted first and made 135 for 8 wkts. The Min were bundled out for 60."
 result: "Chiswick Flyovers won by 75 runs"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-Chiswick Flyovers batted first and made 135 for 8 wkts. The Min were bundled out for 60.
-
-William Calvert best bowling for The Min
 
 Result: {result}
  

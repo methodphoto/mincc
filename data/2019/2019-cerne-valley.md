@@ -5,16 +5,11 @@ game: "Cerne Valley"
 title: "Cerne Valley v The Min"
 gameLocation: "Cerne Abbas"
 gameDate: "03/07/2019"
+shortReport: "Cerne Valley won the toss, inserted The Min who made 153 from their 20 overs. Cerne made 93 for 8 wkts in reply"
 result: "The Min won by 60 runs"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-Cerne Valley won the toss, inserted The Min who made 153 from their 20 overs. Cerne made 93 in reply
-
-**Result:** {result}
 
 ## The Min Innings
 

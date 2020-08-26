@@ -5,17 +5,12 @@ game: "Harrowdene"
 title: "Harrowdene v The Min"
 gameLocation: "Harrowdene"
 gameDate: "01/07/1984"
+shortReport: "Harrowdene batted first and made 85 all out. The Min replied with 86 for the loss of one wicket."
 result: "The Min won by 9 wkts"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Harrowdene batted first and made 85 all out. The Min replied with 86 for the loss of one wicket.
-
-Result: {result}
- 
 ## Harrowdene Innings
 
 | Batsman | Dismissal |  | Runs |

@@ -5,17 +5,12 @@ game: "West Green"
 title: "West Green v The Min"
 gameLocation: "Wood Green"
 gameDate: "05/05/1985"
+shortReport: "West Green batted first and scored 130 for 6 wkts. The Min were bowled out for 89."
 result: "West Green won by 41 runs"
 resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-West Green batted first and scored 130 for 6 wkts. The Min were bowled out for 89.
-
-Result: {result}
- 
 ## West Green Innings
 
 | Batsman | Dismissal |  | Runs |

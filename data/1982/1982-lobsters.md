@@ -5,17 +5,12 @@ game: "Lobsters"
 title: "Lobsters v The Min"
 gameLocation: "New Field"
 gameDate: "15/06/1982"
+shortReport: "Lobsters batted first and scored 125 for 7 wkts. The Min replied with 97 for 9 wkts (all out)"
 result: "Lobsters won by 28 runs"
 resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Lobsters batted first and scored 125 for 7 wkts. The Min replied with 97 for 9 wkts (all out)
-
-Result: {result}
- 
 ## Lobsters Innings
 
 | Batsman | Dismissal |  | Runs |

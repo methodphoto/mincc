@@ -5,19 +5,14 @@ game: "Greenford"
 title: "Greenford v The Min"
 gameLocation: "Perivale"
 gameDate: "13/05/1984"
+shortReport: "The Min batted first, scoring 192 for 6 wkts. Greenford were dismissed for 85."
 result: "The Min won by 107 runs"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first, scoring 192 for 6 wkts. Greenford were dismissed for 85.
-
 Tony Purves: best bowling for The Min 
 
-Result: {result}
- 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

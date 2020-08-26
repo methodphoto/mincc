@@ -5,17 +5,12 @@ game: "Hendon-Edgware"
 title: "Hendon-Edgware v The Min"
 gameLocation: "Mill Hill Park"
 gameDate: "22/07/1984"
+shortReport: "Hendon-Edgware batted first and were bowled out for 62. The Min replied with 63 for 2 wkts"
 result: "The Min won by 8 wkts"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Hendon-Edgware batted first and were bowled out for 62. The Min replied with 63 for 2 wkts.
-
-Result: {result}
- 
 ## Hendon-Edgware Innings
 
 | Batsman | Dismissal |  | Runs |

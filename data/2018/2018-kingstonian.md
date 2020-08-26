@@ -10,7 +10,7 @@ resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
+Played at {gameLocation} on {gameDate}
 
 The Min won the toss and inserted Kingstonian who made 171 all out in 32 overs  The Min scored 172-4 in 34.2 overs 
 

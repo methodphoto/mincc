@@ -10,7 +10,7 @@ resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
+Played at {gameLocation} on {gameDate}
 
 Brook batted first made 217 all out. The Min replied with 163 all out.
 

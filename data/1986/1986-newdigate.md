@@ -5,16 +5,11 @@ game: "Newdigate"
 title: "Newdigate v The Min"
 gameLocation: "Newdigate"
 gameDate: "10/08/1986"
+shortReport: "Newdigate batted first made 54 all out. The Min replied with 57 for 5 wkts."
 result: "The Min won by 5 wkts"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-Newdigate batted first made 54 all out. The Min replied with 57 for 5 wkts.
-
-Result: {result}
 
 ## Newdigate Innings
 

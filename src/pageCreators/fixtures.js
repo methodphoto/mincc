@@ -22,7 +22,7 @@ const createGamePages = (graphql, createPage) => graphql(`
       const { html, frontmatter: { type, year, } } = node;
 
     createPage({
-      path: `/${year}-$type`,
+      path: `/${year}-${type}`,
       component: GameTemplate,
       context: {
         game: game,

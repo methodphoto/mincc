@@ -5,16 +5,11 @@ game: "Bristol Young Solicitors"
 title: "The Min v Bristol Young Solicitors"
 gameLocation: "Coombe Dingle"
 gameDate: "14/06/1982"
+shortReport: "Bristol Young Solicitors batted first and scored 103 for 9 wkts. The Min replied with 82 all out"
 result: "The Min won by 5 wkts"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-Bristol Young Solicitors batted first and scored 103 for 9 wkts. The Min replied with 82 all out
-
-Result: {result}
 
 ## Bristol Young Solicitors Innings
 

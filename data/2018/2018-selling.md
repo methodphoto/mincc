@@ -10,7 +10,7 @@ resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
+Played at {gameLocation} on {gameDate}
 
 The Min won the toss and batted first scoring 188 all out (34 overs). Selling were bowled out for 133  
 

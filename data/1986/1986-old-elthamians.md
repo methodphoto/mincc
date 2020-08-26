@@ -5,17 +5,12 @@ game: "Old Elthamians"
 title: "Old Elthamians v The Min"
 gameLocation: "Foxbury"
 gameDate: "18/05/1986"
+shortReport: "Old Elthamians batted first and scored 200 for 7 wkts. The Min replied with 201 for 4 wkts."
 result: "The Min won by 6 wkts"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Old Elthamians batted first and scored 200 for 7 wkts. The Min replied with 201 for 4 wkts.
-
-Result: {result}
- 
 ## Old Elthamians Innings
 
 | Batsman | Dismissal |  | Runs |

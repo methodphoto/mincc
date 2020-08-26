@@ -5,17 +5,12 @@ game: "Sudbury Court"
 title: "Sudbury Court v The Min"
 gameLocation: "Sudbury Court"
 gameDate: "15/07/1994"
+shortReport: "The Min batted first, scoring 184 for 9 wkts. Sudbury Court replied with 115 all out."
 result: "The Min won by 69 runs"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first, scoring 184 for 9 wkts. Sudbury Court replied with 115 all out.
-
-Result: {result}
- 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

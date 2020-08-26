@@ -5,16 +5,11 @@ game: "Railway Taverners"
 title: "Railway Taverners v The Min"
 gameLocation: "Low Hall Sports Ground"
 gameDate: "02/08/2020"
+shortReport: "The Min batted first and made 179 all out in 38.3 overs. Railway Taverners made 148 all out in reply"
 result: "The Min won by 31 runs"
 resultType: "Won"
-type: "game"
+type:"game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first and made 179 all out in 38.3 overs. Railway Taverners made 148 all out in reply
-
-Result: {result}
 
 ## The Min Innings
 

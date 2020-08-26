@@ -5,16 +5,11 @@ game: "Newdigate"
 title: "Newdigate v The Min"
 gameLocation: "Newdigate"
 gameDate: "09/06/2019"
+shortReport: "The Min won the toss and for some reason batted first on a sticky wicket. They were duly all out for 79. Newdigate replied with 85 for 2 wkts"
 result: "Newdigate won by 8 wkts"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-The Min won the toss and for some reason batted first on a sticky wicket. They were duly all out for 79. Newdigate replied with 85 for 2 wkts
-
-**Result:** {result}
 
 ## The Min Innings
 

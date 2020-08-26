@@ -5,16 +5,11 @@ game: "West Wickham"
 title: "West Wickham v The Min"
 gameLocation: "West Wickham"
 gameDate: "12/05/1986"
+shortReport: "West Wickham batted first made 162 all out. The Min replied with 163 for 8 wkts."
 result: "The Min won by 2 wkts"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-West Wickham batted first made 162 all out. The Min replied with 163 for 8 wkts.
-
-Result: {result}
 
 Andrew Gallagher and Phill Goult: 100 partnership
  

@@ -5,17 +5,12 @@ game: "Frensham"
 title: "Frensham v The Min"
 gameLocation: "Hollowdene Recreation Ground"
 gameDate: "02/06/2019"
+shortReport: "Frensham batted first and made 192 for 9. The Min replied with 196 for 6."
 result: "The Min won by 4 wkts"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Frensham batted first and made 192 for 9. The Min replied with 196 for 6.
-
-Result: {result}
- 
 ## Brook Innings
 
 | Batsman | Dismissal |  | Runs |

@@ -5,7 +5,9 @@ game: "Godstone"
 title: "Godstone v The Min"
 gameLocation: "Godstone"
 gameDate: "/1990"
+shortReport: ""
 result: ""
+
 resultType: ""
 type: "game"
 ---

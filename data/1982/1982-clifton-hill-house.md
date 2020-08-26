@@ -5,17 +5,11 @@ game: "Clifton Hill House"
 title: "The Min v Clifton Hill House "
 gameLocation: "Coombe Dingle"
 gameDate: "29/04/1982"
+shortReport: "The Min scored 111-5 in their 20 overs. Clifton Hill House were 83-9 after 20 overs."
 result: "The Min won by 28 runs"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-The Min scored 111-5 in their 20 overs. Clifton Hill House were 83-9
-after 20 overs.
-
-**Result:** {result}
 
 William Calvert - Highest Score for The Min. James Booth - First duck for The Min. William Calvert - Best Bowling for The Min
 

@@ -5,9 +5,8 @@ game: "Wendover"
 title: "Wendover v The Min"
 gameLocation: ""
 gameDate: ""
+shortReport: ""
 result: ""
 resultType: ""
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 

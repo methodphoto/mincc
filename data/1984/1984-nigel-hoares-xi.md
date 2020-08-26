@@ -5,16 +5,11 @@ game: "Nigel Hoare's XI"
 title: "Nigel Hoare's XI v The Min"
 gameLocation: "Gravesend"
 gameDate: "19/09/1984"
+shortReport: "Nigel Hoare's XI batted first and made 154 for 5 wkts. The Min replied with 158 for 5 wkts."
 result: "The Min won by 5 wkts"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-Nigel Hoare's XI batted first and made 154 for 5 wkts. The Min replied with 158 for 5 wkts.
-
-Result: {result}
 
 ## Nigel Hoare's XI Innings
 

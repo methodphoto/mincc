@@ -5,16 +5,11 @@ game: "A Good Length"
 title: "The Min v A Good Length "
 gameLocation: "Coombe Dingle"
 gameDate: "16/06/1982"
+shortReport: "A Good Length were all out for 116. The Min replied with 117 for 6 wkts."
 result: "The Min won by 4 wkts"
 resultType: "Won"
-type: "game"
+type="game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-A Good Length were all out for 116. The Min replied with 117 for 6 wkts.
-
-**Result:** {result}
 
 ## A Good Length Innings
 

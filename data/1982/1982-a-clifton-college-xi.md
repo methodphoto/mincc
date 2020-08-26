@@ -5,16 +5,11 @@ game: "A Clifton College XI"
 title: "A Clifton College XI v The Min"
 gameLocation: "The Close"
 gameDate: "17/06/1982"
+shortReport: "A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 94 for 9 wkts."
 result: "Match Drawn"
 resultType: "Drawn"
-type: "game"
+type="game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-A Clifton College XI batted first and made 200 for 5 wkts. The Min replied with 94 for 9 wkts.
-
-**Result:** {result}
 
 ## A Clifton College XI Innings
 

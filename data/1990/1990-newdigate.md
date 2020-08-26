@@ -5,7 +5,9 @@ game: "Newdigate"
 title: "Newdigate v The Min"
 gameLocation: "Newdigate"
 gameDate: "/1990"
+shortReport: ""
 result: ""
+
 resultType: ""
 type: "game"
 ---

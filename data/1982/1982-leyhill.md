@@ -5,16 +5,11 @@ game: "Leyhill"
 title: "Leyhill v The Min"
 gameLocation: "Leyhill"
 gameDate: "12/06/1982"
+shortReport: "Leyhill batted first and scored 175 all out. The Min replied with 82 all out"
 result: "Leyhill won by 93 runs"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-Leyhill batted first and scored 175 all out. The Min replied with 82 all out
-
-Result: {result}
 
 ## Leyhill Innings
 

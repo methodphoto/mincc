@@ -10,7 +10,7 @@ resultType: "Draw"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
+Played at {gameLocation} on {gameDate}
 
 The Min won the toss and inserted Middleton Stoney who scored 188-7. The Min replied with 107-8 when time ran out
 
@@ -30,7 +30,7 @@ The Min won the toss and inserted Middleton Stoney who scored 188-7. The Min rep
 | **J Watson** | dnb |  |  |
 | **T Cranston** | dnb |  |  |
 | **Extras** | | (6b 3lb 13w 1nb 0p) | **23** |
-| **Total** | | ((38 overs) overs) | **188 7wkts** |
+| **Total** | | (38 overs) | **188 7wkts** |
 
 ## Bowling
 
@@ -66,7 +66,7 @@ The Min won the toss and inserted Middleton Stoney who scored 188-7. The Min rep
 | **J Grant &#8224;** | not out |  | 4 |
 | **J Wright** | dnb |  |  |
 | **Extras** | | (6b 3lb 13w 1nb 0p) | **23** |
-| **Total** | | ((38 overs) overs) | **107 for 8 wkts** |
+| **Total** | | (38 overs) | **107 for 8 wkts** |
 
 ## Fall of Wickets
 

@@ -5,7 +5,9 @@ game: "Stowting"
 title: "Stowting v The Min"
 gameLocation: "Stowting"
 gameDate: "/1990"
+shortReport: ""
 result: ""
+
 resultType: ""
 type: "game"
 ---

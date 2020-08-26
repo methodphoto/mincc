@@ -5,17 +5,12 @@ game: "Strenue"
 title: "Strenue v The Min"
 gameLocation: ""
 gameDate: "27/07/1986"
+shortReport: "Strenue batted first and made 186 for 2 wkts. The Min were all out for 153 in reply."
 result: "Strenue won by 33 runs"
 resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Strenue batted first and made 186 for 2 wkts. The Min were all out for 153 in reply.
-
-Result: {result}
- 
 ## Strenue Innings
 
 | Batsman | Dismissal |  | Runs |

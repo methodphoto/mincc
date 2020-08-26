@@ -5,17 +5,12 @@ game: "White City Allstars"
 title: "White City Allstars v The Min"
 gameLocation: "Gunnersbury Park"
 gameDate: "07/06/1986"
+shortReport: "White City Allstars batted first and were bowled out for 161. The Min replied with 144 all out."
 result: "White City Allstars won by 17 runs"
 resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-White City Allstars batted first and were bowled out for 161. The Min replied with 144 all out.
-
-Result: {result}
- 
 ## White City Allstars Innings
 
 | Batsman | Dismissal |  | Runs |

@@ -5,16 +5,11 @@ game: "Broadway & Horton"
 title: "Broadway & Horton v The Min"
 gameLocation: "Horton Cross"
 gameDate: "05/07/2019"
-result: "The Min won by "
+shortReport: "The Min won the tosss and batted first making 197 for 6 in 35 overs. Broadway & Horton replied with 33 all out."
+result: "The Min won by 164 runs"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-The Min won the tosss and batted first making 197 for 6 in 35 overs. Broadway & Horton replied with .
-
-Result: {result}
 
 ## The Min Innings
 

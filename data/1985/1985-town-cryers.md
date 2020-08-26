@@ -5,17 +5,12 @@ game: "Town Cryers"
 title: "Town Cryers v The Min"
 gameLocation: "Wandsworth Park"
 gameDate: "19/05/1985"
+shortReport: "Town Cryers batted first but made 51 for 8 (all out). The Min replied with 52 for 6 wkts."
 result: "The Min won by 4 wkts"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Town Cryers batted first but made 51 for 8 (all out). The Min replied with 52 for 6 wkts.
-
-Result: {result}
- 
 ## Town Cryers Innings
 
 | Batsman | Dismissal |  | Runs |

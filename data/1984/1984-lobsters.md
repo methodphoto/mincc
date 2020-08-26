@@ -5,17 +5,12 @@ game: "Lobsters"
 title: "Lobsters v The Min"
 gameLocation: "New Field"
 gameDate: "24/06/1984"
-result: "Match Drawn"
+shortReport: "The Min batted first and made 142 all out. Lobsters were all out for 136"
+result: "The Min won by 6 runs"
 resultType: "Drawn"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first and made 142 all out. Lobsters.
-
-Result: {result}
- 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
@@ -57,7 +52,7 @@ Result: {result}
 | **T Cottrell** | 2 | 0 | 9 | 2 |
 
 
-## The Min Innings
+## Lobstersn Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

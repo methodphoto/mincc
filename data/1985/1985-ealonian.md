@@ -5,17 +5,12 @@ game: "Ealonian"
 title: "Ealonian v The Min"
 gameLocation: "Ealonian"
 gameDate: "25/08/1985"
+shortReport: "Ealonian batted first made 182 for 4 wkts. The Min replied with 116 for 8 wkts."
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Ealonian batted first made 182 for 4 wkts. The Min replied with 116 for 8 wkts.
-
-Result: {result}
- 
 ## Ealonian Innings
 
 | Batsman | Dismissal |  | Runs |

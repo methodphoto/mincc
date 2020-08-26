@@ -5,16 +5,11 @@ game: "British Legion Rickmansworth"
 title: "British Legion Rickmansworth v The Min"
 gameLocation: "Scotsridge Field"
 gameDate: "18/08/1984"
+shortReport: "The Min batted first and were bowled out for 126. British Legion Rickmansworth made 127 for 2 in reply."
 result: "British Legion Rickmansworth won by 8 wkts"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first and were bowled out for 126. British Legion Rickmansworth made 127 for 2 in reply.
-
-Result: {result}
 
 ## The Min Innings
 

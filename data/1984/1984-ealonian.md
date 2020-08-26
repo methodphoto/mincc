@@ -5,16 +5,12 @@ game: "Ealonians"
 title: "Ealonians v The Min"
 gameLocation: "Gunnersbury Park"
 gameDate: "12/08/1994"
+shortReport: "The Min batted first and were bowled out for 107. Ealonians replied with 111 for 6.
+"
 result: "Ealonians won by 4 wkts"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first and were bowled out for 107. Ealonians replied with 111 for 6.
-
-Result: {result}
 
 ## The Min Innings
 

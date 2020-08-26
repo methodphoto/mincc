@@ -5,16 +5,11 @@ game: "Red Bat"
 title: "Red Bat v The Min"
 gameLocation: "Dulwich Park"
 gameDate: "26/05/1985"
+shortReport: "The Min batted first and scored 123 for 8 wkts. Red Bat replied with 82 for 9 wkts."
 result: "The Min won by 41 runs"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first and scored 123 for 8 wkts. Red Bat replied with 82 for 9 wkts.
-
-Result: {result}
 
 ## The Min Innings
 

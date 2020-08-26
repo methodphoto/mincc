@@ -5,16 +5,11 @@ game: "J Stimpfig's XI"
 title: "The Min v J Stimpfig's XI"
 gameLocation: "Coombe Dingle"
 gameDate: "07/06/1982"
+shortReport: "The Min scored 183 all out. J Stimfig's XI replied with 184 for 5 wkts."
 result: "J Stimfig's XI won by 5 wkts"
 resultType: "Lost" 
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-The Min scored 183 all out. J Stimfig's XI replied with 184 for 5 wkts.
-
-Result: {result}
 
 ## The Min Innings
 

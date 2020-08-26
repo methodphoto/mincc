@@ -10,7 +10,7 @@ resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
+Played at {gameLocation} on {gameDate}
 
 Ockley batted first made 195 for 3 wkts. The Min replied with 118 all out.
 

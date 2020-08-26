@@ -5,17 +5,12 @@ game: "Godstone"
 title: "Godstone v The Min"
 gameLocation: "Godstone"
 gameDate: "29/06/2018"
+shortReport: "Godstone batted first and made 170 for 9 wkts. The Min replied with 67 for 9 (all out)."
 result: "Godstone won by 103 runs"
 resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Godstone batted first and made 170 for 9 wkts. The Min replied with 67 for 9 (all out).
-
-Result: {result}
- 
 ## Godstone Innings
 
 | Batsman | Dismissal |  | Runs |

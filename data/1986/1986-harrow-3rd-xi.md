@@ -5,16 +5,11 @@ game: "Harrow 3rd XI"
 title: "Harrow 3rd XI v The Min"
 gameLocation: "Harrow"
 gameDate: "17/08/1986"
+shortReport: "The Min batted first made 182 for 8 wkts. Harrow 3rd XI replied with 143 for 9 wkts."
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first made 182 for 8 wkts. Harrow 3rd XI replied with 143 for 9 wkts.
-
-Result: {result}
 
 ## The Min Innings
 

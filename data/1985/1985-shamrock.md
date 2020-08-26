@@ -5,16 +5,11 @@ game: "Shamrock"
 title: "Shamrock v The Min"
 gameLocation: "Meridian Cricket Ground"
 gameDate: "24/06/1985"
+shortReport: "The Min batted first and were all out for 53. Shamrock were 33 for 1 when rain stopped play."
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first and were all out for 53. Shamrock were 33 for 1 when rain stopped play.
-
-Result: {result}
 
 ## The Min Innings
 

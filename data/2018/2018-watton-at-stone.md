@@ -10,7 +10,7 @@ resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
+Played at {gameLocation} on {gameDate}
 
 The Min won the toss and inserted Watton who made a rather large 295-3 in 40 overs. The Min were all out for 168 (including 3 run outs) 
 

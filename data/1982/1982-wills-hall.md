@@ -5,16 +5,11 @@ game: "Wills Hall"
 title: "The Min v Wills Hall"
 gameLocation: "Coombe Dingle"
 gameDate: "10/06/1982"
+shortReport: "The Min scored 103 for 4 wkts. Wills Hall were 56 for 7 when time ran out."
 result: "The Min won by 47 runs" 
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-The Min scored 103 for 4 wkts. Wills Hall were 56 for 7 when time ran out.
-
-Result: {result}
 
 ## The Min Innings
 

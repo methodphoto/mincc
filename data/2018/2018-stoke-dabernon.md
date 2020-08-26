@@ -10,7 +10,7 @@ resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
+Played at {gameLocation} on {gameDate}
 
 In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs. The Min replied with 196 all out
 
@@ -30,7 +30,7 @@ In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs. 
 | **R Coleman** | did not bat |  |  |
 | **R Harris** | did not bat |  |  |
 | **Extras** | | (0nb 3w 2b 1lb 0p) | **6** |
-| **Total** | | ((35 overs) overs) | **251 6** |
+| **Total** | | (35 overs) | **251 6** |
 
 ## Fall of Wickets
 
@@ -67,7 +67,7 @@ In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs. 
 | **J Wright** | b | S Finch | 2 |
 | **J Pritchard** | c R Singh | R Coleman | 1 |
 | **Extras** | | (0nb 3w 2b 1lb 0p) | **6** |
-| **Total** | | ((35 overs) overs) | **190 all out** |
+| **Total** | | (35 overs) | **190 all out** |
 
 ## Fall of Wickets
 

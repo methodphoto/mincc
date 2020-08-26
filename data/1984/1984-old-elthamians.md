@@ -5,17 +5,11 @@ game: "Old Elthamians"
 title: "Old Elthamians v The Min"
 gameLocation: "Foxbury"
 gameDate: "02/09/1984"
+shortReport: "Old Elthamians batted first and were bowled out for 157. The Min replied with 161 for 8 wkts."
 result: "The Min won by 2 wkts"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-Old Elthamians batted first and were bowled out for 157. The Min replied with 161 for 8 wkts.
-
-Result: {result}
-
 
 ## Old Elthamians Innings
 

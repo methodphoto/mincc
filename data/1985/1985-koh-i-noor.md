@@ -5,16 +5,11 @@ game: "Koh-i-noor"
 title: "Koh-i-noor v The Min"
 gameLocation: "Cowgate Lane"
 gameDate: "07/07/1985"
+shortReport: "The Min batted first and made 217 all out. Koh-i-noor replied with 71 for 7 wkts (all out)."
 result: "The Min won by 146 runs"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first and made 217 all out. Koh-i-noor replied with 71 for 7 wkts (all out).
-
-Result: {result}
 
 ## The Min Innings
 

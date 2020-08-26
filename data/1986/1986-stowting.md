@@ -5,17 +5,12 @@ game: "Stowting"
 title: "Stowting v The Min"
 gameLocation: "Stowting"
 gameDate: "07/09/1986"
+shortReport: "Stowting batted first made 170 all out. The Min were all out for 96 in reply."
 result: "Stowting won by 74 runs"
 resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Stowting batted first made 170 all out. The Min were all out for 96 in reply.
-
-Result: {result}
- 
 ## Stowting Innings
 
 | Batsman | Dismissal |  | Runs |

@@ -5,17 +5,12 @@ game: "Banstead"
 title: "Banstead v The Min"
 gameLocation: "Banstead"
 gameDate: "09/08/2020"
+shortReport: "Banstead won the toss and batted first making 170 for 9 wkts in 35 overs. The Min replied with 172 for 7 wkts"
 result: "The Min won by 3 wkts"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Banstead won the toss and batted first making 170 for 9 wkts in 35 overs. The Min replied with 172 for 7 wkts
-
-Result: {result}
- 
 ## Banstead Innings
 
 | Batsman | Dismissal | | Runs |
@@ -24,7 +19,7 @@ Result: {result}
 | **S Montebello &#8224;** | c & b | R Beswick | 20 | 
 | **I Sultan** | c & b | M Elwin | 72 | 
 | **B Thorpe** | b | R Beswick | 0 | 
-| **A Fairfax-Ross** | run out (R Beswick) | 4 | 
+| **A Fairfax-Ross** | run out (R Beswick) | | 4 | 
 | **M Al-Azzawi** | c J Stacey | R Beswick | 1 | 
 | **M Pasha** | b | C Wright | 0 | 
 | **M Khokhar** | run out (K Gallagher/M Elwin) |  | 10 | 

@@ -5,17 +5,12 @@ game: "Old Wilsonians"
 title: "Old Wilsonians v The Min"
 gameLocation: "Bramley"
 gameDate: "18/08/1985"
+shortReport: "Old Wilsonians batted first made 94 all out. The Min replied with 95 for 4 wkts."
 result: "The Min won by 6 wkts"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-Old Wilsonians batted first made 94 all out. The Min replied with 95 for 4 wkts.
-
-Result: {result}
- 
 ## Brook Innings
 
 | Batsman | Dismissal |  | Runs |

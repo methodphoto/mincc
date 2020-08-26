@@ -5,12 +5,12 @@ game: "Newington"
 title: "Newington v The Min"
 gameLocation: ""
 gameDate: ""
+shortReport: ""
 result: ""
 resultType: ""
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
 
 Brook batted first made 217 all out. The Min replied with 163 all out.
 

@@ -5,17 +5,12 @@ game: "A Good Length"
 title: "A Good Length v The Min"
 gameLocation: "Bramley"
 gameDate: "25/06/1982"
+shortReport: "A Good Length batted first and were bowled out for 81. The Min knocked off the runs without losing a wicket. "
 result: "The Min won by 10 wkts"
 resultType: "Won"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-A Good Length batted first and were bowled out for 81. The Min knocked off the runs without losing a wicket. 
-
-Result: {result}
- 
 ## A Good Length Innings
 
 | Batsman | Dismissal |  | Runs |

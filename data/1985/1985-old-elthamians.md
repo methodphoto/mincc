@@ -5,16 +5,11 @@ game: "Old Elthamians"
 title: "Old Elthamians v The Min"
 gameLocation: "Foxbury"
 gameDate: "01/09/1985"
+shortReport: "The Min batted first and made 104 all out. Old Elthamians made with 108 for 7 wkts in reply."
 result: "Old Elthamians won by 3 wkts"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first and made 104 all out. Old Elthamians made with 108 for 7 wkts in reply.
-
-Result: {result}
 
 ## The Min Innings
 

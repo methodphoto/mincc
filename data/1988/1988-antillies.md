@@ -5,9 +5,8 @@ game: "Antillies"
 title: "Antillies v The Min"
 gameLocation: "Canon's Park"
 gameDate: ""
+shortReport: ""
 result: ""
 resultType: ""
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 

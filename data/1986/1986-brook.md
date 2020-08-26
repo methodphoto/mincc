@@ -5,16 +5,11 @@ game: "Brook"
 title: "Brook v The Min"
 gameLocation: "The Pirrie Hall Recreation Ground"
 gameDate: "14/06/1986"
+shortReport: "Brook batted first and all out for 123. The Min replied with 125 for 6 wkts."
 result: "The Min won by 4 wkts"
 resultType: "Won"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate} 
-
-Brook batted first and all out for 123. The Min replied with 125 for 6 wkts.
-
-Result: {result}
 
 E Garland: Best bowling
  

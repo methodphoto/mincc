@@ -10,7 +10,7 @@ resultType: "Drawn"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
+Played at {gameLocation} on {gameDate}
 
 Little Kingshill batted first made 235 for 3 wkts. The Min replied with 183 for 8 wkts.
 

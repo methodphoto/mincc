@@ -5,17 +5,12 @@ game: "Standard Bridge"
 title: "Standard Bridge v The Min"
 gameLocation: "Bishop's Park"
 gameDate: "08/07/1984"
+shortReport: "The Min batted first, scoring 103 for 8 wkts all out. Standard Bridge scored 106 for 4."
 result: "Standard Bridge won by 6 wkts"
 resultType: "Lost"
 type: "game"
 ---
 
-Played at {gameLocation} on {gameDate} 
-
-The Min batted first, scoring 103 for 8 wkts all out. Standard Bridge scored 106 for 4.
-
-Result: {result}
- 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |

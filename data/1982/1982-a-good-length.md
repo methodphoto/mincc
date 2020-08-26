@@ -5,17 +5,11 @@ game: "A Good Length"
 title: "The Min v A Good Length"
 gameLocation: "Coombe Dingle"
 gameDate: "06/05/1982"
+shortReport: "A Good Length scored 134 all out. The Min were 44-0 when Rain Stopped Play."
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-A Good Length scored 134 all out. The Min were 44-0 when Rain Stopped
-Play.
-
-**Result:** {result}
 
 Ken Sullivan - Best Bowling by The Min
 
