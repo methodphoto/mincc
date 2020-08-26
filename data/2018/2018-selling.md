@@ -22,12 +22,12 @@ type: "game"
 | **A Beswick** | c | Beckett | 12 |
 | **A Gallagher** | b | Myers | 25 |
 | **Ismail** | c | Beckett | 50 |
-| **R Beswick** | b  | Myers | 1 |
-| **J Grant** | b | Latham | 4 |
+| **R Beswick &#42;** | b  | Myers | 1 |
+| **J Grant &#8224;** | b | Latham | 4 |
 | **S Amin** | b  | Latham | 15 |
 |  |  |  |  |
 | **Extras** | | (1nb 1w 3b 0lb 0p) | **5** |
-| **Total** | | ( overs) | **188 all out** |
+| **Total** | | (34 overs) | **188 all out** |
 
 ## Fall of Wickets
 
@@ -52,7 +52,7 @@ type: "game"
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **P  de Zoysan** | b | S Amin | 0 |
+| **P de Zoysan** | b | S Amin | 0 |
 | **M Beatson** | c | R Beswick | 32 |
 | **E Beckett** | b  | S Amin | 0 |
 | **R Ingram** | b Siam | S Amin | 5 |
@@ -64,7 +64,7 @@ type: "game"
 | **G Beckett** | not out |  | 12 |
 | **** |  |  |  |
 | **Extras** | | (1nb 1w 3b 0lb 0p) | **5** |
-| **Total** | | ( overs) | **133 all out** |
+| **Total** | | (36 overs) | **133 all out** |
 
 ## Fall of Wickets
 
@@ -86,6 +86,6 @@ type: "game"
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Win | Loss | Draw | Tie |
 |:---|:---|---|---:|
 | 4 | 2 | 1 | 0 |

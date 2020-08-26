@@ -7,9 +7,6 @@ type: "fixtures"
 
 ## April
 
-
-## </del> Innings
-
 |:---|:---|:---|:---|
 | 22nd | 13:30 | [Middleton Stoney](/2018/2018-middleton-stoney) | [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) |
 

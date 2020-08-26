@@ -5,14 +5,11 @@ game: "Blagdon Hill"
 title: "Blagdon Hill v The Min"
 gameLocation: "Blagdon Hill"
 gameDate: "05/07/2018"
+shortReport: "The Min won the toss and batted first but only made 139 for 8 wkts in their 40 overs  Blagdon Hill knocked off the runs and replied with 145 for 5 wkts in 26 overs"
 result: "Blagdon Hill won by 5 wkts"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-The Min won the toss and batted first but only made 139-8 in their 40 overs  Blagdon Hill knocked off the runs in 26 overs and made 145 for 5 wkts
 
 ## The Min Innings
 
@@ -66,7 +63,7 @@ The Min won the toss and batted first but only made 139-8 in their 40 overs  Bla
 | **A Davidson** | did not bat |  |  |
 | **D Wright** | did not bat |  |  |
 | **Extras** | | (0nb 18w 3b 0lb 0p) | **21** |
-| **Total** | | (40 overs) | **145 for 5 wkts** |
+| **Total** | | (26 overs) | **145 for 5 wkts** |
 
 ## Fall of Wickets
 
@@ -88,6 +85,6 @@ The Min won the toss and batted first but only made 139-8 in their 40 overs  Bla
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Win | Loss | Draw | Tie |
 |:---|:---|---|---:|
 | 2 | 2 | 1 | 0 |

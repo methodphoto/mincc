@@ -64,7 +64,7 @@ type: "game"
 | **Johnstone** | b  | S Vincent | 0 |
 | **J Wright** | not out |  | 0 |
 | **Extras** | | (12w 12b 4lb 1nb  0p) | **29** |
-| **Total** | | (40 overs) | **295  for 3 wkts** |
+| **Total** | | (33 overs) | **168  all out** |
 
 ## Fall of Wickets
 
@@ -82,11 +82,9 @@ type: "game"
 | **J Wing** | 8 | 1 | 32 | 4 |
 | **A Gundy** | 6 | 0 | 34 | 1 |
 | **S Vincent** | 1 3 | 0 | 5 | 1 |
-| **** |  |  |  |  |
-| **** |  |  |  |  |
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Win | Loss | Draw | Tie |
 |:---|:---|---|---:|
-|  |  |  |  |
+| 2 | 1 | 1 | 0 |

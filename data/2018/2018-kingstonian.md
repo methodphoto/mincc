@@ -7,7 +7,7 @@ gameLocation: "KCL"
 gameDate: "06/05/2018"
 shortReport: "The Min won the toss and inserted Kingstonian who made 171 all out in 32 overs  The Min scored 172-4 in 34.2 overs "
 result: "THe Min won by 6 wkts"
-resultType: "Lost"
+resultType: "Won"
 type: "game"
 ---
 
@@ -27,7 +27,7 @@ type: "game"
 | **Jim** | not out |  | 0 |
 | **Temy** | b | P Beswick | 1 |
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
-| **Total** | | (34.2 overs) | **171 all out** |
+| **Total** | | (32 overs) | **171 all out** |
 
 ## Fall of Wickets
 
@@ -64,7 +64,7 @@ type: "game"
 | **C Wright** | did not bat |  |  |
 | **J Wright** | did not bat |  |  |
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |
-| **Total** | | (38 4 overs) | **171 all out** |
+| **Total** | | (34.2 overs) | **172 for 4 wkts** |
 
 ## Fall of Wickets
 
@@ -87,6 +87,6 @@ type: "game"
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Win | Loss | Draw | Tie |
 |:---|:---|---|---:|
 | 1 | 0 | 1 | 0 |

@@ -5,7 +5,7 @@ game: "Stoke D'Aberdon"
 title: "Stoke D'Aberdon v The Min"
 gameLocation: "Newdigate"
 gameDate: "30/09/2018"
-shortReport: "In a 35 over game Stoke D'Aberdon batted first and scored 251-6 in their overs. The Min replied with 196 all out"
+shortReport: "In a 35 over game Stoke D'Aberdon batted first and scored 251-6. The Min replied with 196 all out"
 result: "Stoke D'Aberdon won by 55 runs"
 resultType: "Lost"
 type: "game"
@@ -27,7 +27,7 @@ type: "game"
 | **R Coleman** | did not bat |  |  |
 | **R Harris** | did not bat |  |  |
 | **Extras** | | (0nb 3w 2b 1lb 0p) | **6** |
-| **Total** | | (35 overs) | **251 6** |
+| **Total** | | (35 overs) | **251 for 6** |
 
 ## Fall of Wickets
 
@@ -38,15 +38,15 @@ type: "game"
 
 ## Bowling
 
-| | O   | M | R  | W |
+| | O | M | R  | W |
 |---|---|---|---|---|
-| **R Harris** | 5 | 0 | 52 | 1 |
-| **G Vinall** | 7 | 1 | 44 | 3 |
-| **J Earl** | 5 | 0 | 11 | 3 |
-| **A Huseyin** | 6 | 0 | 24 | 1 |
-| **J Jones** | 4 | 0 | 33 | 0 |
-| **C Finch** | 2 | 0 | 20 | 0 |
-| **S Finch** | 2 | 0 | 9 | 1 |
+| **S Ahmed** | 3 | 0 | 29 | 0 |
+| **I Miah** | 8 | 1 | 45 | 2 |
+| **R Beswick** | 1 | 0 | 18 | 0 |
+| **A Altaf** | 5 | 0 | 43 | 0 |
+| **M Ishmael** | 6 | 0 | 50 | 1 |
+| **Parvez** | 6 | 1 | 29 | 1 |
+| **J Wright** | 6 | 0 | 34 | 2 |
 
 ## The Min Innings
 
@@ -64,7 +64,7 @@ type: "game"
 | **J Wright** | b | S Finch | 2 |
 | **J Pritchard** | c R Singh | R Coleman | 1 |
 | **Extras** | | (0nb 3w 2b 1lb 0p) | **6** |
-| **Total** | | (35 overs) | **190 all out** |
+| **Total** | | (31 overs) | **190 all out** |
 
 ## Fall of Wickets
 
@@ -77,16 +77,16 @@ type: "game"
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **S Ahmed** | 3 | 0 | 29 | 0 |
-| **I Miah** | 8 | 1 | 45 | 2 |
-| **R Beswick** | 1 | 0 | 18 | 0 |
-| **A Altaf** | 5 | 0 | 43 | 0 |
-| **M Ishmael** | 6 | 0 | 50 | 1 |
-| **Parvez** | 6 | 1 | 29 | 1 |
-| **J Wright** | 6 | 0 | 34 | 2 |
+| **R Harris** | 5 | 0 | 52 | 1 |
+| **G Vinall** | 7 | 1 | 44 | 3 |
+| **J Earl** | 5 | 0 | 11 | 3 |
+| **A Huseyin** | 6 | 0 | 24 | 1 |
+| **J Jones** | 4 | 0 | 33 | 0 |
+| **C Finch** | 2 | 0 | 20 | 0 |
+| **S Finch** | 2 | 0 | 9 | 1 |
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Win | Loss | Draw | Tie |
 |:---|:---|---|---:|
-|  |  |  |  |
+| 4 | 4 | 1 | 0 |

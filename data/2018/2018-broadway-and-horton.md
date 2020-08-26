@@ -7,7 +7,7 @@ gameLocation: "Horton Cross"
 gameDate: "06/07/2018"
 shortReport: "Broadway & Horton won the toss and batted first making 184 all out in 39.2 overs. The Min replied with 185 for 6 in 36.2 overs"
 result: "The Min won by 4 wkts"
-resultType: "Lost"
+resultType: "Won"
 type: "game"
 ---
 
@@ -40,15 +40,14 @@ S Barrowcliff 50 off 68 balls
 
 ## Bowling
 
-| | O   | M | R  | W |
+| | O | M | R  | W |
 |---|---|---|---|---|
-| **R Hilton** | 8 | 4 | 10 | 1 |
-| **S Driskel** | 7 | 0 | 31 | 0 |
-| **T Wilson** | 6 2 | 2 | 31 | 1 |
-| **R Wickham** | 2 | 0 | 23 | 0 |
-| **J Salaman** | 3 | 0 | 22 | 0 |
-| **I Watkins** | 4 | 0 | 36 | 1 |
-| **J Smith** | 6 | 1 | 26 | 2 |
+| **P Wigg** | 8 | 2 | 35 | 1 |
+| **I Muntakim** | 8 | 1 | 44 | 2 |
+| **J Wright** | 3 | 1 | 21 | 0 |
+| **N Garland** | 8 | 2 | 41 | 2 |
+| **R Beswick** | 8 | 0 | 39 | 1 |
+| **R Earney** | 1 2 | 1 | 0 | 2 |
 
 ##  Innings
 
@@ -79,16 +78,16 @@ S Barrowcliff 50 off 68 balls
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **P Wigg** | 8 | 2 | 35 | 1 |
-| **I Muntakim** | 8 | 1 | 44 | 2 |
-| **J Wright** | 3 | 1 | 21 | 0 |
-| **N Garland** | 8 | 2 | 41 | 2 |
-| **R Beswick** | 8 | 0 | 39 | 1 |
-| **R Earney** | 1 2 | 1 | 0 | 2 |
-| **** |  |  |  |  |
+| **R Hilton** | 8 | 4 | 10 | 1 |
+| **S Driskel** | 7 | 0 | 31 | 0 |
+| **T Wilson** | 6 2 | 2 | 31 | 1 |
+| **R Wickham** | 2 | 0 | 23 | 0 |
+| **J Salaman** | 3 | 0 | 22 | 0 |
+| **I Watkins** | 4 | 0 | 36 | 1 |
+| **J Smith** | 6 | 1 | 26 | 2 |
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Win | Loss | Draw | Tie |
 |:---|:---|---|---:|
 | 3 | 2 | 1 | 0 |
