@@ -8,7 +8,7 @@ gameDate: "09/06/1983"
 shortReport: "The Min scored 133 for 5 wkts in their 20 overs. Lobsters made 104 for 8 wkts in reply."
 result: "The Min won by 29 runs"
 resultType: "Won"
-type="game"
+type: "game"
 ---
 
 ## The Min Innings

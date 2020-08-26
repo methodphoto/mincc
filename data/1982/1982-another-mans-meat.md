@@ -8,7 +8,7 @@ gameDate: "08/05/1982"
 shortReport: "The Min scored 134 all out and had Another Man's Meat all out for 100"
 result: "The Min won by 34 runs"
 resultType: "Won"
-type="game"
+type: "game"
 --- 
 
 ## The Min Innings 

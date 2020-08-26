@@ -8,7 +8,7 @@ gameDate: "16/06/1982"
 shortReport: "A Good Length were all out for 116. The Min replied with 117 for 6 wkts."
 result: "The Min won by 4 wkts"
 resultType: "Won"
-type="game"
+type: "game"
 ---
 
 ## A Good Length Innings
