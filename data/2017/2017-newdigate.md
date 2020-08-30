@@ -5,14 +5,11 @@ game: "Newdigate"
 title: "Newdigate v The Min"
 gameLocation: "Sellicks Green"
 gameDate: "11/06/2017"
+shortReport: "The Min won the toss and inserted Newdigate who made 196 for 7 wkts  The Min replied with 175 for 8 wkts when time ran out"
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-The Min won the toss and inserted Newdigate who made 196-7  The Min replied with 175-8 when time ran out  Match drawn 
 
 ## Newdigate Innings
 
@@ -51,7 +48,6 @@ The Min won the toss and inserted Newdigate who made 196-7  The Min replied with
 | **N Garland** | 1 | 0 | 14 | 0 |
 | **R Earney** | 3 | 0 | 20 | 2 |
 
-
 ## The Min Innings
 
 | Batsman | Dismissal | | Runs |
@@ -62,13 +58,13 @@ The Min won the toss and inserted Newdigate who made 196-7  The Min replied with
 | **I Marshall** | c I Kehl | A Kehl | 0 |
 | **R Earney** | b | W Bowley | 21 |
 | **I Musty** | b | W Bowley | 6 |
-| **J Grant &dagger;** | b | W Bowley | 5 |
+| **J Grant &#8224;** | b | W Bowley | 5 |
 | **E Garland** | b | W Bowley | 4 |
 | **C Garland** | not out |  | 0 |
 | **J Wright** | not out |  | 0 |
 | **** |  |  |  |
 | **Extras** | | (1b 4lb 5w 1nb 0p) | **11** |
-| **Total** | | (33 overs) | **175 for 8 wkts** |
+| **Total** | | (44 overs) | **175 for 8 wkts** |
 
 ## Fall of Wickets
 
@@ -91,6 +87,6 @@ The Min won the toss and inserted Newdigate who made 196-7  The Min replied with
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
-| 1 | 2 | 1 | 0 |
+| 1 | 3 | 1 | 0 |

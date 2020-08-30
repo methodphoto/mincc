@@ -86,6 +86,6 @@ type: "game"
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw | Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 0 | 1 | 0 | 

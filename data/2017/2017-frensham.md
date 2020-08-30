@@ -5,14 +5,11 @@ game: "Frensham"
 title: "Frensham v The Min"
 gameLocation: "Hollowdene Recreation Ground"
 gameDate: "04/06/2017"
+shortReport: "The Min won the toss and inserted Frensham, who made 198-7  The Min replied with 199 for 3 wkts"
 result: "The Min won by 7 wkts"
 resultType: "Won"
 type: "game"
 ---
-
-Played at [gameLocation] on {04/06/2017}
-
-The Min won the toss and inserted Frensham, who made 198-7  The Min replied with 199 for 3 wkts
 
 ## Frensham Innings
 
@@ -61,11 +58,11 @@ The Min won the toss and inserted Frensham, who made 198-7  The Min replied with
 | **W Calvert** | dnb |  |  |
 | **M Elwin** | dnb |  |  |
 | **R Beswick &#42;** | dnb |  |  |
-| **J Grant &dagger;** | dnb |  |  |
+| **J Grant &#8224;** | dnb |  |  |
 | **I Marshall** | dnb |  |  |
 | **J Wright** | dnb |  |  |
-| **Extras** | | (10b 6lb 5w 0nb 0p) | **21** |
-| **Total** | | (37 overs) | **199 for 3 wkts** |
+| **Extras** | | (11b 2lb 8w 3nb 0p) | **24** |
+| **Total** | | (29.4 overs) | **199 for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -78,7 +75,7 @@ The Min won the toss and inserted Frensham, who made 198-7  The Min replied with
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **N Weller** | 5 4 | 0 | 62 | 0 |
+| **N Weller** | 5.4 | 0 | 62 | 0 |
 | **H Baldock** | 11 | 3 | 43 | 2 |
 | **J Richards** | 4 | 1 | 10 | 0 |
 | **J Frost** | 4 | 0 | 35 | 0 |
@@ -87,6 +84,6 @@ The Min won the toss and inserted Frensham, who made 198-7  The Min replied with
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 1 | 3 | 0 | 0 |

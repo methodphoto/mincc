@@ -92,6 +92,6 @@ William Calvert - Highest Score for The Min. James Booth - First duck for The Mi
 
 ## Win/Loss Ratio
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |

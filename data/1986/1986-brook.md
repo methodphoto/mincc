@@ -86,6 +86,6 @@ E Garland: Best bowling
 
 ## Win/Loss Ratio
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 1 | 1 | 0 |

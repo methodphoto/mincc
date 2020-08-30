@@ -89,6 +89,6 @@ The Min won the toss and inserted Nightwatchmen, who made 264-5 in 40 overs. The
 
 ## Win/Loss Ratio
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 0 | 0 |

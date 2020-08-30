@@ -5,14 +5,11 @@ game: "Newington"
 title: "Newington v The Min"
 gameLocation: "Bobbing Court"
 gameDate: "21/05/2017"
+shortReport: "Newington won the toss and inserted The Min who made 130 for 9 wkts (all out)  Newington scored 130 for 3 wkts in reply"
 result: "Newington won by 7 wkts"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-Newington won the toss and inserted The Min who made 130-9 (all out)  Newington knocked off the runs for the loss of 3 wkts
 
 ## The Min Innings
 
@@ -30,7 +27,7 @@ Newington won the toss and inserted The Min who made 130-9 (all out)  Newington 
 | **J Wright** | not out |  | 0 |
 | **** |  |  |  |
 | **Extras** | | (7b 1lb 2w 1 nb 0p) | **11** |
-| **Total** | | (29 overs) | **130 9 (all out)** |
+| **Total** | | (29.1 overs) | **130 for 9 wkts (all out)** |
 
 ## Bowling
 
@@ -40,7 +37,7 @@ Newington won the toss and inserted The Min who made 130-9 (all out)  Newington 
 | **L Hurton** | 5 | 0 | 15 | 1 |
 | **A Rashid** | 7 | 0 | 38 | 2 |
 | **Asif Rashid** | 6 | 1 | 12 | 2 |
-| **T J Singh** | 2 1 | 0 | 2 | 1 |
+| **T J Singh** | 2.1 | 0 | 2 | 1 |
 | **D Ward** | 2 | 0 | 16 | 1 |
 
 ## Fall of Wickets
@@ -59,14 +56,14 @@ Newington won the toss and inserted The Min who made 130-9 (all out)  Newington 
 | **R Joshi** | lbw | R Earney | 33 |
 | **J Overbury** | not out |  | 26 |
 | **T J Singh** | not out |  | 9 |
-| **D Ward** | did not bat |  |  |
-| **J Botting** | did not bat |  |  |
-| **L Hurton** | did not bat |  |  |
-| **L Morgan** | did not bat |  |  |
-| **A Rashid** | did not bat |  |  |
-| **Asif Rashid** | did not bat |  |  |
-| **Extras** | | (7b 1lb 2w 1 nb 0p) | **11** |
-| **Total** | | (27.5 overs) | **130  for 3 wkts** |
+| **D Ward** | dnb |  |  |
+| **J Botting** | dnb |  |  |
+| **L Hurton** | dnb |  |  |
+| **L Morgan** | dnb |  |  |
+| **A Rashid** | dnb |  |  |
+| **Asif Rashid** | dnb |  |  |
+| **Extras** | | (7b 1lb 2w 1 nb 0p) | **10** |
+| **Total** | | (26.5 overs) | **135  for 3 wkts** |
 
 ## Fall of Wickets
 
@@ -89,6 +86,6 @@ Newington won the toss and inserted The Min who made 130-9 (all out)  Newington 
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 0 | 3 | 0 | 0 |

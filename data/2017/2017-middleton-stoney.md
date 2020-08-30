@@ -5,16 +5,13 @@ game: "Middleton Stoney"
 title: "Middleton Stoney v The Min"
 gameLocation: "Middleton Park"
 gameDate: "23/04/2017"
+shortReport: "Middleton Stoney won the toss and batted first. They were all out for 223. The Min were 180 all out with 2.3 overs left."
 result: "Middleton Stoney won by 43 runs"
 resultType: ""
 type: "game"
 ---
 
-Played at Middleton Park on 23.04.2017
-
-Middleton Stoney won the toss and batted first. They were all out for 223. The Min were 180 all out with 2.3 overs left.
-
-R.Simpson 100 off 46 balls
+R Simpson 100 off 46 balls
 
 ## Middleton Stoney Innings
 
@@ -32,7 +29,7 @@ R.Simpson 100 off 46 balls
 | **P. Van de Kerkoff** | lbw | J Wright | 0 |
 | **S Lee *** | not out |  | 1 |
 | **Extras** | | (1b,1lb,1w,0nb,0p) | **3** |
-| **Total** | | ((33.5 overs) overs) | **223 all out** |
+| **Total** | | (34 overs | **223 all out** |
 
 
 ## Fall of Wickets
@@ -46,13 +43,13 @@ R.Simpson 100 off 46 balls
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **R Pettit** | 11 | 1 | 37 | 2 |
-| **P Van de Kerkoff** | 7 | 0 | 24 | 1 |
-| **S Vadivale** | 6 | 0 | 21 | 1 |
-| **J Mumtaz** | 3 | 0 | 17 | 0 |
-| **S Midson** | 3 | 0 | 12 | 0 |
-| **R Simpson** | 4.3 | 1 | 11 | 2 |
-| **T House** | 3 | 0 | 15 | 2 |
+| **R Beswick** | 2 | - | 30 | 0 |
+| **M Gupta** | 6 | 0 | 49 | 0 |
+| **J Islam** | 9 | 0 | 64 | 1 |
+| **S Amin** | 7 | 2 | 33 | 2 |
+| **I Miah** | 6 | 0 | 34 | 3 |
+| **J Wright** | 4 | 0 | 11 | 4 |
+
 
 ## The Min Innings
 
@@ -63,14 +60,14 @@ R.Simpson 100 off 46 balls
 | **M Gupta** | lbw | R Pettit | 6 |
 | **R Damaze** | c S Lee | T Riley | 29 |
 | **J Islam** | c T House | R Simpson | 9 |
-| **R Beswick *** | b  | T House | 16 |
+| **R Beswick &#42;** | b  | T House | 16 |
 | **A Gallagher** | c T Riley | R Simpson | 39 |
-| **J Grant &dagger;** | c; | T House | 6 |
+| **J Grant &#8224;** | c; | T House | 6 |
 | **I Miah** | run out |  | 11 |
 | **S Amin** | b | S Pettit | 7 |
 | **J Wright** | not out |  | 0 |
-| **Extras** | | (1b,1lb,1w,0nb,0p) | **3** |
-| **Total** | | ((33.5 overs) overs) | **223 all out** |
+| **Extras** | | (5b,10lb,5w,0nb,0p) | **20** |
+| **Total** | | (42.3 overs) | **180 all out** |
 
 ## Fall of Wickets
 
@@ -83,16 +80,18 @@ R.Simpson 100 off 46 balls
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **R Beswick** | 2 | - | 30 | 0 |
-| **M Gupta** | 6 | 0 | 49 | 0 |
-| **J Islam** | 9 | 0 | 64 | 1 |
-| **S Amin** | 7 | 2 | 33 | 2 |
-| **I Miah** | 6 | 0 | 34 | 3 |
-| **J Wright** | 4 | 0 | 11 | 4 |
-| **** |  |  |  |  |
+| **R Pettit** | 11 | 1 | 37 | 2 |
+| **P Van de Kerkoff** | 7 | 0 | 24 | 1 |
+| **S Vadivale** | 6 | 0 | 21 | 1 |
+| **J Mumtaz** | 3 | 0 | 17 | 0 |
+| **S Midson** | 3 | 0 | 12 | 0 |
+| **R Simpson** | 4.3 | 1 | 11 | 2 |
+| **T House** | 3 | 0 | 15 | 2 |
+| **T Tiley** | 3 | 0 | 16 | 1 |
+| **S Lee** | 2 | 0 | 13 | 0 |
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 0 | 1 | 0 | 0 |
