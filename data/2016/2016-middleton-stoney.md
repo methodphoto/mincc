@@ -90,6 +90,6 @@ Result: {result}
 
 ## Win/Loss Ratio
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 0 | 0 |

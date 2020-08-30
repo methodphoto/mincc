@@ -90,6 +90,6 @@ after 20 overs.
 
 ## Win/Loss Ratio
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 1 | 1 | 0 |

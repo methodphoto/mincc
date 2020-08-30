@@ -87,6 +87,6 @@ Andrew Gallagher and Phill Goult: 100 partnership
 
 ## Win/Loss Ratio
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |

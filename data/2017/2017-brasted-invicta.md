@@ -5,16 +5,13 @@ game: "Brasted Invicta"
 title: "Brasted Invicta -v- The Min"
 gameLocation: "Upper Neville Ground, Tunbridge Wells"
 gameDate: "10/09/2017"
+shortReport: "The Min won the toss and batted first scoring 215 for 5 wkts in 35 overs. Brasted were bowled out for 30"
 result: "The Min won by 185 runs"
 resultType: "Won"
 type: "game"
 ---
 
-Played at Upper Neville Ground, Tunbridge Wells on 10/09/2017
-
-The Min won the toss and batted first scoring 215-5 in 35 overs. Brasted were bowled out for 30
-
-S Amin best bowling for The Min. P Wigg second best bowling for The Min
+S Amin best bowling for The Min.
 
 ## The Min Innings
 
@@ -88,6 +85,6 @@ S Amin best bowling for The Min. P Wigg second best bowling for The Min
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
-| 2 | 6 | 1 | 0 |
+| 2 | 7 | 1 | 0 |

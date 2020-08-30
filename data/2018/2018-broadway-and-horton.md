@@ -56,11 +56,11 @@ S Barrowcliff 50 off 68 balls
 | **R Earney** | c;  | b T Wilson | 5 |
 | **S Barrowcliff** | not out |  | 88 |
 | **I Muntakim** | run out |  | 40 |
-| **R Beswick *** | lbw | b J Smith | 4 |
+| **R Beswick &#42;** | lbw | b J Smith | 4 |
 | **T Bedford** | c;  | b I Watkins | 4 |
 | **P Wigg** |  | b R Hilton | 11 |
 | **N Garland** |  | b J Amith | 18 |
-| **J Grant &dagger;** | not out |  | 0 |
+| **J Grant &#8224;** | not out |  | 0 |
 | **J Wright** | did not bat |  |  |
 | **J Purefoy** | did not bat |  |  |
 | **** |  |  |  |
@@ -88,6 +88,6 @@ S Barrowcliff 50 off 68 balls
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw | Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 3 | 2 | 1 | 0 |

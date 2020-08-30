@@ -86,6 +86,6 @@ type: "game"
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 0 | 2 | 1 | 0 |

@@ -5,14 +5,11 @@ game: "Kingstonian"
 title: "Kingstonian v The Min"
 gameLocation: "KCL"
 gameDate: "07/05/2017"
+shortReport: "The Min batted first and scored 200-8 (all out). Kingstonian replied with 204 for 4 wkts"
 result: "Kingstonian won by 6 wkts"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-The Min batted first and scored 200-8 (all out). Kingstonian replied with 204 for 4 wkts
 
 ## The Min Innings
 
@@ -30,7 +27,7 @@ The Min batted first and scored 200-8 (all out). Kingstonian replied with 204 fo
 | **** |  |  |  |
 | **** |  |  |  |
 | **Extras** | | (6b 5b 18w 2nb 0p) | **31** |
-| **Total** | | ((33.3 overs) overs) | **200 all out** |
+| **Total** | | (33.3 overs) | **200 for 8 wkts (all out)** |
 
 ## Bowling
 
@@ -48,8 +45,8 @@ The Min batted first and scored 200-8 (all out). Kingstonian replied with 204 fo
 
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Score** | 48 | 109 | 147 | 157 | 167 | 190 | 190 | 199 | 200 |  |
-| **Batsman** | 2 | 3 | 4 | 1 | 6 | 4 | 7 | 5 | 9 |  |
+| **Score** | 48 | 109 | 147 | 157 | 167 | 190 | 190 | 200 |  |  |
+| **Batsman** | 2 | 3 | 4 | 1 | 6 | 5 | 7 | 9 |  |  |
 
 ## Kingstonian Innings
 
@@ -59,15 +56,15 @@ The Min batted first and scored 200-8 (all out). Kingstonian replied with 204 fo
 | **Shib** | b | P Beswick | 8 |
 | **Ruger** | lbw | P Beswick | 6 |
 | **Tarveed** | b | R Beswick | 29 |
-| **Cerne Iversen** | not out |  | 44 |
+| **C Iversen** | not out |  | 44 |
 | **Johaib** | not out |  | 63 |
 | **Sanjay** | did not bat |  |  |
 | **Jacobs** | did not bat |  |  |
 | **Arab** | did not bat |  |  |
 | **Javid** | did not bat |  |  |
 | **Shubam** | did not bat |  |  |
-| **Extras** | | (6b 5b 18w 2nb 0p) | **31** |
-| **Total** | | ((33.3 overs) overs) | **200 all out** |
+| **Extras** | | (1b 1b 5w 0nb 0p) | **7** |
+| **Total** | | (31.4 overs | **204 for 4 wkts** |
 
 ## Fall of Wickets
 
@@ -90,6 +87,6 @@ The Min batted first and scored 200-8 (all out). Kingstonian replied with 204 fo
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 0 | 2 | 0 | 0 |

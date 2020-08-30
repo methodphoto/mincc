@@ -13,7 +13,7 @@ type: "game"
 
 ## Blagdon Hill Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 |  **L Trottman** | b | P Wigg | 18 |
 |  **P Free** | c | P Wigg | 39 |
@@ -38,7 +38,7 @@ type: "game"
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **S Mohammed** | 7 | 0 | 20 | 0 |
 | **R Earney** | 6 | 0 | 63 | 0 |
@@ -49,7 +49,7 @@ type: "game"
 
 ## The Min Innings
 
-| Batsman | Dismissal |  |  |
+| Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **R Beswick &#42;** | lbw | A Williams | 6 |
 | **R Earney** | c & b | G Williams | 47 |
@@ -74,7 +74,7 @@ type: "game"
 
 ## Bowling
 
-| | O | M |  |  | W |
+| | O | M | R | W |
 |---|---|---|---|---|
 | **G Welsh** | 7 | 0 | 64 | 1 |
 | **A Williams** | 7 | 0 | 19 | 2 |
@@ -85,6 +85,6 @@ type: "game"
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 2 | 4 | 1 | 0 |

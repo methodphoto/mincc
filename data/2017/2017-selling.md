@@ -5,16 +5,11 @@ game: "Selling"
 title: "Selling -v- The Min"
 gameLocation: "Cadman's Meadow"
 gameDate: "24/9/2017"
+shortReport: "Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 159-9 (all out) in 32 overs"
 result: "Selling won by 89 runs"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at [gameLocation] on {date}
-
-Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 159-9 (all out) in 32 overs
-
-**Result:** {result}
 
 ## Selling Innings
 
@@ -59,8 +54,8 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 |:---|:---|---|---:|
 | **S Hornsby** | c O Lane | R de Zoysa | 35 |
 | **R Damaze** | b  | N Myers | 39 |
-| **S Islam** | run out |  | 5 |
-| **R Beswick** | lbw | N Myers | 4 |
+| **S Islam &#8224;** | run out |  | 5 |
+| **R Beswick &#42;** | lbw | N Myers | 4 |
 | **A Gallagher** | c (mid wkt)  | N Myers | 24 |
 | **P Beswick** | c (mid on) | R de Zoysa | 0 |
 | **I Miah** | not out |  | 20 |
@@ -90,9 +85,8 @@ Selling won the toss and batted first scoring 248-6 in 40 overs  The Min made 15
 | **R de Zoysa** | 5 | 0 | 22 | 3 |
 | **O Lane** | 2 | 0 | 18 | 0 |
 
-
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
-| 2 | 8 | 1 | 0 |
+| 2 | 9 | 1 | 0 |

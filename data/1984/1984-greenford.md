@@ -89,6 +89,6 @@ Tony Purves: best bowling for The Min
 
 ## Win/Loss Ratio
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 1 | 0 | 0 |

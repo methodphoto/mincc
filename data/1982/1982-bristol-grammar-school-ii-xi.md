@@ -85,6 +85,6 @@ J Booth and D Mundy: partnership of 100
 
 ### Win/Loss Ratio
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 3 | 0 | 1 | 0 |

@@ -21,7 +21,7 @@ type: "game"
 | **R Earney** | c R Neale | D Wright | 1 |
 | **K Reid** | c Knight | D Wright | 15 |
 | **P Wigg** | c Higgins | D Wright | 14 |
-| **J Grant &dagger;** | caught | A Davidson | 7 |
+| **J Grant &#8224;** | caught | A Davidson | 7 |
 | **N Garland** | not out |  | 9 |
 | **J Wright** | caught | G Williams | 12 |
 | **S Noble** | not out |  | 0 |
@@ -85,6 +85,6 @@ type: "game"
 
 ## Season Win/Loss Record
 
-| Win | Loss | Draw | Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 2 | 2 | 1 | 0 |

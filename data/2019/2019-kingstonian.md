@@ -91,6 +91,6 @@ A Beswick 86* Highest score for The Min
 
 ## Win/Loss Ratio
 
-| Win | Loss | Draw |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 4 | 4 | 1 | 0 |

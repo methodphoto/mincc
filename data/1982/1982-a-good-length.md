@@ -82,6 +82,6 @@ Ken Sullivan - Best Bowling by The Min
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
 | 1 | 0 | 1 | 0 |

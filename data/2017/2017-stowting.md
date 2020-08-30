@@ -5,16 +5,11 @@ game: "Stowting"
 title: "Stowting -v- The Min"
 gameLocation: "Dawes Field"
 gameDate: "28/08/2017"
+shortReport: "Stowting won the toss and batted scoring 166 for 9 wkts  The Min made 153 all out in reply"
 result: "Stowting won by 13 runs"
-resultType: ""
+resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {date}
-
-Stowting won the toss and batted scoring 166 for 9 wkts  The Min made 153 all out in reply
-
-**Result:** {result}
 
 ## Stowting Innings
 
@@ -39,18 +34,19 @@ Stowting won the toss and batted scoring 166 for 9 wkts  The Min made 153 all ou
 | | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Score** | 37 | 43 | 55 | 79 | 101 | 128 | 139 | 147 |  |  |
-| **Batsman** | 1 | 3 | 4 | 2 | 6 | 7 | 8 | 9 |  |  |
+| **Batsman** | 1 | 3 | 4 | 5 | 2 | 6 | 7 | 8 | 9 |  |
 
 ## Bowling
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **T Harding** | 6 2 | 0 | 27 | 1 |
-| **C Ball** | 6 | 1 | 21 | 0 |
-| **S Jackson** | 9 | 4 | 22 | 4 |
-| **S Graham** | 7 | 2 | 21 | 2 |
-| **C Jackson** | 7 | 0 | 36 | 1 |
-| **G Sheen** | 5 | 1 | 21 | 2 |
+| **H Ingham** | 9 | 1 | 20 | 0 |
+| **S Amin** | 5 | 1 | 14 | 0 |
+| **Altaf** | 11 | 2 | 37 | 3 |
+| **J Wright** | 9 | 2 | 20 | 3 |
+| **M Gupta** | 4 | 1 | 20 | 0 |
+| **P Beswick** | 5 | 0 | 16 | 0 |
+| **N Garland** | 5 | 2 | 32 | 2 |
 
 ## The Min Innings
 
@@ -67,7 +63,7 @@ Stowting won the toss and batted scoring 166 for 9 wkts  The Min made 153 all ou
 | **N Garland** | b | G Sheen | 0 |
 | **P Beswick** | b | G Sheen | 24 |
 | **J Wright** | not out |  | 0 |
-| **Extras** | | (8b 0lb 4w 2nb 0p) | **14** |
+| **Extras** | | (5b 0lb 5w 0nb 0p) | **10** |
 | **Total** | | (39.2 overs) | **153 all out** |
 
 ## Fall of Wickets
@@ -81,16 +77,15 @@ Stowting won the toss and batted scoring 166 for 9 wkts  The Min made 153 all ou
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **H Ingham** | 9 | 1 | 20 | 0 |
-| **S Amin** | 5 | 1 | 14 | 0 |
-| **Altaf** | 11 | 2 | 37 | 3 |
-| **J Wright** | 9 | 2 | 20 | 3 |
-| **M Gupta** | 4 | 1 | 20 | 0 |
-| **P Beswick** | 5 | 0 | 16 | 0 |
-| **N Garland** | 5 | 2 | 32 | 2 |
+| **T Harding** | 6 2 | 0 | 27 | 1 |
+| **C Ball** | 6 | 1 | 21 | 0 |
+| **S Jackson** | 9 | 4 | 22 | 4 |
+| **S Graham** | 7 | 2 | 21 | 2 |
+| **C Jackson** | 7 | 0 | 36 | 1 |
+| **G Sheen** | 5 | 1 | 21 | 2 |
 
 ## Season Win/Loss Record
 
-| Win | Loss |  |  |Tie |
+| Won | Lost | Drawn | Tied |
 |:---|:---|---|---:|
 | 1 | 6 | 1 | 0 |
