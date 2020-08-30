@@ -1,3 +1,3 @@
 import React from "react"
 
-export default () => <div> § </div>
+export default () => <div> [2020 Season](2020/2020-fixtures) </div>
