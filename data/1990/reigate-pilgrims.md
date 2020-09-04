@@ -7,7 +7,6 @@ gameLocation: "Betchworth"
 gameDate: "/1990"
 shortReport: ""
 result: ""
-
 resultType: ""
 type: "game"
 ---

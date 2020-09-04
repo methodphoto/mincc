@@ -25,7 +25,6 @@ type: "game"
 | **P Humphrey** | c A Sylvester | E Harcourt | 5 | 
 | **J Wheeler** | not out |  | 5 | 
 |  |  |  |  |
-|  |  |  |  |
 | **Extras** | | (4b 1lb 3w 0nb) | 8 | 
 | **Total** | | (29 overs) | 51 for 8 wkts (all out) | 
 

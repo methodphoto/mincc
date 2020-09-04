@@ -25,7 +25,6 @@ type: "game"
 | **de Norman** | dnb |  |  | 
 | **Sellcombe** | dnb |  |  | 
 |  |  |  |  |
-|  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 24 | 
 | **Total** | | (28 overs) | 154 for 5 wkts | 
 

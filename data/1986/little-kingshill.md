@@ -25,7 +25,6 @@ type: "game"
 | **J Gear** | dnb |  |  || 
 | **G Lee** | dnb |  |  | 
 |  |  |  |  |
-|  |  |  |  | 
 | **Extras** | | (11b 1lb 4w 2nb) | 5 | 
 | **Total** | | (40 overs) | 177 for 4 wkts | 
 

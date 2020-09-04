@@ -7,7 +7,6 @@ gameLocation: "The Meadow"
 gameDate: "/1990"
 shortReport: ""
 result: ""
-
 resultType: ""
 type: "game"
 ---

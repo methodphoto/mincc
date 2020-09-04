@@ -32,7 +32,6 @@ The Min won the toss and inserted Nightwatchmen, who made 264-5 in 40 overs. The
 | **Pav** | dnb |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  |  |  |  |
 | **Extras |  | (10b 5lb 4w 3nb 0p) | **17** |
 | **Total** | (40 overs) | **264 for 5 wkts** |
 
