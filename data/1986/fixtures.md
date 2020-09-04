@@ -40,7 +40,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 10th | [Newdigate](/1986/newdigate) | [Away](https://goo.gl/maps/9uAr2nHj19CJDEjw6) |
-| 17th | [Harrow 3rd XI](1986-harrow-3rd-xi) | [Away](https://goo.gl/maps/qokc3D9YALzRB8xz6) |
+| 17th | [Harrow 3rd XI](/1986/harrow-3rd-xi) | [Away](https://goo.gl/maps/qokc3D9YALzRB8xz6) |
 
 ## September
 

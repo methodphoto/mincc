@@ -7,14 +7,14 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 27th | [White City Allstars](/1985/white-city-allstars) | [Away](https://goo.gl/maps/egz4qaWtCgyq7tRr6) |
+| 27th | [White City All Stars](/1985/white-city-all-stars) | [Away](https://goo.gl/maps/egz4qaWtCgyq7tRr6) |
 
 ## May
 
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 5th | [West Green](/1985/west-green) | [Away](https://goo.gl/maps/RuqU3SDAXZkYVKds6) |
-| 11th | [Artisans](/1985/artisans) | Away |
+| 11th | [The Artisans](/1985/the-artisans) | Away |
 | 19th | [Town Cryers](/1985/town-cryers) | Away |
 | 26th | [Red Bat](/1985/red-bat) | Away |
 

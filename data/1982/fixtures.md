@@ -15,7 +15,7 @@ type: "fixtures"
 |:---|:---|:---|:---|
 | 6th | 14:00 | [A Good Length](/1982/a-good-length) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
 | 8th | 14:00 | [Another Man’s Meat](/1982/another-mans-meat) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
-| 13th | 14:00 | [Bristol Grammar School](/1982/bristol-grammar-school) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
+| 13th | 14:00 | [Bristol Grammar School](/1982/bristol-grammar-school-ii-xi) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
 
 ## June
 

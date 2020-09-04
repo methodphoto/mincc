@@ -5,7 +5,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| {Date} | [Crocdiles](/1987/crocodiles) | [Away]() |
+| {Date} | [Crocodiles](/1987/crocodiles) | [Away]() |
 | {Date} | [Old Elthamians](/1987/old-elthamians) | [Away]() |
 | {Date} | [Little Kingshill](/1987/little-kingshill) | [Away]() |
 | {Date} | [Rhinos](/1987/rhinos) | [Away]() |

@@ -1,8 +1,9 @@
 ---
+year: "2020"
 title: "Bowling Honours Board"
 type: "statistics"
 ---
-# {title}
+# Bowling Honours Board
 
 ## 6 or more wickets in an Innings
 

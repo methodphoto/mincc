@@ -1,8 +1,8 @@
 ---
 year: "1982"
 serialNumber: "0005"
-game: "J Stimpfig's XI"
-title: "The Min v J Stimpfig's XI"
+game: "J Stimfig's XI"
+title: "The Min v J Stimfig's XI"
 gameLocation: "Coombe Dingle"
 gameDate: "07/06/1982"
 shortReport: "The Min scored 183 all out. J Stimfig's XI replied with 184 for 5 wkts."
@@ -50,7 +50,7 @@ type: "game"
 
 | **Batsman** | Dismissal | Runs |
 |:---|:---|---|---:|
-| T.Packham | b | J Wright | 42 | |
+| **T.Packham** | b | J Wright | 42 | |
 | **S Turner** | lbw | A Sylvester | 2 | 
 | **S Sutherland** | not out | | 92 | |
 | **R Swift** | lbw | A Sylvester | 14 |

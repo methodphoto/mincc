@@ -1,8 +1,9 @@
 ---
+year: "2020"
 title: "Batting Honours Board"
 type: "statistics"
 ---
-# {title}
+# Batting Honours Board
 
 ## Centuries |
 

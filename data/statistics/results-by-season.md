@@ -1,9 +1,10 @@
 ---
+year: "2020"
 title: "Results by Season"
 type: "statistics"
 ---
 
-# {title}
+# Results by Season
 
 | Year | Games |  |  | Loss | Draw | Tie | % | Overall |
 |:--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

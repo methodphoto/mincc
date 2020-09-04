@@ -1,9 +1,10 @@
 ---
-title: "Results by game"
+year: "2020"
+title: "Results by Game"
 type: "statistics"
 ---
 
-# {title}
+# Results by game
 
 | Date | Opponents |  |  |
 |:--- | :--- | :--- |
