@@ -1,8 +1,9 @@
 ---
 year: "2019"
+title: "2017 Statistics"
 type: "statistics"
 ---
-# {title}
+# 2017 Statistics
 
 ## 2019 Season Batting (by Runs)
 

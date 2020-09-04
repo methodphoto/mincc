@@ -24,7 +24,6 @@ type: "game"
 | **James** | dnb |  |  | 
 |  |  |  |  | 
 |  |  |  |  |
-|  |  |  |  |
 |  |  |  |  | 
 | **Extras** | | (10b 1lb 3w 1nb) | 15 | 
 | **Total** | | (36 overs) | 186 for 2 wkts | 

@@ -1,8 +1,10 @@
 ---
+year: "2020"
 title: "Hundred Partnerships"
 type: "statistics"
+
 ---
-# {title}
+# Hundred Partnerships
 
 | Year | Batsman |  |  | Partnership |
 |:--- | :--- | :--- | ---: |

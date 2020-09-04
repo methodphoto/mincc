@@ -25,7 +25,6 @@ type: "game"
 | **Walsh** | dnb |  |  | 
 |  |  |  |  |
 |  |  |  |  |
-|  |  |  |  |
 | **Extras** | | (b 0b 0w 0nb) | 11 | 
 | **Total** | | (44 overs) | 190 for 3 wkts | 
 

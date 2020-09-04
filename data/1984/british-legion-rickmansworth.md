@@ -25,7 +25,6 @@ type: "game"
 | **R Beswick &#42;** | not out |  | 14 | 
 | **J Wright** | run out | 1 | 
 |  |  |  |  |
-|  |  |  |  |
 | **Extras** | | (0b 1lb 11w 0nb) | 12 | 
 | **Total** | | (36.1 overs) | 126 for 8 wkts (all out) | 
 
@@ -60,7 +59,7 @@ type: "game"
 | **A Gravestock** | dnb |  |  |
 | **S Gravestock** | dnb |  |  | 
 |  |  |  |  |
-|  |  |  |  |
+
 |  |  |  |  |
 | **Extras** | | (3b 0lb 2w 0nb) | 5 | 
 | **Total** | | (34 overs) | 127 for 2 wkts | 

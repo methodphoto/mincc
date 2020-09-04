@@ -7,7 +7,6 @@ gameLocation: "Taunton School"
 gameDate: "/1990"
 shortReport: ""
 result: ""
-
 resultType: ""
 type: "game"
 ---

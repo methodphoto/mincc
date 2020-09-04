@@ -5,16 +5,11 @@ game: "Old Elthamians"
 title: "Old Elthamians v The Min"
 gameLocation: "Foxbury"
 gameDate: "20/05/1990"
+shortReport: "The Min batted first and made 112 all out. Old Elthamians replied with 86 for 9 wkts"
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-The Min batted first and made 112 all out. Brook replied with 163 all out.
-
-Result: {result}
 
 ## The Min Innings
 

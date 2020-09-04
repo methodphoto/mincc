@@ -63,7 +63,6 @@ type: "game"
 | **R Olver** | dnb | |  | 
 |  |  |  |  |
 |  |  |  |  | 
-|  |  |  |  | 
 | **Extras** | | (9b 2lb 8w 0nb) | 19 | 
 | **Total** | | (27.3 overs) | 201 for 4 wkts | 
 

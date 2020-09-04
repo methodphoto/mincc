@@ -4,17 +4,12 @@ serialNumber: "0110"
 game: "Ockley"
 title: "Ockley v The Min"
 gameLocation: "Ockley Green"
-gameDate: "/1990"
+gameDate: "13/05/1990"
+shortReport: "Ockley batted first made 195 for 3 wkts. The Min replied with 118 all out"
 result: "Ockley won by 77 runs"
 resultType: "Lost"
 type: "game"
 ---
-
-Played at {gameLocation} on {gameDate}
-
-Ockley batted first made 195 for 3 wkts. The Min replied with 118 all out.
-
-Result: {result}
  
 ## Ockley Innings
 
@@ -55,7 +50,7 @@ Result: {result}
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **W Chapman;** | c & b | J Yerrell | 2 | 
+| **W Chapman** | c & b | J Yerrell | 2 | 
 | **J Grant &#8224;** | b | J Yerrell | 0 | 
 | **I Marshall** | b | J Chambers | 20 | 
 | **W Calvert** | b | J Yerrell | 2 | 

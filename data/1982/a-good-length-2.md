@@ -1,7 +1,7 @@
 ---
 year: "1982"
 serialNumber: "0010"
-game: "A Good Length"
+game: "A Good Length 2"
 title: "The Min v A Good Length "
 gameLocation: "Coombe Dingle"
 gameDate: "16/06/1982"

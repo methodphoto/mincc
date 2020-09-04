@@ -1,7 +1,7 @@
 const path = require(`path`);
 const { slugify } = require('../utils/build-utils');
 
-const createGamePages = (graphql, createPage) => graphql(`
+const createFixturePages = (graphql, createPage) => graphql(`
   query {
     allMarkdownRemark(filter: { frontmatter: { type: { eq: "fixtures" } } }) {
       edges {
@@ -16,16 +16,15 @@ const createGamePages = (graphql, createPage) => graphql(`
     }
   }`
 ).then((result) => {
-  const GameTemplate = path.resolve(`src/templates/gameTemplate.jsx`);
+  const FixtureTemplate = path.resolve(`src/templates/fixtureTemplate.jsx`);
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       const { html, frontmatter: { type, year, } } = node;
 
     createPage({
-      path: `/${year}-${type}`,
-      component: GameTemplate,
+      path: `/${year}/${type}`,
+      component: FixtureTemplate,
       context: {
-        game: game,
         year: year,
         html: html,
       }, 
@@ -34,5 +33,5 @@ const createGamePages = (graphql, createPage) => graphql(`
 });
 
 module.exports = {
-  createGamePages,
+  createFixturePages,
 };

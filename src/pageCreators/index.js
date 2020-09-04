@@ -1,7 +1,7 @@
 const { createGamePages } = require("./games");
-//const { createFixtures } = require("./games");
+const { createFixturePages } = require("./fixtures");
 
 module.exports = {
   createGamePages,
-//  createFixtures,
+  createFixturePages,
 };
