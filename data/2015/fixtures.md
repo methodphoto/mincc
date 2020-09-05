@@ -8,7 +8,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 19th | 14:00 | [Middleton Stoney](/2015/middleton-stoney) | [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) |
-| 25th | 14:00 | [Britwell Salome](/2015/britwell-salome) | [OX49 5LH](https://www.google.co.uk/maps/@51.6319621,-1.0333799,18z) |
+| 25th | 14:00 | [Britwell Salome](/2015/britwell-salome) | [OX49 5LH](https://goo.gl/maps/CGgpPNyQhotADDFs9) |
 
 ## May
 
@@ -52,6 +52,6 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 6th | 13:00 | [Brasted Invicta](/2015/brasted-invicta) | [TN2 5BW](http://maps.apple.com/?q=51.122742,0.285469&sspn=0.007606,0.014852&sll=51.122742,0.285469) |
+| 6th | 13:00 | [Brasted Invicta](/2015/brasted-invicta) | [TN2 5BW](https://goo.gl/maps/D9teUr6A86QUHhX39) |
 | 13th | 13:00 | [Reigate Pilgrims](/2015/reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) |
 | 20th | 13:00 | [Selling](/2015/selling) | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |

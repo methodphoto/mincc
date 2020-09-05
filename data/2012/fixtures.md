@@ -54,7 +54,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 5th | 14:00 | [Tower of Dudes](/2012/tower-of-dudes) | [Away]() |
+| 5th | 14:00 | [Tower of Dudes](/2012/tower-of-dudes) | [NW11 7LE](https://goo.gl/maps/LA1YeshyKK3zEZQq7) |
 
 ## September
 
@@ -62,7 +62,7 @@ type: "fixtures"
 |:---|:---|:---|:---|
 | 2nd | 14:00 | [Wonersh](/2012/wonersh) | [Away]() |
 | 9th | 13:00 | [Brasted Invicta](/2012/brasted-invicta) | [Away]() |
-| 16th | 13:30 | [Reigate Pilgrims](/2012/reigate-pilgrims) | [Away]() |
+| 16th | 13:30 | [Reigate Pilgrims](/2012/reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
 | 23rd | 13:00 | <del>Selling</del> | [Away]() |
 | 30th | 12:30 | [Stoke D’Abernon](/2012/stoke-dabernon) | [Away]() |
 

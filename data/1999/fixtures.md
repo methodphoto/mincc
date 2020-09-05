@@ -7,16 +7,16 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 9th | 14:30 | [Ockley](/1999/ockley) | [Away]() |
+| 9th | 14:30 | [Ockley](/1999/ockley) | [Away](https://goo.gl/maps/vmhvFhbrVZGrsXAAA) |
 | 16th | 14:30 | [Players & Jesters](/1999/players-and-jesters) | [Away]() |
-| 30th | 14:30 | [Stowting](/1999/stowting) | [Away]() |
+| 30th | 14:30 | [Stowting](/1999/stowting) | [Away](https://goo.gl/maps/3Br4woRQXRqh9Uje8) |
 
 ## June
 
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 13th | 14:00 | [Woking & Horsell](/1999/woking-and-horsell) | [Away]() |
-| 20th | 14:00 | [Watton-at-Stone](/1999/watton-at-stone) | [Away]() |
+| 20th | 14:00 | [Watton-at-Stone](/1999/watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |
 
 ## July
 
@@ -31,7 +31,7 @@ type: "fixtures"
 | 22nd | 14:30 | [Bovington Occasionals](/1999/bovington-occasionals) | [Away]() |
 | 23rd | 14:30 | [Wareham](/1999/wareham) | [Away]() |
 | 24th | 14:00 | [Knapp](/1999/knapp) | [Away]() |
-| 25th | 14:30 | [Broadway & Horton (for the Ashes)](/1999/broadway-and-horton) | [Away]() |
+| 25th | 14:30 | [Broadway & Horton (for the Ashes)](/1999/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 
 ## August
 
@@ -46,4 +46,4 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 5th | 14:00 | [Old Colfeans](/1999/old-colfeans) | [Away]() |
-| 12th | 13:30 | [Reigate Pilgrims](/1999/reigate-pilgrims) | [Away]() |
+| 12th | 13:30 | [Reigate Pilgrims](/1999/reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |

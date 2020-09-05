@@ -41,7 +41,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 16th | 14:00 | [Hetairoi](/1998/hetairoi) | [Away](https://goo.gl/maps/CGgpPNyQhotADDFs9) |
+| 16th | 14:00 | [Hetairoi](/1998/hetairoi) | [OX49 5LH](https://goo.gl/maps/CGgpPNyQhotADDFs9) |
 
 ## September
 
