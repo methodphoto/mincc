@@ -40,4 +40,4 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 2nd | 13:00 | [Old Elthamians](/1984/old-elthamians) | [Away](https://goo.gl/maps/AkWQUyHTgkJh5kPcA) |
-| 16th | 13:00 | [Nigel Hoare’s XI](/1984/nigel-hoares-xi) | [Away](https://goo.gl/maps/XPCpKbfekbj44GJR7) |
+| 16th | 13:00 | [Nick Hoare’s XI](/1984/nick-hoares-xi) | [Away](https://goo.gl/maps/XPCpKbfekbj44GJR7) |

@@ -1,8 +1,8 @@
 ---
 year: "1983"
 serialNumber: "0011"
-game: "Nigel Hoare's XI"
-title: "The Min v Nigel Hoare's XI"
+game: "Nick Hoare's XI"
+title: "The Min v Nick Hoare's XI"
 gameLocation: "Coombe Dingle"
 gameDate: "12/06/1983"
 shortReport: "Lobsters batted first and scored 125 for 7 wkts. The Min replied with 97 for 9 wkts (all out)"
