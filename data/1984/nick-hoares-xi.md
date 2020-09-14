@@ -1,17 +1,17 @@
 ---
 year: "1984"
 serialNumber: "0028"
-game: "Nigel Hoare's XI"
-title: "Nigel Hoare's XI v The Min"
+game: "Nick Hoare's XI"
+title: "Nick Hoare's XI v The Min"
 gameLocation: "Gravesend"
 gameDate: "19/09/1984"
-shortReport: "Nigel Hoare's XI batted first and made 154 for 5 wkts. The Min replied with 158 for 5 wkts."
+shortReport: "Nick Hoare's XI batted first and made 154 for 5 wkts. The Min replied with 158 for 5 wkts."
 result: "The Min won by 5 wkts"
 resultType: "Won"
 type: "game"
 ---
 
-## Nigel Hoare's XI Innings
+## Nick Hoare's XI Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

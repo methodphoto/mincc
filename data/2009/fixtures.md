@@ -7,7 +7,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 25th | 14:00 | [Britwell Salome](/2009/britwell-salome) | [Away]() |
+| 25th | 14:00 | [Britwell Salome](/2009/britwell-salome) | [OX49 5LH](https://goo.gl/maps/CGgpPNyQhotADDFs9) |
 
 ## May
 
@@ -35,9 +35,9 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 9th | 14:30 | [Broadway & Horton](/2009/broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
-| 10th | 14:00 | [Kilmington & Stourton](/2009/kilmington-and-stourton) | [Away]() |
+| 10th | 14:00 | [Kilmington & Stourton](/2009/kilmington-and-stourton) | BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 11th | 13:00 | [Horningsham](/2009/horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
-| 12th | 14:00 | [Islip](/2009/islip) | [Away]() |
+| 12th | 14:00 | [Islip](/2009/islip) | [NN14 3LH](https://goo.gl/maps/ceJApjnpXCpYJQC97) |
 
 ## August
 

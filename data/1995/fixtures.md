@@ -7,8 +7,8 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 7th | 14:30 | [Valley End](/1995/valley-end) | [Away]() |
-| 14th | 14:00 | [Ockley](/1995/ockley) | [Away]() |
+| 7th | 14:30 | [Valley End](/1995valley-end) | [Away](https://goo.gl/maps/nmiXsK8NVvZtpB1GA) |
+| 14th | 14:00 | [Ockley](/1995/ockley) | [Away](https://goo.gl/maps/vmhvFhbrVZGrsXAAA) |
 
 ## June
 

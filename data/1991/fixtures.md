@@ -20,7 +20,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | {Date} | [Old Tauntonians](/1991/old-tauntonians) | [Away](https://goo.gl/maps/viL3E8ucMGGG7G9i8) |
-| {Date} | [Broadway & Horton](/1991/broadway-and-horton) | [Away]() |
+| {Date} | [Broadway & Horton](/1991/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 
 
 |  |  |  |  |
@@ -29,5 +29,5 @@ type: "fixtures"
 | {Date} | [Hetairoi](/1991/hetairoi) | [Away]() |
 | {Date} | [Stowting](/1991/stowting) | [Away](https://goo.gl/maps/A5HTfBKbD44fwSDq7) |
 | {Date} | [Long Marston](/1991/long-marston) | [Away]() |
-| {Date} | [Reigate Pilgrims](/1991/reigate-pilgrims) | [Away]() |
-| {Date} | [Watton-at-Stone](/1991/watton-at-stone) | [Away]() |
+| {Date} | [Reigate Pilgrims](/1991/reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
+| {Date} | [Watton-at-Stone](/1991/watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |

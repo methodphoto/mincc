@@ -7,7 +7,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 24th | [Old Elthamians](/1992/old-elthamians) | [Away]() |
+| 24th | [Old Elthamians](/1992/old-elthamians) | [Away](https://goo.gl/maps/FQbBNZQTFggEmhfv9) |
 
 ## June
 
@@ -44,5 +44,5 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 6th | [Old Wimbledonians](/1992/old-wimbledonians) | [Away]() |
-| 13th | [Reigate Pilgrims](/1992/reigate-pilgrims) | [Away]() |
-| 20th | [Watton-at-Stone](/1992/watton-at-stone) | [Away]() |
+| 13th | [Reigate Pilgrims](/1992/reigate-pilgrims) | [Away](https://goo.gl/maps/z54KDhWLtQreY6xy9) |
+| 20th | [Watton-at-Stone](/1992/watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |

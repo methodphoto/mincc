@@ -8,7 +8,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 17th | 14:00 | [Middleton Stoney](/2016/middleton-stoney) | [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) |
-| 23rd | 14:00 | [Britwell Salome](/2016/britwell-salome) | [OX49 5LH](https://www.google.co.uk/maps/@51.6319621,-1.0333799,18z) |
+| 23rd | 14:00 | [Britwell Salome](/2016/britwell-salome) | [OX49 5LH](https://goo.gl/maps/CGgpPNyQhotADDFs9) |
 
 ## May
 

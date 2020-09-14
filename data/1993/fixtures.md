@@ -7,7 +7,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 9th | 14:00 | [Ockley](/1993/ockley) | [Away]() |
+| 9th | 14:00 | [Ockley](/1993/ockley) | [Away](https://goo.gl/maps/vmhvFhbrVZGrsXAAA) |
 | 23th | 14:00 | [Great Tew](/1993/great-tew) | [Away]() |
 
 ## June
@@ -20,14 +20,14 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 4th | 14:00 | [Old Elthamians](/1993/old-elthamians) | [Away]() |
+| 4th | 14:00 | [Old Elthamians](/1993/old-elthamians) | [Away](https://goo.gl/maps/FQbBNZQTFggEmhfv9) |
 | 19th | 14:00 | [ICL Bracknell](/1993/icl-bracknell) | [Away]() |
 
 ## July - The Min Tour
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 30th | 14:30 | [Broadway & Horton](/1993/broadway-and-horton) | [Away]() |
+| 30th | 14:30 | [Broadway & Horton](/1993/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 | 31st | 14:00 | [Queen Camel](/1993/queen-camel) | [Away]() |
 
 ## August
@@ -40,4 +40,4 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 5th | 14:00 | [Watton-at-Stone](/1993/watton-at-stone) | [Away]() |
+| 5th | 14:00 | [Watton-at-Stone](/1993/watton-at-stone) | [Away](https://goo.gl/maps/JPBQawMsjLgYtVHk9) |

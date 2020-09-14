@@ -7,7 +7,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 14th | 14:30 | [Ockley](/2000/ockley) | [Away]() |
+| 14th | 14:30 | [Ockley](/2000/ockley) | [Away](https://goo.gl/maps/vmhvFhbrVZGrsXAAA) |
 
 ## June
 

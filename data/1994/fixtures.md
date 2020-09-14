@@ -30,7 +30,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 7th | 14:00 | [Checkendon](/1994/checkendon) | [Away](https://goo.gl/maps/GcBgp8cVai553Rwb9) |
-| 14th | 14:00 | [Hetairoi](/1994/hetairoi) | [Away](https://goo.gl/maps/CGgpPNyQhotADDFs9) |
+| 14th | 14:00 | [Hetairoi](/1994/hetairoi) | [OX49 5LH](https://goo.gl/maps/CGgpPNyQhotADDFs9) |
 
 ## September
 
