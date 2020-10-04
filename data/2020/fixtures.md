@@ -50,4 +50,4 @@ type: "fixtures"
 |:---|:---|:---|:---|
 | 6th | 13:00 | <del>Woodcoombe CC</del> | [ME10 3RT](https://goo.gl/maps/rMva1ta8sRDV8z768) | 
 | 13th | 13:00 | [Reigate Pilgrims](/2020/reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) | 
-| 27th | 12:00 | Selling | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |
+| 27th | 12:00 | <del>Selling</del> | [ME13 9RQ](https//goo.gl/maps/QeLhjBkEbJr) |

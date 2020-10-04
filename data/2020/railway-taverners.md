@@ -52,7 +52,7 @@ type: "game"
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **D Ewer** | c k Unsanga | M Carlton | 1 | 
+| **D Ewer** | c K Unsanga | M Carlton | 1 | 
 | **C Langley &#8224;** | lbw | P Wigg | 0 | 
 | **N Lalwani** | b | P Wigg | 0 | 
 | **E Reilly &#42;** | c J Grant | R Beswick | 43 | 

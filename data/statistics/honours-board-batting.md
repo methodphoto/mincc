@@ -5,10 +5,10 @@ type: "statistics"
 ---
 # Batting Honours Board
 
-## Centuries |
+## Centuries
 
-| Year | Player |  |  | Score |
-|:--- | :--- | :--- | ---: |
+| Year | Player | Opponent | Score |
+|:---|:---|:---|:---|
 | 2017 | Mohit Gupta | v Frensham | 100 |
 | 2013 | Ray Damaze | v Frensham | 100* |
 | 2013 | Stephen Hornsby | v Britwell Salome | 100* |
@@ -30,10 +30,12 @@ type: "statistics"
 | 1992 | Stephen Hornsby | v Shepton Beauchamp | 111 |
 | 1988 | Phill Bentley | v Watton-at-Stone | 100* |
 
-## Fifties |
+## Fifties
 
-| Year | Player |  |  | Score |
-|:--- | :--- | :--- | ---: |
+| Year | Player | Opponent | Score |
+|:---|:---|:---|:---|
+| 2020 | Patrick Wigg | v Railway Taverners | 54 |
+| 2020 | Andrew Gallagher | v Kingstonian | 54* |
 | 2019 | Alf Beswick | v Railway Taverners | 50 |
 | 2019 | Alf Beswick | v Kingstonian | 86 |
 | 2019 | Steven Hornsby | v Broadway & Horton | 52 |

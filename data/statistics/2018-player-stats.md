@@ -1,14 +1,14 @@
 ---
 year: "2018"
-title: "2017 Statistics"
+title: "2018 Statistics"
 type: "statistics"
 ---
-# 2017 Statistics
+# 2018 Statistics
 
-## 2018 Season Batting (by Runs)
+## Season Batting (by Runs)
 
-| Player | Inns |  |  | Runs | Ave |
-|:--- | :--- | :--- | :--- | :--- |
+| Player | Inns | NO | Runs | Ave |
+|:---|:---|:---|:---|:---|
 | **Simon Barrowcliff** | 4 | 0 | 156 | 39 |
 | **Ray Damaze** | 6 | 0 | 144 | 24 |
 | **Richard Earney** | 6 | 0 | 116 | 19.33 |
@@ -44,10 +44,10 @@ type: "statistics"
 | **Sandy Noble** | 1 | 1 | 0 | ? |
 | **John Purefoy** | 0 | 0 | 0 | ? |
 
-## 2018 Season Batting (by Batting Ave)
+## Season Batting (by Batting Ave)
 
-| Player | Inns |  |  | Runs | Ave |
-|:--- | :--- | :--- | :--- | :--- |
+| Player | Inns | NO | Runs | Ave |
+|:---|:---|:---|:---|:---|
 | **S Ahmed** | 1 | 0 | 50 | 50 |
 | **Alastair Dell** | 1 | 0 | 49 | 49 |
 | **Simon Barrowcliff** | 4 | 0 | 156 | 39 |
@@ -82,10 +82,10 @@ type: "statistics"
 | **Sandy Noble** | 1 | 1 | 0 | ? |
 | **John Purefoy** | 0 | 0 | 0 | ? |
 
-###2018 Season Bowling (by Wickets)
+## Season Bowling (by Wickets)
 
-| Player | O |  |  | R | W | Ave |  |  |
-|:--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Player | O | M | R | W | Ave | SR |
+|:---|:---|:---|:---|:---|:---|:---|
 | **Phil Beswick** | 6 | 1 | 23 | 7 | 3.29 | 5.14 |
 | **Richard Earney** | 24.2 | 3 | 117 | 7 | 16.71 | 20.74 |
 | **M Ishmail** | 17.3 | 1 | 102 | 7 | 14.57 | 14.83 |
@@ -110,10 +110,10 @@ type: "statistics"
 | **Johnstone** | 5 | 0 | 45 | 0 | ? | ? |
 | **S Ahmed** | 3 | 0 | 29 | 0 | ? | ? |
 
-###2018 Season Bowling (by Bowling Ave)
+## Season Bowling (by Bowling Ave)
 
-| Player | O |  |  | R | W | Ave |  |  |
-|:--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Player | O | M | R | W | Ave | SR |
+|:---|:---|:---|:---|:---|:---|:---|
 | **Phil Beswick** | 6 | 1 | 23 | 7 | 3.29 | 5.14 |
 | **Sandy Noble** | 1 | 0 | 4 | 1 | 4 | 6 |
 | **Ray Damaze** | 2 | 0 | 6 | 1 | 6 | 12 |
@@ -133,12 +133,11 @@ type: "statistics"
 | **Iqbal Miah** | 26 | 5 | 116 | 2 | 58 | 78 |
 | **Altaf Ajmal** | 12 | 0 | 62 | 1 | 62 | 72 |
 | **Alastair Dell** | 14 | 0 | 85 | 1 | 85 | 84 | |
-| 
+ 
 ## Career Batting (min 250 Runs)
 
-PlayerMInnsNOsRunsAve
-| Player | M |  |  | NOs | Runs | Ave |
-|:--- | :--- | :--- | :--- | :--- | :--- |
+| Player | M | I | NOs | Runs | Ave |
+|:---|:---|:---|:---|:---|:---|
 | **Richard Earney** | 340 | 332 | 28 | 8924 | 29.36 |
 | **Richard Beswick** | 467 | 419 | 63 | 7767 | 21.82 |
 | **Jim Grant** | 381 | 320 | 43 | 4486 | 16.19 |
@@ -184,8 +183,8 @@ PlayerMInnsNOsRunsAve
 
 ## Career Batting by Ave (min 250 Runs)
 
-| Player | M |  |  | NOs | Runs | Ave |
-|:--- | :--- | :--- | :--- | :--- | :--- |
+| Player | M | I | NOs | Runs | Ave |
+||:---|:---|:---|:---|:---|:---|
 | **James Hylton** | 9 | 8 | 2 | 542 | 90.33 |
 | **David Swann** | 21 | 20 | 5 | 755 | 50.33 |
 | **Tim Hammond** | 10 | 10 | 2 | 343 | 42.88 |
@@ -230,10 +229,10 @@ PlayerMInnsNOsRunsAve
 | **Richard Coyle** | 72 | 64 | 16 | 370 | 7.71 |
 
 
-###Career Bowling by Wkts (min 25 wkts)
+## Career Bowling by Wkts (min 25 wkts)
 
-| Player | M |  |  | M | R | W |  |  | SR |
-|:--- | :--- | :--- | :--- | :--- | :--- |
+| Player | M | O | M | R | W | Ave | SR |
+|:---|:---|:---|:---|:---|:---|:---|:---|
 | **Jerry Wright** | 377 | 2657.8 | 351 | 10429 | 535 | 19.49 | 29.81 |
 | **Richard Beswick** | 467 | 2072.4 | 439 | 7544 | 420 | 17.96 | 29.61 |
 | **Ian Marshall** | 194 | 1644.4 | 406 | 4962 | 270 | 18.38 | 36.54 |
@@ -262,10 +261,10 @@ PlayerMInnsNOsRunsAve
 | **Philip Beswick** | 46 | 125.1 | 5 | 669 | 28 | 23.89 | 26.81 |
 | **Andrew Slight** | 112 | 72.8 | 2 | 429 | 26 | 16.50 | 16.800 |
  
-###Career Bowling by Ave (min 25 wkts)
+## Career Bowling by Ave (min 25 wkts)
 
-| Player | M |  |  | M | R | W |  |  | SR |
-|:--- | :--- | :--- | :--- | :--- | :--- |
+| Player | M | O | M | R | W | Ave | SR |
+|:---|:---|:---|:---|:---|:---|:---|:---|
 | **Tony Purves** | 18 | 111.8 | 14 | 488 | 36 | 13.56 | 18.63 |
 | **Andrew MacFarlane** | 34 | 357.2 | 70 | 1041 | 68 | 15.31 | 31.52 |
 | **Mark Kirwan** | 43 | 344.3 | 60 | 1159 | 71 | 16.32 | 29.10 |

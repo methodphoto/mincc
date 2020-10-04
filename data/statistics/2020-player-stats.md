@@ -1,148 +1,139 @@
 ---
-year: "2019"
-title: "2019 Statistics"
+year: "2020"
+title: "2020 Statistics"
 type: "statistics"
 ---
-# 2019 Statistics
+# 2020 Statistics
 
 ## Season Batting (by Runs)
 
-| Player | Inns | NO | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| **Alf Beswick** | 7 | 2 | 289 | 57.8 |
-| **Richard Earney** | 10 | 0 | 255 | 25.5 |
-| **Richard Beswick** | 10 | 0 | 170 | 17 |
-| **Andrew Gallagher** | 4 | 1 | 138 | 46 |
-| **Steven Hornsby** | 3 | 1 | 94 | 47 |
-| **M Ismail** | 2 | 0 | 80 | 40 |
-| **Ned Garland** | 6 | 1 | 70 | 14 |
-| **Jack Stacey** | 2 | 0 | 68 | 34 |
-| **William Calvert** | 5 | 0 | 55 | 11 |
-| **Patrick Wigg** | 6 | 3 | 48 | 16 |
-| **A Munim** | 2 | 0 | 39 | 19.5 |
-| **Siam Amin** | 2 | 0 | 38 | 19 |
-| **Koye Usanga** | 5 | 2 | 29 | 9.67 |
-| **Jim Grant** | 7 | 3 | 25 | 6.25 |
-| **Louis Barrowcliff** | 1 | 0 | 25 | 25 |
-| **Ivo Strawson** | 1 | 0 | 24 | 24 |
-| **John Stimpfig** | 1 | 1 | 12 | ? |
-| **Ray Damaze** | 1 | 0 | 11 | 11 |
-| **Ian Marshall** | 3 | 0 | 10 | 3.33 |
-| **Brock Boyd-Taylor** | 1 | 0 | 10 | 10 |
-| **Saif Mohammed** | 2 | 0 | 9 | 4.5 |
-| **Jonas Nisse** | 1 | 0 | 8 | 8 |
-| **Jason Nisse** | 1 | 0 | 8 | 8 |
-| **Keyana Sapp** | 1 | 0 | 8 | 8 |
-| **Richard Kitson** | 1 | 0 | 7 | 7 |
-| **Simon Barrowcliff** | 2 | 0 | 5 | 2.5 |
-| **Kit Gallagher** | 1 | 1 | 5 | ? |
-| **Andrew Catternack** | 1 | 0 | 4 | 4 |
-| **Matt Belfrage** | 1 | 0 | 4 | 4 |
-| **Campbell Garland** | 1 | 0 | 3 | 3 |
-| **Oliver Rey** | 1 | 0 | 3 | 3 |
-| **Christopher Wright** | 3 | 2 | 2 | 2 |
-| **Iqbal Miah** | 1 | 0 | 0 | 0 |
-| **Jerry Wright** | 0 | 0 | 0 | ? |
-| **George Holt** | 1 | 0 | 0 | 0 |
-| **Phil Beswick** | 1 | 0 |  | 0|
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **P Wigg** | 3 | 0 | 96 | 32.0 |
+| **A Gallagher** | 3 | 1 | 89 | 44.5 |
+| **A Beswick** | 2 | 0 | 76 | 38.0 |
+| **J Grant** | 2 | 0 | 44 | 22.0 |
+| **K Gallagher** | 2 | 2 | 38 |  |
+| **R Earney** | 3 | 0 | 31 | 10.3 |
+| **S Ali** | 1 | 0 | 30 | 30.0 |
+| **S Amin** | 1 | 0 | 24 | 24.0 |
+| **R Damaze** | 1 | 0 | 22 | 22.0 |
+| **W Wright** | 1 | 0 | 22 | 22.0 |
+| **C Gallagher** | 1 | 0 | 16 | 16.0 |
+| **J Stacey** | 1 | 0 | 15 | 15.0 |
+| **A Munim** | 1 | 0 | 14 | 14.0 |
+| **W Calvert** | 1 | 0 | 14 | 14.0 |
+| **J Casey** | 1 | 0 | 13 | 13.0 |
+| **R Beswick** | 2 | 0 | 12 | 6.0 |
+| **M Elwin** | 1 | 0 | 12 | 12.0 |
+| **I Strawson** | 2 | 0 | 9 | 4.5 |
+| **C Wright** | 1 | 1 | 7 |  |
+| **M Wright** | 1 | 1 | 7 |  |
+| **E Garland** | 1 | 0 | 4 | 4.0 |
+| **M Carlton** | 1 | 1 | 2 |  |
+| **C Handford** | 0 | 0 | 0 | 0.0 |
+| **I Miah** | 1 | 0 | 0 | 0.0 |
+| **K Usanga** | 1 | 0 | 0 | 0.0 |
+| **L Gallagher** | 1 | 0 | 0 | 0.0 |
+| **B Boyd-Taylor** | 1 | 0 | 0 | 0.0 |
+| **H Earney** | 0 | 0 | 0 | 0.0 |
+| **Ch Wright** | 0 | 0 | 0 | 0.0 |
+| **C Garland** | 0 | 0 | 0 | 0.0 |
 
 ## Season Batting (by Batting Ave)
 
-| Player | Inns | NO | Runs | Ave |
-|:---|:---|:---|:---|:---|
-| **Alf Beswick** | 7 | 2 | 289 | 57.8 |
-| **Steven Hornsby** | 3 | 1 | 94 | 47 |
-| **Andrew Gallagher** | 4 | 1 | 138 | 46 |
-| **M Ismail** | 2 | 0 | 80 | 40 |
-| **Jack Stacey** | 2 | 0 | 68 | 34 |
-| **Richard Earney** | 10 | 0 | 255 | 25.5 |
-| **Louis Barrowcliff** | 1 | 0 | 25 | 25 |
-| **Ivo Strawson** | 1 | 0 | 24 | 24 |
-| **A Munim** | 2 | 0 | 39 | 19.5 |
-| **Siam Amin** | 2 | 0 | 38 | 19 |
-| **Richard Beswick** | 10 | 0 | 170 | 17 |
-| **Patrick Wigg** | 6 | 3 | 48 | 16 |
-| **Ned Garland** | 6 | 1 | 70 | 14 |
-| **Ray Damaze** | 1 | 0 | 11 | 11 |
-| **William Calvert** | 5 | 0 | 55 | 11 |
-| **Brock Boyd**-Taylor | 1 | 0 | 10 | 10 |
-| **Koye Usanga** | 5 | 2 | 29 | 9.67 |
-| **Jonas Nisse** | 1 | 0 | 8 | 8 |
-| **Jason Nisse** | 1 | 0 | 8 | 8 |
-| **Keyana Sapp** | 1 | 0 | 8 | 8 |
-| **Richard Kitson** | 1 | 0 | 7 | 7 |
-| **Jim Grant** | 7 | 3 | 25 | 6.25 |
-| **Saif Mohammed** | 2 | 0 | 9 | 4.5 |
-| **Andrew Catternack** | 1 | 0 | 4 | 4 |
-| **Matt Belfrage** | 1 | 0 | 4 | 4 |
-| **Ian Marshall** | 3 | 0 | 10 | 3.33 |
-| **Campbell Garland** | 1 | 0 | 3 | 3 |
-| **Oliver Rey** | 1 | 0 | 3 | 3 |
-| **Simon Barrowcliff** | 2 | 0 | 5 | 2.5 |
-| **Christopher Wright** | 3 | 2 | 2 | 2 |
-| **Iqbal Miah** | 1 | 0 | 0 | 0 |
-| **George Holt** | 1 | 0 | 0 | 0 |
-| **Phil Beswick** | 1 | 0 |  | 0 |
-| **John Stimpfig** | 1 | 1 | 12 | ? |
-| **Jerry Wright** | 0 | 0 | 0 | ? |
-| **Kit Gallagher** | 1 | 1 | 5 | ? |
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **A Gallagher** | 3 | 1 | 89 | 44.5 |
+| **A Beswick** | 2 | 0 | 76 | 38.0 |
+| **P Wigg** | 3 | 0 | 96 | 32.0 |
+| **S Ali** | 1 | 0 | 30 | 30.0 |
+| **S Amin** | 1 | 0 | 24 | 24.0 |
+| **J Grant** | 2 | 0 | 44 | 22.0 |
+| **R Damaze** | 1 | 0 | 22 | 22.0 |
+| **W Wright** | 1 | 0 | 22 | 22.0 |
+| **C Gallagher** | 1 | 0 | 16 | 16.0 |
+| **J Stacey** | 1 | 0 | 15 | 15.0 |
+| **A Munim** | 1 | 0 | 14 | 14.0 |
+| **W Calvert** | 1 | 0 | 14 | 14.0 |
+| **J Casey** | 1 | 0 | 13 | 13.0 |
+| **M Elwin** | 1 | 0 | 12 | 12.0 |
+| **R Earney** | 3 | 0 | 31 | 10.3 |
+| **R Beswick** | 2 | 0 | 12 | 6.0 |
+| **I Strawson** | 2 | 0 | 9 | 4.5 |
+| **E Garland** | 1 | 0 | 4 | 4.0 |
+| **C Handford** | 0 | 0 | 0 | 0.0 |
+| **I Miah** | 1 | 0 | 0 | 0.0 |
+| **K Usanga** | 1 | 0 | 0 | 0.0 |
+| **L Gallagher** | 1 | 0 | 0 | 0.0 |
+| **B Boyd-Taylor** | 1 | 0 | 0 | 0.0 |
+| **H Earney** | 0 | 0 | 0 | 0.0 |
+| **Ch Wright** | 0 | 0 | 0 | 0.0 |
+| **C Garland** | 0 | 0 | 0 | 0.0 |
+| **K Gallagher** | 2 | 2 | 38 | - |
+| **C Wright** | 1 | 1 | 7 | - |
+| **M Wright** | 1 | 1 | 7 | - |
+| **M Carlton** | 1 | 1 | 2 | - |
 
 ## Season Bowling (by Wickets)
 
-| Player | O | M | R | W | Ave | SR |
-|:---|:---|:---|:---|:---|:---|:---|
-| **Patrick Wigg** | 45 | 9 | 183 | 12 | 15.25 | 22.5 |
-| **Richard Beswick** | 42.6 | 3 | 228 | 8 | 28.5 | 31.95 |
-| **Richard Earney** | 27 | 2 | 136 | 7 | 19.43 | 23.14 |
-| **Christopher Wright** | 44.4 | 2 | 240 | 7 | 34.29 | 38.06 |
-| **Iqbal Miah** | 13 | 4 | 49 | 4 | 12.25 | 19.5 |
-| **Ned Garland** | 12.3 | 2 | 31 | 4 | 7.75 | 18.45 |
-| **A Munim** | 10 | 0 | 51 | 4 | 12.75 | 15 |
-| **Andrew Catternack** | 6 | 0 | 26 | 2 | 13 | 18 |
-| **Phil Beswick** | 7 | 0 | 34 | 2 | 17 | 21 |
-| **Kit Gallagher** | 11 | 2 | 36 | 2 | 18 | 33 |
-| **Ian Marshall** | 17 | 2 | 77 | 1 | 77 | 102 |
-| **Jonas Nisse** | 5 | 0 | 33 | 1 | 33 | 30 |
-| **Brock Boyd**-Taylor | .1 | 0 | 0 | 1 | 0 | .6 |
-| **Louis Barrowcliff** | 2.4 | 1 | 10 | 1 | 10 | 14.4 |
-| **Saif Mohammed** | 10 | 0 | 34 | 1 | 34 | 60 |
-| **Steven Hornsby** | 1 | 0 | 13 | 1 | 13 | 6 |
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **P Wigg** | 30.3 | 10 | 60 | 9 | 6.66 | 20.33 |
+| **R Beswick** | 21 | 6 | 69 | 8 | 8.62 | 15.75 |
+| **I Miah** | 6 | 0 | 17 | 2 | 8.50 | 18.00 |
+| **C Wright** | 19 | 4 | 87 | 2 | 43.50 | 57.00 |
+| **C Handford** | 5 | 0 | 27 | 2 | 13.50 | 15.00 |
+| **C Gallagher** | 2 | 0 | 10 | 1 | 10.00 | 12.00 |
+| **A Munim** | 4 | 0 | 21 | 1 | 21.00 | 24.00 |
+| **C Garland** | 5 | 0 | 31 | 1 | 31.00 | 20.00 |
+| **M Elwin** | 6 | 1 | 39 | 1 | 39.00 | 36.00 |
+| **M Carlton** | 6 | 0 | 22 | 1 | 22.00 | 36.00 |
+| **B Boyd-Taylor** | 6 | 0 | 31 | 1 | 31.00 | 36.00 |
+| **K Gallagher** | 12 | 0 | 63 | 0	 | 0.00 |
+| **J Casey** | 9 | 1 | 24 | 0	 | 0.00 |
+| **S Ali** | 5 | 1 | 12 | 0	 | 0.00 |
+| **R Earney** | 3 | 0 | 16 | 0 | - | 0.00 |
+| **E Garland** | 1 | 0 | 10 | 0 | 0.00 | 0.00 |
+| **S Amin** | 0.1 | 0 | 0 | 0 | 0.00 | 0.00 |
+
 
 ## Season Bowling (by Bowling Ave)
 
-| Player | O | M | R | W | Ave | SR |
-|:---|:---|:---|:---|:---|:---|:---|
-| **Brock Boyd-Taylor** | .1 | 0 | 0 | 1 | 0 | .6 |
-| **Ned Garland** | 12.3 | 2 | 31 | 4 | 7.75 | 18.45 |
-| **Louis Barrowcliff** | 2.4 | 1 | 10 | 1 | 10 | 14.4 |
-| **Iqbal Miah** | 13 | 4 | 49 | 4 | 12.25 | 19.5 |
-| **A Munim** | 10 | 0 | 51 | 4 | 12.75 | 15 |
-| **Andrew Catternack** | 6 | 0 | 26 | 2 | 13 | 18 |
-| **Steven Hornsby** | 1 | 0 | 13 | 1 | 13 | 6 |
-| **Patrick Wigg** | 45 | 9 | 183 | 12 | 15.25 | 22.5 |
-| **Phil Beswick** | 7 | 0 | 34 | 2 | 17 | 21 |
-| **Kit Gallagher** | 11 | 2 | 36 | 2 | 18 | 33 |
-| **Richard Earney** | 27 | 2 | 136 | 7 | 19.43 | 23.14 |
-| **Richard Beswick** | 42.6 | 3 | 228 | 8 | 28.5 | 31.95 |
-| **Jonas Nisse** | 5 | 0 | 33 | 1 | 33 | 30 |
-| **Saif Mohammed** | 10 | 0 | 34 | 1 | 34 | 60 |
-| **Christopher Wright** | 44.4 | 2 | 240 | 7 | 34.29 | 38.06 |
-| **Ian Marshall** | 17 | 2 | 77 | 1 | 77 | 102 |
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **P Wigg** | 30.3 | 10 | 60 | 9 | 6.66 | 20.33 |
+| **I Miah** | 6 | 0 | 17 | 2 | 8.50 | 18.00 |
+| **R Beswick** | 21 | 6 | 69 | 8 | 8.62 | 15.75 |
+| **C Gallagher** | 2 | 0 | 10 | 1 | 10.00 | 12.00 |
+| **C Handford** | 5 | 0 | 27 | 2 | 13.50 | 15.00 |
+| **A Munim** | 4 | 0 | 21 | 1 | 21.00 | 24.00 |
+| **M Carlton** | 6 | 0 | 22 | 1 | 22.00 | 36.00 |
+| **C Garland** | 5 | 0 | 31 | 1 | 31.00 | 20.00 |
+| **B Boyd-Taylor** | 6 | 0 | 31 | 1 | 31.00 | 36.00 |
+| **M Elwin** | 6 | 1 | 39 | 1 | 39.00 | 36.00 |
+| **C Wright** | 19 | 4 | 87 | 2 | 43.50 | 57.00 |
+| **K Gallagher** | 12 | 0 | 63 | 0	 | 0.00 |
+| **J Casey** | 9 | 1 | 24 | 0	 | 0.00 |
+| **S Ali** | 5 | 1 | 12 | 0	 | 0.00 |
+| **R Earney** | 3 | 0 | 16 | 0 | - | 0.00 |
+| **E Garland** | 1 | 0 | 10 | 0 | 0.00 | 0.00 |
+| **S Amin** | 0.1 | 0 | 0 | 0 | 0.00 | 0.00 |
 
 ## Career Batting (min 250 Runs)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| **Richard Earney** | 350 | 342 | 28 | 9179 | 29.23 |
-| **Richard Beswick** | 478 | 429 | 63 | 7937 | 21.69 |
-| **Jim Grant** | 391 | 327 | 46 | 4511 | 16.05 |
-| **William Calvert** | 306 | 276 | 33 | 3718 | 15.30 |
-| **Andrew Gallagher** | 135 | 129 | 11 | 2944 | 24.95 |
+| **Richard Earney** | 353 | 342 | 28 | 9210 | 29.33 |
+| **Richard Beswick** | 482 | 431 | 63 | 7949 | 21.60 |
+| **Jim Grant** | 393 | 329 | 46 | 4555 | 16.09 |
+| **William Calvert** | 307 | 277 | 33 | 3732 | 15.29 |
+| **Andrew Gallagher** | 138 | 132 | 12 | 3033 | 25.27 |
 | **Steven Hornsby** | 93 | 89 | 14 | 2914 | 38.85 |
 | **Ian Marshall** | 197 | 150 | 27 | 2549 | 20.72 |
 | **Simon Barrowcliff** | 98 | 95 | 6 | 2233 | 25.09 |
 | **Mohit Gupta** | 84 | 81 | 16 | 2038 | 31.35 |
-| **Edward Garland** | 211 | 146 | 40 | 1446 | 13.64 |
+| **Edward Garland** | 212 | 146 | 40 | 1446 | 13.64 |
 | **Patrick Wigg** | 129 | 99 | 30 | 1305 | 18.91 |
 | **Martin Goff** | 41 | 41 | 3 | 1164 | 30.63 |
 | **Tom Rutherford** | 63 | 58 | 6 | 1080 | 20.77 |

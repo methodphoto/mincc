@@ -5,10 +5,10 @@ type: "statistics"
 ---
 # 2017 Statistics
 
-## 2017 Season Batting (by Runs)
+## Season Batting (by Runs)
 
-| Player | Inns |  |  | Runs | Ave |
-|:--- | :--- | :--- | :--- | :--- |
+| Player | Inns | NOs | Runs | Ave |
+|:---|:---|:---|:---|:---|
 | **Richard Beswick** | 10 | 0 | 311 | 31.1 |
 | **Richard Earney** | 9 | 0 | 211 | 23.44 |
 | **Ray Damaze** | 5 | 1 | 167 | 41.75 |
@@ -49,10 +49,10 @@ type: "statistics"
 | **Marcus Elwin** | 0 | 0 | 0 | ? |
 | **T Perry** | 1 | 0 | 0 | 0  ? |
 
-## 2017 Season Batting (by Batting Ave)
+## Season Batting (by Batting Ave)
 
-| Player | Inns |  |  | Runs | Ave |
-|:--- | :--- | :--- | :--- | :--- |
+| Player | Inns | NOs | Runs | Ave |
+|:---|:---|:---|:---|:---|
 | **Steven Hornsby** | 4 | 2 | 136 | 68 |
 | **Richard Kitson** | 2 | 1 | 56 | 56 |
 | **Ray Damaze** | 5 | 1 | 167 | 41.75 |
@@ -93,10 +93,10 @@ type: "statistics"
 | **Marcus Elwin** | 0 | 0 | 0 | ? |
 | **Kit Gallagher** | 1 | 1 | 15 | ? |
 
-## 2017 Season Bowling (by Wickets)
+## Season Bowling (by Wickets)
 
-| Player | O |  |  | R | W | Ave |  |  |
-|:--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Player | O | M | R | W | Ave | SR |
+|:---|:---|:---|:---|:---|:---|:---|
 | **Jerry Wright** | 54 | 2 | 327 | 19 | 17.21 | 17.05 |
 | **Mohit Gupta** | 51.5 | 4 | 235 | 8 | 29.38 | 38.63 |
 | **Richard Beswick** | 40 | 0 | 295 | 8 | 36.88 | 30 |
@@ -122,10 +122,10 @@ type: "statistics"
 | **T Perry** | 1 | 0 | 8 | 0 | ? | ? |
 | **Harry Ingham** | 19 | 1 | 72 | 0 | ? | ? |
 
-## 2017 Season Bowling (by Bowling Ave)
+## Season Bowling (by Bowling Ave)
 
-| Player | O |  |  | R | W | Ave |  |  |
-|:--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Player | O | M | R | W | Ave | SR |
+|:---|:---|:---|:---|:---|:---|:---|
 | **Richard Earney** | 4 | 0 | 25 | 3 | 8.33 | 8 |
 | **Siam Amin** | 19 | 3 | 73 | 6 | 12.17 | 19 |
 | **Altaf Ajmal** | 11 | 2 | 37 | 3 | 12.33 | 22 |
@@ -193,8 +193,8 @@ type: "statistics"
 
 ## Career Batting by Ave (min 250 Runs)
 
-| Player | M |  |  | NOs | Runs | Ave |
-|:--- | :--- | :--- | :--- | :--- | :--- |
+| Player | M | I | NOs | Runs | Ave |
+|:---|:---|:---|:---|:---|:---|
 | **James Hylton** | 9 | 8 | 2 | 542 | 90.33 |
 | **David Swann** | 21 | 20 | 5 | 755 | 50.33 |
 | **Tim Hammond** | 10 | 10 | 2 | 343 | 42.88 |
@@ -241,8 +241,8 @@ type: "statistics"
 
 ## Career Bowling by Wkts (min 25 wkts)
 
-| Player | M |  |  | M | R | W |  |  | SR |
-|:--- | :--- | :--- | :--- | :--- | :--- |
+| Player | M | O | M | R | W | Ave | SR |
+|:---|:---|:---|:---|:---|:---|:---|:---|
 | **Jerry Wright** | 369 | 2619.8 | 351 | 10198 | 531 | 19.21 | 29.60 |
 | **Richard Beswick** | 458 | 2031.9 | 437 | 7346 | 415 | 17.70 | 29.38 |
 | **Ian Marshall** | 192 | 1633.4 | 405 | 4914 | 269 | 18.27 | 36.43 |
@@ -273,8 +273,8 @@ type: "statistics"
  
 ## Career Bowling by Ave (min 25 wkts)
 
-| Player | M |  |  | M | R | W |  |  | SR |
-|:--- | :--- | :--- | :--- | :--- | :--- |
+| Player | M | O | M | R | W | Ave | SR |
+|:---|:---|:---|:---|:---|:---|:---|:---|
 | **Tony Purves** | 18 | 111.8 | 14 | 488 | 36 | 13.56 | 18.63 |
 | **Andrew MacFarlane** | 34 | 357.2 | 70 | 1041 | 68 | 15.31 | 31.52 |
 | **Mark Kirwan** | 43 | 344.3 | 60 | 1159 | 71 | 16.32 | 29.10 |
