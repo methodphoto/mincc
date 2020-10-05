@@ -1,6 +1,7 @@
 ---
 year: "2020"
 title: "Batting Honours Board"
+slug: "honours-board-batting"
 type: "statistics"
 ---
 # Batting Honours Board

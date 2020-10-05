@@ -3,7 +3,6 @@ year: "2019"
 title: "2019 Statistics"
 type: "statistics"
 ---
-# 2019 Statistics
 
 ## Season Batting (by Runs)
 

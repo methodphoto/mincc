@@ -1,6 +1,7 @@
 ---
 year: "2020"
 title: "Hundred Partnerships"
+slug: "partnerships"
 type: "statistics"
 
 ---

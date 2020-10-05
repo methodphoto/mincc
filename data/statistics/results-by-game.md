@@ -11,7 +11,8 @@ type: "statistics"
 | **2019** | | |
 | 19/07/2020 | [Kingstonian](/2020/kingstonian) | Won |
 | 02/08/2020 | [Railway Taverners](2020-railway=-taverners) | Won |
-| 09/09/2020 | [Banstead](/2020/banstead) | Won |
+| 09/08/2020 | [Banstead](/2020/banstead) | Won |
+| 13/09/2020 | [Reigate Pilgrims](/2020/reigate-pilgrims) | Lost |
 | **2019** | | |
 | 21/04/2019 | [Middleton Stoney](/2019/middleton-stoney) | Drawn |
 | 28/04/2019 | [Watton-at-Stone](/2019/watton-at-stone) | Lost |
@@ -19,7 +20,7 @@ type: "statistics"
 | 02/06/2019 | [Frensham](/2019/frensham) | Won |
 | 09/06/2019 | [Newdigate](/2019/newdigate) | Lost |
 | 03/07/2019 | [Cerne Valley](/2019/cerne-valley) | Won |
-| 04/07/2019 | [Blagdon Hill](2019-blagdon Hill) | Lost |
+| 04/07/2019 | [Blagdon Hill](2019-blagdon-hill) | Lost |
 | 05/07/2019 | [Broadway & Horton](/2019/broadway-and-horton) | Won |
 | 21/07/2019 | [Kingstonian](/2019/kingstonian) | Won |
 | 01/09/2019 | [Railway Taverners](/2019/railway-taverners) | Won |
@@ -55,7 +56,7 @@ type: "statistics"
 | {date} | [Watton-at-Stone](/2016/watton-at-stone) | Won |
 | {date} | [Blagdon Hill](/2016/blagdon-hill) | Lost |
 | {date} | [Broadway & Horton](/2016/broadway-and-horton) | Lost |
-| {date} | [Bristol 4th XI](2016-bristol 4th xi) | Won |
+| {date} | [Bristol 4th XI](2016-bristol-4th-xi) | Won |
 | {date} | [Kilmington & Stourton](/2016/kilmington-and-stourton) | Lost |
 | {date} | [Brasted Invicta](/2016/brasted-invicta) | Won |
 | {date} | [Reigate Pilgrims](/2016/reigate-pilgrims) | Drawn |
