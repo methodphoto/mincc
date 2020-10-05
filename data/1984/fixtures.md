@@ -15,7 +15,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 10th | 14:00 | [Ealing Commoners](/1984/ealing-commoners) | [Away]() |
-| 24th | 14:00 | [Lobsters](/1984/lobsters) | [Away]() |
+| 24th | 14:00 | [Lobsters](/1984/lobsters) | [Away](https://goo.gl/maps/FDQEWGwmyb21QdUP7) |
 
 ## July
 

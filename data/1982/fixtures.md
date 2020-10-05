@@ -25,6 +25,6 @@ type: "fixtures"
 | 10th | 14:00 | [Wills Hall](1982/wills-hall) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
 | 12th | 14:00 | [Leyhill](1982/leyhill) | Away |
 | 14th | 14:00 | [Bristol Young Solicitors](1982/bristol-young-solicitors) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
-| 15th | 14:00 | [Lobsters](1982/lobsters) | Away |
+| 15th | 14:00 | [Lobsters](1982/lobsters) | [Away](https://goo.gl/maps/FDQEWGwmyb21QdUP7) |
 | 16th | 14:00 | [A Good Length](1982/a-good-length-2) | [Home](https://goo.gl/maps/TKf5ZBWfggmbtMNt5) |
 | 17th | 14:00 | [Clifton College XI](1982/clifton-college-xi) | [Away](https://goo.gl/maps/BhH3zz2H1YVCQRZ58) |

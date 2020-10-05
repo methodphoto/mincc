@@ -32,7 +32,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 7th | [Koh-i-Noor](/1985/koh-i-noor) | Away |
-| 14th | [Lobsters](/1985/lobsters) | Away |
+| 14th | [Lobsters](/1985/lobsters) | [Away](https://goo.gl/maps/FDQEWGwmyb21QdUP7) |
 
 ## August
 
