@@ -1,6 +1,7 @@
 ---
 year: "2020"
 title: "Bowling Honours Board"
+slug: "honours-board-bowling"
 type: "statistics"
 ---
 # Bowling Honours Board

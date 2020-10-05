@@ -48,7 +48,13 @@ const HomePage = () => {
                 <p><a href="1984/fixtures">1984 Fixtures</a></p>
                 <p><a href="1983/fixtures">1983 Fixtures</a></p>
                 <p><a href="1982/fixtures">1982 Fixtures</a></p>
-                <p><a href="1982-statistics">1982 Statistics</a></p>
+                
+        <h2>Statistics</h2>
+        
+        	<p><a href="2020/statistics">2020 Statistics</a></p>
+        	<p><a href="2019/statistics">2019 Statistics</a></p>
+        	<p><a href="2018/statistics">2018 Statistics</a></p>
+        	<p><a href="2017/statistics">2017 Statistics</a></p>
 	</>
   );
 };
