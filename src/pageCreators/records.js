@@ -3,7 +3,7 @@ const { slugify } = require('../utils/build-utils');
 
 const createRecordsPages = (graphql, createPage) => graphql(`
   query {
-    allMarkdownRemark(filter: { frontmatter: { type: { eq: "statistics" } } }) {
+    allMarkdownRemark(filter: { frontmatter: { type: { eq: "records" } } }) {
       edges {
         node {
           frontmatter {

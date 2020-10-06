@@ -60,6 +60,14 @@ const HomePage = () => {
         	<p><a href="1984/statistics">1984 Statistics</a></p>
         	<p><a href="1983/statistics">1983 Statistics</a></p>
         	<p><a href="1982/statistics">1982 Statistics</a></p>
+        	
+        	
+      <h2>Records</h2>
+        
+        	<p><a href="/results">Results</a></p>
+        	<p><a href="/season">Results by Season</a></p>	
+        	<p><a href="/honours-board-batting">Batting Honours Board</a></p>
+        	<p><a href="/honours-board-bowling">Bowling Honours Board</a></p>
 	</>
   );
 };
