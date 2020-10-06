@@ -1,14 +1,11 @@
 ---
-year: "2020"
 title: "Hundred Partnerships"
 slug: "partnerships"
-type: "statistics"
-
+type: "records"
 ---
-# Hundred Partnerships
 
-| Year | Batsman |  |  | Partnership |
-|:--- | :--- | :--- | ---: |
+| Year | Batsman and Score | Opponent | Partnership |
+|:---|:---|:---|---:|
 | 2004 | H Ingham (96*) and R Beswick (67*) | v Watton-at-Stone | 186* |
 | 2006 | R Earney (102) and M  Goff (100) | v SB Exiles | 179 |
 | 2010 | T Hammond (102*) and W Calvert (57*) | v Broadway & Horton | 172* |

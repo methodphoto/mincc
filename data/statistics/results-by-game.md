@@ -1,19 +1,22 @@
 ---
-year: "2020"
 title: "Results by Game"
-type: "statistics"
+slug: "results"
+type: "records"
 ---
 
-# Results by game
+## 2020
 
-| Date | Opponents |  |  |
-|:--- | :--- | :--- |
-| **2019** | | |
+|  |  |  |
+|:---|:---|:---|
 | 19/07/2020 | [Kingstonian](/2020/kingstonian) | Won |
 | 02/08/2020 | [Railway Taverners](2020-railway=-taverners) | Won |
 | 09/08/2020 | [Banstead](/2020/banstead) | Won |
 | 13/09/2020 | [Reigate Pilgrims](/2020/reigate-pilgrims) | Lost |
-| **2019** | | |
+
+## 2019
+
+|  |  |  |
+|:---|:---|:---|
 | 21/04/2019 | [Middleton Stoney](/2019/middleton-stoney) | Drawn |
 | 28/04/2019 | [Watton-at-Stone](/2019/watton-at-stone) | Lost |
 | 19/05/2019 | [Newington](/2019/newington) | Lost |
@@ -25,7 +28,11 @@ type: "statistics"
 | 21/07/2019 | [Kingstonian](/2019/kingstonian) | Won |
 | 01/09/2019 | [Railway Taverners](/2019/railway-taverners) | Won |
 | 15/09/2019 | [Reigate Pilgrims](/2019/reigate-pilgrims) | Drawn |
-| **2018** | | | 
+
+## 2018
+
+|  |  |  |
+|:---|:---|:---| 
 | 22/04/2018 | [Middleton Stoney](/2018/middleton-stoney) | Drawn |
 | {date} | [Kingstonian](/2018/kingstonian) | Won |
 | {date} | [Newington](/2018/newington) | Won |
@@ -35,7 +42,11 @@ type: "statistics"
 | {date} | [Selling](/2018/selling) | Won |
 | {date} | [Reigate Pilgrims](/2018/reigate-pilgrims) | Lost |
 | {date} | [Stoke D’Abernon](2018-stoke-d’abernon) | Lost |
-| **2017** | | | 
+
+## 2017
+
+|  |  |  |
+|:---|:---|:---| 
 | {date} | [Middleton Stoney](/2017/middleton-stoney) | Lost |
 | {date} | [Kingstonian](/2017/kingstonian) | Lost |
 | {date} | [Newington](/2017/newington) | Lost |
@@ -48,7 +59,11 @@ type: "statistics"
 | {date} | [Brasted Invicta](/2017/brasted-invicta) | Won |
 | {date} | [Reigate Pilgrims](/2017/reigate-pilgrims) | Lost |
 | {date} | [Selling](/2017/selling) | Lost |
-| **2016** | | |
+
+## 2016
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Middleton Stoney](/2016/middleton-stoney) | Won |
 | {date} | [Nightwatchman CC](/2016/nightwatchman-cc) | Lost |
 | {date} | [Newington](/2016/newington) | Won |
@@ -61,7 +76,11 @@ type: "statistics"
 | {date} | [Brasted Invicta](/2016/brasted-invicta) | Won |
 | {date} | [Reigate Pilgrims](/2016/reigate-pilgrims) | Drawn |
 | {date} | [Selling](/2016/selling) | Won |
-| **2015** | | |
+
+## 2015
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Middleton Stoney](/2015/middleton-stoney) | Lost |
 | {date} | [Britwell Salome](/2015/britwell-salome) | Drawn |
 | {date} | [Nightwatchman CC](/2015/nightwatchman-cc) | Lost |
@@ -77,7 +96,11 @@ type: "statistics"
 | {date} | [Brasted Invicta](/2015/brasted-invicta) | Drawn |
 | {date} | [Reigate Pilgrims](/2015/reigate-pilgrims) | Won |
 | {date} | [Selling](/2015/selling) | Won |
-| **2014** | | |
+
+## 2014
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Hook and Southborough](/2014/hook-and-southborough) | Lost |
 | {date} | [Nightwatchman CC](/2014/nightwatchman-cc) | Won |
 | {date} | [Newington](/2014/newington) | Won |
@@ -92,7 +115,11 @@ type: "statistics"
 | {date} | [Wimbledon United](/2014/wimbledon-united) | Lost |
 | {date} | [Brasted Invicta](/2014/brasted-invicta) | Won |
 | {date} | [Reigate Pilgrims](/2014/reigate-pilgrims) | Drawn |
-| **2013** | | |
+
+## 2013
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Middleton Stoney](/2013/middleton-stoney) | Drawn |
 | {date} | [Britwell Salome](/2013/britwell-salome) | Lost |
 | {date} | [The Nightwatchman CC](/2013/the-nightwatchman-cc) | Won |
@@ -109,7 +136,11 @@ type: "statistics"
 | {date} | [Addington 1748](2013-addington 1748) | Won |
 | {date} | [Brasted Invicta](/2013/brasted-invicta) | Drawn |
 | {date} | [Selling](/2013/selling) | Lost |
-| **2012** | | |
+
+## 2012
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Middleton Stoney](/2012/middleton-stoney) | Won |
 | {date} | [ELCCCC](/2012/elccc) | Lost |
 | {date} | [Newington](/2012/newington) | Won |
@@ -120,7 +151,11 @@ type: "statistics"
 | {date} | [Brastead Invicta](/2012/brastead-invicta) | Won |
 | {date} | [Reigate Pilgrims](/2012/reigate-pilgrims) | Drawn |
 | {date} | [Stoke D’Aberdon](2012-stoke-d’aberdon) | Lost |
-| **2011** | | |
+
+## 2011
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Middleton Stoney](/2011/middleton-stoney) | Drawn |
 | {date} | [Britwell Salome](/2011/britwell-salome) | Won |
 | {date} | [Newington](/2011/newington) | Lost |
@@ -136,7 +171,11 @@ type: "statistics"
 | {date} | [SB Exiles](/2011/sb-exiles) | Won |
 | {date} | [Reigate Pilgrims](/2011/reigate-pilgrims) | Lost |
 | {date} | [Selling](/2011/selling) | Drawn |
-| **2010** | | |
+
+## 2010
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Britwell Salome](/2010/britwell-salome) | Won |
 | {date} | [Trafford Croydon](/2010/trafford-croydon) | Won |
 | {date} | [ELCCCC](/2010/elccc) | Won |
@@ -152,7 +191,11 @@ type: "statistics"
 | {date} | [SB Exiles](/2010/sb-exiles) | Drawn |
 | {date} | [Reigate Pilgrims](/2010/reigate-pilgrims) | Won |
 | {date} | [Spencer](/2010/spencer) | Lost |
-| **2009** | | |
+
+## 2009
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Britwell Salome](/2009/britwell-salome) | Won |
 | {date} | [Ockley](/2009/ockley) | Drawn |
 | {date} | [Newdigate](/2009/newdigate) | Won |
@@ -167,7 +210,11 @@ type: "statistics"
 | {date} | [Tower of Dudes](/2009/tower-of-dudes) | Won |
 | {date} | [Reigate Pilgrims](/2009/reigate-pilgrims) | Won |
 | {date} | [Selling](/2009/selling) | Lost |
-| **2008** | | |
+
+## 2008
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Britwell Salome](/2008/britwell-salome) | Lost |
 | {date} | [Ockley](/2008/ockley) | Won |
 | {date} | [Tappers](/2008/tappers) | Won |
@@ -182,7 +229,11 @@ type: "statistics"
 | {date} | [Putney](/2008/putney) | Won |
 | {date} | [Reigate Pilgrims](/2008/reigate-pilgrims) | Drawn |
 | {date} | [Selling](/2008/selling) | Won |
-| **2007** | | |
+
+## 2007
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Britwell Salome](/2007/britwell-salome) | Won |
 | {date} | [Old Colfeians](/2007/old-colfeians) | Lost |
 | {date} | [Tappers](/2007/tappers) | Lost |
@@ -196,7 +247,11 @@ type: "statistics"
 | {date} | [SB Exiles](/2007/sb-exiles) | Lost |
 | {date} | [Reigate Pilgrims](/2007/reigate-pilgrims) | Drawn |
 | {date} | [Watton-at-Stone](/2007/watton-at-stone) | Won |
-| **2006** | | |
+
+## 2006
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Britwell Salome](/2006/britwell-salome) | Won |
 | {date} | [Ockley](/2006/ockley) | Won |
 | {date} | [Tappers](/2006/tappers) | Won |
@@ -211,7 +266,11 @@ type: "statistics"
 | {date} | [SB Exiles](/2006/sb-exiles) | Won |
 | {date} | [Reigate Pilgrims](/2006/reigate-pilgrims) | Lost |
 | {date} | [Sanderstead](/2006/sanderstead) | Won |
-| **2005** | | |
+
+## 2005
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Britwell Salome](/2005/britwell-salome) | Drawn |
 | {date} | [Ockley](/2005/ockley) | Won |
 | {date} | [Old Colfeians](/2005/old-colfeians) | Lost |
@@ -228,7 +287,11 @@ type: "statistics"
 | {date} | [SB Exiles](/2005/sb-exiles) | Won |
 | {date} | [Reigate Pilgrims](/2005/reigate-pilgrims) | Drawn |
 | {date} | [Hornchurch](/2005/hornchurch) | Won |
-| **2004** | | |
+
+## 2004
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Britwell Salome](/2004/britwell-salome) | Lost |
 | {date} | [Old Colfeians](/2004/old-colfeians) | Won |
 | {date} | [Ballinger Waggoners](/2004/ballinger-waggoners) | Lost |
@@ -242,7 +305,11 @@ type: "statistics"
 | {date} | [Tappers](/2004/tappers) | Lost |
 | {date} | [Temple Sheen](/2004/temple-sheen) | Drawn |
 | {date} | [Reigate Pilgrims](/2004/reigate-pilgrims) | Lost |
-| **2003** | | |
+
+## 2003
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Ockley](/2003/ockley) | Drawn |
 | {date} | [Old Colfeians](/2003/old-colfeians) | Lost |
 | {date} | [Ballinger Waggoners](/2003/ballinger-waggoners) | Drawn |
@@ -257,7 +324,11 @@ type: "statistics"
 | {date} | [Selling](/2003/selling) | Lost |
 | {date} | [Spencer](/2003/spencer) | Won |
 | {date} | [Reigate Pilgrims](/2003/reigate-pilgrims) | Drawn |
-| **2002** | | |
+
+## 2002
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Ockley](/2002/ockley) | Won |
 | {date} | [Players and Jesters](/2002/players-and-jesters) | Lost |
 | {date} | [Streatham](/2002/streatham) | Drawn |
@@ -271,7 +342,11 @@ type: "statistics"
 | {date} | [North Holmwood](/2002/north-holmwood) | Lost |
 | {date} | [Reigate Pilgrims](/2002/reigate-pilgrims) | Lost |
 | {date} | [Britwell Salome](/2002/britwell-salome) | Won |
-| **2001** | | |
+
+## 2001
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Long Ditton](/2001/long-ditton) | Won |
 | {date} | [Players and Jesters](/2001/players-and-jesters) | Lost |
 | {date} | [Stowting](/2001/stowting) | Lost |
@@ -282,7 +357,11 @@ type: "statistics"
 | {date} | [Kilmington & Stourton](/2001/kilmington-and-stourton) | Won |
 | {date} | [Old Colfeians](/2001/old-colfeians) | Won |
 | {date} | [Reigate Pilgrims](/2001/reigate-pilgrims) | Lost |
-| **2000** | | |
+
+## 2000
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Ockley](/2000/ockley) | Lost |
 | {date} | [Stowting](/2000/stowting) | Won |
 | {date} | [Watton-at-Stone](/2000/watton-at-stone) | Won |
@@ -295,7 +374,11 @@ type: "statistics"
 | {date} | [Selling](/2000/selling) | Won |
 | {date} | [Old Colfeians](/2000/old-colfeians) | Won |
 | {date} | [Reigate Pilgrims](/2000/reigate-pilgrims) | Won |
-| **1999** | | |
+
+## 1999
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Ockley](/2005/ockley) | Drawn |
 | {date} | [Players and Jesters](/1999/players-and-jesters) | Lost |
 | {date} | [Stowting](/1999/stowting) | Drawn |
@@ -311,7 +394,11 @@ type: "statistics"
 | {date} | [Tappers](/1999/tappers) | Lost |
 | {date} | [Old Colfeians](/1999/old-colfeians) | Won |
 | {date} | [Reigate Pilgrims](/1999/reigate-pilgrims) | Lost |
-| **1998** | | |
+
+## 1998
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Ockley](/1998/ockley) | Drawn |
 | {date} | [Players and Jesters](/1998/players-and-jesters) | Drawn |
 | {date} | [Stowting](/1998/stowting) | Drawn |
@@ -323,7 +410,11 @@ type: "statistics"
 | {date} | [Ipswich and East Suffolk](1998-ipswich-and-east suffolk) | Lost |
 | {date} | [Hetairoi](/1998/hetairoi) | Lost |
 | {date} | [Reigate Pilgrims](/1998/reigate-pilgrims) | Won |
-| **1997** | | |
+
+## 1997
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Valley End](/1997/valley-end) | Lost |
 | {date} | [Ockley](/1997/ockley) | Lost |
 | {date} | [Players and Jesters](/1997/players-and-jesters) | Lost |
@@ -339,7 +430,11 @@ type: "statistics"
 | {date} | [Slip End](/1997/slip-end) | Lost |
 | {date} | [Reigate Pilgrims](/1997/reigate-pilgrims) | Won |
 | {date} | [Woodlawn CC](/1997/woodlawn-cc) | Drawn |
-| **1996** | | |
+
+## 1996
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Ockley](/1996/ockley) | Drawn |
 | {date} | [Stowting](/1996/stowting) | Drawn |
 | {date} | [Valley End](/1996/valley-end) | Won |
@@ -356,7 +451,11 @@ type: "statistics"
 | {date} | [A Stonor XI](/1996/a-stonor-xi) | Won |
 | {date} | [Great Braxted](/1996/great-braxted) | Won |
 | {date} | [Watton-at-Stone](/1996/watton-at-stone) | Drawn |
-| **1995** | | |
+
+## 1995
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Valley End](/1995/valley-end) | Lost |
 | {date} | [Ockley](/1995/ockley) | Won |
 | {date} | [Great Tew](/1995/great-tew) | Lost |
@@ -371,7 +470,11 @@ type: "statistics"
 | {date} | [Hetairoi](/1995/hetairoi) | Won |
 | {date} | [White Lion](/1995/white-lion) | Lost |
 | {date} | [Watton-at-Stone](/1995/watton-at-stone) | Lost |
-| **1994** | | |
+
+## 1994
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Antillies](/1994/antillies) | Lost |
 | {date} | [Great Tew](/1994/great-tew) | Drawn |
 | {date} | [Old Elthamians](/1994/old-elthamians) | Lost |
@@ -384,7 +487,11 @@ type: "statistics"
 | {date} | [Valley End](/1994/valley-end) | Lost |
 | {date} | [Reigate Pilgrims](/1994/reigate-pilgrims) | Lost |
 | {date} | [Watton-at-Stone](/1994/watton-at-stone) | Lost |
-| **1993** | | |
+
+## 1993
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Ockley](/1993/ockley) | Won |
 | {date} | [Great Tew](/1993/great-tew) | Drawn |
 | {date} | [Antillies](/1993/antillies) | Lost |
@@ -394,7 +501,11 @@ type: "statistics"
 | {date} | [Queen Camel](/1993/queen-camel) | Won |
 | {date} | [Checkendon](/1993/checkendon) | Drawn |
 | {date} | [Watton-at-Stone](/1993/watton-at-stone) | Won |
-| **1992** | | |
+
+## 1992
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Old Elthamians](/1992/old-elthamians) | Drawn |
 | {date} | [Deando](/1992/deando) | Lost |
 | {date} | [Yateley](/1992/yateley) | Won |
@@ -409,7 +520,11 @@ type: "statistics"
 | {date} | [Old Wimbledonians](/1992/old-wimbledonians) | Drawn |
 | {date} | [Reigate Pilgrims](/1992/reigate-pilgrims) | Drawn |
 | {date} | [Watton-at-Stone](/1992/watton-at-stone) | Lost |
-| **1991** | | |
+
+## 1991
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Hersham](/1991/hersham) | Won |
 | {date} | [Ockley](/1991/ockley) | Drawn |
 | {date} | [Old Elthamians](/1991/old-elthamians) | Won |
@@ -427,7 +542,11 @@ type: "statistics"
 | {date} | [Long Marston](/1991/long-marston) | Won |
 | {date} | [Reigate Pilgrims](/1991/reigate-pilgrims) | Won |
 | {date} | [Watton-at-Stone](/1991/watton-at-stone) | Won |
-| **1990** | | |
+
+## 1990
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Ockley](/1990/ockley) | Lost |
 | {date} | [Old Elthamians](/1990/old-elthamians) | Drawn |
 | {date} | [Little Kingshill](/1990/little-kingshill) | Drawn |
@@ -443,7 +562,11 @@ type: "statistics"
 | {date} | [Stowting](/1990/stowting) | Drawn |
 | {date} | [Reigate Pilgrims](/1990/reigate-pilgrims) | Drawn |
 | {date} | [Watton-at-Stone](/1990/watton-at-stone) | Won |
-| **1989** | | |
+
+## 1989
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Wendover](/1989/wendover) | Lost |
 | {date} | [Putney](/1989/putney) | Drawn |
 | {date} | [Ockley](/1989/ockley) | Drawn |
@@ -463,7 +586,11 @@ type: "statistics"
 | {date} | [Eggington](/1989/eggington) | Drawn |
 | {date} | [Watton-at-Stone](/1989/watton-at-stone) | Won |
 | {date} | [Flamingo](/1989/flamingo) | Lost |
-| **1988** | | |
+
+## 1988
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Old Elthamians](/1988/old-elthamians) | Won |
 | {date} | [Godstone](/1988/godstone) | Drawn |
 | {date} | [Little Kingshill](/1988/little-kingshill) | Lost |
@@ -481,7 +608,11 @@ type: "statistics"
 | {date} | [Stowting](/1988/stowting) | Won |
 | {date} | [Harpenden](/1988/harpenden) | Drawn |
 | {date} | [Watton-at-Stone](/1988/watton-at-stone) | Drawn |
-| **1987** | | |
+
+## 1987
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Crocodiles](/1987/crocodiles) | Drawn |
 | {date} | [Old Elthamians](/1987/old-elthamians) | Lost |
 | {date} | [Little Kingshill](/1987/little-kingshill) | Lost |
@@ -496,7 +627,11 @@ type: "statistics"
 | {date} | [Bose Wanderers](/1987/bose-wanderers) | Won |
 | {date} | [Stowting](/1987/stowting) | Drawn |
 | {date} | [Flying Wickets](/1987/flying-wickets) | Won |
-| **1986** | | |
+
+## 1986
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [Petts Wood](/1986/petts-wood) | Drawn |
 | {date} | [West Wickham](/1986/west-wickham) | Won |
 | {date} | [Old Elthamians](/1986/old-elthamians) | Won |
@@ -512,7 +647,11 @@ type: "statistics"
 | {date} | [Newdigate](/1986/newdigate) | Won |
 | {date} | [Harrow 3rd XI](1986-harrow 3rd xi) | Drawn |
 | {date} | [Stowting](/1986/stowting) | Lost |
-| **1985** | | |
+
+## 1985
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [White City Allstars](/1985/white-city-allstars) | Lost |
 | {date} | [West Green](/1985/west-green) | Lost |
 | {date} | [Artisans](/1985/artisans) | Won |
@@ -529,7 +668,11 @@ type: "statistics"
 | {date} | [Old Elthamians](/1985/old-elthamians) | Lost |
 | {date} | [Alex Beard’s XI](/1985/alex-beards-xi) | Won |
 | {date} | [Hendon Edgware](/1985/hendon-edgware) | Lost |
-| **1984** | | |
+
+## 1984
+
+|  |  |  |
+|:---|:---|:---|
 | {date} | [West Green](/1984/west-green) | Lost |
 | {date} | [Greenford](/1984/greenford) | Won |
 | {date} | [Ealing Commoners](/1984/ealing-commoners) | Drawn |
@@ -544,21 +687,29 @@ type: "statistics"
 | {date} | [British Legion Rickmansworth](/1984/british-legion-rickmansworth) | Lost |
 | {date} | [Old Elthamians](/1984/old-elthamians) | Won |
 | {date} | [Nigel Hoare’s XI](/1984/nigel-hoares-xi) | Won |
-| **1983** | | |
-| {date} | [Lobsters](/1983/lobsters) | Won |
-| {date} | [Nigel Hoare’s XI](/1983/nigel-hoares-xi) | Won |
-| {date} | [UB XI](/1983/ub-xi) | Drawn |
-| {date} | [A Good Length](/1983/a-good-length) | Won |
-| {date} | [Bathurst Arms](/1983/bathurst-arms) | Won |
-| **1982** | | |
-| {date} | [Clifton Hill House](/1982/clifton-hill-house) | Won |
-| {date} | [A Good Length](/1982/a-good-length) | Drawn |
-| {date} | [Another Man’s Meat](/1982/another-mans-meat) | Won |
-| {date} | [Bristol Grammar School III](1982-bristol-grammar-school iii) | Won |
-| {date} | [J. Stimfig’s XI](1982-j-stimfig’s xi) | Lost |
-| {date} | [Wills Hall](/1982/wills-hall) | Won |
-| {date} | [Leyhill](/1982/leyhill) | Lost |
-| {date} | [Young Solicitors](/1982/young-solicitors) | Won |
-| {date} | [Lobsters](/1982/lobsters) | Lost |
-| {date} | [A Good Length](/1982/a-good-length) | Won |
-| {date} | [Clifton College XI](/1982/clifton-college-xi) | Drawn |
+
+## 1983
+
+|  |  |  |
+|:---|:---|:---|
+| 09/06/1983 | [Lobsters](/1983/lobsters) | Won |
+| 12/06/1983 | [Nick Hoare’s XI](/1983/nigel-hoares-xi) | Won |
+| 17/06/1983 | [UB XI](/1983/ub-xi) | Drawn |
+| 25/06/1983 | [A Good Length](/1983/a-good-length) | Won |
+| 17/06/1983 | [Bathurst Arms](/1983/bathurst-arms) | Won |
+
+## 1982
+
+|  |  |  |
+|:---|:---|:---|
+| 29/04/1982 | [Clifton Hill House](/1982/clifton-hill-house) | Won |
+| 06/05/1982 | [A Good Length](/1982/a-good-length) | Drawn |
+| 08/05/1982 | [Another Man’s Meat](/1982/another-mans-meat) | Won |
+| 13/05/1982 | [Bristol Grammar School III](1982-bristol-grammar-school iii) | Won |
+| 07/06/1982 | [J. Stimfig’s XI](1982-j-stimfig’s xi) | Lost |
+| 10/06/1982 | [Wills Hall](/1982/wills-hall) | Won |
+| 12/06/1982 | [Leyhill](/1982/leyhill) | Lost |
+| 14/06/1982 | [Young Solicitors](/1982/young-solicitors) | Won |
+| 15/06/1982 | [Lobsters](/1982/lobsters) | Lost |
+| 16/06/1982 | [A Good Length](/1982/a-good-length) | Won |
+| 17/06/1982 | [Clifton College XI](/1982/clifton-college-xi) | Drawn |

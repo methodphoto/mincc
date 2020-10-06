@@ -1,10 +1,8 @@
 ---
-year: "2020"
 title: "Batting Honours Board"
 slug: "honours-board-batting"
-type: "statistics"
+type: "records"
 ---
-# Batting Honours Board
 
 ## Centuries
 

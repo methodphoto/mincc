@@ -1,10 +1,8 @@
 ---
-year: "2020"
 title: "Bowling Honours Board"
 slug: "honours-board-bowling"
-type: "statistics"
+type: "records"
 ---
-# Bowling Honours Board
 
 ## 6 or more wickets in an Innings
 
