@@ -24,7 +24,7 @@ type: "records"
 | 1996 | James Hylton | v Littlewick Green | 101 |
 | 1995 | Richard Earney | v Ockley | 100 |
 | 1994 | Stephen Hornsby | v Great Tew | 116 |
-| 1993 | Simon Barrowcliff | v Old Elthamians | 117 |
+| 1993 | Simon Barrowcliff | v Old Elthamians | 117* |
 | 1992 | Ian Marshall | v Dowlish Wake | 108* |
 | 1992 | Stephen Hornsby | v Shepton Beauchamp | 111 |
 | 1988 | Phill Bentley | v Watton-at-Stone | 100* |
@@ -251,7 +251,7 @@ type: "records"
 | 1993 | Ian Marshall | v Watton-at-Stone | 94 |
 | 1993 | Simon Barrowcliff | v Queen Camel | 64 |
 | 1993 | Simon Barrowcliff | v Broadway and Horton | 67 |
-| 1993 | Simon Barrowcliff | v Old Elthamians | 117 |
+| 1993 | Simon Barrowcliff | v Old Elthamians | 117* |
 | 1993 | Stephen Hornsby | v Great Tew | 97 |
 | 1992 | Richard Beswick | v Yateley | 55 |
 | 1992 | Ian Marshall | v Dowlish Wake | 108* |
