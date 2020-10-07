@@ -61,7 +61,7 @@ type: "game"
 | **A James** | c J Casey | C Handford | 0 | 
 | **G Powles** | not out |   | 53 | 
 | **M Winter** | b | R Beswick | 4 | 
-| **T Staw** | c L Gallagher | R Beswick | 1 | 
+| **T Staw** | c L Gallagher | P Wigg | 1 | 
 | **G Katakos** | run out |  | 0 | 
 | **Extras** | | (13b 0lb 10w 1nb) | 24 | 
 | **Total** | | (35.1 overs) | 148 all out | 

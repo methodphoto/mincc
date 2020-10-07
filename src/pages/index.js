@@ -37,7 +37,7 @@ const HomePage = () => {
     	<hr />
     	
 		<h2>Previous years</h2>
-
+		
             <h3>2010s</h3>
                 <p><a href="2019/fixtures">2019 Fixtures</a></p>
                 <p><a href="2018/fixtures">2018 Fixtures</a></p>
@@ -50,11 +50,15 @@ const HomePage = () => {
                 <p><a href="1982/fixtures">1982 Fixtures</a></p>
                 
         <h2>Statistics</h2>
-        
+          <h3>2010s</h3>
         	<p><a href="2020/statistics">2020 Statistics</a></p>
         	<p><a href="2019/statistics">2019 Statistics</a></p>
         	<p><a href="2018/statistics">2018 Statistics</a></p>
         	<p><a href="2017/statistics">2017 Statistics</a></p>
+           <h3>1980s</h3>
+           	<p><a href="1989/statistics">1989 Statistics</a></p>
+           	<p><a href="1988/statistics">1988 Statistics</a></p>
+           	<p><a href="1987/statistics">1987 Statistics</a></p>
         	<p><a href="1986/statistics">1986 Statistics</a></p>
         	<p><a href="1985/statistics">1985 Statistics</a></p>
         	<p><a href="1984/statistics">1984 Statistics</a></p>

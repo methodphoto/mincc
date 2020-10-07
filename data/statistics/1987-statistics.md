@@ -8,157 +8,111 @@ type: "statistics"
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| **Andrew Gallagher** | 10 | 10 | 1 | 241 | 26.77 |
-| **Tony Purves** | 7 | 6 | 3 | 215 | 71.66 |
-| **Jim Grant** | 13 | 12 | 0 | 195 | 16.25 |
-| **William Calvert** | 12 | 10 | 2 | 167 | 20.875 |
-| **Will Wright** | 8 | 7 | 1 | 152 | 25.33 |
-| **Richard Beswick** | 11 | 10 | 2 | 131 | 16.375 |
-| **Stuart Watson** | 3 | 3 | 1 | 122 | 61 |
-| **Phil Gault** | 1 | 1 | 0 | 91 | 91 |
-| **Mark Gardiner** | 8 | 6 | 0 | 73 | 12.17 |
-| **Mark Lawrence** | 2 | 2 | 1 | 71 | 71 |
-| **Jonathan Binder** | 4 | 4 | 0 | 62 | 15.5 |
-| **Andrew Fielding** | 7 | 6 | 1 | 53 | 10.6 |
-| **Mark Taylor** | 1 | 1 | 0 | 53 | 53 |
-| **Steve Foster** | 1 | 1 | 0 | 53 | 53 |
-| **Alan Sylvester** | 7 | 6 | 3 | 42 | 14 |
-| **David Mundy** | 2 | 2 | 0 | 42 | 21 |
-| **Richard Olver** | 6 | 1 | 0 | 34 | 34 |
-| **David Young** | 8 | 6 | 2 | 33 | 8.25 |
-| **Edward Garland** | 5 | 4 | 2 | 30 | 15 |
-| **John Pakenham-Walsh** | 1 | 1 | 0 | 24 | 24 |
-| **Mark Kirwan** | 6 | 4 | 0 | 23 | 5.75 |
-| **Marcus Stapleton** | 2 | 2 | 1 | 22 | 22 |
-| **Jerry Wright** | 15 | 6 | 1 | 20 | 4 |
-| **Dan Newman** | 6 | 4 | 0 | 13 | 3.25 |
-| **Tim Horsey** | 2 | 2 | 0 | 6 | 3 |
-| **Roger Scotts** | 3 | 2 | 1 | 4 | 4 |
-| **Andy Speake** | 1 | 1 | 0 | 3 | 3 |
-| **James White jnr** | 1 | 1 | 1 | 3 | - |
-| **Simon Reeve** | 1 | 1 | 0 | 0 | 0 |
-| **Colin Chitty** | 1 | 1 | 0 | 0 | 0 |
-| **S. Mears** | 1 | 1 | 1 | 0 | - |
-| **Gerald Wright** | 1 | 1 | 0 | 0 | 0 |
+| **Jim Grant** | 13 | 13 | 1 | 313 | 26.08 |
+| **Andrew Gallagher** | 10 | 10 | 0 | 221 | 22.1 |
+| **John Pakenham-Walsh** | 4 | 4 | 1 | 110 | 36.67 |
+| **William Calvert** | 10 | 9 | 2 | 108 | 15.43 |
+| **Richard Beswick** | 12 | 10 | 1 | 101 | 11.22 |
+| **Edward Garland** | 7 | 6 | 0 | 71 | 11.83 |
+| **Tony Purves** | 3 | 3 | 1 | 53 | 26.5 |
+| **Dan Newman** | 7 | 5 | 0 | 40 | 8 |
+| **Alan Sylvester** | 5 | 3 | 2 | 33 | 33 |
+| **David Young** | 5 | 5 | 2 | 32 | 10.67 |
+| **Jerry Wright** | 13 | 6 | 1 | 27 | 5.4 |
+| **Mark Gardiner** | 5 | 4 | 0 | 25 | 6.25 |
+| **Jonathan Binder** | 5 | 5 | 0 | 25 | 5 |
+| **Richard Olver** | 7 | 5 | 4 | 11 | 11 |
+| **Steve Maynard** | 3 | 3 | 0 | 6 | 2 |
+| **Gerald Wright** | 2 | 1 | 1 | 0 | - |
 
 ## Season Batting (by ave)
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| **Phil Gault** | 1 | 1 | 0 | 91 | 91 |
-| **Tony Purves** | 7 | 6 | 3 | 215 | 71.66 |
-| **Mark Lawrence** | 2 | 2 | 1 | 71 | 71 |
-| **Stuart Watson** | 3 | 3 | 1 | 122 | 61 |
-| **Mark Taylor** | 1 | 1 | 0 | 53 | 53 |
-| **Steve Foster** | 1 | 1 | 0 | 53 | 53 |
-| **Richard Olver** | 6 | 1 | 0 | 34 | 34 |
-| **Andrew Gallagher** | 10 | 10 | 1 | 241 | 26.78 |
-| **Will Wright** | 8 | 7 | 1 | 152 | 25.33 |
-| **John Pakenham-Walsh** | 1 | 1 | 0 | 24 | 24 |
-| **Marcus Stapleton** | 2 | 2 | 1 | 22 | 22 |
-| **David Mundy** | 2 | 2 | 0 | 42 | 21 |
-| **William Calvert** | 12 | 10 | 2 | 167 | 20.87 |
-| **Richard Beswick** | 11 | 10 | 2 | 131 | 16.37 |
-| **Jim Grant** | 13 | 12 | 0 | 195 | 16.25 |
-| **Jonathan Binder** | 4 | 4 | 0 | 62 | 15.5 |
-| **Edward Garland** | 5 | 4 | 2 | 30 | 15 |
-| **Alan Sylvester** | 7 | 6 | 3 | 42 | 14 |
-| **Mark Gardiner** | 8 | 6 | 0 | 73 | 12.17 |
-| **Andrew Fielding** | 7 | 6 | 1 | 53 | 10.6 |
-| **David Young** | 8 | 6 | 2 | 33 | 8.25 |
-| **Mark Kirwan** | 6 | 4 | 0 | 23 | 5.75 |
-| **Jerry Wright** | 15 | 6 | 1 | 20 | 4 |
-| **Roger Scotts** | 3 | 2 | 1 | 4 | 4 |
-| **Dan Newman** | 6 | 4 | 0 | 13 | 3.25 |
-| **Tim Horsey** | 2 | 2 | 0 | 6 | 3 |
-| **Andy Speake** | 1 | 1 | 0 | 3 | 3 |
-| **Simon Reeve** | 1 | 1 | 0 | 0 | 0 |
-| **Colin Chitty** | 1 | 1 | 0 | 0 | 0 |
-| **Gerald Wright** | 1 | 1 | 0 | 0 | 0 |
-| **S. Mears** | 1 | 1 | 1 | 0 | ? |
-| **James White jnr** | 1 | 1 | 1 | 3 | - |
+| **John Pakenham-Walsh** | 4 | 4 | 1 | 110 | 36.67 |
+| **Alan Sylvester** | 5 | 3 | 2 | 33 | 33 |
+| **Tony Purves** | 3 | 3 | 1 | 53 | 26.5 |
+| **Jim Grant** | 13 | 13 | 1 | 313 | 26.08 |
+| **Andrew Gallagher** | 10 | 10 | 0 | 221 | 22.1 |
+| **William Calvert** | 10 | 9 | 2 | 108 | 15.43 |
+| **Edward Garland** | 7 | 6 | 0 | 71 | 11.83 |
+| **Richard Beswick** | 12 | 10 | 1 | 101 | 11.22 |
+| **Richard Olver** | 7 | 5 | 4 | 11 | 11 |
+| **David Young** | 5 | 5 | 2 | 32 | 10.67 |
+| **Dan Newman** | 7 | 5 | 0 | 40 | 8 |
+| **Mark Gardiner** | 5 | 4 | 0 | 25 | 6.25 |
+| **Jerry Wright** | 13 | 6 | 1 | 27 | 5.4 |
+| **Jonathan Binder** | 5 | 5 | 0 | 25 | 5 |
+| **Steve Maynard** | 3 | 3 | 0 | 6 | 2 |
+| **Gerald Wright** | 2 | 1 | 1 | 0 | - |
 
 ## Season bowling (by wkts)
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| **Jerry Wright** | 15 | 118.8 | 17 | 453 | 22 | 20.59 | 32.4 |
-| **Richard Olver** | 6 | 55 | 20 | 129 | 11 | 11.73 | 30 |
-| **Alan Sylvester** | 7 | 73 | 11 | 296 | 10 | 29.6 | 43.8 |
-| **Edward Garland** | 5 | 35.3 | 10 | 122 | 10 | 12.2 | 21.18 |
-| **Tony Purves** | 7 | 33.5 | 4 | 187 | 10 | 18.7 | 20.1 |
-| **Richard Beswick** | 11 | 45 | 9 | 157 | 9 | 17.44 | 30 |
-| **Mark Kirwan** | 6 | 71 | 10 | 260 | 9 | 28.89 | 47.33 |
-| **Will Wright** | 8 | 26.5 | 6 | 75 | 6 | 12.5 | 26.5 |
-| **William Calvert** | 12 | 35 | 2 | 173 | 5 | 34.6 | 42 |
-| **Mark Taylor** | 1 | 10 | 1 | 43 | 4 | 10.75 | 15 |
-| **Andrew Gallagher** | 10 | 19 | 2 | 103 | 3 | 34.33 | 38 |
-| **Mark Gardiner** | 8 | 13 | 0 | 69 | 3 | 23 | 26 |
-| **Jim Grant** | 13 | 6 | 1 | 35 | 2 | 17.5 | 18 |
-| **Roger Scotts** | 3 | 12 | 2 | 67 | 2 | 33.5 | 36 |
-| **Steve Foster** | 1 | 11 | 0 | 50 | 1 | 50 | 66 |
-| **S. Mears** | 1 | 5 | 0 | 28 | 1 | 28 | 30 |
-| **Andrew Fielding** | 7 | 1 | 0 | 12 | 0 | - | - |
-| **Dan Newman** | 6 | 2 | 0 | 19 | 0 | - | - |
-| **Andy Speake** | 1 | 7 | 1 | 22 | 0 | - | - |
+| **Edward Garland** | 7 | 43.1 | 4 | 158 | 21 | 7.52 | 12.31 |
+| **Richard Beswick** | 12 | 101.3 | 21 | 254 | 18 | 14.11 | 33.76 |
+| **Jerry Wright** | 13 | 100.3 | 23 | 260 | 18 | 14.44 | 33.43 |
+| **Richard Olver** | 7 | 53 | 18 | 110 | 11 | 10 | 28.90 |
+| **Andrew Gallagher** | 10 | 32.4 | 2 | 162 | 8 | 20.25 | 24.3 |
+| **William Calvert** | 10 | 31 | 4 | 142 | 7 | 20.28 | 26.57 |
+| **Mark Gardiner** | 5 | 15 | 2 | 56 | 6 | 9.33 | 15 |
+| **Tony Purves** | 3 | 25 | 2 | 119 | 6 | 19.83 | 25 |
+| **Dan Newman** | 7 | 4.1 | 0 | 24 | 3 | 8 | 8.2 |
+| **Alan Sylvester** | 5 | 40 | 6 | 149 | 1 | 149 | 240 |
+| **David Young** | 5 | 1 | 1 | 0 | 0 | - | - |
 
 ## Season bowling (by ave)
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| **Mark Taylor** | 1 | 10 | 1 | 43 | 4 | 10.75 | 15 |
-| **Richard Olver** | 6 | 55 | 20 | 129 | 11 | 11.73 | 30 |
-| **Edward Garland** | 5 | 35.3 | 10 | 122 | 10 | 12.2 | 21.18 |
-| **Will Wright** | 8 | 26.5 | 6 | 75 | 6 | 12.5 | 26.5 |
-| **Richard Beswick** | 11 | 45 | 9 | 157 | 9 | 17.44 | 30 |
-| **Jim Grant** | 13 | 6 | 1 | 35 | 2 | 17.5 | 18 |
-| **Tony Purves** | 7 | 33.5 | 4 | 187 | 10 | 18.7 | 20.1 |
-| **Jerry Wright** | 15 | 118.8 | 17 | 453 | 22 | 20.59 | 32.4 |
-| **Mark Gardiner** | 8 | 13 | 0 | 69 | 3 | 23 | 26 |
-| **S. Mears** | 1 | 5 | 0 | 28 | 1 | 28 | 30 |
-| **Mark Kirwan** | 6 | 71 | 10 | 260 | 9 | 28.89 | 47.33 |
-| **Alan Sylvester** | 7 | 73 | 11 | 296 | 10 | 29.6 | 43.8 |
-| **Roger Scotts** | 3 | 12 | 2 | 67 | 2 | 33.5 | 36 |
-| **Andrew Gallagher** | 10 | 19 | 2 | 103 | 3 | 34.33 | 38 |
-| **William Calvert** | 12 | 35 | 2 | 173 | 5 | 34.6 | 42 |
-| **Steve Foster** | 1 | 11 | 0 | 50 | 1 | 50 | 66 |
+| **Edward Garland** | 7 | 43.1 | 4 | 158 | 21 | 7.52 | 12.31 |
+| **Dan Newman** | 7 | 4.1 | 0 | 24 | 3 | 8 | 8.2 |
+| **Mark Gardiner** | 5 | 15 | 2 | 56 | 6 | 9.33 | 15 |
+| **Richard Olver** | 7 | 53 | 18 | 110 | 11 | 10 | 28.90 |
+| **Richard Beswick** | 12 | 101.3 | 21 | 254 | 18 | 14.11 | 33.77 |
+| **Jerry Wright** | 13 | 100.3 | 23 | 260 | 18 | 14.44 | 33.43 |
+| **Tony Purves** | 3 | 25 | 2 | 119 | 6 | 19.83 | 25 |
+| **Andrew Gallagher** | 10 | 32.4 | 2 | 162 | 8 | 20.25 | 24.3 |
+| **William Calvert** | 10 | 31 | 4 | 142 | 7 | 20.28 | 26.57 |
+| **Alan Sylvester** | 5 | 40 | 6 | 149 | 1 | 149 | 240 |
 
 ## Career Batting (by runs - min 30 runs)
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| **Andrew Gallagher** | 44 | 42 | 2 | 1020 | 25.50 |
-| **William Calvert** | 55 | 50 | 7 | 766 | 17.81 |
-| **Jim Grant** | 59 | 53 | 9 | 672 | 15.27 |
-| **Richard Beswick** | 53 | 48 | 9 | 648 | 16.62 |
-| **Tony Purves** | 15 | 13 | 4 | 406 | 45.11 |
+| **Andrew Gallagher** | 54 | 52 | 2 | 1241 | 24.82 |
+| **Jim Grant** | 72 | 66 | 10 | 985 | 17.59 |
+| **William Calvert** | 65 | 59 | 9 | 874 | 17.48 |
+| **Richard Beswick** | 65 | 58 | 10 | 749 | 15.60 |
+| **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Alan Sylvester** | 37 | 23 | 11 | 282 | 23.50 |
+| **Alan Sylvester** | 42 | 26 | 13 | 315 | 24.23 |
+| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
 | **Mark Kirwan** | 32 | 21 | 4 | 213 | 12.53 |
+| **David Young** | 37 | 28 | 9 | 203 | 10.68 |
+| **Mark Gardiner** | 37 | 29 | 2 | 194 | 7.19 |
+| **Jerry Wright** | 68 | 36 | 7 | 178 | 6.14 |
 | **Andrew Fielding** | 16 | 14 | 2 | 176 | 14.67 |
-| **David Young** | 32 | 23 | 7 | 171 | 10.69 |
-| **Mark Gardiner** | 32 | 25 | 2 | 169 | 7.35 |
 | **David Mundy** | 14 | 13 | 0 | 168 | 12.92 |
 | **Robin Emanuel** | 11 | 10 | 2 | 160 | 20.00 |
 | **Will Wright** | 8 | 7 | 1 | 152 | 25.33 |
-| **Jerry Wright** | 55 | 30 | 6 | 151 | 6.29 |
-| **John Pakenham-Walsh** | 7 | 5 | 1 | 151 | 37.75 |
-| **Dan Newman** | 25 | 20 | 2 | 98 | 5.44 |
+| **Dan Newman** | 32 | 25 | 2 | 138 | 6.00 |
+| **Edward Garland** | 14 | 11 | 2 | 104 | 11.56 |
 | **Phil Gault** | 1 | 1 | 0 | 91 | 91.00 |
+| **Jonathan Binder** | 9 | 9 | 0 | 87 | 9.67 |
 | **Mark Lawrence** | 3 | 3 | 1 | 71 | 35.50 |
 | **Eddie Bishop** | 3 | 3 | 0 | 70 | 23.33 |
-| **Jonathan Binder** | 4 | 4 | 0 | 62 | 15.50 |
 | **Tim Horsey** | 7 | 7 | 1 | 61 | 10.17 |
 | **Paul Newcomb** | 2 | 2 | 0 | 59 | 29.50 |
+| **Richard Olver** | 16 | 9 | 6 | 55 | 18.33 |
+| **Steve Maynard** | 12 | 11 | 1 | 55 | 5.50 |
 | **Mark Taylor** | 1 | 1 | 0 | 53 | 53.00 |
 | **Pip Clothier** | 1 | 1 | 1 | 53 | ? |
 | **Steve Foster** | 1 | 1 | 0 | 53 | 53.00 |
-| **Steve Maynard** | 9 | 8 | 1 | 49 | 7.00 |
-| **Richard Olver** | 9 | 4 | 2 | 44 | 22.00 |
 | **Edward Harcourt** | 17 | 14 | 3 | 42 | 3.82 |
 | **David Challoner** | 3 | 3 | 0 | 35 | 11.67 |
-| **Edward Garland** | 7 | 5 | 2 | 33 | 11.00 |
 | **Scott Sutherland** | 2 | 2 | 0 | 33 | 16.50 |
 
 ## Career Batting (by ave - min 30 runs)
@@ -168,53 +122,53 @@ type: "statistics"
 | **Phil Gault** | 1 | 1 | 0 | 91 | 91.00 |
 | **Mark Taylor** | 1 | 1 | 0 | 53 | 53.00 |
 | **Steve Foster** | 1 | 1 | 0 | 53 | 53.00 |
-| **Tony Purves** | 15 | 13 | 4 | 406 | 45.11 |
-| **John Pakenham-Walsh** | 7 | 5 | 1 | 151 | 37.75 |
+| **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
+| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Mark Lawrence** | 3 | 3 | 1 | 71 | 35.50 |
 | **Paul Newcomb** | 2 | 2 | 0 | 59 | 29.50 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
-| **Andrew Gallagher** | 44 | 42 | 2 | 1020 | 25.50 |
 | **Will Wright** | 8 | 7 | 1 | 152 | 25.33 |
-| **Alan Sylvester** | 37 | 23 | 11 | 282 | 23.50 |
+| **Andrew Gallagher** | 54 | 52 | 2 | 1241 | 24.82 |
+| **Alan Sylvester** | 42 | 26 | 13 | 315 | 24.23 |
 | **Eddie Bishop** | 3 | 3 | 0 | 70 | 23.33 |
-| **Richard Olver** | 9 | 4 | 2 | 44 | 22.00 |
 | **Robin Emanuel** | 11 | 10 | 2 | 160 | 20.00 |
-| **William Calvert** | 55 | 50 | 7 | 766 | 17.81 |
-| **Richard Beswick** | 53 | 48 | 9 | 648 | 16.62 |
+| **Richard Olver** | 16 | 9 | 6 | 55 | 18.33 |
+| **Jim Grant** | 72 | 66 | 10 | 985 | 17.59 |
+| **William Calvert** | 65 | 59 | 9 | 874 | 17.48 |
 | **Scott Sutherland** | 2 | 2 | 0 | 33 | 16.50 |
-| **Jonathan Binder** | 4 | 4 | 0 | 62 | 15.50 |
-| **Jim Grant** | 59 | 53 | 9 | 672 | 15.27 |
+| **Richard Beswick** | 65 | 58 | 10 | 749 | 15.60 |
 | **Andrew Fielding** | 16 | 14 | 2 | 176 | 14.67 |
 | **David Mundy** | 14 | 13 | 0 | 168 | 12.92 |
 | **Mark Kirwan** | 32 | 21 | 4 | 213 | 12.53 |
 | **David Challoner** | 3 | 3 | 0 | 35 | 11.67 |
-| **Edward Garland** | 7 | 5 | 2 | 33 | 11.00 |
-| **David Young** | 32 | 23 | 7 | 171 | 10.69 |
+| **Edward Garland** | 14 | 11 | 2 | 104 | 11.56 |
+| **David Young** | 37 | 28 | 9 | 203 | 10.68 |
 | **Tim Horsey** | 7 | 7 | 1 | 61 | 10.17 |
-| **Mark Gardiner** | 32 | 25 | 2 | 169 | 7.35 |
-| **Steve Maynard** | 9 | 8 | 1 | 49 | 7.00 |
-| **Jerry Wright** | 55 | 30 | 6 | 151 | 6.29 |
-| **Dan Newman** | 25 | 20 | 2 | 98 | 5.44 |
+| **Jonathan Binder** | 9 | 9 | 0 | 87 | 9.67 |
+| **Mark Gardiner** | 37 | 29 | 2 | 194 | 7.19 |
+| **Jerry Wright** | 68 | 36 | 7 | 178 | 6.14 |
+| **Dan Newman** | 32 | 25 | 2 | 138 | 6.00 |
+| **Steve Maynard** | 12 | 11 | 1 | 55 | 5.50 |
 | **Edward Harcourt** | 17 | 14 | 3 | 42 | 3.82 |
-| **Pip Clothier** | 1 | 1 | 1 | 53 | - |
 
 ## Career Bowling (by wkts - min 5 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
-| **Jerry Wright** | 55 | 393.4 | 64 | 1356 | 80 | 16.95 | 29.51 |
-| **Alan Sylvester** | 37 | 278 | 52 | 1013 | 60 | 16.88 | 27.80 |
+| **Jerry Wright** | 68 | 493.7 | 87 | 1616 | 98 | 16.49 | 30.23 |
+| **Richard Beswick** | 65 | 308.4 | 63 | 946 | 65 | 14.55 | 28.47 |
+| **Alan Sylvester** | 42 | 318 | 58 | 1162 | 61 | 19.05 | 31.28 |
 | **Mark Kirwan** | 32 | 278.3 | 49 | 949 | 58 | 16.36 | 28.79 |
-| **Richard Beswick** | 53 | 207.1 | 42 | 692 | 47 | 14.72 | 26.44 |
-| **William Calvert** | 55 | 218.2 | 33 | 879 | 45 | 19.53 | 29.09 |
-| **Tony Purves** | 15 | 86.8 | 12 | 369 | 30 | 12.30 | 17.36 |
-| **Mark Gardiner** | 32 | 79 | 7 | 299 | 19 | 15.74 | 24.95 |
-| **Richard Olver** | 9 | 77 | 24 | 194 | 13 | 14.92 | 35.54 |
-| **Andrew Gallagher** | 44 | 45.2 | 5 | 236 | 12 | 19.67 | 22.60 |
-| **Edward Garland** | 7 | 44.3 | 10 | 152 | 11 | 13.82 | 24.16 |
+| **William Calvert** | 65 | 249.2 | 37 | 1021 | 52 | 19.63 | 28.75 |
+| **Tony Purves** | 18 | 111.8 | 14 | 488 | 36 | 13.56 | 18.63 |
+| **Edward Garland** | 14 | 87.4 | 14 | 310 | 32 | 9.69 | 16.39 |
+| **Mark Gardiner** | 37 | 94 | 9 | 355 | 25 | 14.20 | 22.56 |
+| **Richard Olver** | 16 | 130 | 42 | 304 | 24 | 12.67 | 32.50 |
+| **Andrew Gallagher** | 54 | 77.6 | 7 | 398 | 20 | 19.90 | 23.28 |
 | **Ken Sullivan** | 4 | 27.1 | 5 | 104 | 9 | 11.56 | 18.07 |
 | **Will Wright** | 8 | 26.5 | 6 | 75 | 6 | 12.50 | 26.50 |
+| **Dan Newman** | 32 | 14.1 | 1 | 82 | 5 | 16.40 | 16.92 |
 | **Edward Harcourt** | 17 | 18.1 | 1 | 83 | 5 | 16.60 | 21.72 |
 | **Roger Scotts** | 6 | 20 | 3 | 87 | 5 | 17.40 | 24.00 |
 
@@ -222,17 +176,18 @@ type: "statistics"
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
+| **Edward Garland** | 14 | 87.4 | 14 | 310 | 32 | 9.69 | 16.39 |
 | **Ken Sullivan** | 4 | 27.1 | 5 | 104 | 9 | 11.56 | 18.07 |
-| **Tony Purves** | 15 | 86.8 | 12 | 369 | 30 | 12.30 | 17.36 |
 | **Will Wright** | 8 | 26.5 | 6 | 75 | 6 | 12.50 | 26.50 |
-| **Edward Garland** | 7 | 44.3 | 10 | 152 | 11 | 13.82 | 24.16 |
-| **Richard Beswick** | 53 | 207.1 | 42 | 692 | 47 | 14.72 | 26.44 |
-| **Richard Olver** | 9 | 77 | 24 | 194 | 13 | 14.92 | 35.54 |
-| **Mark Gardiner** | 32 | 79 | 7 | 299 | 19 | 15.74 | 24.95 |
+| **Richard Olver** | 16 | 130 | 42 | 304 | 24 | 12.67 | 32.50 |
+| **Tony Purves** | 18 | 111.8 | 14 | 488 | 36 | 13.56 | 18.63 |
+| **Mark Gardiner** | 37 | 94 | 9 | 355 | 25 | 14.20 | 22.56 |
+| **Richard Beswick** | 65 | 308.4 | 63 | 946 | 65 | 14.55 | 28.47 |
 | **Mark Kirwan** | 32 | 278.3 | 49 | 949 | 58 | 16.36 | 28.79 |
+| **Dan Newman** | 32 | 14.1 | 1 | 82 | 5 | 16.40 | 16.92 |
+| **Jerry Wright** | 68 | 493.7 | 87 | 1616 | 98 | 16.49 | 30.23 |
 | **Edward Harcourt** | 17 | 18.1 | 1 | 83 | 5 | 16.60 | 21.72 |
-| **Alan Sylvester** | 37 | 278 | 52 | 1013 | 60 | 16.88 | 27.80 |
-| **Jerry Wright** | 55 | 393.4 | 64 | 1356 | 80 | 16.95 | 29.51 |
 | **Roger Scotts** | 6 | 20 | 3 | 87 | 5 | 17.40 | 24.00 |
-| **William Calvert** | 55 | 218.2 | 33 | 879 | 45 | 19.53 | 29.09 |
-| **Andrew Gallagher** | 44 | 45.2 | 5 | 236 | 12 | 19.67 | 22.60 |
+| **Alan Sylvester** | 42 | 318 | 58 | 1162 | 61 | 19.05 | 31.28 |
+| **William Calvert** | 65 | 249.2 | 37 | 1021 | 52 | 19.63 | 28.75 |
+| **Andrew Gallagher** | 54 | 77.6 | 7 | 398 | 20 | 19.90 | 23.28 |
