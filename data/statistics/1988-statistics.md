@@ -1,6 +1,6 @@
 ---
-year: "1987"
-title: "1987 Statistics"
+year: "1988"
+title: "1988 Statistics"
 type: "statistics"
 ---
 
@@ -127,7 +127,7 @@ type: "statistics"
 | **David Young** | 7 | 6 | 0 | 44 | 0 | - | - |
 | **Barry Lee** | 1 | 5 | 0 | 20 | 0 | - | - |
 
-## Season bowling (by ave)
+## Season Bowling (by ave)
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -152,27 +152,29 @@ type: "statistics"
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| **Andrew Fielding** | 5 | .1 | 0 | 0 | 1 | 0 | .6 |
-| **Alan Sylvester** | 2 | 2 | 1 | 4 | 1 | 4 | 12 |
-| **Thurston** | 1 | 6 | 0 | 12 | 3 | 4 | 12 |
-| **Mark Kirwan** | 1 | 6 | 2 | 13 | 2 | 6.5 | 18 |
-| **William Chapman** | 9 | 23.3 | 2 | 83 | 11 | 7.54 | 12.70 |
-| **Roger Scotts** | 1 | 4 | 0 | 16 | 2 | 8 | 12 |
-| **Andrew MacFarlane** | 8 | 87.5 | 21 | 226 | 23 | 9.82 | 22.82 |
-| **Brian Woodford** | 1 | 5 | 2 | 10 | 1 | 10 | 30 |
-| **Phil Bentley** | 4 | 20.9 | 5 | 48 | 4 | 12 | 31.35 |
-| **David Jones** | 2 | 10 | 3 | 26 | 2 | 13 | 30 |
-| **Andrew Gallagher** | 13 | 51 | 1 | 237 | 17 | 13.94 | 18 |
-| **Mark Taylor** | 3 | 26 | 3 | 95 | 6 | 15.83 | 26 |
-| **Jerry Wright** | 16 | 109.3 | 21 | 336 | 21 | 16 | 31.22 |
-| **Richard Beswick** | 16 | 114 | 20 | 321 | 20 | 16.05 | 34.2 |
-| **William Calvert** | 14 | 45.3 | 8 | 198 | 8 | 24.75 | 33.975 |
-| **André Vasilescu** | 1 | 4 | 0 | 25 | 1 | 25 | 24 |
-| **Richard Olver** | 11 | 68 | 8 | 257 | 10 | 25.7 | 40.8 |
-| **Mark Gardiner** | 9 | 16 | 2 | 81 | 3 | 27 | 32 |
-| **Nigel Holcombe** | 2 | 12 | 1 | 55 | 2 | 27.5 | 36 |
-| **Sebastian Lazell** | 4 | 35 | 5 | 101 | 3 | 33.6 | 70 |
-| **Edward Garland** | 3 | 15 | 1 | 106 | 3 | 35.33 | 30 |
+| **Andrew Gallagher** | 67 | 64 | 3 | 1699 | 27.85 |
+| **Jim Grant** | 85 | 79 | 10 | 1160 | 16.81 |
+| **William Calvert** | 79 | 72 | 10 | 1085 | 17.50 |
+| **Richard Beswick** | 81 | 74 | 12 | 941 | 15.18 |
+| **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
+| **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
+| **Alan Sylvester** | 44 | 28 | 14 | 326 | 23.29 |
+| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **Mark Gardiner** | 46 | 35 | 2 | 248 | 7.52 |
+| **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
+| **Andrew Fielding** | 21 | 19 | 2 | 228 | 13.41 |
+| **Mark Kirwan** | 33 | 21 | 4 | 213 | 12.53 |
+| **David Young** | 44 | 31 | 10 | 211 | 10.05 |
+| **Jerry Wright** | 84 | 42 | 10 | 196 | 6.13 |
+| **Martin Breddy** | 8 | 8 | 0 | 193 | 24.13 |
+| **Will Wright** | 10 | 9 | 1 | 183 | 22.88 |
+| **William Chapman** | 9 | 9 | 2 | 177 | 25.29 |
+| **David Mundy** | 14 | 13 | 0 | 168 | 12.92 |
+| **Robin Emanuel** | 11 | 10 | 2 | 160 | 20.00 |
+| **Dan Newman** | 38 | 30 | 2 | 149 | 5.32 |
+| **Andrew MacFarlane** | 8 | 7 | 0 | 144 | 20.57 |
+| **Edward Garland** | 17 | 14 | 3 | 135 | 12.27 |
+| **Richard Olver** | 27 | 15 | 8 | 120 | 17.14 |
 
 ## Career Batting (by ave - min 100 runs)
 
