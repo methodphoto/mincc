@@ -1,9 +1,11 @@
 import React from 'react';
+import Layout from "../layouts/layout"
 
 export default function GameTemplate({ pageContext }) {
   const { html, game, year, title, gameLocation, gameDate, result, serialNumber, resultType, shortReport,  } = pageContext;
 
   return (
+   <Layout>
     <div>
       <h1>{title}</h1>
       
@@ -18,5 +20,6 @@ export default function GameTemplate({ pageContext }) {
       dangerouslySetInnerHTML={{ __html: html }}
     />
     </div>
+	</Layout>
   );
 };

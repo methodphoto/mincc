@@ -1,9 +1,11 @@
 import React from 'react';
+import Layout from "../layouts/layout"
 
 export default function StatisticsTemplate({ pageContext }) {
   const { html, type, year, title,  } = pageContext;
 
   return (
+  	<Layout>
     <div>
       <h1>{year} Statistics</h1>
                   
@@ -11,5 +13,6 @@ export default function StatisticsTemplate({ pageContext }) {
       dangerouslySetInnerHTML={{ __html: html }}
     />
     </div>
+    </Layout>
   );
 };

@@ -1,15 +1,18 @@
 import React from 'react';
+import Layout from "../layouts/layout"
 
 export default function FixtureTemplate({ pageContext }) {
   const { html, type, year,  } = pageContext;
 
   return (
-    <div>
-      <h1>{year} Fixtures</h1>
+  	<Layout>
+    	<div>
+     		<h1>{year} Fixtures</h1>
                   
-    <div
-      dangerouslySetInnerHTML={{ __html: html }}
-    />
-    </div>
+    	<div
+      			dangerouslySetInnerHTML={{ __html: html }}
+    		/>
+    	</div>
+    </Layout>
   );
 };
