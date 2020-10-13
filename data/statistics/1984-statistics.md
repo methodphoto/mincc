@@ -4,7 +4,7 @@ title: "1984 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by runs)
+## Season Batting
 
 | Player | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|
@@ -76,7 +76,7 @@ type: "statistics"
 | **John Holland** | 1 | 1 | 0 | - |
 | **Phil Whelans** | 0 | 0 | 0 | - |
 
-## Season bowling (by wkts)
+## Season Bowling
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -102,7 +102,7 @@ type: "statistics"
 | **Tim Horsey** | 1 | 0 | 8 | 0 | - | - |
 | **Dominic Wilson** | 1 | 0 | 3 | 0 | - | - |
 
-## Season bowling (by ave)
+## Season Bowling (by ave)
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|

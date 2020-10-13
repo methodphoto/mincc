@@ -11,3 +11,10 @@ module.exports = {
     'gatsby-transformer-remark',
   ],
 };
+
+//module.exports = {
+//  siteMetadata: {
+//    siteUrl: `https://min.org.uk`,
+//  },
+//  plugins: [`gatsby-plugin-sitemap`],
+//}

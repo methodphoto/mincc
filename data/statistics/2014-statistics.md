@@ -4,7 +4,7 @@ title: "2014 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by Runs)
+## Season Batting
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -86,7 +86,7 @@ type: "statistics"
 | **Christopher Wright** | 1 | 1 | 0 | ? |
 | **Wahid Khan** | 1 | 1 | 7 | ? |
 
-## Season Bowling (by Wickets)
+## Season Bowling
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -222,7 +222,7 @@ type: "statistics"
 | **Pete Grant** | 105 | 94 | 13 | 698 | 8.62 |
 | **Richard Coyle** | 67 | 59 | 14 | 338 | 7.51 |
 
-## Career Bowling by Wkts (min 25 wkts)
+## Career Bowling (min 25 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -252,7 +252,7 @@ type: "statistics"
 | **Phil Bentley** | 19 | 165.9 | 30 | 518 | 31 | 16.71 | 32.11 |
 | **Andrew Slight** | 112 | 72.8 | 2 | 429 | 26 | 16.50 | 16.80 |
 
-## Career Bowling by Ave 
+## Career Bowling by ave 
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

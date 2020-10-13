@@ -4,7 +4,7 @@ title: "1986 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by runs)
+## Season Batting
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -78,7 +78,7 @@ type: "statistics"
 | **S. Mears** | 1 | 1 | 1 | 0 | ? |
 | **James White jnr** | 1 | 1 | 1 | 3 | - |
 
-## Season bowling (by wkts)
+## Season Bowling
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -102,7 +102,7 @@ type: "statistics"
 | **Dan Newman** | 6 | 2 | 0 | 19 | 0 | - | - |
 | **Andy Speake** | 1 | 7 | 1 | 22 | 0 | - | - |
 
-## Season bowling (by ave)
+## Season Bowling (by ave)
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|

@@ -4,7 +4,7 @@ title: "2013 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by Runs)
+## Season Batting
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -40,7 +40,7 @@ type: "statistics"
 | **Alex Ridgers** | 2 | 0 | 0 | 0 |
 | **Jack Stacey** | 1 | 0 | 0 | 0 |
 
-## Season Batting (by Batting Ave)
+## Season Batting (by ave)
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -76,7 +76,7 @@ type: "statistics"
 | **John Purefoy** | 1 | 1 | 3 | ? |
 | **Kit Gallagher** | 2 | 2 | 10 | ? |
 
-## Season Bowling (by Wickets)
+## Season Bowling
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -104,7 +104,7 @@ type: "statistics"
 | **Alex Ridgers** | 4 | 0 | 25 | 0 | ? | ? |
 | **Alf Beswick** | 1 | 0 | 19 | 0 | ? | ? |
 
-## Season Bowling (by Bowling Ave)
+## Season Bowling (by ave)
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -173,7 +173,7 @@ type: "statistics"
 | **Andrew Fielding** | 39 | 35 | 2 | 340 | 10.30 |
 | **Richard Coyle** | 65 | 57 | 14 | 321 | 7.47 |
 
-## Career Batting by Ave (min 250 Runs)
+## Career Batting by ave (min 250 Runs)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -217,7 +217,7 @@ type: "statistics"
 | **Pete Grant** | 105 | 94 | 13 | 698 | 8.62 |
 | **Richard Coyle** | 65 | 57 | 14 | 321 | 7.47 |
 
-## Career Bowling by Wkts (min 25 wkts)
+## Career Bowling (min 25 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -246,7 +246,7 @@ type: "statistics"
 | **Mark Gardiner** | 100 | 139.5 | 11 | 603 | 33 | 18.27 | 25.36 |
 | **Phil Bentley** | 19 | 165.9 | 30 | 518 | 31 | 16.71 | 32.11 |
 
-## Career Bowling by Ave (min 25 wkts)
+## Career Bowling by ave (min 25 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

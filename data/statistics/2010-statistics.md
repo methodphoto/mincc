@@ -4,7 +4,7 @@ title: "2010 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by Runs)
+## Season Batting
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -42,7 +42,7 @@ type: "statistics"
 | **Granville Weekes** | 2 | 1 | 0 | 0 |
 | **Imran Peretta** | 1 | 0 | 0 | 0 |
 
-## Season Batting (by Batting Ave)
+## Season Batting (by ave)
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -80,7 +80,7 @@ type: "statistics"
 | **Ian Marshall** | 0 | 0 | 0 | ? |
 | **Janette Earney** | 1 | 1 | 0 | ? |
 
-## Season Bowling (by Wickets)
+## Season Bowling
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -105,7 +105,7 @@ type: "statistics"
 | **Alf Beswick** | 1.3 | 0 | 9 | 0 | ? | ? |
 
 
-## Season Bowling (by Bowling Ave)
+## Season Bowling (by ave)
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -163,13 +163,13 @@ type: "statistics"
 | **Mark Kirwan** | 42 | 28 | 5 | 356 | 15.48 |
 | **Richard Green** | 33 | 24 | 4 | 354 | 17.70 |
 
-## Career Batting by Ave (min 250 Runs)
+## Career Batting by ave (min 250 Runs)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
 
 
-## Career Bowling by Wkts (min 25 wkts)
+## Career Bowling (min 25 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -198,7 +198,7 @@ type: "statistics"
 | **Phil Bentley** | 19 | 165.9 | 30 | 518 | 31 | 16.71 | 32.11 |
 
 
-## Career Bowling by Ave (min 25 wkts)
+## Career Bowling by ave (min 25 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

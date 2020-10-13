@@ -4,7 +4,7 @@ title: "1983 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by runs)
+## Season Batting
 
 | Player | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|
@@ -64,7 +64,7 @@ type: "statistics"
 | **John Stimpfig** | 0 | 0 | 0 | ? |
 | **Jerry Wright** | 0 | 0 | 0 | ? |
 
-## Season Bowling (by wkts)
+## Season Bowling
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -87,7 +87,7 @@ type: "statistics"
 | **Dan Newman** | 1 | 1 | 0 | 0 | - | - |
 | **Edward Harcourt** | 2 | 0 | 10 | 0 | - | - |
 
-## Season bowling (by ave)
+## Season Bowling (by ave)
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|

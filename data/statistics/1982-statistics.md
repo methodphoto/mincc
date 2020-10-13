@@ -4,7 +4,7 @@ title: "1982 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by runs)
+## Season Batting
 
 | Player | M | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|:--|
@@ -70,7 +70,7 @@ type: "statistics"
 | **Shearing** | 1 | 1 | 1 | 6 | - |
 | **James Cross** | 1 | 0 | 0 | 0 | - |
 
-## Season bowling (by wkts)
+## Season Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -92,7 +92,7 @@ type: "statistics"
 | **Shearing** | 1 | 2 | 0 | 21 | 0 | - | - |
 | **Simon Tanner** | 1 | 3 | 1 | 24 | 0 | - | - |
 
-## Season bowling (by ave)
+## Season Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

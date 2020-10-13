@@ -4,7 +4,7 @@ title: "1988 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by runs)
+## Season Batting
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -98,7 +98,7 @@ type: "statistics"
 | **Barry Lee** | 1 | 0 | 0 | 0 | - |
 | **Lizzy Dennes** | 1 | 1 | 1 | 0 | - |
 
-## Season Bowling (by wkts)
+## Season Bowling
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|

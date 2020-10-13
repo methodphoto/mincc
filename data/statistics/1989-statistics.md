@@ -4,7 +4,7 @@ title: "1989 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by runs)
+## Season Batting
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -92,7 +92,7 @@ type: "statistics"
 | **Bob Colethorpe** | 1 | 1 | 1 | 38 | - |
 | **Mark Hickman** | 1 | 1 | 1 | 0 | - |
 
-## Season bowling (by wkts)
+## Season Bowling
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -119,7 +119,7 @@ type: "statistics"
 | **Mark Hickman** | 1 | 1 | 0 | 37 | 0 | - | - |
 | **Jan Skalbeck** | 2 | 2 | 2 | 24 | 0 | - | - |
 
-## Season bowling (by ave)
+## Season Bowling (by ave)
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|

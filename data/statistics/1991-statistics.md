@@ -4,7 +4,7 @@ title: "1991 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by Runs)
+## Season Batting
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -50,7 +50,7 @@ type: "statistics"
 | **Hollis-** | 1 | 1 | 0 | 0 | 0 |
 | **Courtney Mills** | 1 | 0 | 0 | 0 | - |
 
-## Season Batting (by Batting Ave)
+## Season Batting (by ave)
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -96,7 +96,7 @@ type: "statistics"
 | **Courtney Mills** | 1 | 0 | 0 | 0 | - |
 | **James McIntosh** | 3 | 1 | 1 | 1 | - |
 
-## Season Bowling (by Wickets)
+## Season Bowling
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -119,7 +119,7 @@ type: "statistics"
 | **S Amin** | 0.1 | 0 | 0 | 0 | 0.00 | 0.00 |
 
 
-## Season Bowling (by Bowling Ave)
+## Season Bowling (by ave)
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -179,7 +179,7 @@ type: "statistics"
 | **Tim Horsey** | 16 | 16 | 2 | 121 | 8.64 |
 | **Graeme Wright** | 27 | 18 | 7 | 103 | 9.36 |
 
-## Career Batting by Ave (min 100 Runs)
+## Career Batting by ave (min 100 Runs)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -216,7 +216,7 @@ type: "statistics"
 | **Jerry Wright** | 98 | 49 | 15 | 222 | 6.53 |
 | **Dan Newman** | 46 | 37 | 4 | 179 | 5.42 |
 
-## Career Bowling by Wkts (min 5 wkts)
+## Career Bowling (min 5 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -245,7 +245,7 @@ type: "statistics"
 | **Dan Newman** | 46 | 14.1 | 1 | 82 | 5 | 16.40 | 16.92 |
 | **Edward Harcourt** | 21 | 19.1 | 1 | 95 | 5 | 19.00 | 22.92 |
 
-## Career Bowling by Ave (min 5 wkts)
+## Career Bowling by ave (min 5 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

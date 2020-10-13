@@ -4,7 +4,7 @@ title: "2011 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by Runs)
+## Season Batting
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -49,7 +49,7 @@ type: "statistics"
 | **Richard Kitson** | 1 | 1 | 0 | - |
 | **Akash** | 0 | 0 | 0 | - |
 
-## Season Batting (by Batting Ave)
+## Season Batting (by ave)
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -95,7 +95,7 @@ type: "statistics"
 | **Richard Kitson** | 1 | 1 | 0 | - |
 | **Akash** | 0 | 0 | 0 | - |
 
-## Season Bowling (by Wickets)
+## Season Bowling
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -124,7 +124,7 @@ type: "statistics"
 | **D.Everitt** | 4 | 1 | 22 | 0 | ? | ? |
 
 
-## Season Bowling (by Bowling Ave)
+## Season Bowling (by ave)
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -194,12 +194,12 @@ type: "statistics"
 | **Andrew Fielding** | 39 | 35 | 2 | 340 | 10.30 |
 | **Richard Coyle** | 64 | 56 | 14 | 310 | 7.38 |
 
-## Career Batting by Ave (min 250 Runs)
+## Career Batting by ave (min 250 Runs)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
 
-## Career Bowling by Wkts (min 30 wkts)
+## Career Bowling (min 30 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -227,7 +227,7 @@ type: "statistics"
 | **Mark Gardiner** | 100 | 139.5 | 11 | 603 | 33 | 18.27 | 25.36 |
 | **Phil Bentley** | 19 | 165.9 | 30 | 518 | 31 | 16.71 | 32.11 |
 
-## Career Bowling by Ave (min 25 wkts)
+## Career Bowling by ave (min 30 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

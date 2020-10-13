@@ -4,7 +4,7 @@ title: "1987 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by runs)
+## Season Batting
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -46,7 +46,7 @@ type: "statistics"
 | **Steve Maynard** | 3 | 3 | 0 | 6 | 2 |
 | **Gerald Wright** | 2 | 1 | 1 | 0 | - |
 
-## Season bowling (by wkts)
+## Season Bowling
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -62,7 +62,7 @@ type: "statistics"
 | **Alan Sylvester** | 5 | 40 | 6 | 149 | 1 | 149 | 240 |
 | **David Young** | 5 | 1 | 1 | 0 | 0 | - | - |
 
-## Season bowling (by ave)
+## Season Bowling (by ave)
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|

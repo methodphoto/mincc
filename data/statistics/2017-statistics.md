@@ -4,7 +4,7 @@ title: "2017 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by Runs)
+## Season Batting
 
 | Player | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
@@ -48,7 +48,7 @@ type: "statistics"
 | **Marcus Elwin** | 0 | 0 | 0 | ? |
 | **T Perry** | 1 | 0 | 0 | 0  ? |
 
-## Season Batting (by Batting Ave)
+## Season Batting (by ave)
 
 | Player | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|
@@ -92,7 +92,7 @@ type: "statistics"
 | **Marcus Elwin** | 0 | 0 | 0 | ? |
 | **Kit Gallagher** | 1 | 1 | 15 | ? |
 
-## Season Bowling (by Wickets)
+## Season Bowling
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -121,7 +121,7 @@ type: "statistics"
 | **T Perry** | 1 | 0 | 8 | 0 | ? | ? |
 | **Harry Ingham** | 19 | 1 | 72 | 0 | ? | ? |
 
-## Season Bowling (by Bowling Ave)
+## Season Bowling (by ave)
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -190,7 +190,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.899 |
 
-## Career Batting by Ave (min 250 Runs)
+## Career Batting by ave (min 250 Runs)
 
 | Player | M | I | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -238,7 +238,7 @@ type: "statistics"
 | **Richard Coyle** | 72 | 64 | 16 | 370 | 7.71 |
 
 
-## Career Bowling by Wkts (min 25 wkts)
+## Career Bowling (min 25 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -270,7 +270,7 @@ type: "statistics"
 | **Philip Beswick** | 46 | 125.1 | 5 | 669 | 28 | 23.89 | 26.81 |
 | **Andrew Slight** | 112 | 72.8 | 2 | 429 | 26 | 16.50 | 16.80 |
  
-## Career Bowling by Ave (min 25 wkts)
+## Career Bowling by ave (min 25 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

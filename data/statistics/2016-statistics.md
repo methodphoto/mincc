@@ -4,7 +4,7 @@ title: "2016 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by Runs)
+## Season Batting
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -75,7 +75,7 @@ type: "statistics"
 | **Philip Beswick** | 0 | 0 | 0 | - |
 | **A Molui** | 0 | 0 | 0 | - |
 
-## Season Bowling (by Wickets)
+## Season Bowling
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -129,7 +129,7 @@ type: "statistics"
 | **Kit Gallagher** | 11 | 0 | 59 | 1 | 59 | 66 |
 | **Christopher Wright** | 9 | 0 | 106 | 1 | 106 | 54 |
 
-## Career Batting (by Runs)
+## Career Batting (by runs)
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -176,7 +176,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 21 | 3 | 250 | 13.89 |
 
-## Career Batting (by Runs)
+## Career Batting (by runs)
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|

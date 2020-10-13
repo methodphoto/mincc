@@ -4,7 +4,7 @@ title: "2015 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by Runs)
+## Season Batting
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -94,7 +94,7 @@ type: "statistics"
 | **Ian Marshall** | 0 | 0 | 0 | - |
 | **Wahid Khan** | 1 | 1 | 9 | - |
 
-## Season Bowling (by Wickets)
+## Season Bowling
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -123,7 +123,7 @@ type: "statistics"
 | **Louis Masterson** | 5 | 0 | 22 | 0 | - | - |
 | **Christopher Wright** | 8 | 0 | 49 | 0 | - | - |
 
-## Season Bowling (by Wickets)
+## Season Bowling
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -146,7 +146,7 @@ type: "statistics"
 | **Siam Amin** | 32 | 1 | 150 | 4 | 37.5 | 48 |
 | **Marcus Elwin** | 17 | 5 | 68 | 1 | 68 | 102 |
 
-## Career Batting (by Runs)
+## Career Batting (by runs)
 
 | Player | M | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|:--|
@@ -193,7 +193,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
 
-## Career Batting (by Runs)
+## Career Batting (by runs)
 
 | Player | M | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|:--|

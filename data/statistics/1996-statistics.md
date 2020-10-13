@@ -4,7 +4,7 @@ title: "2020 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by Runs)
+## Season Batting
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -39,7 +39,7 @@ type: "statistics"
 | **Ch Wright** | 0 | 0 | 0 | 0.0 |
 | **C Garland** | 0 | 0 | 0 | 0.0 |
 
-## Season Batting (by Batting Ave)
+## Season Batting (by ave)
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -74,7 +74,7 @@ type: "statistics"
 | **M Wright** | 1 | 1 | 7 | - |
 | **M Carlton** | 1 | 1 | 2 | - |
 
-## Season Bowling (by Wickets)
+## Season Bowling
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -97,7 +97,7 @@ type: "statistics"
 | **S Amin** | 0.1 | 0 | 0 | 0 | 0.00 | 0.00 |
 
 
-## Season Bowling (by Bowling Ave)
+## Season Bowling (by ave)
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -166,7 +166,7 @@ type: "statistics"
 | **John Stimpfig** | 29 | 22 | 4 | 262 | 14.56 |
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 
-## Career Batting by Ave (min 250 Runs)
+## Career Batting by ave (min 250 Runs)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -213,7 +213,7 @@ type: "statistics"
 | **Jerry Wright** | 379 | 183 | 72 | 922 | 8.31 |
 | **Richard Coyle** | 72 | 64 | 16 | 370 | 7.71 |
 
-## Career Bowling by Wkts (min 25 wkts)
+## Career Bowling (min 25 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -245,7 +245,7 @@ type: "statistics"
 | **Philip Beswick** | 46 | 125.1 | 5 | 669 | 28 | 23.89 | 26.81 |
 | **Andrew Slight** | 112 | 72.8 | 2 | 429 | 26 | 16.50 | 16.80 |
 
-## Career Bowling by Ave (min 25 wkts)
+## Career Bowling by ave (min 25 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

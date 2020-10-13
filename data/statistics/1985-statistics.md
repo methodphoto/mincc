@@ -4,7 +4,7 @@ title: "1985 Statistics"
 type: "statistics"
 ---
 
-## Season Batting (by runs)
+## Season Batting
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -88,7 +88,7 @@ type: "statistics"
 | **Peter Slowe** | 1 | 1 | 1 | 8 | ? |
 | **John Stimpfig** | 1 | 1 | 1 | 19 | ? |
 
-## Season bowling (by wkts)
+## Season Bowling
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -111,7 +111,7 @@ type: "statistics"
 | **Alex Beard** | 1 | 7 | 1 | 20 | 1 | 20 | 42 |
 | **James Colville** | 1 | 3 | 1 | 2 | 1 | 2 | 18 |
 
-## Season bowling (by ave)
+## Season Bowling (by ave)
 
 | Player | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
