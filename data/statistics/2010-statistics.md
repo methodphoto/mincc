@@ -46,7 +46,39 @@ type: "statistics"
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
-
+| **Tim Hammond** | 5 | 1 | 272 | 68 |
+| **Mark Gardiner** | 2 | 1 | 52 | 52 |
+| **Mohit Gupta** | 9 | 3 | 285 | 47.5 |
+| **Shaquille Ahmed** | 1 | 0 | 47 | 47 |
+| **William Calvert** | 11 | 3 | 243 | 30.38 |
+| **Richard Earney** | 13 | 1 | 285 | 23.75 |
+| **Steven Hornsby** | 2 | 0 | 42 | 21 |
+| **Clifford Ball** | 1 | 0 | 20 | 20 |
+| **Patrick Wigg** | 8 | 4 | 69 | 17.25 |
+| **Ijaz Manjra** | 1 | 0 | 15 | 15 |
+| **Devanka Pathak** | 4 | 0 | 59 | 14.75 |
+| **Richard Beswick** | 9 | 0 | 120 | 13.33 |
+| **Toby Carden** | 4 | 1 | 40 | 13.33 |
+| **Alf Beswick** | 1 | 0 | 13 | 13 |
+| **Tom Rutherford** | 9 | 1 | 94 | 11.75 |
+| **Harry Ingham** | 4 | 1 | 33 | 11 |
+| **Edward Garland** | 3 | 0 | 31 | 10.33 |
+| **Jim Grant** | 11 | 2 | 69 | 7.67 |
+| **Richard O’Hagan** | 3 | 0 | 18 | 6 |
+| **Jerry Wright** | 5 | 2 | 16 | 5.33 |
+| **Simon Barrowcliff** | 1 | 0 | 5 | 5 |
+| **Martin Goff** | 3 | 0 | 12 | 4 |
+| **Iqbal Miah** | 1 | 0 | 3 | 3 |
+| **Rafique Ahmed** | 1 | 0 | 3 | 3 |
+| **Andrew Slight** | 6 | 0 | 17 | 2.83 |
+| **Richard Green** | 1 | 0 | 2 | 2 |
+| **Simo Sorsa** | 1 | 0 | 2 | 2 |
+| **Richard Coyle** | 5 | 1 | 6 | 1.5 |
+| **Roland Huxley** | 2 | 0 | 1 | .5 |
+| **Granville Weekes** | 2 | 1 | 0 | 0 |
+| **Imran Peretta** | 1 | 0 | 0 | 0 |
+| **Ian Marshall** | 0 | 0 | 0 | ? |
+| **Janette Earney** | 1 | 1 | 0 | ? |
 
 ## Season Bowling (by Wickets)
 
@@ -77,7 +109,21 @@ type: "statistics"
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
-
+| **Ijaz Manjra** | .4 | 0 | 0 | 1 | 0 | 4 |
+| **Richard Green** | 2 | 0 | 6 | 1 | 6 | 12 |
+| **Harry Ingham** | 29.2 | 4 | 89 | 9 | 9.89 | 19.47 |
+| **Edward Garland** | 45.7 | 5 | 169 | 17 | 9.94 | 16.13 |
+| **Richard Beswick** | 57.4 | 11 | 225 | 19 | 11.84 | 18.13 |
+| **Granville Weekes** | 12 | 0 | 55 | 4 | 13.75 | 18 |
+| **Patrick Wigg** | 82.1 | 9 | 260 | 17 | 15.29 | 28.98 |
+| **Imran Peretta** | 2 | 0 | 16 | 1 | 16 | 12 |
+| **Jerry Wright** | 109 | 10 | 428 | 24 | 17.83 | 27.25 |
+| **Toby Carden** | 20 | 3 | 78 | 4 | 19.5 | 30 |
+| **Ian Marshall** | 6.5 | 1 | 23 | 1 | 23 | 39 |
+| **Tom Rutherford** | 47 | 6 | 215 | 7 | 30.71 | 40.29 |
+| **Richard Earney** | 13.4 | 1 | 68 | 2 | 34 | 40.2 |
+| **Mohit Gupta** | 44 | 8 | 168 | 4 | 42 | 66 |
+| **Iqbal Miah** | 8 | 0 | 56 | 1 | 56 | 48 |
 
 ## Career Batting (min 250 Runs)
 
