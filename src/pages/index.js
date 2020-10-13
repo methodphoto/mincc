@@ -1,6 +1,8 @@
 import React from 'react';
-import Layout from "../layouts/layout"
+//import Layout from "../layouts/layout"
+import Layout from "../styles/layout"
 import { graphql, useStaticQuery } from 'gatsby';
+
 const query = graphql`
   query {
   allMarkdownRemark(filter: {fileAbsolutePath: {regex: "//2020/fixtures.md$/"}}) {

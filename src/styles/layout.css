@@ -1,0 +1,61 @@
+body {
+margin: 1rem;
+font-family: Helvetica, sans-serif;
+}
+
+#container {
+    display: grid;
+    grid-template-columns: 33% 67%;
+}
+
+.section {
+    padding: 5% 5% 5% 5%;
+}
+
+#left {
+    background-color: #c0cadc;
+    top: 0;
+    box-sizing: border-box;
+}
+
+#right {
+    background-color: white;
+}
+
+li {list-style: none;}
+
+table {width: 100%;}
+
+p, th, td {font-size: 1rem; line-height: 1.35rem; text-align: left; color: #333f48;}
+
+h1 {font-size: 2rem; line-height: 2.1rem; color: #333f48;}
+h2 {font-size: 1.5rem; line-height: 1.75rem; color: rgb(204,0,0);}
+h3 {font-size: 1.2rem; line-height: 1.4rem; color: #666;}
+
+/* Accordion */
+
+/* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+  background-color: #c0cadc;
+  color: #333f48;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+  background-color: white;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+}
