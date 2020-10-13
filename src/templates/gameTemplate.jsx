@@ -1,5 +1,5 @@
 import React from 'react';
-import Layout from "../layouts/layout"
+import Layout from "../styles/layout"
 
 export default function GameTemplate({ pageContext }) {
   const { html, game, year, title, gameLocation, gameDate, result, serialNumber, resultType, shortReport,  } = pageContext;

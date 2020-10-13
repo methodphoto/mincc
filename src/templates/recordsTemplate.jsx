@@ -1,5 +1,5 @@
 import React from 'react';
-import Layout from "../layouts/layout"
+import Layout from "../styles/layout"
 
 export default function RecordsTemplate({ pageContext }) {
   const { html, type, slug, title,  } = pageContext;
