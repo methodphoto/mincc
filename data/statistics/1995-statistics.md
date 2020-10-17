@@ -5,6 +5,9 @@ type: "statistics"
 ---
 
 ## Season Batting (by runs)
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
 | **Simon Barrowcliff** | 8 | 1 | 332 | 47.42 |
 | **Richard Earney** | 13 | 0 | 303 | 23.30 |
 | **Richard Beswick** | 11 | 1 | 181 | 18.1 |

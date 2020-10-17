@@ -5,3 +5,127 @@ type: "statistics"
 ---
 
 ## Season Batting
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Richard Earney** | 11 | 2 | 299 | 33.22 |
+| **Steven Hornsby** | 3 | 3 | 218 | - |
+| **Richard Beswick** | 11 | 3 | 217 | 27.12 |
+| **Richard Kitson** | 7 | 2 | 146 | 29.2 |
+| **Ian Marshall** | 7 | 2 | 131 | 26.2 |
+| **William Calvert** | 4 | 2 | 105 | 52.5 |
+| **Jim Grant** | 5 | 1 | 103 | 25.75 |
+| **Pete Grant** | 7 | 0 | 102 | 14.57 |
+| **Richard Green** | 7 | 0 | 65 | 9.28 |
+| **James Hylton** | 1 | 0 | 54 | 54 |
+| **Edward Garland** | 5 | 1 | 40 | 10 |
+| **Henry Archer** | 1 | 0 | 24 | 24 |
+| **Philip Beswick** | 3 | 0 | 16 | 5.33 |
+| **Nicholas Beswick** | 1 | 0 | 15 | 15 |
+| **Paul O’Brien** | 3 | 0 | 12 | 4 |
+| **William Rowland** | 1 | 0 | 12 | 12 |
+| **Thomas Riley** | 1 | 0 | 12 | 12 |
+| **Matt Belfrage** | 2 | 0 | 11 | 5.5 |
+| **Tim Horsey** | 3 | 0 | 9 | 3 |
+| **Franklyn Barrett** | 1 | 1 | 9 | - |
+| **Mark Petre** | 1 | 0 | 6 | 6 |
+| **Edward Harcourt** | 1 | 0 | 5 | 5 |
+| **James Statham** | 1 | 0 | 3 | 3 |
+| **Steve Masterson** | 1 | 1 | 2 | - |
+| **David Runnals (artist)** | 1 | 1 | 0 | - |
+| **Alex Fortesque** | 1 | 0 | 0 | 0 |
+| **Al Desaram** | 0 | 0 | 0 | - |
+| **Stuart Vincent** | 0 | 0 | 0 | - |
+| **Jerry Wright** | 0 | 0 | 0 | - |
+| **Conway Allchorne** | 0 | 0 | 0 | - |
+| **Andrew Gordon** | 1 | 0 | 0 | 0 |
+| **Paul O’Mahony** | 0 | 0 | 0 | - |
+| **David Jones** | 0 | 0 | 0 | - |
+| **Taylor** | 0 | 0 | 0 | - |
+
+## Season Batting (by ave)
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **James Hylton** | 1 | 0 | 54 | 54 |
+| **William Calvert** | 4 | 2 | 105 | 52.5 |
+| **Richard Earney** | 11 | 2 | 299 | 33.22 |
+| **Richard Kitson** | 7 | 2 | 146 | 29.2 |
+| **Richard Beswick** | 11 | 3 | 217 | 27.12 |
+| **Ian Marshall** | 7 | 2 | 131 | 26.2 |
+| **Jim Grant** | 5 | 1 | 103 | 25.75 |
+| **Henry Archer** | 1 | 0 | 24 | 24 |
+| **Nicholas Beswick** | 1 | 0 | 15 | 15 |
+| **Pete Grant** | 7 | 0 | 102 | 14.57 |
+| **William Rowland** | 1 | 0 | 12 | 12 |
+| **Thomas Riley** | 1 | 0 | 12 | 12 |
+| **Edward Garland** | 5 | 1 | 40 | 10 |
+| **Richard Green** | 7 | 0 | 65 | 9.28 |
+| **Mark Petre** | 1 | 0 | 6 | 6 |
+| **Matt Belfrage** | 2 | 0 | 11 | 5.5 |
+| **Philip Beswick** | 3 | 0 | 16 | 5.33 |
+| **Edward Harcourt** | 1 | 0 | 5 | 5 |
+| **Paul O’Brien** | 3 | 0 | 12 | 4 |
+| **Tim Horsey** | 3 | 0 | 9 | 3 |
+| **James Statham** | 1 | 0 | 3 | 3 |
+| **Alex Fortesque** | 1 | 0 | 0 | 0 |
+| **Andrew Gordon** | 1 | 0 | 0 | 0 |
+| **David Runnals (artist)** | 1 | 1 | 0 | - |
+| **Steve Masterson** | 1 | 1 | 2 | - |
+| **Steven Hornsby** | 3 | 3 | 218 | - |
+| **Al Desaram** | 0 | 0 | 0 | - |
+| **Stuart Vincent** | 0 | 0 | 0 | - |
+| **Franklyn Barrett** | 1 | 1 | 9 | - |
+| **Jerry Wright** | 0 | 0 | 0 | - |
+| **Conway Allchorne** | 0 | 0 | 0 | - |
+| **Paul O’Mahony** | 0 | 0 | 0 | - |
+| **David Jones** | 0 | 0 | 0 | - |
+| **Taylor** | 0 | 0 | 0 | - |
+
+## Season Bowling
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Richard Green** | 88 | 15 | 262 | 25 | 10.48 | 21.12 |
+| **Richard Beswick** | 55.4 | 13 | 170 | 19 | 8.94 | 17.49 |
+| **Jerry Wright** | 28 | 3 | 122 | 6 | 20.33 | 28 |
+| **Richard Earney** | 37 | 5 | 159 | 5 | 31.8 | 44.4 |
+| **Ian Marshall** | 84.6 | 37 | 166 | 5 | 33.2 | 101.52 |
+| **Paul O’Brien** | 32 | 3 | 123 | 5 | 24.6 | 38.4 |
+| **Al Desaram** | 31.1 | 11 | 73 | 5 | 14.6 | 37.32 |
+| **Edward Garland** | 19 | 3 | 56 | 4 | 14 | 28.5 |
+| **Paul O’Mahony** | 5 | 2 | 9 | 4 | 2.25 | 7.5 |
+| **Richard Kitson** | 12 | 2 | 23 | 2 | 11.5 | 36 |
+| **Steve Masterson** | 16 | 3 | 34 | 2 | 17 | 48 |
+| **Franklyn Barrett** | 6 | 0 | 19 | 2 | 9.5 | 18 |
+| **James Statham** | 6 | 0 | 24 | 2 | 12 | 18 |
+| **William Rowland** | 1 | 0 | 2 | 1 | 2 | 6 |
+| **Conway Allchorne** | 7 | 0 | 30 | 1 | 30 | 42 |
+| **Thomas Riley** | 4 | 0 | 25 | 1 | 25 | 24 |
+| **Philip Beswick** | 8.3 | 0 | 55 | 0 | - | - |
+| **Steven Hornsby** | 3 | 0 | 15 | 0 | - | - |
+| **Edward Harcourt** | 3 | 0 | 16 | 0 | - | - |
+
+## Season Bowling
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **William Rowland** | 1 | 0 | 2 | 1 | 2 | 6 |
+| **Paul O’Mahony** | 5 | 2 | 9 | 4 | 2.25 | 7.5 |
+| **Richard Beswick** | 55.4 | 13 | 170 | 19 | 8.94 | 17.49 |
+| **Franklyn Barrett** | 6 | 0 | 19 | 2 | 9.5 | 18 |
+| **Richard Green** | 88 | 15 | 262 | 25 | 10.48 | 21.12 |
+| **Richard Kitson** | 12 | 2 | 23 | 2 | 11.5 | 36 |
+| **James Statham** | 6 | 0 | 24 | 2 | 12 | 18 |
+| **Edward Garland** | 19 | 3 | 56 | 4 | 14 | 28.5 |
+| **Al Desaram** | 31.1 | 11 | 73 | 5 | 14.6 | 37.32 |
+| **Steve Masterson** | 16 | 3 | 34 | 2 | 17 | 48 |
+| **Jerry Wright** | 28 | 3 | 122 | 6 | 20.33 | 28 |
+| **Paul O’Brien** | 32 | 3 | 123 | 5 | 24.6 | 38.4 |
+| **Thomas Riley** | 4 | 0 | 25 | 1 | 25 | 24 |
+| **Conway Allchorne** | 7 | 0 | 30 | 1 | 30 | 42 |
+| **Richard Earney** | 37 | 5 | 159 | 5 | 31.8 | 44.4 |
+| **Ian Marshall** | 84.6 | 37 | 166 | 5 | 33.2 | 101.52 |
+
+
+

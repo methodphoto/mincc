@@ -12,3 +12,6 @@ public/.DS_Store
 *.bbprojectd
 *.md#
 *.xlsx
+src/styles/menu.html
+src/styles/menu.js
+src/styles/test.html
