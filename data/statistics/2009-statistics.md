@@ -5,3 +5,113 @@ type: "statistics"
 ---
 
 ## Season Batting
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Mohit Gupta** | 11 | 2 | 459 | 51 |
+| **Richard Beswick** | 12 | 0 | 387 | 32.25 |
+| **Richard Earney** | 12 | 1 | 339 | 30.82 |
+| **Patrick Wigg** | 11 | 3 | 137 | 17.13 |
+| **David Wigg** | 6 | 1 | 133 | 26.6 |
+| **William Calvert** | 7 | 0 | 122 | 17.43 |
+| **Martin Goff** | 7 | 0 | 106 | 15.14 |
+| **Toby Carden** | 4 | 1 | 101 | 33.67 |
+| **Jim Grant** | 9 | 1 | 89 | 11.13 |
+| **Andrew Gallagher** | 3 | 0 | 71 | 23.67 |
+| **Ian Marshall** | 5 | 2 | 58 | 19.33 |
+| **Harry Ingham** | 3 | 1 | 52 | 26 |
+| **Shaquille Ahmed** | 2 | 1 | 51 | 51 |
+| **Edward Garland** | 4 | 3 | 41 | 41 |
+| **Simon Barrowcliff** | 3 | 0 | 35 | 11.67 |
+| **Andrew Moonie** | 1 | 0 | 29 | 29 |
+| **Andrew Slight** | 2 | 0 | 28 | 14 |
+| **Alf Beswick** | 4 | 0 | 28 | 7 |
+| **Steven Hornsby** | 2 | 0 | 24 | 12 |
+| **Iqbal Miah** | 2 | 1 | 17 | 17 |
+| **Jerry Wright** | 5 | 3 | 15 | 7.5 |
+| **Richard Coyle** | 2 | 0 | 9 | 4.5 |
+| **Gareth Powell** | 2 | 0 | 6 | 3 |
+| **Ralf Wilkinson** | 2 | 0 | 5 | 2.5 |
+| **Louis Barrowcliff** | 1 | 0 | 5 | 5 |
+| **Kit Gallagher** | 1 | 0 | 4 | 4 |
+| **Paul O’Mahony** | 2 | 1 | 3 | 3 |
+| **Thomas Barrowcliff** | 1 | 0 | 1 | 1 |
+| **Richard O’Hagan** | 1 | 0 | 0 | 0 |
+
+## Season Batting (by ave)
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Mohit Gupta** | 11 | 2 | 459 | 51 |
+| **Shaquille Ahmed** | 2 | 1 | 51 | 51 |
+| **Edward Garland** | 4 | 3 | 41 | 41 |
+| **Toby Carden** | 4 | 1 | 101 | 33.67 |
+| **Richard Beswick** | 12 | 0 | 387 | 32.25 |
+| **Richard Earney** | 12 | 1 | 339 | 30.82 |
+| **Andrew Moonie** | 1 | 0 | 29 | 29 |
+| **David Wigg** | 6 | 1 | 133 | 26.6 |
+| **Harry Ingham** | 3 | 1 | 52 | 26 |
+| **Andrew Gallagher** | 3 | 0 | 71 | 23.67 |
+| **Ian Marshall** | 5 | 2 | 58 | 19.33 |
+| **William Calvert** | 7 | 0 | 122 | 17.43 |
+| **Patrick Wigg** | 11 | 3 | 137 | 17.13 |
+| **Iqbal Miah** | 2 | 1 | 17 | 17 |
+| **Martin Goff** | 7 | 0 | 106 | 15.14 |
+| **Andrew Slight** | 2 | 0 | 28 | 14 |
+| **Steven Hornsby** | 2 | 0 | 24 | 12 |
+| **Simon Barrowcliff** | 3 | 0 | 35 | 11.67 |
+| **Jim Grant** | 9 | 1 | 89 | 11.13 |
+| **Jerry Wright** | 5 | 3 | 15 | 7.5 |
+| **Alf Beswick** | 4 | 0 | 28 | 7 |
+| **Louis Barrowcliff** | 1 | 0 | 5 | 5 |
+| **Richard Coyle** | 2 | 0 | 9 | 4.5 |
+| **Kit Gallagher** | 1 | 0 | 4 | 4 |
+| **Paul O’Mahony** | 2 | 1 | 3 | 3 |
+| **Gareth Powell** | 2 | 0 | 6 | 3 |
+| **Ralf Wilkinson** | 2 | 0 | 5 | 2.5 |
+| **Thomas Barrowcliff** | 1 | 0 | 1 | 1 |
+| **Richard O’Hagan** | 1 | 0 | 0 | 0 |
+
+## Season Bowling
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Mohit Gupta** | 84.3 | 8 | 330 | 26 | 12.69 | 19.45 |
+| **Richard Earney** | 46.5 | 3 | 210 | 16 | 13.13 | 17.44 |
+| **Edward Garland** | 36.8 | 5 | 160 | 13 | 12.31 | 16.98 |
+| **Richard Beswick** | 22 | 1 | 133 | 9 | 14.78 | 14.67 |
+| **Patrick Wigg** | 83 | 10 | 338 | 8 | 42.25 | 62.25 |
+| **Jerry Wright** | 69.5 | 5 | 325 | 7 | 46.43 | 59.57 |
+| **Harry Ingham** | 27 | 5 | 100 | 7 | 14.29 | 23.14 |
+| **Ian Marshall** | 23 | 5 | 103 | 5 | 20.6 | 27.6 |
+| **Kit Gallagher** | 8 | 1 | 34 | 4 | 8.5 | 12 |
+| **Alf Beswick** | 8 | 1 | 26 | 4 | 6.5 | 12 |
+| **Gareth Powell** | 18 | 4 | 74 | 4 | 18.5 | 27 |
+| **Iqbal Miah** | 17 | 0 | 107 | 2 | 53.5 | 51 |
+| **Richard O’Hagan** | 3 | 0 | 21 | 1 | 21 | 18 |
+| **Toby Carden** | 19 | 0 | 133 | 1 | 133 | 114 |
+| **Ralf Wilkinson** | 3 | 0 | 26 | 1 | 26 | 18 |
+| **William Calvert** | 3 | 1 | 9 | 0 | - | - |
+| **Andrew Slight** | 2 | 0 | 20 | 0 | - | - |
+| **Thomas Barrowcliff** | 3 | 0 | 30 | 0 | - | - |
+| **Paul O’Mahony** | 18 | 1 | 108 | 0 | - | - |
+
+## Season Bowling (by ave)
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Alf Beswick** | 8 | 1 | 26 | 4 | 6.5 | 12 |
+| **Kit Gallagher** | 8 | 1 | 34 | 4 | 8.5 | 12 |
+| **Edward Garland** | 36.8 | 5 | 160 | 13 | 12.31 | 16.98 |
+| **Mohit Gupta** | 84.3 | 8 | 330 | 26 | 12.69 | 19.45 |
+| **Richard Earney** | 46.5 | 3 | 210 | 16 | 13.13 | 17.44 |
+| **Harry Ingham** | 27 | 5 | 100 | 7 | 14.29 | 23.14 |
+| **Richard Beswick** | 22 | 1 | 133 | 9 | 14.78 | 14.67 |
+| **Gareth Powell** | 18 | 4 | 74 | 4 | 18.5 | 27 |
+| **Ian Marshall** | 23 | 5 | 103 | 5 | 20.6 | 27.6 |
+| **Richard O’Hagan** | 3 | 0 | 21 | 1 | 21 | 18 |
+| **Ralf Wilkinson** | 3 | 0 | 26 | 1 | 26 | 18 |
+| **Patrick Wigg** | 83 | 10 | 338 | 8 | 42.25 | 62.25 |
+| **Jerry Wright** | 69.5 | 5 | 325 | 7 | 46.43 | 59.57 |
+| **Iqbal Miah** | 17 | 0 | 107 | 2 | 53.5 | 51 |
+| **Toby Carden** | 19 | 0 | 133 | 1 | 133 | 114 |

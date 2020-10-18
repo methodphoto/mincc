@@ -5,3 +5,138 @@ type: "statistics"
 ---
 
 ## Season Batting
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Richard Earney** | 14 | 1 | 483 | 37.15 |
+| **Richard Beswick** | 11 | 3 | 284 | 35.5 |
+| **Harry Ingham** | 7 | 1 | 227 | 37.83 |
+| **Jim Grant** | 10 | 2 | 177 | 22.13 |
+| **Martin Goff** | 3 | 0 | 157 | 52.33 |
+| **Andrew Slight** | 9 | 1 | 131 | 16.38 |
+| **Simon Barrowcliff** | 3 | 1 | 79 | 39.5 |
+| **Richard Green** | 2 | 1 | 57 | 57 |
+| **Richard Coyle** | 7 | 2 | 49 | 9.8 |
+| **Edward Garland** | 4 | 2 | 48 | 24 |
+| **William Calvert** | 3 | 2 | 29 | 29 |
+| **Joel Smith** | 4 | 0 | 28 | 7 |
+| **Jerry Wright** | 5 | 1 | 26 | 6.5 |
+| **Ian Marshall** | 1 | 1 | 26 | - |
+| **Pete Grant** | 6 | 2 | 25 | 6.25 |
+| **Steve Masterson** | 2 | 0 | 24 | 12 |
+| **Mark Gardiner** | 2 | 1 | 18 | 18 |
+| **Nigel Putt** | 2 | 0 | 18 | 9 |
+| **Richard Kitson** | 2 | 0 | 13 | 6.5 |
+| **Peter Webb** | 1 | 0 | 10 | 10 |
+| **David Hambidge** | 1 | 0 | 8 | 8 |
+| **Andy Routley** | 1 | 0 | 5 | 5 |
+| **Boris Hopewell** | 1 | 0 | 5 | 5 |
+| **Mark Lockyear** | 1 | 0 | 4 | 4 |
+| **Dan Ward** | 1 | 0 | 2 | 2 |
+| **Graeme Wright** | 1 | 0 | 1 | 1 |
+| **Dylan James** | 1 | 0 | 1 | 1 |
+| **Gareth Powell** | 2 | 0 | 1 | .5 |
+| **Phill Jones** | 1 | 0 | 0 | 0 |
+| **Sam Hinton-Smith** | 1 | 1 | 0 | - |
+| **Paul O’Mahony** | 0 | 0 | 0 | - |
+| **Pete Bramhill** | 1 | 0 | 0 | 0 |
+| **Andrew Gallagher** | 1 | 0 | 0 | 0 |
+| **Thomas Barrowcliff** | 0 | 0 | 0 | - |
+| **Tim Horsey** | 1 | 0 | 0 | 0 |
+| **Thomas Riley** | 0 | 0 | 0 | - |
+| **Robert Owen** | 1 | 0 | 0 | 0 |
+| **Alexander Naunton-Davies** | 1 | 0 | 0 | 0 |
+| **John Naunton-Davies** | 1 | 1 | 0 | - |
+| **Mark Mason** | 1 | 0 | 0 | 0 |
+
+## Season Batting (by ave)
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Richard Green** | 2 | 1 | 57 | 57 |
+| **Martin Goff** | 3 | 0 | 157 | 52.33 |
+| **Simon Barrowcliff** | 3 | 1 | 79 | 39.5 |
+| **Harry Ingham** | 7 | 1 | 227 | 37.83 |
+| **Richard Earney** | 14 | 1 | 483 | 37.15 |
+| **Richard Beswick** | 11 | 3 | 284 | 35.5 |
+| **William Calvert** | 3 | 2 | 29 | 29 |
+| **Edward Garland** | 4 | 2 | 48 | 24 |
+| **Jim Grant** | 10 | 2 | 177 | 22.13 |
+| **Mark Gardiner** | 2 | 1 | 18 | 18 |
+| **Andrew Slight** | 9 | 1 | 131 | 16.38 |
+| **Steve Masterson** | 2 | 0 | 24 | 12 |
+| **Peter Webb** | 1 | 0 | 10 | 10 |
+| **Richard Coyle** | 7 | 2 | 49 | 9.8 |
+| **Nigel Putt** | 2 | 0 | 18 | 9 |
+| **David Hambidge** | 1 | 0 | 8 | 8 |
+| **Joel Smith** | 4 | 0 | 28 | 7 |
+| **Jerry Wright** | 5 | 1 | 26 | 6.5 |
+| **Richard Kitson** | 2 | 0 | 13 | 6.5 |
+| **Pete Grant** | 6 | 2 | 25 | 6.25 |
+| **Andy Routley** | 1 | 0 | 5 | 5 |
+| **Boris Hopewell** | 1 | 0 | 5 | 5 |
+| **Mark Lockyear** | 1 | 0 | 4 | 4 |
+| **Dan Ward** | 1 | 0 | 2 | 2 |
+| **Graeme Wright** | 1 | 0 | 1 | 1 |
+| **Dylan James** | 1 | 0 | 1 | 1 |
+| **Gareth Powell** | 2 | 0 | 1 | .5 |
+| **Phill Jones** | 1 | 0 | 0 | 0 |
+| **Pete Bramhill** | 1 | 0 | 0 | 0 |
+| **Andrew Gallagher** | 1 | 0 | 0 | 0 |
+| **Tim Horsey** | 1 | 0 | 0 | 0 |
+| **Robert Owen** | 1 | 0 | 0 | 0 |
+| **Alexander Naunton-Davies** | 1 | 0 | 0 | 0 |
+| **Mark Mason** | 1 | 0 | 0 | 0 |
+| **Ian Marshall** | 1 | 1 | 26 | - |
+| **Sam Hinton-Smith** | 1 | 1 | 0 | - |
+| **Paul O’Mahony** | 0 | 0 | 0 | - |
+| **Thomas Barrowcliff** | 0 | 0 | 0 | - |
+| **Thomas Riley** | 0 | 0 | 0 | - |
+| **John Naunton-Davies** | 1 | 1 | 0 | - |
+
+## Season Bowling
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Jerry Wright** | 109 | 15 | 475 | 20 | 23.75 | 32.7 |
+| **Harry Ingham** | 74 | 19 | 179 | 9 | 19.89 | 49.33 |
+| **Edward Garland** | 35.4 | 2 | 158 | 9 | 17.56 | 23.6 |
+| **Richard Earney** | 44 | 2 | 198 | 8 | 24.75 | 33 |
+| **Nigel Putt** | 26 | 3 | 88 | 6 | 14.67 | 26 |
+| **Ian Marshall** | 62 | 10 | 204 | 5 | 40.8 | 74.4 |
+| **Richard Beswick** | 55.3 | 11 | 185 | 3 | 61.67 | 110.6 |
+| **Steve Masterson** | 19 | 2 | 83 | 3 | 27.67 | 38 |
+| **Robert Owen** | 10 | 1 | 46 | 3 | 15.33 | 20 |
+| **Peter Webb** | 12 | 1 | 59 | 3 | 19.67 | 24 |
+| **Richard Green** | 13.6 | 1 | 67 | 2 | 33.5 | 40.8 |
+| **Joel Smith** | 4 | 0 | 17 | 1 | 17 | 24 |
+| **Graeme Wright** | 8 | 2 | 15 | 1 | 15 | 48 |
+| **Andy Routley** | 3 | 0 | 19 | 1 | 19 | 18 |
+| **Mark Lockyear** | 2 | 0 | 25 | 1 | 25 | 12 |
+| **Paul O’Mahony** | 19 | 5 | 81 | 1 | 81 | 114 |
+| **Gareth Powell** | 16 | 1 | 65 | 1 | 65 | 96 |
+| **Mark Gardiner** | 1 | 0 | 9 | 0 | - | - |
+| **William Calvert** | 7 | 2 | 19 | 0 | - | - |
+| **Dylan James** | 2 | 0 | 19 | 0 | - | - |
+| **Boris Hopewell** | 3 | 0 | 11 | 0 | - | - |
+
+## Season Bowling (by ave)
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Graeme Wright** | 8 | 2 | 15 | 1 | 15 | 48 |
+| **Robert Owen** | 10 | 1 | 46 | 3 | 15.33 | 20 |
+| **Joel Smith** | 4 | 0 | 17 | 1 | 17 | 24 |
+| **Edward Garland** | 35.4 | 2 | 158 | 9 | 17.56 | 23.6 |
+| **Andy Routley** | 3 | 0 | 19 | 1 | 19 | 18 |
+| **Peter Webb** | 12 | 1 | 59 | 3 | 19.67 | 24 |
+| **Harry Ingham** | 74 | 19 | 179 | 9 | 19.89 | 49.33 |
+| **Jerry Wright** | 109 | 15 | 475 | 20 | 23.75 | 32.7 |
+| **Richard Earney** | 44 | 2 | 198 | 8 | 24.75 | 33 |
+| **Mark Lockyear** | 2 | 0 | 25 | 1 | 25 | 12 |
+| **Steve Masterson** | 19 | 2 | 83 | 3 | 27.67 | 38 |
+| **Richard Green** | 13.6 | 1 | 67 | 2 | 33.5 | 40.8 |
+| **Ian Marshall** | 62 | 10 | 204 | 5 | 40.8 | 74.4 |
+| **Richard Beswick** | 55.3 | 11 | 185 | 3 | 61.67 | 110.6 |
+| **Gareth Powell** | 16 | 1 | 65 | 1 | 65 | 96 |
+| **Paul O’Mahony** | 19 | 5 | 81 | 1 | 81 | 114 |

@@ -5,3 +5,102 @@ type: "statistics"
 ---
 
 ## Season Batting
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Richard Earney** | 11 | 1 | 402 | 40.2 |
+| **Jim Grant** | 9 | 0 | 223 | 24.77 |
+| **Richard Beswick** | 13 | 1 | 206 | 17.16 |
+| **Ian Marshall** | 8 | 1 | 202 | 28.85 |
+| **Andrew Slight** | 10 | 0 | 132 | 13.2 |
+| **Harry Ingham** | 7 | 3 | 70 | 17.5 |
+| **Joel Smith** | 5 | 1 | 61 | 15.25 |
+| **William Calvert** | 5 | 0 | 51 | 10.2 |
+| **Jerry Wright** | 8 | 7 | 51 | 51 |
+| **Richard Kitson** | 6 | 0 | 43 | 7.16 |
+| **Richard Osbourne** | 2 | 1 | 41 | 41 |
+| **Richard Coyle** | 10 | 2 | 38 | 4.75 |
+| **Gareth Powell** | 5 | 0 | 33 | 6.6 |
+| **John Case** | 1 | 1 | 20 | - |
+| **Chris Dyer** | 2 | 0 | 19 | 9.5 |
+| **Pete Grant** | 6 | 1 | 13 | 2.6 |
+| **Richard Green** | 1 | 0 | 13 | 13 |
+| **Alex Haslam** | 1 | 1 | 9 | - |
+| **Dan Ward** | 3 | 0 | 9 | 3 |
+| **Paul O’Mahony** | 1 | 1 | 9 | - |
+| **Edward Garland** | 2 | 1 | 7 | 7 |
+| **Andrew Gallagher** | 1 | 0 | 5 | 5 |
+| **David Hambidge** | 0 | 0 | 0 | - |
+| **David Young** | 0 | 0 | 0 | - |
+| **Nigel Putt** | 0 | 0 | 0 | - |
+| **Steven Hornsby** | 2 | 0 | 0 | 0 |
+
+## Season Batting (by ave)
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Jerry Wright** | 8 | 7 | 51 | 51 |
+| **Richard Osbourne** | 2 | 1 | 41 | 41 |
+| **Richard Earney** | 11 | 1 | 402 | 40.2 |
+| **Ian Marshall** | 8 | 1 | 202 | 28.85 |
+| **Jim Grant** | 9 | 0 | 223 | 24.77 |
+| **Harry Ingham** | 7 | 3 | 70 | 17.5 |
+| **Richard Beswick** | 13 | 1 | 206 | 17.16 |
+| **Joel Smith** | 5 | 1 | 61 | 15.25 |
+| **Andrew Slight** | 10 | 0 | 132 | 13.2 |
+| **Richard Green** | 1 | 0 | 13 | 13 |
+| **William Calvert** | 5 | 0 | 51 | 10.2 |
+| **Chris Dyer** | 2 | 0 | 19 | 9.5 |
+| **Richard Kitson** | 6 | 0 | 43 | 7.16 |
+| **Edward Garland** | 2 | 1 | 7 | 7 |
+| **Gareth Powell** | 5 | 0 | 33 | 6.6 |
+| **Andrew Gallagher** | 1 | 0 | 5 | 5 |
+| **Richard Coyle** | 10 | 2 | 38 | 4.75 |
+| **Dan Ward** | 3 | 0 | 9 | 3 |
+| **Pete Grant** | 6 | 1 | 13 | 2.6 |
+| **Steven Hornsby** | 2 | 0 | 0 | 0 |
+| **Alex Haslam** | 1 | 1 | 9 | - |
+| **David Hambidge** | 0 | 0 | 0 | - |
+| **David Young** | 0 | 0 | 0 | - |
+| **Nigel Putt** | 0 | 0 | 0 | - |
+| **Paul O’Mahony** | 1 | 1 | 9 | - |
+| **John Case** | 1 | 1 | 20 | - |
+
+
+## Season Bowling
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Jerry Wright** | 102.1 | 16 | 373 | 26 | 14.34 | 23.56 |
+| **Ian Marshall** | 88.5 | 26 | 240 | 16 | 15 | 33.18 |
+| **Gareth Powell** | 80.3 | 12 | 271 | 13 | 20.84 | 37.06 |
+| **Harry Ingham** | 72.3 | 13 | 253 | 10 | 25.3 | 43.38 |
+| **Richard Osbourne** | 29 | 4 | 90 | 7 | 12.85 | 24.85 |
+| **Richard Earney** | 28 | 3 | 141 | 5 | 28.2 | 33.6 |
+| **Richard Beswick** | 27 | 3 | 125 | 4 | 31.25 | 40.5 |
+| **Edward Garland** | 9 | 3 | 43 | 3 | 14.33 | 18 |
+| **John Case** | 6.5 | 2 | 10 | 3 | 3.33 | 13 |
+| **Richard Kitson** | 5 | 0 | 33 | 2 | 16.5 | 15 |
+| **Joel Smith** | 19 | 0 | 110 | 2 | 55 | 57 |
+| **Richard Green** | 10 | 0 | 50 | 2 | 25 | 30 |
+| **William Calvert** | 6 | 0 | 31 | 1 | 31 | 36 |
+| **Paul O’Mahony** | 6 | 0 | 33 | 0 | - | - |
+| **Steven Hornsby** | 5 | 1 | 15 | 0 | - | - |
+
+## Season Bowling (by ave)
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **John Case** | 6.5 | 2 | 10 | 3 | 3.33 | 13 |
+| **Richard Osbourne** | 29 | 4 | 90 | 7 | 12.85 | 24.85 |
+| **Edward Garland** | 9 | 3 | 43 | 3 | 14.33 | 18 |
+| **Jerry Wright** | 102.1 | 16 | 373 | 26 | 14.34 | 23.56 |
+| **Ian Marshall** | 88.5 | 26 | 240 | 16 | 15 | 33.18 |
+| **Richard Kitson** | 5 | 0 | 33 | 2 | 16.5 | 15 |
+| **Gareth Powell** | 80.3 | 12 | 271 | 13 | 20.84 | 37.06 |
+| **Richard Green** | 10 | 0 | 50 | 2 | 25 | 30 |
+| **Harry Ingham** | 72.3 | 13 | 253 | 10 | 25.3 | 43.38 |
+| **Richard Earney** | 28 | 3 | 141 | 5 | 28.2 | 33.6 |
+| **William Calvert** | 6 | 0 | 31 | 1 | 31 | 36 |
+| **Richard Beswick** | 27 | 3 | 125 | 4 | 31.25 | 40.5 |
+| **Joel Smith** | 19 | 0 | 110 | 2 | 55 | 57 |

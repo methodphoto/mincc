@@ -5,3 +5,118 @@ type: "statistics"
 ---
 
 ## Season Batting
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Richard Earney** | 11 | 0 | 306 | 27.82 |
+| **Patrick Wigg** | 9 | 4 | 203 | 40.6 |
+| **Martin Goff** | 5 | 0 | 149 | 29.8 |
+| **Richard Beswick** | 11 | 0 | 137 | 12.45 |
+| **Jim Grant** | 9 | 0 | 130 | 14.44 |
+| **Andrew Slight** | 10 | 1 | 103 | 11.44 |
+| **Tom Rutherford** | 10 | 1 | 94 | 10.44 |
+| **Edward Garland** | 6 | 2 | 56 | 14 |
+| **Richard Kitson** | 2 | 1 | 50 | 50 |
+| **Simon Barrowcliff** | 1 | 0 | 42 | 42 |
+| **Richard Coyle** | 8 | 1 | 40 | 5.71 |
+| **Pete Grant** | 4 | 0 | 30 | 7.5 |
+| **Jerry Wright** | 5 | 2 | 29 | 9.67 |
+| **Ian Marshall** | 4 | 1 | 27 | 9 |
+| **Mohit Gupta** | 2 | 0 | 27 | 13.5 |
+| **Gordon Daley** | 2 | 0 | 25 | 12.5 |
+| **Richard O’Hagan** | 2 | 2 | 17 | - |
+| **Gareth Powell** | 2 | 1 | 14 | 14 |
+| **Paul O’Mahony** | 6 | 3 | 12 | 4 |
+| **Dan Griffiths** | 1 | 0 | 11 | 11 |
+| **Frank Fraser** | 1 | 0 | 8 | 8 |
+| **William Calvert** | 2 | 0 | 7 | 3.5 |
+| **Andy Woodbridge** | 1 | 0 | 6 | 6 |
+| **Alex Binns** | 1 | 0 | 3 | 3 |
+| **Philip Beswick** | 3 | 0 | 1 | .33 |
+| **Alf Beswick** | 3 | 0 | 0 | 0 |
+| **Alex Fitzgerald** | 0 | 0 | 0 | - |
+| **Mark Gardiner** | 0 | 0 | 0 | - |
+| **Alan Sylvester** | 0 | 0 | 0 | - |
+| **Alan Fraser** | 0 | 0 | 0 | - |
+| **Tom Simmonds** | 1 | 1 | 0 | - |
+| **David Hambidge** | 1 | 0 | 0 | 0 |
+| **Iqbal Miah** | 1 | 0 | 0 | 0 |
+| **Mark Bates** | 0 | 0 | 0 | - |
+
+## Season Batting (by ave)
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Richard Kitson** | 2 | 1 | 50 | 50 |
+| **Simon Barrowcliff** | 1 | 0 | 42 | 42 |
+| **Patrick Wigg** | 9 | 4 | 203 | 40.6 |
+| **Martin Goff** | 5 | 0 | 149 | 29.8 |
+| **Richard Earney** | 11 | 0 | 306 | 27.82 |
+| **Jim Grant** | 9 | 0 | 130 | 14.44 |
+| **Edward Garland** | 6 | 2 | 56 | 14 |
+| **Gareth Powell** | 2 | 1 | 14 | 14 |
+| **Mohit Gupta** | 2 | 0 | 27 | 13.5 |
+| **Gordon Daley** | 2 | 0 | 25 | 12.5 |
+| **Richard Beswick** | 11 | 0 | 137 | 12.45 |
+| **Andrew Slight** | 10 | 1 | 103 | 11.44 |
+| **Dan Griffiths** | 1 | 0 | 11 | 11 |
+| **Tom Rutherford** | 10 | 1 | 94 | 10.44 |
+| **Jerry Wright** | 5 | 2 | 29 | 9.67 |
+| **Ian Marshall** | 4 | 1 | 27 | 9 |
+| **Frank Fraser** | 1 | 0 | 8 | 8 |
+| **Pete Grant** | 4 | 0 | 30 | 7.5 |
+| **Andy Woodbridge** | 1 | 0 | 6 | 6 |
+| **Richard Coyle** | 8 | 1 | 40 | 5.71 |
+| **Paul O’Mahony** | 6 | 3 | 12 | 4 |
+| **William Calvert** | 2 | 0 | 7 | 3.5 |
+| **Alex Binns** | 1 | 0 | 3 | 3 |
+| **Philip Beswick** | 3 | 0 | 1 | .33 |
+| **Alf Beswick** | 3 | 0 | 0 | 0 |
+| **David Hambidge** | 1 | 0 | 0 | 0 |
+| **Iqbal Miah** | 1 | 0 | 0 | 0 |
+| **Richard O’Hagan** | 2 | 2 | 17 | - |
+| **Alex Fitzgerald** | 0 | 0 | 0 | - |
+| **Mark Gardiner** | 0 | 0 | 0 | - |
+| **Alan Sylvester** | 0 | 0 | 0 | - |
+| **Alan Fraser** | 0 | 0 | 0 | - |
+| **Tom Simmonds** | 1 | 1 | 0 | - |
+| **Mark Bates** | 0 | 0 | 0 | - |
+
+## Season Bowling
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Jerry Wright** | 80.5 | 12 | 259 | 21 | 12.33 | 23 |
+| **Patrick Wigg** | 50 | 7 | 186 | 17 | 10.94 | 17.65 |
+| **Edward Garland** | 37.1 | 3 | 132 | 11 | 12 | 20.24 |
+| **Tom Rutherford** | 66 | 10 | 206 | 9 | 22.89 | 44 |
+| **Paul O’Mahony** | 59.3 | 5 | 226 | 8 | 28.25 | 44.48 |
+| **Ian Marshall** | 40 | 8 | 139 | 7 | 19.86 | 34.29 |
+| **Richard Earney** | 20 | 1 | 88 | 5 | 17.6 | 24 |
+| **Andrew Slight** | 8.7 | 1 | 34 | 3 | 11.33 | 17.4 |
+| **Gareth Powell** | 13 | 1 | 55 | 3 | 18.33 | 26 |
+| **Andy Woodbridge** | 6 | 0 | 34 | 3 | 11.33 | 12 |
+| **Iqbal Miah** | 4.3 | 1 | 5 | 3 | 1.67 | 8.6 |
+| **Alex Binns** | 8 | 0 | 42 | 1 | 42 | 48 |
+| **Mohit Gupta** | 12 | 1 | 62 | 1 | 62 | 72 |
+| **Richard Beswick** | 13.1 | 2 | 88 | 0 | - | - |
+| **Philip Beswick** | 2 | 0 | 18 | 0 | - | - |
+| **Tom Simmonds** | 8 | 2 | 35 | 0 | - | - |
+
+## Season Bowling (by ave)
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Iqbal Miah** | 4.3 | 1 | 5 | 3 | 1.67 | 8.6 |
+| **Patrick Wigg** | 50 | 7 | 186 | 17 | 10.94 | 17.65 |
+| **Andrew Slight** | 8.7 | 1 | 34 | 3 | 11.33 | 17.4 |
+| **Andy Woodbridge** | 6 | 0 | 34 | 3 | 11.33 | 12 |
+| **Edward Garland** | 37.1 | 3 | 132 | 11 | 12 | 20.24 |
+| **Jerry Wright** | 80.5 | 12 | 259 | 21 | 12.33 | 23 |
+| **Richard Earney** | 20 | 1 | 88 | 5 | 17.6 | 24 |
+| **Gareth Powell** | 13 | 1 | 55 | 3 | 18.33 | 26 |
+| **Ian Marshall** | 40 | 8 | 139 | 7 | 19.86 | 34.29 |
+| **Tom Rutherford** | 66 | 10 | 206 | 9 | 22.89 | 44 |
+| **Paul O’Mahony** | 59.3 | 5 | 226 | 8 | 28.25 | 44.48 |
+| **Alex Binns** | 8 | 0 | 42 | 1 | 42 | 48 |
+| **Mohit Gupta** | 12 | 1 | 62 | 1 | 62 | 72 |

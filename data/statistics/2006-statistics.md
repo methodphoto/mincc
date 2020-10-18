@@ -5,3 +5,113 @@ type: "statistics"
 ---
 
 ## Season Batting
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Richard Earney** | 14 | 1 | 527 | 40.54 |
+| **Martin Goff** | 7 | 2 | 348 | 69.6 |
+| **Richard Beswick** | 13 | 4 | 268 | 29.78 |
+| **Edward Garland** | 6 | 2 | 106 | 26.5 |
+| **Tom Rutherford** | 9 | 0 | 92 | 10.22 |
+| **Jim Grant** | 9 | 0 | 92 | 10.22 |
+| **Patrick Wigg** | 6 | 2 | 57 | 14.25 |
+| **Paul O’Mahony** | 3 | 2 | 55 | 55 |
+| **Andrew Slight** | 12 | 2 | 48 | 4.8 |
+| **Sam Blake** | 1 | 0 | 46 | 46 |
+| **William Calvert** | 5 | 1 | 39 | 9.75 |
+| **Richard Coyle** | 6 | 1 | 37 | 7.4 |
+| **Harry Ingham** | 4 | 0 | 36 | 9 |
+| **Jerry Wright** | 4 | 1 | 22 | 7.33 |
+| **Andrew Moonie** | 1 | 0 | 22 | 22 |
+| **Ian Marshall** | 3 | 1 | 19 | 9.5 |
+| **Philip Beswick** | 6 | 1 | 16 | 3.2 |
+| **Will Sidelsky** | 1 | 0 | 14 | 14 |
+| **Richard Green** | 1 | 0 | 12 | 12 |
+| **Gareth Powell** | 2 | 1 | 10 | 10 |
+| **Andrew Gallagher** | 3 | 0 | 10 | 3.33 |
+| **Simon Barrowcliff** | 1 | 0 | 7 | 7 |
+| **Imran Majid** | 2 | 0 | 3 | 1.5 |
+| **Gareth Williams** | 1 | 1 | 2 | - |
+| **Alf Beswick** | 2 | 0 | 0 | 0 |
+| **Phil Hulston** | 0 | 0 | 0 | - |
+| **James Cram** | 1 | 0 | 0 | 0 |
+| **Daniel Magill** | 1 | 0 | 0 | 0 |
+| **Ted Ingham** | 1 | 0 | 0 | 0 |
+| **Pete Grant** | 1 | 0 | 0 | 0 |
+
+## Season Batting (by ave)
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Martin Goff** | 7 | 2 | 348 | 69.6 |
+| **Paul O’Mahony** | 3 | 2 | 55 | 55 |
+| **Sam Blake** | 1 | 0 | 46 | 46 |
+| **Richard Earney** | 14 | 1 | 527 | 40.54 |
+| **Richard Beswick** | 13 | 4 | 268 | 29.78 |
+| **Edward Garland** | 6 | 2 | 106 | 26.5 |
+| **Andrew Moonie** | 1 | 0 | 22 | 22 |
+| **Patrick Wigg** | 6 | 2 | 57 | 14.25 |
+| **Will Sidelsky** | 1 | 0 | 14 | 14 |
+| **Richard Green** | 1 | 0 | 12 | 12 |
+| **Tom Rutherford** | 9 | 0 | 92 | 10.22 |
+| **Jim Grant** | 9 | 0 | 92 | 10.22 |
+| **Gareth Powell** | 2 | 1 | 10 | 10 |
+| **William Calvert** | 5 | 1 | 39 | 9.75 |
+| **Ian Marshall** | 3 | 1 | 19 | 9.5 |
+| **Harry Ingham** | 4 | 0 | 36 | 9 |
+| **Richard Coyle** | 6 | 1 | 37 | 7.4 |
+| **Jerry Wright** | 4 | 1 | 22 | 7.33 |
+| **Simon Barrowcliff** | 1 | 0 | 7 | 7 |
+| **Andrew Slight** | 12 | 2 | 48 | 4.8 |
+| **Andrew Gallagher** | 3 | 0 | 10 | 3.33 |
+| **Philip Beswick** | 6 | 1 | 16 | 3.2 |
+| **Imran Majid** | 2 | 0 | 3 | 1.5 |
+| **Alf Beswick** | 2 | 0 | 0 | 0 |
+| **James Cram** | 1 | 0 | 0 | 0 |
+| **Daniel Magill** | 1 | 0 | 0 | 0 |
+| **Ted Ingham** | 1 | 0 | 0 | 0 |
+| **Pete Grant** | 1 | 0 | 0 | 0 |
+| **Phil Hulston** | 0 | 0 | 0 | - |
+| **Gareth Williams** | 1 | 1 | 2 | - |
+
+## Season Bowling
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Jerry Wright** | 113.4 | 22 | 391 | 33 | 11.85 | 20.62 |
+| **Tom Rutherford** | 67.7 | 6 | 284 | 18 | 15.78 | 22.57 |
+| **Edward Garland** | 54 | 5 | 251 | 16 | 15.69 | 20.25 |
+| **Paul O’Mahony** | 55 | 9 | 197 | 12 | 16.42 | 27.5 |
+| **Harry Ingham** | 42 | 8 | 131 | 9 | 14.56 | 28 |
+| **Richard Beswick** | 28 | 3 | 112 | 4 | 28 | 42 |
+| **Patrick Wigg** | 64 | 10 | 259 | 4 | 64.75 | 96 |
+| **Ian Marshall** | 28 | 6 | 145 | 4 | 36.25 | 42 |
+| **Richard Earney** | 34 | 2 | 158 | 1 | 158 | 204 |
+| **Philip Beswick** | 4.4 | 0 | 28 | 1 | 28 | 26.4 |
+| **Gareth Williams** | 2 | 0 | 17 | 1 | 17 | 12 |
+| **Richard Green** | 7 | 0 | 35 | 1 | 35 | 42 |
+| **Andrew Slight** | 7 | 0 | 62 | 0 | - | - |
+| **William Calvert** | 3 | 0 | 9 | 0 | - | - |
+| **Alf Beswick** | 2 | 0 | 12 | 0 | - | - |
+| **Gareth Powell** | 18 | 1 | 72 | 0 | - | - |
+| **Andrew Gallagher** | 3 | 0 | 18 | 0 | - | - |
+| **Daniel Magill** | 2 | 0 | 25 | 0 | - | - |
+| **Ted Ingham** | 3 | 0 | 36 | 0 | - | - |
+| **Sam Blake** | 2.5 | 0 | 28 | 0 | - | - |
+
+## Season Bowling (by ave)
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Jerry Wright** | 113.4 | 22 | 391 | 33 | 11.85 | 20.62 |
+| **Harry Ingham** | 42 | 8 | 131 | 9 | 14.56 | 28 |
+| **Edward Garland** | 54 | 5 | 251 | 16 | 15.69 | 20.25 |
+| **Tom Rutherford** | 67.7 | 6 | 284 | 18 | 15.78 | 22.57 |
+| **Paul O’Mahony** | 55 | 9 | 197 | 12 | 16.42 | 27.5 |
+| **Gareth Williams** | 2 | 0 | 17 | 1 | 17 | 12 |
+| **Richard Beswick** | 28 | 3 | 112 | 4 | 28 | 42 |
+| **Philip Beswick** | 4.4 | 0 | 28 | 1 | 28 | 26.4 |
+| **Richard Green** | 7 | 0 | 35 | 1 | 35 | 42 |
+| **Ian Marshall** | 28 | 6 | 145 | 4 | 36.25 | 42 |
+| **Patrick Wigg** | 64 | 10 | 259 | 4 | 64.75 | 96 |
+| **Richard Earney** | 34 | 2 | 158 | 1 | 158 | 204 |

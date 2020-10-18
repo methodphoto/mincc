@@ -5,3 +5,143 @@ type: "statistics"
 ---
 
 ## Season Batting
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Richard Earney** | 13 | 2 | 603 | 54.82 |
+| **Richard Beswick** | 14 | 2 | 241 | 20.08 |
+| **Andrew Slight** | 14 | 0 | 176 | 12.57 |
+| **Harry Ingham** | 9 | 2 | 149 | 21.29 |
+| **Martin Goff** | 5 | 0 | 145 | 29 |
+| **Richard Kitson** | 4 | 0 | 139 | 34.75 |
+| **William Calvert** | 8 | 0 | 121 | 15.13 |
+| **Jim Grant** | 9 | 0 | 113 | 12.56 |
+| **Ian Marshall** | 5 | 1 | 92 | 23 |
+| **Simon Barrowcliff** | 3 | 0 | 85 | 28.33 |
+| **David Hambidge** | 2 | 1 | 77 | 77 |
+| **Richard Coyle** | 10 | 4 | 75 | 12.5 |
+| **Jerry Wright** | 6 | 0 | 42 | 7 |
+| **Richard Green** | 2 | 1 | 33 | 33 |
+| **Pete Grant** | 6 | 2 | 32 | 8 |
+| **Gareth Powell** | 4 | 4 | 25 | - |
+| **Andrew Gallagher** | 2 | 1 | 25 | 25 |
+| **Fred Ingham** | 2 | 0 | 23 | 11.5 |
+| **Boris Hopewell** | 1 | 0 | 23 | 23 |
+| **James Kenny** | 2 | 1 | 17 | 17 |
+| **Will Wilkin** | 1 | 1 | 15 | - |
+| **Thomas Riley** | 2 | 0 | 13 | 6.5 |
+| **Ted Ingham** | 2 | 0 | 11 | 5.5 |
+| **Richard O’Hagan** | 3 | 1 | 6 | 3 |
+| **Philip Beswick** | 2 | 0 | 6 | 3 |
+| **Nick Coleman** | 1 | 0 | 4 | 4 |
+| **Alf Beswick** | 1 | 0 | 3 | 3 |
+| **Paul O’Mahony** | 4 | 1 | 2 | .67 |
+| **Ian Crichton** | 1 | 0 | 1 | 1 |
+| **Nicolas Beswick** | 1 | 0 | 1 | 1 |
+| **Graeme Wright** | 0 | 0 | 0 | - |
+| **James O’Mahony** | 1 | 0 | 0 | 0 |
+| **Sam Wilkin** | 1 | 0 | 0 | 0 |
+| **Edward Garland** | 1 | 1 | 0 | - |
+| **Andrew Holmes** | 1 | 0 | 0 | 0 |
+| **Rodger Ingham** | 1 | 1 | 0 | - |
+| **Corin Gallagher** | 0 | 0 | 0 | - |
+| **Kit Gallagher** | 0 | 0 | 0 | - |
+| **Christopher Wright** | 0 | 0 | 0 | - |
+| **Christopher Wright** | 0 | 0 | 0 | - |
+
+## Season Batting (by ave)
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **David Hambidge** | 2 | 1 | 77 | 77 |
+| **Richard Earney** | 13 | 2 | 603 | 54.82 |
+| **Richard Kitson** | 4 | 0 | 139 | 34.75 |
+| **Richard Green** | 2 | 1 | 33 | 33 |
+| **Martin Goff** | 5 | 0 | 145 | 29 |
+| **Simon Barrowcliff** | 3 | 0 | 85 | 28.33 |
+| **Andrew Gallagher** | 2 | 1 | 25 | 25 |
+| **Ian Marshall** | 5 | 1 | 92 | 23 |
+| **Boris Hopewell** | 1 | 0 | 23 | 23 |
+| **Harry Ingham** | 9 | 2 | 149 | 21.29 |
+| **Richard Beswick** | 14 | 2 | 241 | 20.08 |
+| **James Kenny** | 2 | 1 | 17 | 17 |
+| **William Calvert** | 8 | 0 | 121 | 15.13 |
+| **Andrew Slight** | 14 | 0 | 176 | 12.57 |
+| **Jim Grant** | 9 | 0 | 113 | 12.56 |
+| **Richard Coyle** | 10 | 4 | 75 | 12.5 |
+| **Fred Ingham** | 2 | 0 | 23 | 11.5 |
+| **Pete Grant** | 6 | 2 | 32 | 8 |
+| **Jerry Wright** | 6 | 0 | 42 | 7 |
+| **Thomas Riley** | 2 | 0 | 13 | 6.5 |
+| **Ted Ingham** | 2 | 0 | 11 | 5.5 |
+| **Nick Coleman** | 1 | 0 | 4 | 4 |
+| **Richard O’Hagan** | 3 | 1 | 6 | 3 |
+| **Philip Beswick** | 2 | 0 | 6 | 3 |
+| **Alf Beswick** | 1 | 0 | 3 | 3 |
+| **Ian Crichton** | 1 | 0 | 1 | 1 |
+| **Nicolas Beswick** | 1 | 0 | 1 | 1 |
+| **Paul O’Mahony** | 4 | 1 | 2 | .67 |
+| **James O’Mahony** | 1 | 0 | 0 | 0 |
+| **Sam Wilkin** | 1 | 0 | 0 | 0 |
+| **Andrew Holmes** | 1 | 0 | 0 | 0 |
+| **Gareth Powell** | 4 | 4 | 25 | - |
+| **Graeme Wright** | 0 | 0 | 0 | - |
+| **Will Wilkin** | 1 | 1 | 15 | - |
+| **Edward Garland** | 1 | 1 | 0 | - |
+| **Rodger Ingham** | 1 | 1 | 0 | - |
+| **Corin Gallagher** | 0 | 0 | 0 | - |
+| **Kit Gallagher** | 0 | 0 | 0 | - |
+| **Christopher Wright** | 0 | 0 | 0 | - |
+
+
+## Season Bowling
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Jerry Wright** | 98.2 | 8 | 445 | 18 | 24.72 | 32.73 |
+| **Harry Ingham** | 103 | 15 | 369 | 13 | 28.38 | 47.54 |
+| **Richard Earney** | 42.1 | 4 | 154 | 9 | 17.11 | 28.07 |
+| **Andrew Slight** | 17.2 | 0 | 97 | 9 | 10.78 | 11.47 |
+| **Paul O’Mahony** | 47 | 3 | 216 | 7 | 30.86 | 40.29 |
+| **Richard Green** | 31 | 3 | 164 | 7 | 23.43 | 26.57 |
+| **Gareth Powell** | 52 | 9 | 205 | 6 | 34.17 | 52 |
+| **Ian Marshall** | 36 | 6 | 154 | 6 | 25.67 | 36 |
+| **Richard Beswick** | 62 | 13 | 173 | 5 | 34.6 | 74.4 |
+| **Ian Crichton** | 25 | 3 | 84 | 5 | 16.8 | 30 |
+| **Sam Wilkin** | 8 | 1 | 47 | 3 | 15.67 | 16 |
+| **Richard O’Hagan** | 24 | 2 | 137 | 2 | 68.5 | 72 |
+| **Will Wilkin** | 9 | 1 | 27 | 2 | 13.5 | 27 |
+| **Boris Hopewell** | 8 | 0 | 39 | 2 | 19.5 | 24 |
+| **Philip Beswick** | 5 | 0 | 44 | 2 | 22 | 15 |
+| **William Calvert** | 3 | 0 | 36 | 1 | 36 | 18 |
+| **Graeme Wright** | 5 | 0 | 24 | 1 | 24 | 30 |
+| **Ted Ingham** | 7 | 0 | 47 | 1 | 47 | 42 |
+| **Simon Barrowcliff** | 1 | 0 | 4 | 0 | - | - |
+| **Fred Ingham** | 2 | 0 | 15 | 0 | - | - |
+| **Thomas Riley** | 2 | 0 | 16 | 0 | - | - |
+| **James Kenny** | 9 | 0 | 61 | 0 | - | - |
+| **Corin Gallagher** | 1 | 0 | 15 | 0 | - | - |
+| **Christopher Wright** | 2 | 0 | 11 | 0 | - | - |
+
+## Season Bowling (by ave)
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Andrew Slight** | 17.2 | 0 | 97 | 9 | 10.78 | 11.47 |
+| **Will Wilkin** | 9 | 1 | 27 | 2 | 13.5 | 27 |
+| **Sam Wilkin** | 8 | 1 | 47 | 3 | 15.67 | 16 |
+| **Ian Crichton** | 25 | 3 | 84 | 5 | 16.8 | 30 |
+| **Richard Earney** | 42.1 | 4 | 154 | 9 | 17.11 | 28.07 |
+| **Boris Hopewell** | 8 | 0 | 39 | 2 | 19.5 | 24 |
+| **Philip Beswick** | 5 | 0 | 44 | 2 | 22 | 15 |
+| **Richard Green** | 31 | 3 | 164 | 7 | 23.43 | 26.57 |
+| **Graeme Wright** | 5 | 0 | 24 | 1 | 24 | 30 |
+| **Jerry Wright** | 98.2 | 8 | 445 | 18 | 24.72 | 32.73 |
+| **Ian Marshall** | 36 | 6 | 154 | 6 | 25.67 | 36 |
+| **Harry Ingham** | 103 | 15 | 369 | 13 | 28.38 | 47.54 |
+| **Paul O’Mahony** | 47 | 3 | 216 | 7 | 30.86 | 40.29 |
+| **Gareth Powell** | 52 | 9 | 205 | 6 | 34.17 | 52 |
+| **Richard Beswick** | 62 | 13 | 173 | 5 | 34.6 | 74.4 |
+| **William Calvert** | 3 | 0 | 36 | 1 | 36 | 18 |
+| **Ted Ingham** | 7 | 0 | 47 | 1 | 47 | 42 |
+| **Richard O’Hagan** | 24 | 2 | 137 | 2 | 68.5 | 72 |

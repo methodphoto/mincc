@@ -5,3 +5,97 @@ type: "statistics"
 ---
 
 ## Season Batting
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Jim Grant** | 7 | 1 | 261 | 43.5 |
+| **Richard Earney** | 9 | 0 | 212 | 23.55 |
+| **Richard Beswick** | 8 | 3 | 136 | 27.2 |
+| **Richard Kitson** | 7 | 1 | 118 | 19.66 |
+| **Steven Hornsby** | 4 | 1 | 104 | 34.66 |
+| **Andrew Slight** | 4 | 1 | 101 | 33.66 |
+| **Pete Grant** | 7 | 1 | 98 | 16.33 |
+| **Gareth Powell** | 6 | 3 | 91 | 30.33 |
+| **Matt Buzzacott** | 1 | 0 | 50 | 50 |
+| **Ian Marshall** | 4 | 2 | 42 | 21 |
+| **Edward Garland** | 4 | 0 | 37 | 9.25 |
+| **Nico Claassen** | 1 | 0 | 36 | 36 |
+| **Jerry Wright** | 4 | 1 | 31 | 10.33 |
+| **Alex Haslam** | 3 | 2 | 23 | 23 |
+| **William Calvert** | 2 | 0 | 23 | 11.5 |
+| **Paul O’Brien** | 2 | 0 | 20 | 10 |
+| **Richard Green** | 3 | 0 | 17 | 5.66 |
+| **Andy Rubie** | 1 | 0 | 11 | 11 |
+| **Mike Hallam** | 1 | 1 | 4 | - |
+| **Mark Petre** | 1 | 0 | 2 | 2 |
+| **Conway Allchorne** | 1 | 0 | 2 | 2 |
+| **Al Desaram** | 0 | 0 | 0 | - |
+| **Suresh Patel** | 1 | 0 | 0 | 0 |
+| **Philip Beswick** | 0 | 0 | 0 | - |
+| **Nicholas Beswick** | 0 | 0 | 0 | - |
+
+## Season Batting (by ave)
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Matt Buzzacott** | 1 | 0 | 50 | 50 |
+| **Jim Grant** | 7 | 1 | 261 | 43.5 |
+| **Nico Claassen** | 1 | 0 | 36 | 36 |
+| **Steven Hornsby** | 4 | 1 | 104 | 34.66 |
+| **Andrew Slight** | 4 | 1 | 101 | 33.66 |
+| **Gareth Powell** | 6 | 3 | 91 | 30.33 |
+| **Richard Beswick** | 8 | 3 | 136 | 27.2 |
+| **Richard Earney** | 9 | 0 | 212 | 23.55 |
+| **Alex Haslam** | 3 | 2 | 23 | 23 |
+| **Ian Marshall** | 4 | 2 | 42 | 21 |
+| **Richard Kitson** | 7 | 1 | 118 | 19.66 |
+| **Pete Grant** | 7 | 1 | 98 | 16.33 |
+| **William Calvert** | 2 | 0 | 23 | 11.5 |
+| **Andy Rubie** | 1 | 0 | 11 | 11 |
+| **Jerry Wright** | 4 | 1 | 31 | 10.33 |
+| **Paul O’Brien** | 2 | 0 | 20 | 10 |
+| **Edward Garland** | 4 | 0 | 37 | 9.25 |
+| **Richard Green** | 3 | 0 | 17 | 5.66 |
+| **Mark Petre** | 1 | 0 | 2 | 2 |
+| **Conway Allchorne** | 1 | 0 | 2 | 2 |
+| **Suresh Patel** | 1 | 0 | 0 | 0 |
+| **Mike Hallam** | 1 | 1 | 4 | - |
+| **Philip Beswick** | 0 | 0 | 0 | - |
+| **Nicholas Beswick** | 0 | 0 | 0 | - |
+| **Al Desaram** | 0 | 0 | 0 | - |
+
+## Season Bowling
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Ian Marshall** | 71.5 | 17 | 173 | 13 | 13.30 | 33 |
+| **Richard Earney** | 37.3 | 4 | 176 | 12 | 14.66 | 18.65 |
+| **Richard Green** | 53 | 2 | 206 | 12 | 17.16 | 26.5 |
+| **Gareth Powell** | 82 | 17 | 275 | 12 | 22.91 | 41 |
+| **Richard Beswick** | 70.3 | 16 | 211 | 11 | 19.18 | 38.34 |
+| **Jerry Wright** | 19.4 | 1 | 70 | 7 | 10 | 16.62 |
+| **William Calvert** | 12 | 2 | 60 | 4 | 15 | 18 |
+| **Edward Garland** | 5 | 0 | 30 | 3 | 10 | 10 |
+| **Al Desaram** | 12 | 1 | 47 | 2 | 23.5 | 36 |
+| **Paul O’Brien** | 19 | 4 | 73 | 1 | 73 | 114 |
+| **Pete Grant** | 1 | 0 | 5 | 1 | 5 | 6 |
+| **Philip Beswick** | 3 | 0 | 9 | 0 | - | - |
+| **Conway Allchorne** | 3 | 0 | 22 | 0 | - | - |
+| **Alex Haslam** | 13 | 0 | 52 | 0 | - | - |
+| **Steven Hornsby** | 2 | 0 | 5 | 0 | - | - |
+
+## Season Bowling (by ave)
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Pete Grant** | 1 | 0 | 5 | 1 | 5 | 6 |
+| **Jerry Wright** | 19.4 | 1 | 70 | 7 | 10 | 16.62 |
+| **Edward Garland** | 5 | 0 | 30 | 3 | 10 | 10 |
+| **Ian Marshall** | 71.5 | 17 | 173 | 13 | 13.30 | 33 |
+| **Richard Earney** | 37.3 | 4 | 176 | 12 | 14.66 | 18.65 |
+| **William Calvert** | 12 | 2 | 60 | 4 | 15 | 18 |
+| **Richard Green** | 53 | 2 | 206 | 12 | 17.16 | 26.5 |
+| **Richard Beswick** | 70.3 | 16 | 211 | 11 | 19.18 | 38.34 |
+| **Gareth Powell** | 82 | 17 | 275 | 12 | 22.91 | 41 |
+| **Al Desaram** | 12 | 1 | 47 | 2 | 23.5 | 36 |
+| **Paul O’Brien** | 19 | 4 | 73 | 1 | 73 | 114 |

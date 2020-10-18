@@ -5,3 +5,132 @@ type: "statistics"
 ---
 
 ## Season Batting
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Richard Earney** | 13 | 1 | 321 | 26.75 |
+| **Richard Beswick** | 14 | 1 | 253 | 19.46 |
+| **Tom Rutherford** | 10 | 3 | 244 | 34.86 |
+| **William Calvert** | 7 | 1 | 202 | 33.67 |
+| **Martin Goff** | 9 | 1 | 188 | 23.5 |
+| **Mohit Gupta** | 6 | 2 | 150 | 37.5 |
+| **Jim Grant** | 9 | 2 | 124 | 17.71 |
+| **Patrick Wigg** | 9 | 2 | 67 | 9.57 |
+| **Shaquille Ahmed** | 5 | 0 | 53 | 10.6 |
+| **Richard Coyle** | 5 | 3 | 39 | 19.5 |
+| **Richard Green** | 2 | 0 | 39 | 19.5 |
+| **Andrew Slight** | 4 | 0 | 30 | 7.5 |
+| **Ian Marshall** | 2 | 2 | 28 | - |
+| **Alf Beswick** | 3 | 1 | 17 | 8.5 |
+| **Paul O’Mahony** | 4 | 2 | 16 | 8 |
+| **Anu Narula** | 1 | 0 | 15 | 15 |
+| **Simon Barrowcliff** | 1 | 0 | 13 | 13 |
+| **Jerry Wright** | 3 | 2 | 13 | 13 |
+| **Pete Grant** | 3 | 0 | 13 | 4.33 |
+| **Frank Fraser** | 1 | 0 | 13 | 13 |
+| **Mark Gardiner** | 1 | 1 | 12 | - |
+| **Edward Garland** | 1 | 1 | 11 | - |
+| **Jack Hulston** | 1 | 0 | 10 | 10 |
+| **Thomas Barrowcliff** | 1 | 1 | 9 | - |
+| **Iqbal Miah** | 1 | 0 | 5 | 5 |
+| **Ben Richardson** | 1 | 0 | 5 | 5 |
+| **Harry Ingham** | 1 | 0 | 4 | 4 |
+| **Gordon Daley** | 1 | 0 | 2 | 2 |
+| **Chip Horne** | 1 | 0 | 1 | 1 |
+| **Richard O’Hagan** | 1 | 1 | 0 | - |
+| **Kamal** | 0 | 0 | 0 | - |
+| **Gareth Powell** | 0 | 0 | 0 | - |
+| **Callum MacHattie** | 1 | 0 | 0 | 0 |
+| **Mark Bates** | 1 | 0 | 0 | 0 |
+| **David Wigg** | 1 | 0 | 0 | 0 |
+| **Toby Carden** | 1 | 0 | 0 | 0 |
+
+## Season Batting (by ave)
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Mohit Gupta** | 6 | 2 | 150 | 37.5 |
+| **Tom Rutherford** | 10 | 3 | 244 | 34.86 |
+| **William Calvert** | 7 | 1 | 202 | 33.67 |
+| **Richard Earney** | 13 | 1 | 321 | 26.75 |
+| **Martin Goff** | 9 | 1 | 188 | 23.5 |
+| **Richard Coyle** | 5 | 3 | 39 | 19.5 |
+| **Richard Green** | 2 | 0 | 39 | 19.5 |
+| **Richard Beswick** | 14 | 1 | 253 | 19.46 |
+| **Jim Grant** | 9 | 2 | 124 | 17.71 |
+| **Anu Narula** | 1 | 0 | 15 | 15 |
+| **Simon Barrowcliff** | 1 | 0 | 13 | 13 |
+| **Jerry Wright** | 3 | 2 | 13 | 13 |
+| **Frank Fraser** | 1 | 0 | 13 | 13 |
+| **Shaquille Ahmed** | 5 | 0 | 53 | 10.6 |
+| **Jack Hulston** | 1 | 0 | 10 | 10 |
+| **Patrick Wigg** | 9 | 2 | 67 | 9.57 |
+| **Alf Beswick** | 3 | 1 | 17 | 8.5 |
+| **Paul O’Mahony** | 4 | 2 | 16 | 8 |
+| **Andrew Slight** | 4 | 0 | 30 | 7.5 |
+| **Iqbal Miah** | 1 | 0 | 5 | 5 |
+| **Ben Richardson** | 1 | 0 | 5 | 5 |
+| **Pete Grant** | 3 | 0 | 13 | 4.33 |
+| **Harry Ingham** | 1 | 0 | 4 | 4 |
+| **Gordon Daley** | 1 | 0 | 2 | 2 |
+| **Chip Horne** | 1 | 0 | 1 | 1 |
+| **Callum MacHattie** | 1 | 0 | 0 | 0 |
+| **Mark Bates** | 1 | 0 | 0 | 0 |
+| **David Wigg** | 1 | 0 | 0 | 0 |
+| **Toby Carden** | 1 | 0 | 0 | 0 |
+| **Thomas Barrowcliff** | 1 | 1 | 9 | - |
+| **Richard O’Hagan** | 1 | 1 | 0 | - |
+| **Edward Garland** | 1 | 1 | 11 | - |
+| **Kamal** | 0 | 0 | 0 | - |
+| **Gareth Powell** | 0 | 0 | 0 | - |
+| **Ian Marshall** | 2 | 2 | 28 | - |
+| **Mark Gardiner** | 1 | 1 | 12 | - |
+
+## Season Bowling
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Jerry Wright** | 99 | 13 | 324 | 30 | 10.8 | 19.8 |
+| **Patrick Wigg** | 90.4 | 13 | 304 | 21 | 14.48 | 25.83 |
+| **Edward Garland** | 39.2 | 7 | 138 | 14 | 9.86 | 16.8 |
+| **Richard Earney** | 24 | 1 | 128 | 11 | 11.64 | 13.09 |
+| **Paul O’Mahony** | 55 | 10 | 181 | 7 | 25.86 | 47.14 |
+| **Tom Rutherford** | 40 | 6 | 152 | 7 | 21.71 | 34.29 |
+| **Mohit Gupta** | 30 | 7 | 97 | 6 | 16.17 | 30 |
+| **Richard Green** | 22.5 | 4 | 56 | 6 | 9.33 | 22.5 |
+| **Ben Richardson** | 9 | 1 | 28 | 3 | 9.33 | 18 |
+| **Richard O’Hagan** | 14.2 | 2 | 62 | 2 | 31 | 42.6 |
+| **Gareth Powell** | 11 | 2 | 54 | 2 | 27 | 33 |
+| **Ian Marshall** | 8 | 0 | 42 | 2 | 21 | 24 |
+| **Iqbal Miah** | 17 | 2 | 50 | 2 | 25 | 51 |
+| **Harry Ingham** | 11 | 2 | 19 | 2 | 9.5 | 33 |
+| **Richard Beswick** | 30 | 11 | 102 | 1 | 102 | 180 |
+| **Pete Grant** | .4 | 0 | 1 | 1 | 1 | 2.4 |
+| **Alf Beswick** | 8 | 2 | 33 | 1 | 33 | 48 |
+| **Toby Carden** | 4 | 0 | 24 | 1 | 24 | 24 |
+| **Kamal** | 6.2 | 0 | 47 | 0 | - | - |
+| **Callum MacHattie** | 4 | 0 | 12 | 0 | - | - |
+| **Mark Bates** | 4 | 0 | 16 | 0 | - | - |
+
+## Season Bowling (by ave)
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Pete Grant** | .4 | 0 | 1 | 1 | 1 | 2.4 |
+| **Richard Green** | 22.5 | 4 | 56 | 6 | 9.33 | 22.5 |
+| **Ben Richardson** | 9 | 1 | 28 | 3 | 9.33 | 18 |
+| **Harry Ingham** | 11 | 2 | 19 | 2 | 9.5 | 33 |
+| **Edward Garland** | 39.2 | 7 | 138 | 14 | 9.86 | 16.8 |
+| **Jerry Wright** | 99 | 13 | 324 | 30 | 10.8 | 19.8 |
+| **Richard Earney** | 24 | 1 | 128 | 11 | 11.64 | 13.09 |
+| **Patrick Wigg** | 90.4 | 13 | 304 | 21 | 14.48 | 25.83 |
+| **Mohit Gupta** | 30 | 7 | 97 | 6 | 16.17 | 30 |
+| **Ian Marshall** | 8 | 0 | 42 | 2 | 21 | 24 |
+| **Tom Rutherford** | 40 | 6 | 152 | 7 | 21.71 | 34.29 |
+| **Toby Carden** | 4 | 0 | 24 | 1 | 24 | 24 |
+| **Iqbal Miah** | 17 | 2 | 50 | 2 | 25 | 51 |
+| **Paul O’Mahony** | 55 | 10 | 181 | 7 | 25.86 | 47.14 |
+| **Gareth Powell** | 11 | 2 | 54 | 2 | 27 | 33 |
+| **Richard O’Hagan** | 14.2 | 2 | 62 | 2 | 31 | 42.6 |
+| **Alf Beswick** | 8 | 2 | 33 | 1 | 33 | 48 |
+| **Richard Beswick** | 30 | 11 | 102 | 1 | 102 | 180 |

@@ -5,3 +5,122 @@ type: "statistics"
 ---
 
 ## Season Batting
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Richard Earney** | 13 | 3 | 522 | 52.2 |
+| **Steven Hornsby** | 6 | 0 | 251 | 41.83 |
+| **Jim Grant** | 9 | 3 | 158 | 26.33 |
+| **Richard Kitson** | 6 | 0 | 140 | 23.33 |
+| **Richard Beswick** | 9 | 1 | 122 | 15.25 |
+| **Richard Green** | 4 | 2 | 99 | 49.5 |
+| **Simon Barrowcliff** | 1 | 0 | 72 | 72 |
+| **Andrew Slight** | 9 | 1 | 67 | 8.37 |
+| **Nico Claassen** | 3 | 0 | 67 | 22.33 |
+| **Pete Grant** | 8 | 1 | 50 | 7.14 |
+| **Oliver Dalrymple** | 1 | 1 | 43 | - |
+| **William Calvert** | 5 | 1 | 39 | 9.75 |
+| **Ian Marshall** | 3 | 0 | 24 | 8 |
+| **Andrew Gallagher** | 1 | 1 | 24 | - |
+| **Dan Ward** | 2 | 0 | 15 | 7.5 |
+| **Edward Garland** | 3 | 1 | 10 | 5 |
+| **Philip Beswick** | 2 | 1 | 7 | 7 |
+| **Richard Coyle** | 2 | 0 | 7 | 3.5 |
+| **Thomas Riley** | 1 | 0 | 7 | 7 |
+| **Tim Horsey** | 2 | 1 | 6 | 6 |
+| **Jerry Wright** | 2 | 0 | 4 | 2 |
+| **Duncan Campbell** | 1 | 0 | 2 | 2 |
+| **Conway Allchorne** | 1 | 1 | 2 | - |
+| **Matthew Bell** | 1 | 1 | 2 | - |
+| **Paul O’Brien** | 1 | 0 | 1 | 1 |
+| **Nicholas Beswick** | 0 | 0 | 0 | - |
+| **Kevin Barratt** | 1 | 0 | 0 | 0 |
+| **Ben Ford** | 1 | 1 | 0 | - |
+| **Gareth Powell** | 1 | 0 | 0 | 0 |
+| **Matt Belfrage** | 0 | 0 | 0 | - |
+| **David Jones** | 0 | 0 | 0 | - |
+| **Mark Mason** | 1 | 0 | 0 | 0 |
+| **Sam Hinton-Smith** | 1 | 0 | 0 | 0 |
+| **Nigel Putt** | 0 | 0 | 0 | - |
+| **Graeme Wright** | 0 | 0 | 0 | - |
+
+## Season Batting (by ave)
+
+| Player | Inns | No | Runs | Ave |
+|:--|:--|:--|:--|:--|
+| **Simon Barrowcliff** | 1 | 0 | 72 | 72 |
+| **Richard Earney** | 13 | 3 | 522 | 52.2 |
+| **Richard Green** | 4 | 2 | 99 | 49.5 |
+| **Steven Hornsby** | 6 | 0 | 251 | 41.83 |
+| **Jim Grant** | 9 | 3 | 158 | 26.33 |
+| **Richard Kitson** | 6 | 0 | 140 | 23.33 |
+| **Nico Claassen** | 3 | 0 | 67 | 22.33 |
+| **Richard Beswick** | 9 | 1 | 122 | 15.25 |
+| **William Calvert** | 5 | 1 | 39 | 9.75 |
+| **Andrew Slight** | 9 | 1 | 67 | 8.37 |
+| **Ian Marshall** | 3 | 0 | 24 | 8 |
+| **Dan Ward** | 2 | 0 | 15 | 7.5 |
+| **Pete Grant** | 8 | 1 | 50 | 7.14 |
+| **Philip Beswick** | 2 | 1 | 7 | 7 |
+| **Thomas Riley** | 1 | 0 | 7 | 7 |
+| **Tim Horsey** | 2 | 1 | 6 | 6 |
+| **Edward Garland** | 3 | 1 | 10 | 5 |
+| **Richard Coyle** | 2 | 0 | 7 | 3.5 |
+| **Duncan Campbell** | 1 | 0 | 2 | 2 |
+| **Jerry Wright** | 2 | 0 | 4 | 2 |
+| **Paul O’Brien** | 1 | 0 | 1 | 1 |
+| **Kevin Barratt** | 1 | 0 | 0 | 0 |
+| **Gareth Powell** | 1 | 0 | 0 | 0 |
+| **Mark Mason** | 1 | 0 | 0 | 0 |
+| **Sam Hinton-Smith** | 1 | 0 | 0 | 0 |
+| **Nicholas Beswick** | 0 | 0 | 0 | - |
+| **Ben Ford** | 1 | 1 | 0 | - |
+| **Oliver Dalrymple** | 1 | 1 | 43 | - |
+| **Conway Allchorne** | 1 | 1 | 2 | - |
+| **Andrew Gallagher** | 1 | 1 | 24 | - |
+| **Matt Belfrage** | 0 | 0 | 0 | - |
+| **David Jones** | 0 | 0 | 0 | - |
+| **Matthew Bell** | 1 | 1 | 2 | - |
+| **Nigel Putt** | 0 | 0 | 0 | - |
+| **Graeme Wright** | 0 | 0 | 0 | - |
+
+## Season Bowling
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|
+| **Richard Earney** | 81 | 18 | 321 | 16 | 20.06 | 30.37 |
+| **Ian Marshall** | 84 | 20 | 229 | 12 | 19.08 | 42 |
+| **Edward Garland** | 41.4 | 3 | 229 | 11 | 20.81 | 22.58 |
+| **Richard Beswick** | 77.4 | 11 | 302 | 10 | 30.2 | 46.44 |
+| **Richard Green** | 27 | 2 | 136 | 6 | 22.66 | 27 |
+| **Philip Beswick** | 5 | 1 | 18 | 5 | 3.6 | 6 |
+| **William Calvert** | 8 | 0 | 42 | 3 | 14 | 16 |
+| **Steven Hornsby** | 7 | 0 | 46 | 3 | 15.33 | 14 |
+| **Pete Grant** | 10 | 0 | 58 | 2 | 29 | 30 |
+| **Jerry Wright** | 16.3 | 2 | 75 | 2 | 37.5 | 48.9 |
+| **Gareth Powell** | 11 | 0 | 50 | 1 | 50 | 66 |
+| **Nigel Putt** | 9 | 5 | 29 | 1 | 29 | 54 |
+| **Duncan Campbell** | 4 | 1 | 19 | 0 | - | - |
+| **Nico Claassen** | 16 | 2 | 105 | 0 | - | - |
+| **Dan Ward** | 7 | 0 | 42 | 0 | - | - |
+| **Richard Coyle** | 3 | 0 | 18 | 0 | - | - |
+| **Oliver Dalrymple** | 3 | 0 | 26 | 0 | - | - |
+| **Conway Allchorne** | 19 | 3 | 70 | 0 | - | - |
+| **Paul O’Brien** | 13 | 2 | 54 | 0 | - | - |
+| **Graeme Wright** | 10 | 4 | 17 | 0 | - | - |
+
+## Season Bowling (by ave)
+
+| Player | O | M | Runs | Wkts | Ave | SR |
+|:--|:--|:--|:--|:--|:--|| **Philip Beswick** | 5 | 1 | 18 | 5 | 3.6 | 6 |
+| **William Calvert** | 8 | 0 | 42 | 3 | 14 | 16 |
+| **Steven Hornsby** | 7 | 0 | 46 | 3 | 15.33 | 14 |
+| **Ian Marshall** | 84 | 20 | 229 | 12 | 19.08 | 42 |
+| **Richard Earney** | 81 | 18 | 321 | 16 | 20.06 | 30.37 |
+| **Edward Garland** | 41.4 | 3 | 229 | 11 | 20.81 | 22.58 |
+| **Richard Green** | 27 | 2 | 136 | 6 | 22.66 | 27 |
+| **Pete Grant** | 10 | 0 | 58 | 2 | 29 | 30 |
+| **Nigel Putt** | 9 | 5 | 29 | 1 | 29 | 54 |
+| **Richard Beswick** | 77.4 | 11 | 302 | 10 | 30.2 | 46.44 |
+| **Jerry Wright** | 16.3 | 2 | 75 | 2 | 37.5 | 48.9 |
+| **Gareth Powell** | 11 | 0 | 50 | 1 | 50 | 66 |
