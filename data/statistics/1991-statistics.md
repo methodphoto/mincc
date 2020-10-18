@@ -22,7 +22,7 @@ type: "statistics"
 | **Mark Kirwan** | 2 | 1 | 0 | 45 | 45 |
 | **Simon Barrowcliff** | 11 | 10 | 2 | 31 | 3.87 |
 | **Richard Olver** | 2 | 2 | 0 | 30 | 15 |
-| **Bob Colthoorpe** | 3 | 3 | 2 | 22 | 22 |
+| **Bob Colthorpe** | 3 | 3 | 2 | 22 | 22 |
 | **Mark Taylor** | 1 | 1 | 0 | 18 | 18 |
 | **Tim Horsey** | 2 | 2 | 0 | 16 | 8 |
 | **Graeme Wright** | 9 | 5 | 1 | 15 | 3.75 |
@@ -61,7 +61,7 @@ type: "statistics"
 | **Andrew MacFarlane** | 9 | 7 | 0 | 186 | 26.57 |
 | **Ashley Mills** | 6 | 6 | 1 | 131 | 26.2 |
 | **Richard Earney** | 10 | 9 | 1 | 203 | 25.37 |
-| **Bob Colthoorpe** | 3 | 3 | 2 | 22 | 22 |
+| **Bob Colthorpe** | 3 | 3 | 2 | 22 | 22 |
 | **Mark Taylor** | 1 | 1 | 0 | 18 | 18 |
 | **Richard Olver** | 2 | 2 | 0 | 30 | 15 |
 | **Pete Grant** | 3 | 3 | 0 | 45 | 15 |

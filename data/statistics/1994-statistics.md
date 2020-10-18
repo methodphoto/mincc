@@ -121,24 +121,105 @@ type: "statistics"
 | **Edward Garland** | 36 | 1 | 192 | 7 | 27.42 | 30.85 |
 | **Steven Hornsby** | 21 | 0 | 140 | 3 | 46.66 | 42 |
 | **William Calvert** | 8 | 0 | 72 | 1 | 72 | 48 |
+
 ## Career Batting (min 250 Runs)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-
+| **Richard Beswick** | 159 | 145 | 26 | 2212 | 18.59 |
+| **Andrew Gallagher** | 82 | 79 | 3 | 2024 | 26.63 |
+| **William Calvert** | 140 | 131 | 17 | 1894 | 16.61 |
+| **Jim Grant** | 135 | 126 | 12 | 1832 | 16.07 |
+| **Steven Hornsby** | 38 | 37 | 2 | 1374 | 39.26 |
+| **Ian Marshall** | 65 | 53 | 8 | 1123 | 24.96 |
+| **Richard Earney** | 54 | 51 | 5 | 996 | 21.65 |
+| **Simon Barrowcliff** | 39 | 38 | 4 | 686 | 20.18 |
+| **David Swann** | 16 | 15 | 3 | 574 | 47.83 |
+| **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
+| **Andrew MacFarlane** | 34 | 30 | 0 | 530 | 17.67 |
+| **Edward Garland** | 47 | 36 | 8 | 468 | 16.71 |
+| **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
+| **Mark Gardiner** | 77 | 61 | 10 | 440 | 8.63 |
+| **Will Wright** | 21 | 20 | 1 | 418 | 22.00 |
+| **Alan Sylvester** | 57 | 35 | 16 | 380 | 20.00 |
+| **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
+| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Kirwan** | 41 | 27 | 5 | 351 | 15.95 |
+| **David Young** | 68 | 50 | 14 | 341 | 9.47 |
+| **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
+| **Andrew Fielding** | 39 | 35 | 2 | 340 | 10.30 |
+| **Jerry Wright** | 120 | 62 | 19 | 299 | 6.95 |
+| **Richard Olver** | 45 | 30 | 14 | 287 | 17.94 |
+| **Phil Bentley** | 10 | 9 | 1 | 275 | 34.38 |
+| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 
 ## Career Batting by ave (min 250 Runs)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-
+| **David Swann** | 16 | 15 | 3 | 574 | 47.83 |
+| **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
+| **Steven Hornsby** | 38 | 37 | 2 | 1374 | 39.26 |
+| **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
+| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
+| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Phil Bentley** | 10 | 9 | 1 | 275 | 34.38 |
+| **Andrew Gallagher** | 82 | 79 | 3 | 2024 | 26.63 |
+| **Ian Marshall** | 65 | 53 | 8 | 1123 | 24.96 |
+| **Will Wright** | 21 | 20 | 1 | 418 | 22.00 |
+| **Richard Earney** | 54 | 51 | 5 | 996 | 21.65 |
+| **Simon Barrowcliff** | 39 | 38 | 4 | 686 | 20.18 |
+| **Alan Sylvester** | 57 | 35 | 16 | 380 | 20.00 |
+| **Richard Beswick** | 159 | 145 | 26 | 2212 | 18.59 |
+| **Richard Olver** | 45 | 30 | 14 | 287 | 17.94 |
+| **Andrew MacFarlane** | 34 | 30 | 0 | 530 | 17.67 |
+| **Edward Garland** | 47 | 36 | 8 | 468 | 16.71 |
+| **William Calvert** | 140 | 131 | 17 | 1894 | 16.61 |
+| **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
+| **Jim Grant** | 135 | 126 | 12 | 1832 | 16.07 |
+| **Mark Kirwan** | 41 | 27 | 5 | 351 | 15.95 |
+| **Andrew Fielding** | 39 | 35 | 2 | 340 | 10.30 |
+| **David Young** | 68 | 50 | 14 | 341 | 9.47 |
+| **Mark Gardiner** | 77 | 61 | 10 | 440 | 8.63 |
+| **Jerry Wright** | 120 | 62 | 19 | 299 | 6.95 |
 
 ## Career Bowling (min 25 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
+| **Richard Beswick** | 159 | 883.7 | 166 | 2953 | 182 | 16.23 | 29.13 |
+| **Jerry Wright** | 120 | 843.7 | 153 | 2898 | 160 | 18.11 | 31.64 |
+| **William Calvert** | 140 | 512 | 71 | 2283 | 108 | 21.14 | 28.44 |
+| **Ian Marshall** | 65 | 541.2 | 141 | 1608 | 90 | 17.87 | 36.08 |
+| **Alan Sylvester** | 57 | 377.1 | 66 | 1416 | 76 | 18.63 | 29.77 |
+| **Mark Kirwan** | 41 | 336.3 | 58 | 1136 | 69 | 16.46 | 29.24 |
+| **Andrew MacFarlane** | 34 | 357.2 | 70 | 1041 | 68 | 15.31 | 31.52 |
+| **Edward Garland** | 47 | 224.4 | 19 | 1088 | 59 | 18.44 | 22.82 |
+| **Richard Olver** | 45 | 304 | 69 | 931 | 49 | 19.00 | 37.22 |
+| **Graeme Wright** | 45 | 306 | 47 | 1009 | 45 | 22.42 | 40.80 |
+| **Andrew Gallagher** | 82 | 146.6 | 11 | 722 | 38 | 19.00 | 23.15 |
+| **Tony Purves** | 18 | 111.8 | 14 | 488 | 36 | 13.56 | 18.63 |
+| **Steven Hornsby** | 38 | 149.4 | 13 | 735 | 35 | 21.00 | 25.61 |
+| **Mark Gardiner** | 77 | 133 | 11 | 557 | 32 | 17.41 | 24.94 |
+| **Richard Earney** | 54 | 101.4 | 12 | 540 | 22 | 24.55 | 27.65 |
 
 ## Career Bowling by ave (min 25 wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
+| **Tony Purves** | 18 | 111.8 | 14 | 488 | 36 | 13.56 | 18.63 |
+| **Andrew MacFarlane** | 34 | 357.2 | 70 | 1041 | 68 | 15.31 | 31.52 |
+| **Richard Beswick** | 159 | 883.7 | 166 | 2953 | 182 | 16.23 | 29.13 |
+| **Mark Kirwan** | 41 | 336.3 | 58 | 1136 | 69 | 16.46 | 29.24 |
+| **Mark Gardiner** | 77 | 133 | 11 | 557 | 32 | 17.41 | 24.94 |
+| **Ian Marshall** | 65 | 541.2 | 141 | 1608 | 90 | 17.87 | 36.08 |
+| **Jerry Wright** | 120 | 843.7 | 153 | 2898 | 160 | 18.11 | 31.64 |
+| **Edward Garland** | 47 | 224.4 | 19 | 1088 | 59 | 18.44 | 22.82 |
+| **Alan Sylvester** | 57 | 377.1 | 66 | 1416 | 76 | 18.63 | 29.77 |
+| **Andrew Gallagher** | 82 | 146.6 | 11 | 722 | 38 | 19.00 | 23.15 |
+| **Richard Olver** | 45 | 304 | 69 | 931 | 49 | 19.00 | 37.22 |
+| **Steven Hornsby** | 38 | 149.4 | 13 | 735 | 35 | 21.00 | 25.61 |
+| **William Calvert** | 140 | 512 | 71 | 2283 | 108 | 21.14 | 28.44 |
+| **Graeme Wright** | 45 | 306 | 47 | 1009 | 45 | 22.42 | 40.80 |
+| **Richard Earney** | 54 | 101.4 | 12 | 540 | 22 | 24.55 | 27.65 |

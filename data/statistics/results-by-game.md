@@ -689,6 +689,7 @@ type: "records"
 | {date} | [Nigel Hoare’s XI](/1984/nigel-hoares-xi) | Won |
 
 ## 1983
+
 |  |  |  |
 |:---|:---|:---|
 | 09/06/1983 | [Lobsters](/1983/lobsters) | Won |
