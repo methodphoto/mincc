@@ -123,7 +123,6 @@ type: "statistics"
 | **Eric Henson** | 8 | 0 | 34 | 0 | ? | ? |
 | **D.Everitt** | 4 | 1 | 22 | 0 | ? | ? |
 
-
 ## Season Bowling (by ave)
 
 | Player | O | M | Runs | Wkts | Ave | SR |
@@ -198,6 +197,46 @@ type: "statistics"
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
+| **James Hylton** | 9 | 8 | 2 | 542 | 90.33 |
+| **David Swann** | 21 | 20 | 5 | 755 | 50.33 |
+| **Tim Hammond** | 10 | 10 | 2 | 343 | 42.88 |
+| **Phil Bentley** | 19 | 18 | 2 | 683 | 42.69 |
+| **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
+| **Mohit Gupta** | 35 | 32 | 7 | 974 | 38.96 |
+| **Steven Hornsby** | 71 | 67 | 8 | 2263 | 38.36 |
+| **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
+| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
+| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Martin Goff** | 39 | 39 | 3 | 1105 | 30.69 |
+| **Richard Earney** | 269 | 261 | 21 | 7102 | 29.59 |
+| **Will Wright** | 23 | 22 | 1 | 540 | 25.71 |
+| **Simon Barrowcliff** | 81 | 78 | 6 | 1809 | 25.13 |
+| **Andrew Gallagher** | 102 | 97 | 5 | 2232 | 24.26 |
+| **Richard Kitson** | 35 | 35 | 5 | 649 | 21.63 |
+| **Ian Marshall** | 180 | 137 | 24 | 2407 | 21.30 |
+| **Richard Beswick** | 378 | 340 | 56 | 6022 | 21.20 |
+| **Harry Ingham** | 43 | 38 | 9 | 597 | 20.59 |
+| **Alan Sylvester** | 58 | 35 | 16 | 380 | 20.00 |
+| **Mark Petre** | 27 | 27 | 3 | 437 | 18.21 |
+| **Richard Green** | 34 | 25 | 5 | 359 | 17.95 |
+| **Richard Olver** | 45 | 30 | 14 | 287 | 17.94 |
+| **Andrew MacFarlane** | 34 | 30 | 0 | 530 | 17.67 |
+| **Tom Rutherford** | 49 | 44 | 5 | 676 | 17.33 |
+| **Jim Grant** | 320 | 279 | 32 | 4223 | 17.10 |
+| **William Calvert** | 252 | 230 | 31 | 3391 | 17.04 |
+| **Patrick Wigg** | 64 | 51 | 16 | 585 | 16.71 |
+| **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
+| **Mark Kirwan** | 42 | 28 | 5 | 356 | 15.48 |
+| **Edward Garland** | 174 | 123 | 33 | 1334 | 14.82 |
+| **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
+| **Andrew Slight** | 104 | 87 | 8 | 889 | 11.25 |
+| **Andrew Fielding** | 39 | 35 | 2 | 340 | 10.30 |
+| **David Young** | 91 | 67 | 18 | 493 | 10.06 |
+| **Mark Gardiner** | 100 | 83 | 16 | 618 | 9.22 |
+| **Jerry Wright** | 306 | 149 | 57 | 798 | 8.67 |
+| **Pete Grant** | 105 | 94 | 13 | 698 | 8.62 |
+| **Richard Coyle** | 64 | 56 | 14 | 310 | 7.38 |
 
 ## Career Bowling (min 30 wkts)
 
