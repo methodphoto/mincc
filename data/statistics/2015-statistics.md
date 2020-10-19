@@ -49,7 +49,7 @@ type: "statistics"
 | **Umar Malik** | 0 | 0 | 0 | - |
 | **Ian Marshall** | 0 | 0 | 0 | - |
 
-## Season Batting (by Ave)| **\1** |
+## Season Batting (by ave)
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -123,7 +123,7 @@ type: "statistics"
 | **Louis Masterson** | 5 | 0 | 22 | 0 | - | - |
 | **Christopher Wright** | 8 | 0 | 49 | 0 | - | - |
 
-## Season Bowling
+## Season Bowling (by ave)
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -146,7 +146,7 @@ type: "statistics"
 | **Siam Amin** | 32 | 1 | 150 | 4 | 37.5 | 48 |
 | **Marcus Elwin** | 17 | 5 | 68 | 1 | 68 | 102 |
 
-## Career Batting (by runs)
+## Career Batting
 
 | Player | M | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|:--|
@@ -193,7 +193,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
 
-## Career Batting (by runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|:--|
@@ -240,7 +240,7 @@ type: "statistics"
 | **Jerry Wright** | 350 | 169 | 64 | 900 | 8.57 |
 | **Richard Coyle** | 70 | 62 | 16 | 348 | 7.57 |
 
-## Career Bowling (by Wkts)
+## Career Bowling
 
 | Player | M | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|:--|
@@ -270,7 +270,7 @@ type: "statistics"
 | **Phil Bentley** | 19 | 165.9 | 30 | 683 | 31 | 32.11 |
 | **Andrew Slight** | 112 | 72.8 | 2 | 937 | 26 | 16.80 |
 
-## Career Bowling (by Ave)
+## Career Bowling (by ave)
 
 | Player | M | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|:--|

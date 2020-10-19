@@ -45,7 +45,7 @@ type: "statistics"
 | **Sian Amin** | 1 | 0 | 0 | 0 |
 | **Christopher Wright** | 1 | 1 | 0 | ? |
 
-## Season Batting (by Ave)
+## Season Batting (by ave)
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -110,7 +110,7 @@ type: "statistics"
 | **Andy Butel** | 2.3 | 0 | 4 | 1 | 4 | 13.8 |
 | **Corin Gallagher** | 4 | 1 | 13 | 1 | 13 | 24 |
 
-## Season Bowling (by Ave)
+## Season Bowling (by ave)
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -134,7 +134,7 @@ type: "statistics"
 | **Ted Ingham** | 7 | 0 | 43 | 1 | 43 | 42 |
 | **Andrew Gallagher** | 32 | 1 | 220 | 5 | 44 | 38.4 |
 
-## Career Batting (min 300 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -178,7 +178,7 @@ type: "statistics"
 | **Andrew Fielding** | 39 | 35 | 2 | 340 | 10.30 |
 | **Richard Coyle** | 67 | 59 | 14 | 338 | 7.51 |
 
-## Career Batting (by Ave)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -222,7 +222,7 @@ type: "statistics"
 | **Pete Grant** | 105 | 94 | 13 | 698 | 8.62 |
 | **Richard Coyle** | 67 | 59 | 14 | 338 | 7.51 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

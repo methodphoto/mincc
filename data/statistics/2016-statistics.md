@@ -39,7 +39,7 @@ type: "statistics"
 | **Christopher Wright** | 2 | 1 | 0 | 0 |
 | **A Molui** | 0 | 0 | 0 | - |
 
-## Season Batting (by Ave)
+## Season Batting (by ave)
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -104,7 +104,7 @@ type: "statistics"
 | **Syeed Habib** | 23 | 1 | 68 | 0 | ? | ? |
 | **M Griffiths** | 3 | 0 | 21 | 0 | ? | ? |
 
-## Season Bowling (by Ave)
+## Season Bowling (by ave)
 
 | Player | O | M | Runs | Wkts | Ave | SR |
 |:--|:--|:--|:--|:--|:--|
@@ -129,7 +129,7 @@ type: "statistics"
 | **Kit Gallagher** | 11 | 0 | 59 | 1 | 59 | 66 |
 | **Christopher Wright** | 9 | 0 | 106 | 1 | 106 | 54 |
 
-## Career Batting (by runs)
+## Career Batting
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -176,7 +176,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 21 | 3 | 250 | 13.89 |
 
-## Career Batting (by runs)
+## Career Batting (by ave)
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -223,7 +223,7 @@ type: "statistics"
 | **Jerry Wright** | 172 | 65 | 904 | 8.45 |
 | **Richard Coyle** | 63 | 16 | 369 | 7.85 |
 
-## Career Batting (by Ave)
+## Career Bowling
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|
@@ -255,7 +255,7 @@ type: "statistics"
 | **Philip Beswick** | 113.1 | 5 | 608 | 26 | 23.38 | 26.10 |
 | **Iqbal Miah** | 122.3 | 9 | 596 | 25 | 23.84 | 29.35 |
 
-## Career Batting (by Ave)
+## Career Bowling (by ave)
 
 | Player | Inns | No | Runs | Ave |
 |:--|:--|:--|:--|:--|

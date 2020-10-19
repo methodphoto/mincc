@@ -128,7 +128,7 @@ type: "statistics"
 | **Tim Horsey** | 1 | 0 | 8 | 0 | - | - |
 | **Dominic Wilson** | 1 | 0 | 3 | 0 | - | - |
 
-## Career Batting (by runs - min 25 runs)
+## Career Batting (by runs)
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -158,7 +158,7 @@ type: "statistics"
 | **Steve Maynard** | 6 | 5 | 1 | 28 | 7.00 |
 | **Andrew Fielding** | 2 | 2 | 1 | 26 | 26.00 |
 
-## Career Batting (by ave - min 25 runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -188,7 +188,7 @@ type: "statistics"
 | **Mark Gardiner** | 12 | 9 | 1 | 45 | 5.63 |
 | **Pip Clothier** | 1 | 1 | 1 | 53 | - |
 
-## Career Bowling (by wkts - min 5 wkts)
+## Career Bowling (by wkt)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -202,7 +202,7 @@ type: "statistics"
 | **Mark Gardiner** | 12 | 23 | 3 | 89 | 8 | 11.13 | 17.25 |
 | **Andrew Gallagher** | 22 | 12 | 1 | 63 | 5 | 12.60 | 14.40 |
 
-## Career Bowling (by ave - min 5 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|

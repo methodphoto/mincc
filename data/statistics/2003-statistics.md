@@ -104,7 +104,7 @@ type: "statistics"
 | **Richard Beswick** | 27 | 3 | 125 | 4 | 31.25 | 40.5 |
 | **Joel Smith** | 19 | 0 | 110 | 2 | 55 | 57 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -141,7 +141,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -178,7 +178,7 @@ type: "statistics"
 | **Jerry Wright** | 207 | 109 | 41 | 602 | 8.85 |
 | **Mark Gardiner** | 94 | 78 | 13 | 536 | 8.25 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -203,7 +203,7 @@ type: "statistics"
 | **Gareth Powell** | 21 | 173.3 | 29 | 596 | 26 | 22.92 | 39.99 |
 | **Paul O'Mahony** | 14 | 97.5 | 15 | 349 | 20 | 17.45 | 29.25 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

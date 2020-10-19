@@ -130,7 +130,7 @@ type: "statistics"
 | **Richard Earney** | 67 | 5 | 381 | 10 | 38.1 | 40.2 |
 | **James Statham** | 35 | 6 | 116 | 1 | 116 | 210 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -161,7 +161,7 @@ type: "statistics"
 | **Richard Olver** | 45 | 30 | 14 | 287 | 17.94 |
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -192,7 +192,7 @@ type: "statistics"
 | **Mark Gardiner** | 83 | 67 | 10 | 492 | 8.63 |
 | **Jerry Wright** | 132 | 65 | 21 | 307 | 6.98 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -213,7 +213,7 @@ type: "statistics"
 | **Richard Earney** | 67 | 168.4 | 17 | 921 | 32 | 28.78 | 31.58 |
 | **Phil Bentley** | 14 | 120.9 | 20 | 374 | 21 | 17.81 | 34.54 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

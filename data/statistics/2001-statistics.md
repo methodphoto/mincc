@@ -100,7 +100,7 @@ type: "statistics"
 | **Al Desaram** | 12 | 1 | 47 | 2 | 23.5 | 36 |
 | **Paul O’Brien** | 19 | 4 | 73 | 1 | 73 | 114 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -136,7 +136,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -172,7 +172,7 @@ type: "statistics"
 | **Jerry Wright** | 192 | 99 | 34 | 547 | 8.42 |
 | **Mark Gardiner** | 94 | 78 | 13 | 536 | 8.25 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -196,7 +196,7 @@ type: "statistics"
 | **Steve Masterson** | 20 | 185.1 | 35 | 599 | 29 | 20.66 | 38.30 |
 | **Paul O'Mahony** | 13 | 91.5 | 15 | 316 | 20 | 15.80 | 27.45 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

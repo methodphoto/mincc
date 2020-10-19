@@ -137,7 +137,7 @@ type: "statistics"
 | **Jan Skalbeck** | 2 | 19 | 3 | 66 | 2 | 33 | 57 |
 | **Jerry Wright** | 3 | 20 | 5 | 77 | 2 | 38.5 | 60 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -171,7 +171,7 @@ type: "statistics"
 | **David Swann** | 5 | 5 | 1 | 152 | 38.00 |
 | **Tim Horsey** | 14 | 14 | 2 | 105 | 8.75 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -205,7 +205,7 @@ type: "statistics"
 | **Jerry Wright** | 97 | 49 | 15 | 222 | 6.53 |
 | **Dan Newman** | 46 | 37 | 4 | 179 | 5.42 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -232,7 +232,7 @@ type: "statistics"
 | **Dan Newman** | 46 | 14.1 | 1 | 82 | 5 | 16.40 | 16.92 |
 | **Edward Harcourt** | 19 | 18.1 | 1 | 83 | 5 | 16.60 | 21.72 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

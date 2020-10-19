@@ -134,7 +134,7 @@ type: "statistics"
 | **William Calvert** | 16 | 76 | 11 | 291 | 13 | 22.38 | 35.07 |
 | **Richard Olver** | 3 | 22 | 4 | 65 | 2 | 32.5 | 66 |
 
-## Career Batting (by runs - min 25 runs)
+## Career Batting (by runs)
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -165,7 +165,7 @@ type: "statistics"
 | **Scott Sutherland** | 2 | 2 | 0 | 33 | 16.50 |
 | **Andy Jones** | 2 | 2 | 0 | 29 | 14.50 |
 
-## Career Batting (by ave - min 25 runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -196,7 +196,7 @@ type: "statistics"
 | **Edward Harcourt** | 17 | 14 | 3 | 42 | 3.82 |
 | **Pip Clothier** | 1 | 1 | 1 | 53 | - |
 
-## Career Bowling (by wkts - min 5 wkts)
+## Career Bowling (by wkts)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -211,7 +211,7 @@ type: "statistics"
 | **Ken Sullivan** | 4 | 27.1 | 5 | 104 | 9 | 11.56 | 18.07 |
 | **Edward Harcourt** | 17 | 18.1 | 1 | 83 | 5 | 16.60 | 21.72 |
 
-## Career Bowling (by ave - min 5 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|

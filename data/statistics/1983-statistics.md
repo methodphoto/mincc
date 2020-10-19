@@ -110,7 +110,7 @@ type: "statistics"
 | **Alan Sylvester** | 24 | 2 | 106 | 5 | 21.2 | 28.8 |
 | **Tony Purves** | 10 | 1 | 55 | 2 | 27.5 | 30 |
 
-## Career Batting (by runs)
+## Career Batting
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -192,7 +192,7 @@ type: "statistics"
 | **Colin Chitty** | 3 | 3 | 0 | 20 | 0 | - | - |
 | **Dan Newman** | 2 | 1 | 1 | 0 | 0 | - | - |
 
-## Career Bowling (by wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

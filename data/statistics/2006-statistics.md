@@ -116,7 +116,7 @@ type: "statistics"
 | **Patrick Wigg** | 64 | 10 | 259 | 4 | 64.75 | 96 |
 | **Richard Earney** | 34 | 2 | 158 | 1 | 158 | 204 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -157,7 +157,7 @@ type: "statistics"
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
 
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -197,7 +197,7 @@ type: "statistics"
 | **Jerry Wright** | 245 | 124 | 43 | 692 | 8.54 |
 | **Mark Gardiner** | 96 | 80 | 14 | 554 | 8.39 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -223,7 +223,7 @@ type: "statistics"
 | **Steve Masterson** | 22 | 204.1 | 37 | 682 | 32 | 21.31 | 38.27 |
 | **Phil Bentley** | 19 | 165.9 | 30 | 518 | 31 | 16.71 | 32.11 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

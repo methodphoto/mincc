@@ -143,7 +143,7 @@ type: "statistics"
 | **Ifty Muntakim** | 22 | 1 | 110 | 2 | 55 | 66 |
 | **Jahirul Islam** | 13 | 0 | 95 | 1 | 95 | 78 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M |  |  | NOs | Runs | Ave |
 |:--- | :--- | :--- | :--- | :--- | :--- |
@@ -190,7 +190,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.899 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | I | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -238,7 +238,7 @@ type: "statistics"
 | **Richard Coyle** | 72 | 64 | 16 | 370 | 7.71 |
 
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -270,7 +270,7 @@ type: "statistics"
 | **Philip Beswick** | 46 | 125.1 | 5 | 669 | 28 | 23.89 | 26.81 |
 | **Andrew Slight** | 112 | 72.8 | 2 | 429 | 26 | 16.50 | 16.80 |
  
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

@@ -93,7 +93,6 @@ type: "statistics"
 | **Kit Gallagher** | 0 | 0 | 0 | - |
 | **Christopher Wright** | 0 | 0 | 0 | - |
 
-
 ## Season Bowling
 
 | Player | O | M | Runs | Wkts | Ave | SR |
@@ -146,7 +145,7 @@ type: "statistics"
 | **Ted Ingham** | 7 | 0 | 47 | 1 | 47 | 42 |
 | **Richard O’Hagan** | 24 | 2 | 137 | 2 | 68.5 | 72 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -186,7 +185,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -226,7 +225,7 @@ type: "statistics"
 | **Jerry Wright** | 234 | 120 | 42 | 670 | 8.59 |
 | **Mark Gardiner** | 96 | 80 | 14 | 554 | 8.39 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -252,7 +251,7 @@ type: "statistics"
 | **Phil Bentley** | 19 | 165.9 | 30 | 683 | 31 | 16.71 | 32.11 |
 | **Paul O'Mahony** | 22 | 163.5 | 23 | 30 | 28 | 23.07 | 35.04 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

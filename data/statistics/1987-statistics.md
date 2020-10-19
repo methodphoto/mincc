@@ -77,7 +77,7 @@ type: "statistics"
 | **William Calvert** | 10 | 31 | 4 | 142 | 7 | 20.28 | 26.57 |
 | **Alan Sylvester** | 5 | 40 | 6 | 149 | 1 | 149 | 240 |
 
-## Career Batting (by runs - min 30 runs)
+## Career Batting
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -115,7 +115,7 @@ type: "statistics"
 | **David Challoner** | 3 | 3 | 0 | 35 | 11.67 |
 | **Scott Sutherland** | 2 | 2 | 0 | 33 | 16.50 |
 
-## Career Batting (by ave - min 30 runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|

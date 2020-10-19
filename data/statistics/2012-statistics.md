@@ -41,6 +41,7 @@ type: "statistics"
 | **Andrew Slight** | 1 | 0 | 0 | 0 |
 | **Jerry Wright** | 2 | 0 | 0 | 0 |
 | **Harry Earney** | 1 | 0 | 0 | 0 |
+
 ## Season Batting (by ave)
 
 | Player | Inns | No | Runs | Ave |
@@ -123,7 +124,7 @@ type: "statistics"
 | **Devunka Pathak** | 12 | 1 | 40 | 2 | 20 | 36 |
 | **Chris Martin** | 6 | 0 | 35 | 1 | 35 | 36 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -165,7 +166,7 @@ type: "statistics"
 | **Andrew Fielding** | 39 | 35 | 2 | 340 | 10.30 |
 | **Richard Coyle** | 64 | 56 | 14 | 310 | 7.38 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -207,7 +208,7 @@ type: "statistics"
 | **Jerry Wright** | 313 | 151 | 57 | 798 | 8.49 |
 | **Richard Coyle** | 64 | 56 | 14 | 310 | 7.38 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -236,7 +237,7 @@ type: "statistics"
 | **Mark Gardiner** | 100 | 139.5 | 11 | 603 | 33 | 18.27 | 25.36 |
 | **Phil Bentley** | 19 | 165.9 | 30 | 518 | 31 | 16.71 | 32.11 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

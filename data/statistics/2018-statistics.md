@@ -133,7 +133,7 @@ type: "statistics"
 | **Altaf Ajmal** | 12 | 0 | 62 | 1 | 62 | 72 |
 | **Alastair Dell** | 14 | 0 | 85 | 1 | 85 | 84 | |
  
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | I | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -180,7 +180,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 37.29 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | I | NOs | Runs | Ave |
 ||:---|:---|:---|:---|:---|:---|
@@ -227,8 +227,7 @@ type: "statistics"
 | **Jerry Wright** | 377 | 183 | 72 | 922 | 8.31 |
 | **Richard Coyle** | 72 | 64 | 16 | 370 | 7.71 |
 
-
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -260,7 +259,7 @@ type: "statistics"
 | **Philip Beswick** | 46 | 125.1 | 5 | 669 | 28 | 23.89 | 26.81 |
 | **Andrew Slight** | 112 | 72.8 | 2 | 429 | 26 | 16.50 | 16.800 |
  
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

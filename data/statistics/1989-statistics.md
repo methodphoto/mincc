@@ -140,7 +140,7 @@ type: "statistics"
 | **Richard Earney** | 5 | 5 | 2 | 122 | 3 | 40.66 | 42.8 |
 | **Andrew Gallagher** | 9 | 9 | 2 | 72 | 1 | 72 | 90 |
 
-## Career Batting (by runs - min 30 runs)
+## Career Batting
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -171,7 +171,7 @@ type: "statistics"
 | **David Mundy** | 16 | 15 | 0 | 171 | 11.40 |
 | **Robin Emanuel** | 11 | 10 | 2 | 160 | 20.00 |
 
-## Career Batting (by ave - min 30 runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|

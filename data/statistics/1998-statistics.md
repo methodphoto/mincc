@@ -118,7 +118,7 @@ type: "statistics"
 | **Jon Fleetwood** | 20 | 4 | 72 | 2 | 36 | 60 |
 | **Aidan Roker** | 10 | 2 | 48 | 1 | 48 | 60 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -152,7 +152,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -186,7 +186,7 @@ type: "statistics"
 | **Mark Gardiner** | 92 | 76 | 13 | 536 | 8.51 |
 | **Jerry Wright** | 170 | 85 | 31 | 401 | 7.43 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -208,7 +208,7 @@ type: "statistics"
 | **Phil Bentley** | 19 | 165.9 | 30 | 518 | 31 | 16.71 | 32.11 |
 | **Steve Masterson** | 17 | 169.1 | 32 | 565 | 27 | 20.93 | 37.58 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

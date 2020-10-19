@@ -142,7 +142,7 @@ type: "statistics"
 | **David Swann** | 11 | 20.1 | 3 | 110 | 3 | 36.66 | 40.2 |
 | **Richard Earney** | 10 | 5 | 0 | 40 | 1 | 40 | 30 |
 
-## Career Batting (min 100 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -179,7 +179,7 @@ type: "statistics"
 | **Tim Horsey** | 16 | 16 | 2 | 121 | 8.64 |
 | **Graeme Wright** | 27 | 18 | 7 | 103 | 9.36 |
 
-## Career Batting by ave (min 100 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -216,7 +216,7 @@ type: "statistics"
 | **Jerry Wright** | 98 | 49 | 15 | 222 | 6.53 |
 | **Dan Newman** | 46 | 37 | 4 | 179 | 5.42 |
 
-## Career Bowling (min 5 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -245,7 +245,7 @@ type: "statistics"
 | **Dan Newman** | 46 | 14.1 | 1 | 82 | 5 | 16.40 | 16.92 |
 | **Edward Harcourt** | 21 | 19.1 | 1 | 95 | 5 | 19.00 | 22.92 |
 
-## Career Bowling by ave (min 5 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

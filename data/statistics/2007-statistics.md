@@ -121,7 +121,7 @@ type: "statistics"
 | **Alex Binns** | 8 | 0 | 42 | 1 | 42 | 48 |
 | **Mohit Gupta** | 12 | 1 | 62 | 1 | 62 | 72 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -162,7 +162,7 @@ type: "statistics"
 | **Patrick Wigg** | 17 | 15 | 6 | 260 | 28.89 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -203,7 +203,7 @@ type: "statistics"
 | **Jerry Wright** | 256 | 129 | 45 | 721 | 8.58 |
 | **Mark Gardiner** | 97 | 80 | 14 | 554 | 8.39 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -231,7 +231,7 @@ type: "statistics"
 | **Tom Rutherford** | 22 | 133.7 | 16 | 490 | 27 | 18.15 | 29.71 |
 | **Patrick Wigg** | 17 | 114 | 17 | 445 | 21 | 21.19 | 32.57 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

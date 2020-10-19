@@ -127,7 +127,7 @@ type: "statistics"
 | **Edward Garland** | 7 | 1 | 29 | 1 | 29 | 42 |
 | **Andrew MacFarlane** | 31 | 2 | 109 | 2 | 54.5 | 93 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -157,7 +157,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Jerry Wright** | 104 | 54 | 16 | 254 | 6.68 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -187,7 +187,7 @@ type: "statistics"
 | **Mark Gardiner** | 74 | 58 | 9 | 435 | 8.88 |
 | **Jerry Wright** | 104 | 54 | 16 | 254 | 6.68 |
 
-## Career Bowling (min 20 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -205,7 +205,7 @@ type: "statistics"
 | **Tony Purves** | 18 | 111.8 | 14 | 488 | 36 | 13.56 | 18.63 |
 | **Mark Gardiner** | 74 | 132 | 11 | 545 | 32 | 17.03 | 24.75 |
 
-## Career Bowling by ave (min 20 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

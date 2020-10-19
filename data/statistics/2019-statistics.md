@@ -128,7 +128,7 @@ type: "statistics"
 | **Christopher Wright** | 44.4 | 2 | 240 | 7 | 34.29 | 38.06 |
 | **Ian Marshall** | 17 | 2 | 77 | 1 | 77 | 102 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -175,7 +175,7 @@ type: "statistics"
 | **John Stimpfig** | 29 | 22 | 4 | 262 | 14.56 |
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -222,7 +222,7 @@ type: "statistics"
 | **Jerry Wright** | 379 | 183 | 72 | 922 | 8.31 |
 | **Richard Coyle** | 72 | 64 | 16 | 370 | 7.71 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -254,7 +254,7 @@ type: "statistics"
 | **Philip Beswick** | 46 | 125.1 | 5 | 669 | 28 | 23.89 | 26.81 |
 | **Andrew Slight** | 112 | 72.8 | 2 | 429 | 26 | 16.50 | 16.80 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

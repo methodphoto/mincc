@@ -148,7 +148,7 @@ type: "statistics"
 | **William Calvert** | 12 | 35 | 2 | 173 | 5 | 34.6 | 42 |
 | **Steve Foster** | 1 | 11 | 0 | 50 | 1 | 50 | 66 |
 
-## Career Batting (by runs - min 30 runs)
+## Career Batting
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -176,7 +176,7 @@ type: "statistics"
 | **Edward Garland** | 17 | 14 | 3 | 135 | 12.27 |
 | **Richard Olver** | 27 | 15 | 8 | 120 | 17.14 |
 
-## Career Batting (by ave - min 100 runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|

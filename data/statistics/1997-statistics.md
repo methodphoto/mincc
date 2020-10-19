@@ -137,7 +137,7 @@ type: "statistics"
 | **Phil Bentley** | 10 | 0 | 38 | 1 | 38 | 60 |
 | **Tim Shore** | 15 | 2 | 58 | 1 | 58 | 90 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -171,7 +171,7 @@ type: "statistics"
 | **Pete Grant** | 33 | 32 | 5 | 253 | 9.37 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -205,7 +205,7 @@ type: "statistics"
 | **Mark Gardiner** | 92 | 76 | 13 | 536 | 8.51 |
 | **Jerry Wright** | 160 | 82 | 29 | 377 | 7.11 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -226,7 +226,7 @@ type: "statistics"
 | **Mark Gardiner** | 92 | 138 | 11 | 583 | 33 | 17.67 | 25.09 |
 | **Phil Bentley** | 19 | 165.9 | 30 | 518 | 31 | 16.71 | 32.11 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

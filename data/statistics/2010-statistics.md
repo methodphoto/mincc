@@ -125,7 +125,7 @@ type: "statistics"
 | **Mohit Gupta** | 44 | 8 | 168 | 4 | 42 | 66 |
 | **Iqbal Miah** | 8 | 0 | 56 | 1 | 56 | 48 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -163,7 +163,7 @@ type: "statistics"
 | **Mark Kirwan** | 42 | 28 | 5 | 356 | 15.48 |
 | **Richard Green** | 33 | 24 | 4 | 354 | 17.70 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -208,7 +208,7 @@ type: "statistics"
 | **Jerry Wright** | 293 | 142 | 52 | 765 | 8.50 |
 | **Richard Coyle** | 62 | 55 | 14 | 300 | 7.32 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -237,7 +237,7 @@ type: "statistics"
 | **Phil Bentley** | 19 | 165.9 | 30 | 518 | 31 | 16.71 | 32.11 |
 
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

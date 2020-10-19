@@ -116,7 +116,7 @@ type: "statistics"
 | **Iqbal Miah** | 17 | 0 | 107 | 2 | 53.5 | 51 |
 | **Toby Carden** | 19 | 0 | 133 | 1 | 133 | 114 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -160,7 +160,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -203,7 +203,7 @@ type: "statistics"
 | **Jerry Wright** | 279 | 137 | 50 | 749 | 8.61 |
 | **Mark Gardiner** | 98 | 81 | 15 | 566 | 8.58 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -232,7 +232,7 @@ type: "statistics"
 | **Steve Masterson** | 22 | 204.1 | 37 | 682 | 32 | 21.31 | 38.27 |
 | **Phil Bentley** | 19 | 165.9 | 30 | 518 | 31 | 16.71 | 32.11 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

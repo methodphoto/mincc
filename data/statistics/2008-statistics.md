@@ -135,7 +135,7 @@ type: "statistics"
 | **Alf Beswick** | 8 | 2 | 33 | 1 | 33 | 48 |
 | **Richard Beswick** | 30 | 11 | 102 | 1 | 102 | 180 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -178,7 +178,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -221,7 +221,7 @@ type: "statistics"
 | **Mark Gardiner** | 98 | 81 | 15 | 566 | 8.58 |
 | **Richard Coyle** | 54 | 48 | 13 | 285 | 8.14 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -249,7 +249,7 @@ type: "statistics"
 | **Steve Masterson** | 22 | 204.1 | 37 | 682 | 32 | 21.31 | 38.27 |
 | **Phil Bentley** | 19 | 165.9 | 30 | 518 | 31 | 16.71 | 32.11 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|

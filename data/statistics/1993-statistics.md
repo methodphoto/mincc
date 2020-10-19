@@ -114,7 +114,7 @@ type: "statistics"
 | **Alan Sylvester** | 13 | 1 | 1 | 84 | 78 |
 | **Duncan Ferguson** | 23 | 3 | 1 | 85 | 138 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -145,7 +145,7 @@ type: "statistics"
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Jerry Wright** | 108 | 54 | 16 | 254 | 6.68 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting (by ave)
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -176,7 +176,7 @@ type: "statistics"
 | **Mark Gardiner** | 75 | 59 | 9 | 440 | 8.80 |
 | **Jerry Wright** | 108 | 54 | 16 | 254 | 6.68 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -195,7 +195,7 @@ type: "statistics"
 | **Mark Gardiner** | 75 | 132 | 11 | 545 | 32 | 17.03 | 24.75 |
 | **Steven Hornsby** | 32 | 128.4 | 13 | 595 | 32 | 18.59 | 24.08 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
