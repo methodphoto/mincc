@@ -12,7 +12,7 @@ type: "statistics"
 | **A Gallagher** | 3 | 1 | 89 | 44.5 |
 | **A Beswick** | 2 | 0 | 76 | 38.0 |
 | **J Grant** | 2 | 0 | 44 | 22.0 |
-| **K Gallagher** | 2 | 2 | 38 |  |
+| **K Gallagher** | 2 | 2 | 38 | - |
 | **R Earney** | 3 | 0 | 31 | 10.3 |
 | **S Ali** | 1 | 0 | 30 | 30.0 |
 | **S Amin** | 1 | 0 | 24 | 24.0 |
