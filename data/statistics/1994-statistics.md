@@ -80,7 +80,6 @@ type: "statistics"
 | **Mark Kirwan** | 1 | 1 | 23 | - |
 | **Richard Olver** | 1 | 1 | 0 | - |
 
-
 ## Season Bowling
 
 | Player | O | M | Runs | Wkts | Ave | SR |
@@ -122,7 +121,7 @@ type: "statistics"
 | **Steven Hornsby** | 21 | 0 | 140 | 3 | 46.66 | 42 |
 | **William Calvert** | 8 | 0 | 72 | 1 | 72 | 48 |
 
-## Career Batting (min 250 Runs)
+## Career Batting
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -153,7 +152,7 @@ type: "statistics"
 | **Phil Bentley** | 10 | 9 | 1 | 275 | 34.38 |
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 
-## Career Batting by ave (min 250 Runs)
+## Career Batting by ave
 
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
@@ -184,7 +183,7 @@ type: "statistics"
 | **Mark Gardiner** | 77 | 61 | 10 | 440 | 8.63 |
 | **Jerry Wright** | 120 | 62 | 19 | 299 | 6.95 |
 
-## Career Bowling (min 25 wkts)
+## Career Bowling
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -204,7 +203,7 @@ type: "statistics"
 | **Mark Gardiner** | 77 | 133 | 11 | 557 | 32 | 17.41 | 24.94 |
 | **Richard Earney** | 54 | 101.4 | 12 | 540 | 22 | 24.55 | 27.65 |
 
-## Career Bowling by ave (min 25 wkts)
+## Career Bowling (by ave)
 
 | Player | M | O | M | R | W | Ave | SR |
 |:---|:---|:---|:---|:---|:---|:---|:---|
