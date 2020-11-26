@@ -41,6 +41,9 @@ const HomePage = () => {
     	
 		<h2>Previous years</h2>
 		
+		<h3>2020s</h3>
+			<p><a href="2021/fixtures">2021 Fixtures</a></p>
+        	<p><a href="2020/fixtures">2020 Fixtures</a></p>
          <h3>2010s</h3>
         	<p><a href="2019/fixtures">2019 Fixtures</a></p>
         	<p><a href="2018/fixtures">2018 Fixtures</a></p>
