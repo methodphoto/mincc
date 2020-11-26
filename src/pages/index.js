@@ -5,7 +5,7 @@ import { graphql, useStaticQuery } from 'gatsby';
 
 const query = graphql`
   query {
-  allMarkdownRemark(filter: {fileAbsolutePath: {regex: "//2020/fixtures.md$/"}}) {
+  allMarkdownRemark(filter: {fileAbsolutePath: {regex: "//2021/fixtures.md$/"}}) {
     edges {
       node {
         id
