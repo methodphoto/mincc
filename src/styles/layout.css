@@ -91,8 +91,8 @@ p {padding-bottom: 8px;}
 p, td {color: $min-text;}
 
 th {
-	color: #fff;
-	background-color: #660000;
+	color: #333f48;
+	background-color: #cccccc;
 	font-weight: bold;
 	letter-spacing: 0.01rem;
 }
