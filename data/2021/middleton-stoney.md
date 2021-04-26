@@ -24,7 +24,7 @@ type: "game"
 | **S Amin** | lbw | J Morris | 18 | 
 | **I Miah** | not out |  | 37 | 
 | **J Stimfig** | b | M Simpson | 7 | 
-| **R Beswick &42;** | lbw | M Dipple | 5 | 
+| **R Beswick &#42;** | lbw | M Dipple | 5 | 
 | **J Grant &#8224;** | not out |  | 0 | 
 | **Extras** | | (2b 3lb 3w 4nb) | **12** | 
 | **Total** | | (41 overs) | **172 for 9 wkts** | 
@@ -52,16 +52,16 @@ type: "game"
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **N Moorman** | not out |  | 104 | 
-| **R Janardanan** | b | R Beswick | 0 | 
-| **W Hodgeson** | b | M Ishmail | 1 | 
-| **D Kanagarajah** | lbw | R Beswick | 0 | 
-| **K Dhanasekaran** | c R Earney | I Miah | 9 | 
-| **M Nathavani** | not out |  | 53 | 
-| **G Mitchell** | dnb |  |  | 
-| **V Vijayan** | dnb |  |  | 
-| **M Wood** | dnb |  |  | 
-| **J Hoy** | dnb |  |  | 
-| **A Bushe** | dnb | |  | 
+| **M Ford-Langstaff &#8224;** | b | R Beswick | 0 | 
+| **T House** | b | M Ishmail | 1 | 
+| **J Lumb** | lbw | R Beswick | 0 | 
+| **R Barton** | c R Earney | I Miah | 9 | 
+| **T Riley** | not out |  | 53 | 
+| **M Simpson** | dnb |  |  | 
+| **S Shah** | dnb |  |  | 
+| **J Morris** | dnb |  |  | 
+| **-** | dnb |  |  | 
+| **-** | dnb | |  | 
 | **Extras** | | (3b 2lb 4w 1nb) | **10** | 
 | **Total** | | (37.2 overs) | **177 for 4 wkts** | 
 
