@@ -24,7 +24,7 @@ type: "game"
 | **S Amin** | lbw | J Morris | 18 | 
 | **I Miah** | not out |  | 37 | 
 | **J Stimfig** | b | M Simpson | 7 | 
-| **R Beswick &42,k** | lbw | M Dipple | 5 | 
+| **R Beswick &42;** | lbw | M Dipple | 5 | 
 | **J Grant &#8224;** | not out |  | 0 | 
 | **Extras** | | (2b 3lb 3w 4nb) | **12** | 
 | **Total** | | (41 overs) | **172 for 9 wkts** | 
