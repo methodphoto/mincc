@@ -7,7 +7,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 25th | 13:30 | Middleton Stoney | [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) |
+| 25th | 13:30 | [Middleton Stoney](2021/middleton-stoney) | [OX25 4AQ](https//goo.gl/maps/2oHFhgW7cVt) |
 
 ## May
 
