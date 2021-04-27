@@ -11,6 +11,8 @@ resultType: "Lost"
 type: "game"
 ---
 
+[Match Report](https://www.middletonstoneycc.co.uk/club-news/2021/mscc-v-the-min-2021/)
+
 ## The Min Innings
 
 | Batsman | Dismissal | | Runs |
@@ -56,12 +58,12 @@ type: "game"
 | **T House** | b | I Matvad | 1 | 
 | **J Lumb** | lbw | R Beswick | 0 | 
 | **R Barton** | c R Earney | I Miah | 9 | 
-| **T Riley** | not out |  | 53 | 
+| **T Riley &#42;** | not out |  | 53 | 
 | **M Simpson** | dnb |  |  | 
 | **S Shah** | dnb |  |  | 
 | **J Morris** | dnb |  |  | 
-| **-** | dnb |  |  | 
-| **-** | dnb | |  | 
+| **R Morris &#8224;** | dnb |  |  | 
+| **M Dipple** | dnb | |  | 
 | **Extras** | | (3b 2lb 4w 1nb) | **10** | 
 | **Total** | | (37.2 overs) | **177 for 4 wkts** | 
 
