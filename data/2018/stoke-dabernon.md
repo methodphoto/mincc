@@ -21,7 +21,7 @@ type: "game"
 | **C Finch** | b | J Wright | 17 |
 | **S Finch** | not out |  | 47 |
 | **K Morgan** | lbw | J Wright | 0 |
-| **A Huseyin** | b | M Ishmael | 1 |
+| **A Huseyin** | b | I Matvad | 1 |
 | **R Singh &#8224;** | not out |  | 16 |
 | **T Selvakumar** | did not bat |  |  |
 | **R Coleman** | did not bat |  |  |
@@ -44,7 +44,7 @@ type: "game"
 | **I Miah** | 8 | 1 | 45 | 2 |
 | **R Beswick** | 1 | 0 | 18 | 0 |
 | **A Altaf** | 5 | 0 | 43 | 0 |
-| **M Ishmael** | 6 | 0 | 50 | 1 |
+| **I Matvad** | 6 | 0 | 50 | 1 |
 | **Parvez** | 6 | 1 | 29 | 1 |
 | **J Wright** | 6 | 0 | 34 | 2 |
 
@@ -57,7 +57,7 @@ type: "game"
 | **R Damaze** | lbw | J Earl | 47 |
 | **S Ahmed** | lbw | J Earl | 50 |
 | **R Beswick &#42;** | c J Jones | A Huseyin | 7 |
-| **M Ishmael** | b | J Earl | 34 |
+| **I Matvad** | b | J Earl | 34 |
 | **W Calvert** | b | G Vinall | 3 |
 | **I Miah** | c A Huseyin | G Vinall | 8 |
 | **J Grant &#8224;** | not out |  | 0 |

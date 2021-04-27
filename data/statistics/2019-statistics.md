@@ -13,7 +13,7 @@ type: "statistics"
 | **Richard Beswick** | 10 | 0 | 170 | 17 |
 | **Andrew Gallagher** | 4 | 1 | 138 | 46 |
 | **Steven Hornsby** | 3 | 1 | 94 | 47 |
-| **M Ismail** | 2 | 0 | 80 | 40 |
+| **I Matvad** | 2 | 0 | 80 | 40 |
 | **Ned Garland** | 6 | 1 | 70 | 14 |
 | **Jack Stacey** | 2 | 0 | 68 | 34 |
 | **William Calvert** | 5 | 0 | 55 | 11 |
@@ -52,7 +52,7 @@ type: "statistics"
 | **Alf Beswick** | 7 | 2 | 289 | 57.8 |
 | **Steven Hornsby** | 3 | 1 | 94 | 47 |
 | **Andrew Gallagher** | 4 | 1 | 138 | 46 |
-| **M Ismail** | 2 | 0 | 80 | 40 |
+| **I Matvad** | 2 | 0 | 80 | 40 |
 | **Jack Stacey** | 2 | 0 | 68 | 34 |
 | **Richard Earney** | 10 | 0 | 255 | 25.5 |
 | **Louis Barrowcliff** | 1 | 0 | 25 | 25 |

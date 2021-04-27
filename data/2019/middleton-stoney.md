@@ -42,7 +42,7 @@ type: "game"
 
 | | O | M | R | W |
 |---|---|---|---|---|
-| **Ishmael** | 6 | 3 | 35 | 0 |
+| **I Matvad** | 6 | 3 | 35 | 0 |
 | **I Miah** | 5 | 0 | 23 | 1 |
 | **R Earney** | 6 | 1 | 28 | 0 |
 | **P Wigg** | 11 | 1 | 58 | 2 |
@@ -54,7 +54,7 @@ type: "game"
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **I Miah** | b | S Pettit | 0 |
-| **Ishmael** | b | E Barton | 10 |
+| **I Matvad** | b | E Barton | 10 |
 | **R Damaze** | lbw |S Pettit | 11 |
 | **R Earney** | b |J Morris | 16 |
 | **P Wigg** | lbw b |J Morris | 0 |

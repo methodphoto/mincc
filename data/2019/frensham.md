@@ -40,7 +40,7 @@ type: "game"
 
 | | O | M | R | W |
 |---|---|---|---|---|
-| **M Ismail** | 8 | 1 | 31 | 0 | 
+| **I Matvad** | 8 | 1 | 31 | 0 | 
 | **I Miah** | 8 | 4 | 26 | 3 | 
 | **I Marshall** | 8 | 1 | 31 | 1 | 
 | **C Wright** | 6 | 0 | 46 | 1 | 
@@ -54,7 +54,7 @@ type: "game"
 |:---|:---|---|---:|
 | **R Earney** | b | Ju Frost | 39 | 
 | **R Beswick &#42;** | lbw | J Scully | 0 | 
-| **M Ismail** | c | C Jones | 70 | 
+| **I Matvad** | c | C Jones | 70 | 
 | **S Amin** | c G Breddy | Ju Frost | 7 | 
 | **W Calvert** | b  | C Jones | 15 | 
 | **I Marshall** | b | J Scully | 7 | 
