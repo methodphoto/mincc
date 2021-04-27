@@ -17,10 +17,10 @@ type: "game"
 |:---|:---|---|---:|
 | **J Carroll** | b | M Dipple | 28 | 
 | **R Earney** | b | M Dipple | 4 | 
-| **Annand** | c & b | S Shah | 17 | 
+| **A Venkatasamy** | c & b | S Shah | 17 | 
 | **R Damaze** | lbw | M Dipple | 2 | 
 | **A Beswick** | c A Morris  | M Simpson | 19 | 
-| **M Ishmail** | b | M Simpson | 23 | 
+| **I Matvad** | b | M Simpson | 23 | 
 | **S Amin** | lbw | J Morris | 18 | 
 | **I Miah** | not out |  | 37 | 
 | **J Stimfig** | b | M Simpson | 7 | 
@@ -53,7 +53,7 @@ type: "game"
 |:---|:---|---|---:|
 | **N Moorman** | not out |  | 104 | 
 | **M Ford-Langstaff &#8224;** | b | R Beswick | 0 | 
-| **T House** | b | M Ishmail | 1 | 
+| **T House** | b | I Matvad | 1 | 
 | **J Lumb** | lbw | R Beswick | 0 | 
 | **R Barton** | c R Earney | I Miah | 9 | 
 | **T Riley** | not out |  | 53 | 
@@ -76,7 +76,7 @@ type: "game"
 
 | | O | M | R | W |
 |---|---|---|---|---|
-| **M Ishmail** | 8 | 2 | 17 | 1 | 
+| **I Matvad** | 8 | 2 | 17 | 1 | 
 | **R Beswick** | 5.2 | 0 | 32 | 2 | 
 | **J Carroll** | 8 | 1 | 37 | 0 | 
 | **I Miah** | 5 | 1 | 21 | 1 |

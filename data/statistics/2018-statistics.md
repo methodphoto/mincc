@@ -12,7 +12,7 @@ type: "statistics"
 | **Ray Damaze** | 6 | 0 | 144 | 24 |
 | **Richard Earney** | 6 | 0 | 116 | 19.33 |
 | **Richard Beswick** | 9 | 0 | 115 | 12.78 |
-| **M Ishmail** | 3 | 0 | 98 | 32.67 |
+| **I Matvad** | 3 | 0 | 98 | 32.67 |
 | **Alastair Dell** | 2 | 0 | 77 | 38.5 |
 | **Patrick Wigg** | 4 | 1 | 73 | 24.33 |
 | **Ian Marshall** | 2 | 2 | 69 | ? |
@@ -51,7 +51,7 @@ type: "statistics"
 | **Alastair Dell** | 1 | 0 | 49 | 49 |
 | **Simon Barrowcliff** | 4 | 0 | 156 | 39 |
 | **Alastair Dell** | 2 | 0 | 77 | 38.5 |
-| **M Ishmail** | 3 | 0 | 98 | 32.67 |
+| **I Matvad** | 3 | 0 | 98 | 32.67 |
 | **Ifty Muntakim** | 2 | 0 | 64 | 32 |
 | **M Parvez** | 1 | 0 | 32 | 32 |
 | **Andrew Gallagher** | 1 | 0 | 25 | 25 |
@@ -87,7 +87,7 @@ type: "statistics"
 |:---|:---|:---|:---|:---|:---|:---|
 | **Phil Beswick** | 6 | 1 | 23 | 7 | 3.29 | 5.14 |
 | **Richard Earney** | 24.2 | 3 | 117 | 7 | 16.71 | 20.74 |
-| **M Ishmail** | 17.3 | 1 | 102 | 7 | 14.57 | 14.83 |
+| **I Matvad** | 17.3 | 1 | 102 | 7 | 14.57 | 14.83 |
 | **Richard Beswick** | 40.5 | 2 | 198 | 5 | 39.6 | 48.6 |
 | **Ned Garland** | 23.4 | 2 | 136 | 5 | 27.2 | 28.08 |
 | **Patrick Wigg** | 31 | 3 | 143 | 4 | 35.75 | 46.5 |
@@ -118,7 +118,7 @@ type: "statistics"
 | **Ray Damaze** | 2 | 0 | 6 | 1 | 6 | 12 |
 | **Adbul** | 5 | 0 | 6 | 1 | 6 | 30 |
 | **Marcus Elwin** | 4 | 1 | 14 | 1 | 14 | 24 |
-| **M Ishmail** | 17.3 | 1 | 102 | 7 | 14.57 | 14.83 |
+| **I Matvad** | 17.3 | 1 | 102 | 7 | 14.57 | 14.83 |
 | **Ifty Muntakim** | 14 | 1 | 65 | 4 | 16.25 | 21 |
 | **Richard Earney** | 24.2 | 3 | 117 | 7 | 16.71 | 20.74 |
 | **Christopher Wright** | 4 | 0 | 35 | 2 | 17.5 | 12 |

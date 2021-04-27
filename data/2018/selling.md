@@ -21,7 +21,7 @@ type: "game"
 | **M Elwin** | c | Dineth | 12 |
 | **A Beswick** | c | Beckett | 12 |
 | **A Gallagher** | b | Myers | 25 |
-| **Ismail** | c | Beckett | 50 |
+| **I Matvad** | c | Beckett | 50 |
 | **R Beswick &#42;** | b  | Myers | 1 |
 | **J Grant &#8224;** | b | Latham | 4 |
 | **S Amin** | b  | Latham | 15 |
@@ -46,7 +46,7 @@ type: "game"
 | **M Elwin** | 4 | 1 | 14 | 1 |
 | **A Munim** | 5 | 0 | 6 | 1 |
 | **R Damaze** | 2 | 0 | 6 | 1 |
-| **Ismail** | 3 3 | 0 | 15 | 1 |
+| **I Matvad** | 3 3 | 0 | 15 | 1 |
 
 ## Selling Innings
 

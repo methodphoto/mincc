@@ -21,7 +21,7 @@ type: "game"
 | **S Hornsby** | st M Wood | A J Rashid | 23 | 
 | **A Ajmal** | c | P Settu | 27 | 
 | **W Calvert &#8224;** | c B Glenn | C Carter | 9 | 
-| **M Ismail** | c M Wood | Field | 14 | 
+| **I Matvad** | c M Wood | Field | 14 | 
 | **S Amin** | c M Wood | C Carter | 4 | 
 | **I Miah** | c B Glenn | C Carter | 3 | 
 | **I Marshall** | not out |   | 19 | 
@@ -53,13 +53,13 @@ type: "game"
 |:---|:---|---|---:|
 | **T Jiminez** | c R Damaze | b J Wright | 67 |
 | **T Austin** | c S Amin | b Altaf | 22 |
-| **D Palmer** | lbw | M Ismail | 24 |
+| **D Palmer** | lbw | I Matvad | 24 |
 | **J Overbury** | run out (J Wright) |  | 0 |
-| **R Settu** | b | M Ismail | 4 |
-| **M Wood &#8224;** | c W Calvert |  M Ismail | 19 |
+| **R Settu** | b | I Matvad | 4 |
+| **M Wood &#8224;** | c W Calvert |  I Matvad | 19 |
 | **C Field** | not out |  | 32 |
-| **B Glenn** | lbw | M Ismail | 0 |
-| **C Carter** | b | M Ismail | 0 |
+| **B Glenn** | lbw | I Matvad | 0 |
+| **C Carter** | b | I Matvad | 0 |
 | **A Rasheed** | not out |  | 1 |
 | **AJ Rasheed** | did not bat |  |  |
 | **Extras** | | (16b 6lb 2w 1nb 0p) | **25** | 
@@ -82,7 +82,7 @@ type: "game"
 | **I Marshall** | 5 | 1 | 21 | 0 |
 | **J Wright** | 8 | 0 | 50 | 1 |
 | **R Beswick** | 2 | 0 | 9 | 0 |
-| **M Ismail** | 8 | 1 | 37 | 5 |
+| **I Matvad** | 8 | 1 | 37 | 5 |
 
 ## Win/Loss Ratio
 

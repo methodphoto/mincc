@@ -39,7 +39,7 @@ type: "records"
 | 2019 | Alf Beswick | v Kingstonian | 86 |
 | 2019 | Steven Hornsby | v Broadway & Horton | 52 |
 | 2019 | Alf Beswick | v Cerne Valley | 52 |
-| 2019 | M Ishmael | v Frensham | 70 |
+| 2019 | I Matvad | v Frensham | 70 |
 | 2019 | Jack Stacey | v Newington | 59 |
 | 2019 | Alf Beswick | v Watton-at-Stone | 57 |
 | 2018 | Richard Earney | v Kingstonian | 56 |
