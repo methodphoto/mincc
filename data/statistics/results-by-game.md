@@ -8,7 +8,7 @@ type: "records"
 
 |  |  |  |
 |:---|:---|:---|
-| 25/04/2021 | [Middleton Stoney](/2020/middleton-stoney) | Lost |
+| 25/04/2021 | [Middleton Stoney](/2021/middleton-stoney) | Lost |
 
 ## 2020
 
