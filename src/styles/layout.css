@@ -101,10 +101,6 @@ tr:nth-child(odd) {
 	background-color: #f3f3f4;
 }
 
-tr:nth-child(odd) { 
-	background-color: #f3f3f4;
-}
-
 td:first-child, td:second-child {
 	width: 10%;
 }
