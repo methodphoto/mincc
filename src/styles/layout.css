@@ -92,7 +92,7 @@ p, td {color: $min-text;}
 
 th {
 	color: #333f48;
-	background-color: #cccccc;
+	background-color: #ccc;
 	font-weight: bold;
 	letter-spacing: 0.01rem;
 }
@@ -100,6 +100,8 @@ th {
 tr:nth-child(odd) { 
 	background-color: #f3f3f4;
 }
+
+/* Table cells */
 
 td:nth-child(1), td:nth-child(2) {
 	width: 10%;
