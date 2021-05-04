@@ -101,6 +101,18 @@ tr:nth-child(odd) {
 	background-color: #f3f3f4;
 }
 
+td:first-child, td:second-child {
+	width: 10%;
+}
+
+td:third-child {
+	width: 60%;
+}
+
+td:fourth-child {
+	width: 20%;
+}
+
 strong {font-weight: 600; }
 
 
