@@ -6,10 +6,10 @@ export default function FixtureTemplate({ pageContext }) {
 
   return (
   	<Layout>
-    	<div id="fixture">
+    	<div id="{type}">
      		<h1>{year} Fixtures</h1>
                   
-    	<div
+    	<div id="{type}"
       			dangerouslySetInnerHTML={{ __html: html }}
     		/>
     	</div>
