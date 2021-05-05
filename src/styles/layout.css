@@ -123,12 +123,16 @@ tr:nth-child(odd) {
 
 /* Table cells Results */
 
-#results td:nth-child(1), #resultsgame td:nth-child(3) {
+#results td:nth-child(1) {
+	width: 25%;
+}
+
+#resultsgame td:nth-child(3) {
 	width: 20%;
 }
 
 #results td:nth-child(2) {
-	width: 60%;
+	width: 55%;
 }
 
 strong {font-weight: 600; }
