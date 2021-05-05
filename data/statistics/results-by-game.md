@@ -4,15 +4,10 @@ slug: "results"
 type: "records"
 ---
 
-## 2021
-
-|  |  |  |
+| 2021 |  |  |
 |:---|:---|:---|
 | 25/04/2021 | [Middleton Stoney](/2021/middleton-stoney) | Lost |
-
-## 2020
-
-|  |  |  |
+| 2020 |  |  |
 |:---|:---|:---|
 | 19/07/2020 | [Kingstonian](/2020/kingstonian) | Won |
 | 02/08/2020 | [Railway Taverners](2020-railway=-taverners) | Won |
