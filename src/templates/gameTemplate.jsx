@@ -6,7 +6,7 @@ export default function GameTemplate({ pageContext }) {
 
   return (
    <Layout>
-    <div>
+    <div id="game">
       <h1>{title}</h1>
       
       <p>Played at {gameLocation} on {gameDate}</p>

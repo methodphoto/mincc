@@ -101,19 +101,27 @@ tr:nth-child(odd) {
 	background-color: #f3f3f4;
 }
 
-/* Table cells */
+/* Table cells fixtures */
 
-td:nth-child(1), td:nth-child(2) {
+#fixtures td:nth-child(1), #fixtures td:nth-child(2) {
 	width: 10%;
 }
 
-td:nth-child(3) {
+#fixtures td:nth-child(3) {
 	width: 60%;
 }
 
-td:nth-child(4) {
+#fixtures td:nth-child(4) {
 	width: 20%;
 }
+
+/* Table cells games */
+
+#game td:nth-child(1), #game td:nth-child(2), #game td:nth-child(3), #game td:nth-child(4) {
+	width: 20%;
+}
+
+
 
 strong {font-weight: 600; }
 
