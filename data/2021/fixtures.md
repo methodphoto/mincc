@@ -13,7 +13,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 9th | 13:30 | Stowting | [TN25 6BD](https//goo.gl/maps/5KNmaMe6Wb42) |
+| 9th | 13:30 | <del>Stowting</del> | [TN25 6BD](https//goo.gl/maps/5KNmaMe6Wb42) |
 | 23rd | 13:00 | Newington | [ME9 8NN](https//goo.gl/maps/2XwQKWc9brr) |
 
 ## June
