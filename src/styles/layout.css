@@ -91,15 +91,21 @@ p {padding-bottom: 8px;}
 p, td {color: $min-text;}
 
 th {
-	color: #333f48;
-	background-color: #ccc;
+	color: #000;
+	background-color: #f9f9fb;
 	font-weight: bold;
 	letter-spacing: 0.01rem;
 }
 
-tr:nth-child(odd) { 
-	background-color: #f3f3f4;
+tr {	
+	border-top: 1px solid #ededef;
+	border-bottom: 1px solid #ededef;
 }
+
+
+/*tr:nth-child(odd) { 
+	background-color: #f3f3f4;
+}*/
 
 /* Table cells fixtures */
 
