@@ -146,7 +146,7 @@ strong {font-weight: 600;}
 }
 
 .fow td:nth-child(n+2), .fow th:nth-child(n+2) {
-	width:8.6%;
+	width:8.6%; border-right:1px #ccc solid;
 }
 
 /* Accordion */
