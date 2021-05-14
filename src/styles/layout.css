@@ -148,11 +148,11 @@ strong {font-weight: 600;}
 /* Fall of wickets tables */
 
 .fow td:nth-child(1), .fow th:nth-child(1) {
-	width: 14%; border-right:1px #ccc solid;
+	width: *; border-right:1px #ccc solid;
 }
 
 .fow td:nth-child(n+2), .fow th:nth-child(n+2) {
-	width:8.6%; border-right:1px #ccc solid;
+	width: 70px; border-right:1px #ccc solid;
 }
 
 /* Accordion */
