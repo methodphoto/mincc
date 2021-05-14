@@ -98,8 +98,8 @@ th {
 }
 
 tr {	
-	border-top: 1px solid #ededef;
-	border-bottom: 1px solid #ededef;
+	border-top: 1px solid #ededef !important;
+	border-bottom: 1px solid #ededef !important;
 }
 
 
