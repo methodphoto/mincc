@@ -98,8 +98,8 @@ th {
 }
 
 tr {	
-	border-top: 1px solid #ededef !important;
-	border-bottom: 1px solid #ededef !important;
+	border-top: 1px solid #ccc !important;
+	border-bottom: 1px solid #ccc !important;
 }
 
 
@@ -147,12 +147,23 @@ strong {font-weight: 600;}
 
 /* Fall of wickets tables */
 
+@media only screen and (min-device-width : 600px) and (max-device-width : 2048px) {
+	.fow table {width: 70%;}
+	.fow td:nth-child(1), .fow th:nth-child(1) {
+		width: *; border-right:1px #ccc solid;
+	}
+
+	.fow td:nth-child(n+2), .fow th:nth-child(n+2) {
+		width: 100px; border-right:1px #ccc solid;
+	}
+}
+
 .fow td:nth-child(1), .fow th:nth-child(1) {
-	width: *; border-right:1px #ccc solid;
+	width: 20%; border-right:1px #ccc solid;
 }
 
 .fow td:nth-child(n+2), .fow th:nth-child(n+2) {
-	width: 70px; border-right:1px #ccc solid;
+	width: 8%; border-right:1px #ccc solid;
 }
 
 /* Accordion */
