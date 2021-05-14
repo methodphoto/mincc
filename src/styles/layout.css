@@ -139,7 +139,7 @@ strong {font-weight: 600; }
 
 /* Fall of wickets tables */
 
-.fow td:nth-child(1) {
+.fow td:nth-child(1), .fow th:nth-child(1) {
 	width:20%;
 }
 
