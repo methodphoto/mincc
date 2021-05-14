@@ -147,6 +147,12 @@ strong {font-weight: 600;}
 
 /* Fall of wickets tables */
 
+.fow thead {
+	background-color: rgb(249, 249, 251);
+	border-top: 1px solid rgb(128, 128, 128);
+	border-bottom: 1px solid rgb(128, 128, 128);
+}
+
 @media only screen and (min-device-width : 600px) and (max-device-width : 2048px) {
 	.fow table {width: 70%;}
 	.fow td:nth-child(1), .fow th:nth-child(1) {
