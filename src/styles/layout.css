@@ -68,7 +68,7 @@ font-family: Helvetica, sans-serif;
     background-color: #c0cadc;
     top: 0;
     box-sizing: border-box;
-}
+};slug
 
 #right {
     background-color: white;
@@ -137,6 +137,15 @@ tr:nth-child(odd) {
 
 strong {font-weight: 600; }
 
+/* Fall of wickets tables */
+
+.fow td:nth-child(1) {
+	width:20%;
+}
+
+.fow td:nth-child(2), .fow td:nth-child(3), .fow td:nth-child(4), .fow td:nth-child(5), .fow td:nth-child(6), .fow td:nth-child(7), .fow td:nth-child(8), .fow td:nth-child(9), .fow td:nth-child(10) {
+	width:8%;
+}
 
 /* Accordion */
 
