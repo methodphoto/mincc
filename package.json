@@ -11,7 +11,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^2.24.84",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-sass": "^2.3.20",
     "gatsby-plugin-sitemap": "^2.4.16",
     "gatsby-source-filesystem": "^2.3.7",
