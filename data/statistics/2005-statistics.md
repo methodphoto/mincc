@@ -175,7 +175,7 @@ type: "statistics"
 | **Mark Petre** | 27 | 27 | 3 | 437 | 18.21 |
 | **Alan Sylvester** | 57 | 35 | 16 | 380 | 20.00 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Mark Kirwan** | 42 | 28 | 5 | 356 | 15.48 |
 | **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
 | **Andrew Fielding** | 39 | 35 | 2 | 340 | 10.30 |
@@ -198,7 +198,7 @@ type: "statistics"
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Richard Earney** | 194 | 188 | 16 | 5084 | 29.56 |
 | **Harry Ingham** | 25 | 23 | 6 | 446 | 26.24 |
 | **Will Wright** | 23 | 22 | 1 | 540 | 25.71 |

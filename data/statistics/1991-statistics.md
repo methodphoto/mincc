@@ -158,7 +158,7 @@ type: "statistics"
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Mark Gardiner** | 73 | 57 | 9 | 431 | 8.98 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Will Wright** | 19 | 18 | 1 | 351 | 20.65 |
 | **Alan Sylvester** | 49 | 31 | 15 | 345 | 21.56 |
 | **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
@@ -189,7 +189,7 @@ type: "statistics"
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Steven Hornsby** | 19 | 18 | 1 | 593 | 34.88 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
 | **Andrew Gallagher** | 81 | 78 | 3 | 2024 | 26.99 |

@@ -153,7 +153,7 @@ type: "statistics"
 | **Phil Bentley** | 14 | 13 | 1 | 427 | 35.58 |
 | **Alan Sylvester** | 57 | 35 | 16 | 380 | 20.00 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Mark Kirwan** | 41 | 27 | 5 | 351 | 15.95 |
 | **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
 | **Andrew Fielding** | 39 | 35 | 2 | 340 | 10.30 |
@@ -171,7 +171,7 @@ type: "statistics"
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Phil Bentley** | 14 | 13 | 1 | 427 | 35.58 |
 | **Andrew Gallagher** | 83 | 80 | 3 | 2051 | 26.64 |
 | **Will Wright** | 22 | 21 | 1 | 509 | 25.45 |
