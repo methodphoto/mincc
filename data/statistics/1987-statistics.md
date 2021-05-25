@@ -61,6 +61,7 @@ type: "statistics"
 | **Dan Newman** | 7 | 4.1 | 0 | 24 | 3 | 8 | 8.2 |
 | **Alan Sylvester** | 5 | 40 | 6 | 149 | 1 | 149 | 240 |
 | **David Young** | 5 | 1 | 1 | 0 | 0 | - | - |
+| **Mark Taylor** | 1 | 6 | 0 | 21 | 0 | - | - |
 
 ## Season Bowling (by ave)
 
@@ -76,6 +77,7 @@ type: "statistics"
 | **Andrew Gallagher** | 10 | 32.4 | 2 | 162 | 8 | 20.25 | 24.3 |
 | **William Calvert** | 10 | 31 | 4 | 142 | 7 | 20.28 | 26.57 |
 | **Alan Sylvester** | 5 | 40 | 6 | 149 | 1 | 149 | 240 |
+| **Mark Taylor** | 1 | 6 | 0 | 21 | 0 | - | - |
 
 ## Career Batting
 

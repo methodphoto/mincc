@@ -167,7 +167,7 @@ type: "statistics"
 | **Tom Rutherford** | 32 | 29 | 4 | 430 | 17.20 |
 | **Alan Sylvester** | 58 | 35 | 16 | 380 | 20.00 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Mark Kirwan** | 42 | 28 | 5 | 356 | 15.48 |
 | **Richard Green** | 32 | 23 | 4 | 352 | 18.53 |
 | **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
@@ -191,7 +191,7 @@ type: "statistics"
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Richard Earney** | 233 | 226 | 18 | 6238 | 29.99 |
 | **Will Wright** | 23 | 22 | 1 | 540 | 25.71 |
 | **Simon Barrowcliff** | 76 | 73 | 6 | 1707 | 25.48 |

@@ -159,7 +159,7 @@ type: "statistics"
 | **Alan Sylvester** | 58 | 35 | 16 | 380 | 20.00 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Richard Green** | 34 | 25 | 5 | 359 | 17.95 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Mark Kirwan** | 42 | 28 | 5 | 356 | 15.48 |
 | **Tim Hammond** | 10 | 10 | 2 | 343 | 42.88 |
 | **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
@@ -179,7 +179,7 @@ type: "statistics"
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Mohit Gupta** | 40 | 37 | 7 | 1091 | 36.37 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Martin Goff** | 40 | 40 | 3 | 1149 | 31.05 |
 | **Richard Earney** | 278 | 270 | 24 | 7369 | 29.96 |
 | **Will Wright** | 23 | 22 | 1 | 540 | 25.71 |

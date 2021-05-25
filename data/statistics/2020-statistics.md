@@ -153,11 +153,11 @@ type: "statistics"
 | **David Young** | 86 | 65 | 17 | 479 | 9.98 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Mark Petre** | 27 | 27 | 3 | 437 | 18.21 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Alan Sylvester** | 58 | 35 | 16 | 380 | 20.00 |
 | **Richard Coyle** | 72 | 64 | 16 | 370 | 7.71 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Richard Green** | 34 | 25 | 5 | 359 | 17.95 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
 | **Mark Kirwan** | 43 | 29 | 6 | 357 | 15.52 |
 | **Tim Hammond** | 10 | 10 | 2 | 343 | 42.88 |
 | **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
@@ -179,7 +179,7 @@ type: "statistics"
 | **Steven Hornsby** | 93 | 89 | 14 | 2914 | 38.85 |
 | **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Mohit Gupta** | 84 | 81 | 16 | 2038 | 31.35 |
 | **Martin Goff** | 41 | 41 | 3 | 1164 | 30.63 |
 | **Richard Earney** | 353 | 345 | 28 | 9210 | 29.05 |

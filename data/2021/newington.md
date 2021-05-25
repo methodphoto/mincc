@@ -11,6 +11,7 @@ resultType: "Won"
 type: "game"
 ---
 
+Jim Carroll, first 50 and highest score for The Min
 
 ## Newington Innings
 

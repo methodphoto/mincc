@@ -47,6 +47,6 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 16th  13:00 | [Reigate Pilgrims](/2018/reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) |
-| 30th  13:00 | [Stoke D’Abernon](/2018/reigate-pilgrims) | [RH5 5AE](http://goo.gl/maps/2RKzj) |
+| 16th | 13:00 | [Reigate Pilgrims](/2018/reigate-pilgrims) | [RH3 7DS](https//goo.gl/maps/APtKSjuaQ5v) |
+| 30th | 13:00 | [Stoke D’Abernon](/2018/reigate-pilgrims) | [RH5 5AE](http://goo.gl/maps/2RKzj) |
 

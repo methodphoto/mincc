@@ -181,7 +181,7 @@ type: "statistics"
 | **Richard Coyle** | 72 | 64 | 16 | 370 | 7.71 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Richard Green** | 34 | 25 | 5 | 359 | 17.95 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Mark Kirwan** | 43 | 29 | 6 | 357 | 15.52 |
 | **Tim Hammond** | 10 | 10 | 2 | 343 | 42.88 |
 | **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
@@ -203,7 +203,7 @@ type: "statistics"
 | **Steven Hornsby** | 88 | 84 | 13 | 2796 | 39.38 |
 | **John Pakenham**-Walsh | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
+| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Mohit Gupta** | 84 | 81 | 16 | 2038 | 31.35 |
 | **Martin Goff** | 41 | 41 | 3 | 1164 | 30.63 |
 | **Richard Earney** | 334 | 326 | 28 | 8808 | 29.56 |
