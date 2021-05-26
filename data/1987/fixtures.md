@@ -7,7 +7,7 @@ type: "fixtures"
 
 |  |  |  |
 |:---|:---|:---|
-| 9th | [Crocodiles](/1987/crocodiles) | [Home](https://goo.gl/maps/fdXVhyS9CDX9VU1K9) |
+| 9th | [The Crocodiles](/1987/the-crocodiles) | [Home](https://goo.gl/maps/fdXVhyS9CDX9VU1K9) |
 | 17th | [Old Elthamians](/1987/old-elthamians) | [Away](https://goo.gl/maps/FQbBNZQTFggEmhfv9) |
 | 25th | [Little Kingshill](/1987/little-kingshill) | [Away](https://goo.gl/maps/JPwm5tfBfK6cjv9m6) |
 | 31st | [Rhinos](/1987/rhinos) | [Away](https://goo.gl/maps/EdsveaasTQnFn59PA) |
@@ -23,7 +23,7 @@ type: "fixtures"
 
 |  |  |  |
 |:---|:---|:---|
-| 5th | [Valley End](/1987valley-end) | [Away](https://goo.gl/maps/nmiXsK8NVvZtpB1GA) |
+| 5th | [Valley End](/1987/valley-end) | [Away](https://goo.gl/maps/nmiXsK8NVvZtpB1GA) |
 | 12th | [Lobsters](/1987/lobsters) | [Away](https://goo.gl/maps/FDQEWGwmyb21QdUP7) |
 | 26th | [Friar's Oak](/1987/friars-oak) | [Away]() |
 
