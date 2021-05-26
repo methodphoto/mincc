@@ -83,7 +83,7 @@ type: "game"
 | **M Gupta** | 9 | 1 | 41 | 1 |
 | **J Wright** | 4 | 0 | 31 | 0 |
 | **R Beswick** | 5 | 0 | 18 | 2 |
-| **N Garland** | 0.3 | 0 | 5 | 0 |
+| **E Garland** | 0.3 | 0 | 5 | 0 |
 
 ## Season Win/Loss Record
 

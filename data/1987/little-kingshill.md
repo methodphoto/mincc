@@ -42,7 +42,7 @@ type: "game"
 |---|---|---|---|---|
 | **A Sylvester** | 8 | 0 | 26 | 0 | 
 | **R Beswick** | 11 | 3 | 25 | 4 | 
-| **N Garland** | 7 | 0 | 61 | 0 | 
+| **E Garland** | 7 | 0 | 61 | 0 | 
 | **J Wright** | 13 | 4 | 36 | 3 | 
 | **T Purves** | 3 | 0 | 22 | 0 |
 
@@ -56,7 +56,7 @@ type: "game"
 | **R Beswick &#42;** | c Borkett | Doughty | 0 | 
 | **J Packenham-Walsh** | b  | Doughty | 0 | 
 | **A Sylvester** | b | Doughty | 0 | 
-| **N Garland;** | c Borkett | Howard | 16 | 
+| **E Garland;** | c Borkett | Howard | 16 | 
 | **S Maynard** | b | Doughty | 1 | 
 | **D Newman** | b | Doughty | 11 | 
 | **G Wright** | not out |  | 0 | 

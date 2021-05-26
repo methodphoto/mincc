@@ -19,7 +19,7 @@ S Barrowcliff 50 off 68 balls
 |:---|:---|---|---:|
 | **D Cook** | c & b  | b I Muntakim | 4 |
 | **I Watkins** | c;  | b I Muntakim | 13 |
-| **Jo Smith** |  | b N Garland | 56 |
+| **Jo Smith** |  | b E Garland | 56 |
 | **B Grafien** | st J Grant  | b J Wright | 9 |
 | **T Wilson** | c; | b R Beswick | 19 |
 | **R Wickham** |  |  | 0 |
@@ -45,7 +45,7 @@ S Barrowcliff 50 off 68 balls
 | **P Wigg** | 8 | 2 | 35 | 1 |
 | **I Muntakim** | 8 | 1 | 44 | 2 |
 | **J Wright** | 3 | 1 | 21 | 0 |
-| **N Garland** | 8 | 2 | 41 | 2 |
+| **E Garland** | 8 | 2 | 41 | 2 |
 | **R Beswick** | 8 | 0 | 39 | 1 |
 | **R Earney** | 1 2 | 1 | 0 | 2 |
 
@@ -59,7 +59,7 @@ S Barrowcliff 50 off 68 balls
 | **R Beswick &#42;** | lbw | b J Smith | 4 |
 | **T Bedford** | c;  | b I Watkins | 4 |
 | **P Wigg** |  | b R Hilton | 11 |
-| **N Garland** |  | b J Amith | 18 |
+| **E Garland** |  | b J Amith | 18 |
 | **J Grant &#8224;** | not out |  | 0 |
 | **J Wright** | did not bat |  |  |
 | **J Purefoy** | did not bat |  |  |

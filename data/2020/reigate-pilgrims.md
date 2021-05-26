@@ -84,7 +84,7 @@ M Wright batted, Charlotte Wright and Harry Earney fielded
 | **B Boyd-Taylor** | 5 | 0 | 31 | 1 | 
 | **C Wright** | 7 | 0 | 35 | 1 | 
 | **R Beswick** | 7 | 0 | 29 | 2 |
-| **N Garland** | 1 | 0 | 10 | 0 | 
+| **E Garland** | 1 | 0 | 10 | 0 | 
 | **R Earney** | 3 | 0 | 16 | 0 | 
 
 

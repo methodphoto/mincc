@@ -58,7 +58,7 @@ type: "game"
 | **A Beswick** | lbw | A Hotham | 7 |
 | **I Miah** | c G Welsh | A Hotham | 7 |
 | **W Calvert** | c & b | E Trottman | 9 |
-| **N Garland** | run out |  | 5 |
+| **E Garland** | run out |  | 5 |
 | **J Stimfig &#8224;** | c G Williams | b C Wyatt | 0 |
 | **A Munim** | c A Hotham | E Trottman | 20 |
 | **P Wigg** | not out |   | 22 |	 

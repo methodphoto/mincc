@@ -45,7 +45,7 @@ type: "game"
 | **I Marshall** | 7 | 3 | 21 | 2 |
 | **R Beswick** | 3 | 0 | 23 | 0 |
 | **J Wright** | 6 | 0 | 50 | 2 |
-| **N Garland** | 1 | 0 | 14 | 0 |
+| **E Garland** | 1 | 0 | 14 | 0 |
 | **R Earney** | 3 | 0 | 20 | 2 |
 
 ## The Min Innings

@@ -23,7 +23,7 @@ Tony Purves: best bowling for The Min
 | **E Bishop** | b | Bowler 5 | 61 | 
 | **W Calvert** | b | Bowler 2 | 0 | 
 | **P Slowe** | run out | | 10 | 
-| **N Garland** | c | Bowler 2 | 3 | 
+| **E Garland** | c | Bowler 2 | 3 | 
 | **E Harcourt** | not out |  | 4 | 
 | **J Grant &#8224;** | dnb | | | 
 | **S Horner** | dnb |  | | 
@@ -64,7 +64,7 @@ Tony Purves: best bowling for The Min
 | **Fitzwater** | c R Beswick | T Purves | 0 | 
 | **D Nolder** | not out | | 13 | 
 | **N Nolder** | st J Grant | T Purves | 2 | 
-| **Moore** | c N Garland | T Purves | 0 | 
+| **Moore** | c E Garland | T Purves | 0 | 
 | **Extras** | | (1b 0lb 3w 2nb) | 6 | 
 | **Total** | | (33.3 overs) | 85 all out | 
 
@@ -83,7 +83,7 @@ Tony Purves: best bowling for The Min
 | **A Sylvester** | 8 | 3 | 8 | 1 | 
 | **R Beswick** | 3 | 1 | 6 | 0 | 
 | **J Wright** | 10 | 2 | 29 | 3 | 
-| **N Garland** | 4 | 0 | 10 | 0 | 
+| **E Garland** | 4 | 0 | 10 | 0 | 
 | **T Purves** | 5.3 | 1 | 14 | 6 | 
 | **W Calvert** | 3 | 1 | 12 | 0 | 
 
