@@ -22,7 +22,7 @@ type: "game"
 | **K Reid** | c Knight | D Wright | 15 |
 | **P Wigg** | c Higgins | D Wright | 14 |
 | **J Grant &#8224;** | caught | A Davidson | 7 |
-| **N Garland** | not out |  | 9 |
+| **E Garland** | not out |  | 9 |
 | **J Wright** | caught | G Williams | 12 |
 | **S Noble** | not out |  | 0 |
 | **J Earney** | did not bat |  |  |

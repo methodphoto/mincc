@@ -11,7 +11,7 @@ resultType: "Lost"
 type: "game"
 ---
 
-## Stowting Innings
+## Stowting Innings Test
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

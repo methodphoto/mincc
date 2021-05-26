@@ -16,7 +16,7 @@ type: "game"
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **B Williams** | b | R Beswick | 115 |
-| **W Pringle** | c; | N Garland | 24 |
+| **W Pringle** | c; | E Garland | 24 |
 | **J Fox** | st W Calvert | P Beswick | 38 |
 | **R Ansell** | not out |  | 56 |
 | **D Bloomfield** | not out |  | 33 |
@@ -40,7 +40,7 @@ type: "game"
 
 | | O   | M | R  | W |
 |---|---|---|---|---|
-| **N Garland** | 5 | 0 | 37 | 1 |
+| **E Garland** | 5 | 0 | 37 | 1 |
 | **S Amin** | 6 | 0 | 19 | 0 |
 | **Alastair** | 8 | 0 | 56 | 0 |
 | **J Wright** | 4 | 0 | 31 | 0 |
@@ -60,7 +60,7 @@ type: "game"
 | **W Calvert &dagger;** | b | J Wing | 5 |
 | **P Beswick** | run out | (B Williams) | 6 |
 | **S Amin** | b | J Wing | 10 |
-| **N Garland** | run out | (R Ansell) | 0 |
+| **E Garland** | run out | (R Ansell) | 0 |
 | **Johnstone** | b  | S Vincent | 0 |
 | **J Wright** | not out |  | 0 |
 | **Extras** | | (12w 12b 4lb 1nb  0p) | **29** |

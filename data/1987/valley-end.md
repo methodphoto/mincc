@@ -52,7 +52,7 @@ type: "game"
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
 | **A Gallagher** | b | E Mason | 24 | 
-| **J Grant &#8224;** | c C O'Mahoney | b C Lucas | 40 | 
+| **J Grant &#8224;** | c C O'Mahoney | C Lucas | 40 | 
 | **M Taylor** | c C O'Mahoney | D Spencer | 47 | 
 | **M Breddy** | c C O'Mahoney | E Cross | 19 | 
 | **W Calvert &#42;** | not out |   | 12 | 

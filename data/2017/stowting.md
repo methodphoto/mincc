@@ -21,8 +21,8 @@ type: "game"
 | **T Harding** | b  | J Wright | 0 |
 | **A Causton** | c R Beswick | J Wright | 4 |
 | **S Graham** | c R Earney | J Wright | 17 |
-| **G Sheen** | b  | N Garland | 18 |
-| **D Jackson &#42;** | b | N Garland | 14 |
+| **G Sheen** | b  | E Garland | 18 |
+| **D Jackson &#42;** | b | E Garland | 14 |
 | **C Jackson** | b | Altaf | 8 |
 | **M Jackson** | not out |  | 21 |
 | **L Causton** | not out |  | 0 |
@@ -46,7 +46,7 @@ type: "game"
 | **J Wright** | 9 | 2 | 20 | 3 |
 | **M Gupta** | 4 | 1 | 20 | 0 |
 | **P Beswick** | 5 | 0 | 16 | 0 |
-| **N Garland** | 5 | 2 | 32 | 2 |
+| **E Garland** | 5 | 2 | 32 | 2 |
 
 ## The Min Innings
 
@@ -60,7 +60,7 @@ type: "game"
 | **M Arefin** | st D Jackson | S Jackson | 9 |
 | **I Muntakim** | b | T Harding | 15 |
 | **S Amin** | b | C Jackson | 27 |
-| **N Garland** | b | G Sheen | 0 |
+| **E Garland** | b | G Sheen | 0 |
 | **P Beswick** | b | G Sheen | 24 |
 | **J Wright** | not out |  | 0 |
 | **Extras** | | (5b 0lb 5w 0nb 0p) | **10** |
