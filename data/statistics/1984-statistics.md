@@ -20,7 +20,7 @@ type: "statistics"
 | **Pip Clothier** | 1 | 1 | 53 | ? |
 | **Aidan Lisser** | 2 | 0 | 51 | 25.5 |
 | **Dan Newman** | 6 | 1 | 40 | 8 |
-| **John Pakenham-Walsh** | 1 | 0 | 37 | 37 |
+| **John Packenham-Walsh** | 1 | 0 | 37 | 37 |
 | **Tim Horsey** | 2 | 0 | 37 | 18.5 |
 | **Mark Kirwan** | 5 | 2 | 35 | 11.67 |
 | **Jerry Wright** | 8 | 2 | 34 | 5.67 |
@@ -45,7 +45,7 @@ type: "statistics"
 | Player | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|
 | **Alan Sylvester** | 4 | 2 | 91 | 45.5 |
-| **John Pakenham-Walsh** | 1 | 0 | 37 | 37 |
+| **John Packenham-Walsh** | 1 | 0 | 37 | 37 |
 | **Stuart Watson** | 3 | 0 | 105 | 35 |
 | **Eddie Bishop** | 2 | 0 | 70 | 35 |
 | **Tony Purves** | 2 | 0 | 60 | 30 |
@@ -150,7 +150,7 @@ type: "statistics"
 | **Pip Clothier** | 1 | 1 | 1 | 53 | ? |
 | **Mark Gardiner** | 12 | 9 | 1 | 45 | 5.63 |
 | **Dan Newman** | 9 | 8 | 2 | 44 | 7.33 |
-| **John Pakenham-Walsh** | 4 | 2 | 1 | 43 | 43.00 |
+| **John Packenham-Walsh** | 4 | 2 | 1 | 43 | 43.00 |
 | **Tim Horsey** | 2 | 2 | 0 | 37 | 18.50 |
 | **David Challoner** | 3 | 3 | 0 | 35 | 11.67 |
 | **Scott Sutherland** | 2 | 2 | 0 | 33 | 16.50 |
@@ -162,7 +162,7 @@ type: "statistics"
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| **John Pakenham-Walsh** | 4 | 2 | 1 | 43 | 43.00 |
+| **John Packenham-Walsh** | 4 | 2 | 1 | 43 | 43.00 |
 | **Eddie Bishop** | 2 | 2 | 0 | 70 | 35.00 |
 | **Tony Purves** | 5 | 4 | 0 | 132 | 33.00 |
 | **Stuart Watson** | 7 | 7 | 1 | 193 | 32.17 |

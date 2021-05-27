@@ -158,7 +158,7 @@ type: "statistics"
 | **Phil Bentley** | 8 | 8 | 1 | 275 | 39.29 |
 | **Mark Taylor** | 8 | 8 | 1 | 273 | 39.00 |
 | **Andrew Fielding** | 27 | 24 | 2 | 261 | 11.86 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Ian Marshall** | 13 | 12 | 1 | 249 | 22.64 |
 | **David Young** | 53 | 37 | 11 | 244 | 9.38 |
 | **Andrew MacFarlane** | 13 | 12 | 0 | 241 | 20.08 |
@@ -179,7 +179,7 @@ type: "statistics"
 | **Martin Breddy** | 14 | 14 | 0 | 550 | 39.29 |
 | **Phil Bentley** | 8 | 8 | 1 | 275 | 39.29 |
 | **Mark Taylor** | 8 | 8 | 1 | 273 | 39.00 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
 | **Andrew Gallagher** | 76 | 73 | 3 | 1940 | 27.71 |

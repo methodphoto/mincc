@@ -299,7 +299,7 @@ type: "records"
 | 1988 | Andrew Gallagher | v Limpsfield | 59 |
 | 1988 | Andrew Gallagher | v South Nutfield | 77 |
 | 1987 | Richard Beswick | v Lobsters | 59 |
-| 1987 | John Pakenham-Walsh | v Godstone | 59 |
+| 1987 | John Packenham-Walsh | v Godstone | 59 |
 | 1987 | Jim Grant | v Flying Wickets | 77 |
 | 1987 | Jim Grant | v Crocodiles | 66 |
 | 1987 | Andrew Gallagher | v Oracle | 55 |
@@ -316,7 +316,7 @@ type: "records"
 | 1986 | Jim Grant | v Old Elthamians | 63 |
 | 1986 | Andrew Gallagher | v Watton-at-Stone | 59 |
 | 1985 | Alan Sylvester | v Brook 2nd XI | 56 |
-| 1985 | John Pakenham-Walsh | v Petts Wood | 70 |
+| 1985 | John Packenham-Walsh | v Petts Wood | 70 |
 | 1985 | Andrew Fielding | v Koh-i-Noor | 58 |
 | 1985 | William Calvert  | v Old Elthamians | 50 |
 | 1985 | William Calvert | v Logica | 59 |

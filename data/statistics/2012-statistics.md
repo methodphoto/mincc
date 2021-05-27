@@ -153,13 +153,13 @@ type: "statistics"
 | **James Hylton** | 9 | 8 | 2 | 542 | 90.33 |
 | **Will Wright** | 23 | 22 | 1 | 540 | 25.71 |
 | **Andrew MacFarlane** | 34 | 30 | 0 | 530 | 17.67 |
+| **Mark Taylor** | 15 | 15 | 2 | 495 | 38.08 |
 | **David Young** | 86 | 65 | 17 | 479 | 9.98 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Mark Petre** | 27 | 27 | 3 | 437 | 18.21 |
 | **Alan Sylvester** | 58 | 35 | 16 | 380 | 20.00 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Richard Green** | 34 | 25 | 5 | 359 | 17.95 |
-| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Mark Kirwan** | 42 | 28 | 5 | 356 | 15.48 |
 | **Tim Hammond** | 10 | 10 | 2 | 343 | 42.88 |
 | **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
@@ -175,11 +175,11 @@ type: "statistics"
 | **Tim Hammond** | 10 | 10 | 2 | 343 | 42.88 |
 | **Phil Bentley** | 19 | 18 | 2 | 683 | 42.69 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
+| **Mark Taylor** | 15 | 15 | 2 | 495 | 38.08 |
 | **Steven Hornsby** | 72 | 68 | 8 | 2266 | 37.77 |
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Mohit Gupta** | 40 | 37 | 7 | 1091 | 36.37 |
-| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Martin Goff** | 40 | 40 | 3 | 1149 | 31.05 |
 | **Richard Earney** | 278 | 270 | 24 | 7369 | 29.96 |
 | **Will Wright** | 23 | 22 | 1 | 540 | 25.71 |

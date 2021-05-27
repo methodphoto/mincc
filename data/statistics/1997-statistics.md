@@ -156,18 +156,18 @@ type: "statistics"
 | **Will Wright** | 23 | 22 | 1 | 540 | 25.71 |
 | **Mark Gardiner** | 92 | 76 | 13 | 536 | 8.51 |
 | **Andrew MacFarlane** | 34 | 30 | 0 | 530 | 17.67 |
+| **Mark Taylor** | 15 | 15 | 2 | 495 | 38.08 |
 | **David Young** | 90 | 67 | 18 | 493 | 10.06 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Alan Sylvester** | 57 | 35 | 16 | 380 | 20.00 |
 | **Jerry Wright** | 160 | 82 | 29 | 377 | 7.11 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Mark Kirwan** | 42 | 28 | 5 | 356 | 15.48 |
 | **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
 | **Andrew Fielding** | 39 | 35 | 2 | 340 | 10.30 |
 | **Richard Olver** | 45 | 30 | 14 | 287 | 17.94 |
 | **James Hylton** | 4 | 3 | 1 | 279 | 139.50 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Pete Grant** | 33 | 32 | 5 | 253 | 9.37 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
 
@@ -178,12 +178,12 @@ type: "statistics"
 | **James Hylton** | 4 | 3 | 1 | 279 | 139.50 |
 | **David Swann** | 21 | 20 | 5 | 755 | 50.33 |
 | **Phil Bentley** | 19 | 18 | 2 | 683 | 42.69 |
+| **Mark Taylor** | 15 | 15 | 2 | 495 | 38.08 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Steven Hornsby** | 44 | 42 | 3 | 1472 | 37.74 |
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Andrew Gallagher** | 87 | 84 | 3 | 2088 | 25.78 |
 | **Will Wright** | 23 | 22 | 1 | 540 | 25.71 |
 | **Simon Barrowcliff** | 61 | 59 | 5 | 1304 | 24.15 |

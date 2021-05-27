@@ -27,7 +27,7 @@ type: "statistics"
 | **Richard Olver** | 6 | 1 | 0 | 34 | 34 |
 | **David Young** | 8 | 6 | 2 | 33 | 8.25 |
 | **Edward Garland** | 5 | 4 | 2 | 30 | 15 |
-| **John Pakenham-Walsh** | 1 | 1 | 0 | 24 | 24 |
+| **John Packenham-Walsh** | 1 | 1 | 0 | 24 | 24 |
 | **Mark Kirwan** | 6 | 4 | 0 | 23 | 5.75 |
 | **Marcus Stapleton** | 2 | 2 | 1 | 22 | 22 |
 | **Jerry Wright** | 15 | 6 | 1 | 20 | 4 |
@@ -54,7 +54,7 @@ type: "statistics"
 | **Richard Olver** | 6 | 1 | 0 | 34 | 34 |
 | **Andrew Gallagher** | 10 | 10 | 1 | 241 | 26.78 |
 | **Will Wright** | 8 | 7 | 1 | 152 | 25.33 |
-| **John Pakenham-Walsh** | 1 | 1 | 0 | 24 | 24 |
+| **John Packenham-Walsh** | 1 | 1 | 0 | 24 | 24 |
 | **Marcus Stapleton** | 2 | 2 | 1 | 22 | 22 |
 | **David Mundy** | 2 | 2 | 0 | 42 | 21 |
 | **William Calvert** | 12 | 10 | 2 | 167 | 20.87 |
@@ -143,7 +143,7 @@ type: "statistics"
 | **Robin Emanuel** | 11 | 10 | 2 | 160 | 20.00 |
 | **Will Wright** | 8 | 7 | 1 | 152 | 25.33 |
 | **Jerry Wright** | 55 | 30 | 6 | 151 | 6.29 |
-| **John Pakenham-Walsh** | 7 | 5 | 1 | 151 | 37.75 |
+| **John Packenham-Walsh** | 7 | 5 | 1 | 151 | 37.75 |
 | **Dan Newman** | 25 | 20 | 2 | 98 | 5.44 |
 | **Phil Gault** | 1 | 1 | 0 | 91 | 91.00 |
 | **Mark Lawrence** | 3 | 3 | 1 | 71 | 35.50 |
@@ -169,7 +169,7 @@ type: "statistics"
 | **Mark Taylor** | 1 | 1 | 0 | 53 | 53.00 |
 | **Steve Foster** | 1 | 1 | 0 | 53 | 53.00 |
 | **Tony Purves** | 15 | 13 | 4 | 406 | 45.11 |
-| **John Pakenham-Walsh** | 7 | 5 | 1 | 151 | 37.75 |
+| **John Packenham-Walsh** | 7 | 5 | 1 | 151 | 37.75 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Mark Lawrence** | 3 | 3 | 1 | 71 | 35.50 |
 | **Paul Newcomb** | 2 | 2 | 0 | 59 | 29.50 |
