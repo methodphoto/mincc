@@ -18,10 +18,10 @@ type: "game"
 | **J Ford** | lbw | R Scotts | 7 | 
 | **P Doughty** | run out |  | 14 | 
 | **J Chandler** | b | R Olver | 8 | 
-| **A Warren** | c J Pakenham-Walsh | J Wright | 1 | 
+| **A Warren** | c J Packenham-Walsh | J Wright | 1 | 
 | **S Leegood** | b | R Olver | 0 | 
 | **A Wilmore** | c & b | J Wright | 18 | 
-| **C Smith** | st J Pakenham-Walsh | J Grant | 0 | 
+| **C Smith** | st J Packenham-Walsh | J Grant | 0 | 
 | **C Turnbull** | not out |  | 25 | 
 | **A Cocks** | b | J Wright | 3 | 
 | **A Sham** | c R Olver | T Purves | 11 | 
@@ -51,7 +51,7 @@ type: "game"
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **J Pakenham-Walsh** | c | D Fieldhouse | 24 | 
+| **J Packenham-Walsh** | c | D Fieldhouse | 24 | 
 | **A Fielding** | c | D Fieldhouse | 5 | 
 | **A Gallagher** | not out |  | 37 | 
 | **T Purves** | not out |  | 31 | 

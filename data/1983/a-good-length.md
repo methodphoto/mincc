@@ -57,7 +57,7 @@ type: "game"
 | **J Stimfig &#8224;** | dnb | | | 
 | **T Purves** | dnb |  | | 
 | **D Young** | dnb | | | 
-| **J Pakenham-Walsh** | dnb | | | 
+| **J Packenham-Walsh** | dnb | | | 
 | **J Grant** | dnb | | | 
 | **J Wright** | dnb | | | 
 | **A Sylvester** | dnb | | | 

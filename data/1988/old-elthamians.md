@@ -5,9 +5,9 @@ game: "Old Elthamians"
 title: "Old Elthamians v The Min"
 gameLocation: "Foxbury"
 gameDate: "15/05/1988"
-shortReport: ""
-result: ""
-resultType: ""
+shortReport: "Old Elthamians batted first and made 190 all out. The Min replied with 193 for 4 wkts"
+result: "The Min won by 6 wkts"
+resultType: "Won"
 type: "game"
 ---
 
@@ -15,73 +15,76 @@ type: "game"
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **T Smith** | c | A MacFarlane | 22 | 
-| **R Cowles** | b | I Marshall | 24 | 
-| **M Scanlon** | b | A MacFarlane | 67 | 
-| **A Godby** | not out |  | 62 | 
-| **W Macguire** | not out |  | 0 | 
-| **Pavey &#8224;** | dnb |  |  |
-| **J Chambers** | dnb |  |  | 
-| **D Potts** | dnb |  |  |
-| **J Yerrell** | dnb |  |  | 
-| **P Scanlon** | dnb |  |  | 
-|  |  |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 | 
-| **Total** | | (46 overs) | 195 for 3 wkts | 
+| **Guthrie** | c J Grant | R Olver | 35 | 
+| **Hollister** | c & b | R Beswick | 0 | 
+| **Wilson** | c D Newman | R Olver | 33 | 
+| **Byers** | c A Sylvester | A Gallagher | 57 | 
+| **Page** | c D Young | M Gardiner | 4 | 
+| **J Edwards** | c J Grant | M Taylor |32|
+| **Williams** | c M Gardiner | M Taylor | 7 | 
+| **Malkin** | c J Grant | M Taylor | 8 |
+| **Pearce** | b | M Taylor | 3 | 
+| **M Wright** | not out |  | 4 | 
+| **Punnett** | b | W Calvert | 0 |
+| **Extras** | | (0b 3lb 3w 1nb) | 7 | 
+| **Total** | | (42.3 overs) | 190 all out | 
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Score** |  |  |  |  |  |  |  |  |  |  |
-| **Batsman** |  |  |  |  |  |  |  |  |  |  |
+| **Batsman** | 2 |  |  |  |  |  |  |  |  |  |
 
 ## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
-| **A MacFarlane** | 16 | 4 | 41 | 2 | 
-| **I Marshall** | 13 | 2 | 46 | 1 | 
-| **J Wright** | 6 | 0 | 36 | 0 | 
-| **R Beswick** | 7 | 1 | 34 | 0 | 
-| **R Howcroft** | 4 | 0 | 25 | 0 |
+| **R Beswick** | 6 | 1 | 27 | 1 | 
+| **M Taylor** | 11 | 1 | 33 | 4 | 
+| **R Olver** | 7 | 0 | 34 | 2 | 
+| **J Wright** | 6 | 0 | 30 | 0 | 
+| **M Gardiner** | 4 | 0 | 19 | 1 |
+| **A Gallagher** | 4 | 0 | 24 | 1 |
+| **W Calvert** | 4.3 | 0 | 17 | 1 |
 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **W Chapman** | c & b | J Yerrell | 2 | 
-| **J Grant &#8224;** | b | J Yerrell | 0 | 
-| **I Marshall** | b | J Chambers | 20 | 
-| **W Calvert** | b | J Yerrell | 2 | 
-| **R Howcroft** | st Pavey  | J Chambers | 16 | 
-| **A MacFarlane** | b | P Scanlon | 25 | 
-| **R Beswick &#42;** | st Pavey | P Scanlon | 21 | 
-| **M Gardiner** | b | J Chambers | 7 | 
-| **A Fielding** | b | P Scanlon | 8 | 
-| **D Young** | b | P Scanlon | 2 | 
-| **G Wright** | not out |  | 0 | 
-| **Extras** | | (9b 2lb 4w 0nb) | 15 | 
-| **Total** | | (33.5 overs) | 118 all out | 
+| **A Gallagher** | c Hollister | Wilson | 36 |
+| **R Beswick &#42;** | b | Edwards | 11 |  
+| **J Grant &#8224;** | c Edwards | Pearce | 39 | 
+| **M Taylor** | not out |  | 58 | 
+| **W Calvert** | b  | Pearce | 26 | 
+| **A Sylvester** | not out |  | 8 | 
+| **R Olver** | dnb |  |  | 
+| **D Newman** | dnb |  |  | 
+| **D Young** | dnb |  |  | 
+| **M Gardiner** | dnb |  |  |
+| **J Wright** | dnb |  |  | 
+| **Extras** | | (5b 4lb 2w 4nb) | 15 | 
+| **Total** | | (40.2 overs) | 193 for 4 wkts | 
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 2 | 3 | 9 | 48 | 49 | 100 | 107 | 113 | 117 | 118 | 
-| **Batsman** | 2 | 1 | 4 | 5 | 3 | 6 | 7 | 8 | 9 | 10 | 
+| **Score** | 23 | 91 | 93 | 172 |  |  |  |  |  |  | 
+| **Batsman** | 2 | 1 | 3 | 5 |  |  |  |  |  |  | 
 
 ## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
-| **D Potts** | 7 | 2 | 23 | 0 | 
-| **J Yerrell** | 9 | 3 | 14 | 3 | 
-| **J Chambers** | 10 | 0 | 39 | 3 | 
-| **P Scanlon** | 7.5 | 0 | 32 | 4 | 
+| **Edwards** | 13 | 2 | 46 | 1 | 
+| **M Wright** | 11 | 1 | 47 | 0 | 
+| **Pearce** | 8.2 | 1 | 39 | 2 | 
+| **Wilson** | 6 | 2 | 20 | 1 | 
+| **Byers** | 2 | 0 | 18 | 0 | 
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 0 | 1 | 0 | 0 |
+| 1 | 0 | 0 | 0 |

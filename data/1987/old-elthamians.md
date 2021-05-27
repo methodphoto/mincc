@@ -21,7 +21,7 @@ type: "game"
 | **E Garland** | b | Pearce | 5 | 
 | **W Calvert** | c Frost  | Pearce | 7 | 
 | **A Gallagher** | c Hollister | Manchip | 0 | 
-| **J Pakenham-Walsh** | c Perry | Pearce | 48 | 
+| **J Packenham-Walsh** | c Perry | Pearce | 48 | 
 | **J Binder** | st Hollister | Wilson | 2 | 
 | **S Maynard** | c Baxter | W Wright | 5 | 
 | **A Sylvester** | not out |  | 13 |

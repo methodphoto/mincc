@@ -17,7 +17,7 @@ type: "game"
 |:---|:---|---|---:|
 | **Nuttall** | c Willis | J Wright | 1 | 
 | **Hallworth &#8224;** | c N Fincham | Willis | 55 | 
-| **Ingram** | c J Grant| A Gallagher | 33 |
+| **Ingram** | c J Grant | A Gallagher | 33 |
 | **Siddall** | c J Grant | R Beswick | 31 | 
 | **Keeble** | c J Grant | J Wright | 71 | 
 | **A Cottrell** | not out |  | 0 |

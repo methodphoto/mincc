@@ -17,7 +17,7 @@ type: "game"
 |:---|:---|---|---:|
 | **A Gallagher** | c Jones | A Cox | 69 | 
 | **J Grant &#8224;** | not out |  | 66 | 
-| **J Pakenham-Walsh** | b | Jones | 3 | 
+| **J Packenham-Walsh** | b | Jones | 3 | 
 | **R Beswick &#42;** | lbw | Jones | 4 | 
 | **W Calvert** | b  | A Cox | 0 | 
 | **E Garland** | lbw | Pemberton | 13 | 
