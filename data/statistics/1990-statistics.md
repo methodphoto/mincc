@@ -146,10 +146,10 @@ type: "statistics"
 | **Jim Grant** | 105 | 99 | 11 | 1428 | 16.23 |
 | **Richard Beswick** | 113 | 104 | 17 | 1391 | 15.99 |
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
+| **Mark Taylor** | 14 | 14 | 2 | 477 | 39.75 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Ian Marshall** | 24 | 21 | 2 | 410 | 21.58 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 10 | 10 | 1 | 368 | 40.88 |
 | **Mark Gardiner** | 63 | 49 | 6 | 359 | 8.35 |
 | **Steven Hornsby** | 11 | 11 | 0 | 354 | 32.18 |
 | **Alan Sylvester** | 45 | 29 | 14 | 345 | 23.00 |
@@ -176,7 +176,7 @@ type: "statistics"
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
-| **Mark Taylor** | 10 | 10 | 1 | 368 | 40.88 |
+| **Mark Taylor** | 14 | 14 | 2 | 477 | 39.75 |
 | **Phil Bentley** | 8 | 8 | 1 | 275 | 39.29 |
 | **David Swann** | 5 | 5 | 1 | 152 | 38.00 |
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
