@@ -18,7 +18,7 @@ type: "game"
 | **Cook** | c J Grant | A Sylvester | 7 | 
 | **Overend** | run out |  | 21 | 
 | **Slade** | c J Grant | A Sylvester | 0 | 
-| **Watson** | c Pakenham-Walsh | A Sylvester | 4 | 
+| **Watson** | c Packenham-Walsh | A Sylvester | 4 | 
 | **LA Desborough** | c J Grant | A Sylvester | 11 | 
 | **Jackson** | st J Grant | R Beswick | 28 | 
 | **LM Desborough** | c J Grant | W Calvert | 18 | 

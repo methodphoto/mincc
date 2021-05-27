@@ -10,7 +10,7 @@ type: "statistics"
 |:---|:---|:---|:---|:---|:---|
 | **Jim Grant** | 13 | 13 | 1 | 313 | 26.08 |
 | **Andrew Gallagher** | 10 | 10 | 0 | 221 | 22.1 |
-| **John Pakenham-Walsh** | 4 | 4 | 1 | 110 | 36.67 |
+| **John Packenham-Walsh** | 4 | 4 | 1 | 110 | 36.67 |
 | **William Calvert** | 10 | 9 | 2 | 108 | 15.43 |
 | **Richard Beswick** | 12 | 10 | 1 | 101 | 11.22 |
 | **Edward Garland** | 7 | 6 | 0 | 71 | 11.83 |
@@ -29,7 +29,7 @@ type: "statistics"
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| **John Pakenham-Walsh** | 4 | 4 | 1 | 110 | 36.67 |
+| **John Packenham-Walsh** | 4 | 4 | 1 | 110 | 36.67 |
 | **Alan Sylvester** | 5 | 3 | 2 | 33 | 33 |
 | **Tony Purves** | 3 | 3 | 1 | 53 | 26.5 |
 | **Jim Grant** | 13 | 13 | 1 | 313 | 26.08 |
@@ -90,7 +90,7 @@ type: "statistics"
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Alan Sylvester** | 42 | 26 | 13 | 315 | 24.23 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
 | **Mark Kirwan** | 32 | 21 | 4 | 213 | 12.53 |
 | **David Young** | 37 | 28 | 9 | 203 | 10.68 |
@@ -125,7 +125,7 @@ type: "statistics"
 | **Mark Taylor** | 1 | 1 | 0 | 53 | 53.00 |
 | **Steve Foster** | 1 | 1 | 0 | 53 | 53.00 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Mark Lawrence** | 3 | 3 | 1 | 71 | 35.50 |
 | **Paul Newcomb** | 2 | 2 | 0 | 59 | 29.50 |

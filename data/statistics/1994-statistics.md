@@ -136,13 +136,13 @@ type: "statistics"
 | **David Swann** | 16 | 15 | 3 | 574 | 47.83 |
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
 | **Andrew MacFarlane** | 34 | 30 | 0 | 530 | 17.67 |
+| **Mark Taylor** | 15 | 15 | 2 | 495 | 38.08 |
 | **Edward Garland** | 47 | 36 | 8 | 468 | 16.71 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Mark Gardiner** | 77 | 61 | 10 | 440 | 8.63 |
 | **Will Wright** | 21 | 20 | 1 | 418 | 22.00 |
 | **Alan Sylvester** | 57 | 35 | 16 | 380 | 20.00 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Mark Kirwan** | 41 | 27 | 5 | 351 | 15.95 |
 | **David Young** | 68 | 50 | 14 | 341 | 9.47 |
 | **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
@@ -150,7 +150,7 @@ type: "statistics"
 | **Jerry Wright** | 120 | 62 | 19 | 299 | 6.95 |
 | **Richard Olver** | 45 | 30 | 14 | 287 | 17.94 |
 | **Phil Bentley** | 10 | 9 | 1 | 275 | 34.38 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 
 ## Career Batting by ave
 
@@ -159,10 +159,10 @@ type: "statistics"
 | **David Swann** | 16 | 15 | 3 | 574 | 47.83 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Steven Hornsby** | 38 | 37 | 2 | 1374 | 39.26 |
+| **Mark Taylor** | 15 | 15 | 2 | 495 | 38.08 |
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Phil Bentley** | 10 | 9 | 1 | 275 | 34.38 |
 | **Andrew Gallagher** | 82 | 79 | 3 | 2024 | 26.63 |
 | **Ian Marshall** | 65 | 53 | 8 | 1123 | 24.96 |

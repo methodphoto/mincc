@@ -14,7 +14,7 @@ type: "statistics"
 | **Richard Beswick** | 16 | 15 | 1 | 200 | 14.28 |
 | **Alan Sylvester** | 7 | 5 | 2 | 99 | 33 |
 | **Andrew Fielding** | 7 | 6 | 0 | 97 | 16.17 |
-| **John Pakenham-Walsh** | 2 | 2 | 0 | 84 | 42 |
+| **John Packenham-Walsh** | 2 | 2 | 0 | 84 | 42 |
 | **Mark Kirwan** | 4 | 3 | 1 | 79 | 39.5 |
 | **Tony Purves** | 3 | 3 | 1 | 59 | 29.5 |
 | **Stuart Watson** | 4 | 4 | 2 | 55 | 27.5 |
@@ -50,7 +50,7 @@ type: "statistics"
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| **John Pakenham-Walsh** | 2 | 2 | 0 | 84 | 42 |
+| **John Packenham-Walsh** | 2 | 2 | 0 | 84 | 42 |
 | **Mark Kirwan** | 4 | 3 | 1 | 79 | 39.5 |
 | **Alan Sylvester** | 7 | 5 | 2 | 99 | 33 |
 | **Tony Purves** | 3 | 3 | 1 | 59 | 29.5 |
@@ -150,7 +150,7 @@ type: "statistics"
 | **Robin Emanuel** | 11 | 10 | 2 | 160 | 20.00 |
 | **David Young** | 24 | 17 | 5 | 138 | 11.50 |
 | **Jerry Wright** | 40 | 24 | 5 | 131 | 6.89 |
-| **John Pakenham-Walsh** | 6 | 4 | 1 | 127 | 42.33 |
+| **John Packenham-Walsh** | 6 | 4 | 1 | 127 | 42.33 |
 | **David Mundy** | 12 | 11 | 0 | 126 | 11.45 |
 | **Andrew Fielding** | 9 | 8 | 1 | 123 | 17.57 |
 | **Mark Gardiner** | 24 | 19 | 2 | 96 | 5.65 |
@@ -169,7 +169,7 @@ type: "statistics"
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| **John Pakenham-Walsh** | 6 | 4 | 1 | 127 | 42.33 |
+| **John Packenham-Walsh** | 6 | 4 | 1 | 127 | 42.33 |
 | **Tony Purves** | 8 | 7 | 1 | 191 | 31.83 |
 | **Stuart Watson** | 11 | 11 | 3 | 248 | 31.00 |
 | **Paul Newcomb** | 2 | 2 | 0 | 59 | 29.50 |

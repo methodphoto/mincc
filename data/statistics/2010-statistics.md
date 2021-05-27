@@ -154,6 +154,7 @@ type: "statistics"
 | **Patrick Wigg** | 53 | 43 | 15 | 533 | 19.04 |
 | **Andrew MacFarlane** | 34 | 30 | 0 | 530 | 17.67 |
 | **Tom Rutherford** | 42 | 38 | 5 | 524 | 15.88 |
+| **Mark Taylor** | 15 | 15 | 2 | 495 | 38.08 |
 | **David Young** | 86 | 65 | 17 | 479 | 9.98 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Mark Petre** | 27 | 27 | 3 | 437 | 18.21 |
@@ -175,7 +176,7 @@ type: "statistics"
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Steven Hornsby** | 66 | 63 | 7 | 2175 | 38.84 |
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Martin Goff** | 39 | 39 | 3 | 1105 | 30.69 |

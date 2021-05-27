@@ -160,6 +160,7 @@ type: "statistics"
 | **James Hylton** | 8 | 2 | 542 | 90.33 |
 | **Will Wright** | 22 | 1 | 540 | 25.71 |
 | **Andrew MacFarlane** | 30 | 0 | 530 | 17.67 |
+| **Mark Taylor** | 15 | 15 | 2 | 495 | 38.08 |
 | **David Young** | 65 | 17 | 479 | 9.98 |
 | **Tony Purves** | 16 | 5 | 459 | 41.73 |
 | **Mark Petre** | 27 | 3 | 437 | 18.21 |
@@ -167,13 +168,12 @@ type: "statistics"
 | **Stuart Watson** | 14 | 4 | 370 | 37.00 |
 | **Richard Coyle** | 63 | 16 | 369 | 7.85 |
 | **Richard Green** | 25 | 5 | 359 | 17.95 |
-| **Mark Taylor** | 11 | 1 | 358 | 35.80 |
 | **Mark Kirwan** | 29 | 6 | 357 | 15.52 |
 | **Tim Hammond** | 10 | 2 | 343 | 42.88 |
 | **William Chapman** | 24 | 3 | 341 | 16.24 |
 | **Andrew Fielding** | 35 | 2 | 340 | 10.30 |
 | **Richard Olver** | 30 | 14 | 287 | 17.94 |
-| **John Pakenham-Walsh** | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 21 | 3 | 250 | 13.89 |
 
 ## Career Batting (by ave)
@@ -187,9 +187,9 @@ type: "statistics"
 | **Tony Purves** | 16 | 5 | 459 | 41.73 |
 | **Martin Breddy** | 16 | 0 | 650 | 40.63 |
 | **Steven Hornsby** | 80 | 11 | 2660 | 38.55 |
-| **John Pakenham-Walsh** | 9 | 2 | 261 | 37.29 |
+| **Mark Taylor** | 15 | 15 | 2 | 495 | 38.08 |
+| **John Packenham-Walsh** | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 1 | 358 | 35.80 |
 | **Mohit Gupta** | 73 | 15 | 1909 | 32.91 |
 | **Martin Goff** | 41 | 3 | 1164 | 30.63 |
 | **Richard Earney** | 317 | 28 | 8597 | 29.75 |

@@ -49,7 +49,7 @@ type: "game"
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Wilson** | c Pakenham-Walsh | E Garland | 66 | 
+| **Wilson** | c Packenham-Walsh | E Garland | 66 | 
 | **Guthrie** | c A Sylvester | E Garland | 31 | 
 | **Hollister &#8224;** | lbw | E Garland | 6 | 
 | **Byers** | not out |  | 37 | 

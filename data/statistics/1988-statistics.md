@@ -28,6 +28,7 @@ type: "statistics"
 | **Sebastian Lazell** | 4 | 4 | 0 | 34 | 8.5 |
 | **Edward Garland** | 3 | 3 | 1 | 31 | 15.5 |
 | **Will Wright** | 2 | 2 | 0 | 31 | 15.5 |
+| **Mark Taylor** | 1 | 1 | 0 | 28 | 28 |
 | **David Jones** | 2 | 2 | 0 | 26 | 13 |
 | **Tim Horsey** | 3 | 3 | 0 | 20 | 6.67 |
 | **Jerry Wright** | 16 | 6 | 3 | 18 | 6 |
@@ -63,6 +64,7 @@ type: "statistics"
 | **Simon Gardiner** | 1 | 1 | 0 | 46 | 46 |
 | **Andrew Gallagher** | 13 | 12 | 1 | 458 | 41.63 |
 | **Ron Weir** | 2 | 2 | 1 | 37 | 37 |
+| **Mark Taylor** | 1 | 1 | 0 | 28 | 28 |
 | **William Chapman** | 9 | 9 | 2 | 177 | 25.28 |
 | **Martin Breddy** | 8 | 8 | 0 | 193 | 24.125 |
 | **Andrew MacFarlane** | 8 | 7 | 0 | 144 | 20.57 |
@@ -159,7 +161,7 @@ type: "statistics"
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Alan Sylvester** | 44 | 28 | 14 | 326 | 23.29 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Mark Gardiner** | 46 | 35 | 2 | 248 | 7.52 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
 | **Andrew Fielding** | 21 | 19 | 2 | 228 | 13.41 |
@@ -184,7 +186,7 @@ type: "statistics"
 | **Nigel Holcombe** | 2 | 2 | 0 | 110 | 55.00 |
 | **Mark Taylor** | 4 | 4 | 1 | 157 | 52.33 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
 | **Andrew Gallagher** | 67 | 64 | 3 | 1699 | 27.85 |

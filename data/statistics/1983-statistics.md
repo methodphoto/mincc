@@ -21,7 +21,7 @@ type: "statistics"
 | **Mark Kirwan** | 2 | 1 | 16 | 16 |
 | **David Young** | 2 | 1 | 14 | 14 |
 | **Michael Druce** | 1 | 0 | 8 | 8 |
-| **John Pakenham-Walsh** | 1 | 1 | 6 | - |
+| **John Packenham-Walsh** | 1 | 1 | 6 | - |
 | **Jim Grant** | 3 | 2 | 4 | 4 |
 | **Dan Newman** | 2 | 1 | 4 | 4 |
 | **Ken Sullivan** | 1 | 0 | 2 | 2 |
@@ -57,7 +57,7 @@ type: "statistics"
 | **Julian Mayo** | 1 | 0 | 1 | 1 |
 | **Mark Gardiner** | 1 | 0 | 1 | 1 |
 | **Richard Beswick** | 2 | 2 | 16 | ? |
-| **John Pakenham-Walsh** | 1 | 1 | 6 | ? |
+| **John Packenham-Walsh** | 1 | 1 | 6 | ? |
 | **Bob Colethorpe** | 0 | 0 | 0 | ? |
 | **Streather** | 1 | 1 | 22 | ? |
 | **William Calvert** | 0 | 0 | 0 | ? |
@@ -77,7 +77,7 @@ type: "statistics"
 | **David Challoner** | 10 | 0 | 35 | 2 | 17.5 | 30 |
 | **William Calvert** | 1 | 0 | 1 | 2 | .5 | 3 |
 | **Andrew Gallagher** | 3 | 0 | 21 | 1 | 21 | 18 |
-| **John Pakenham-Walsh** | 2 | 0 | 12 | 1 | 12 | 12 |
+| **John Packenham-Walsh** | 2 | 0 | 12 | 1 | 12 | 12 |
 | **Jim Grant** | .3 | 0 | 0 | 1 | 0 | 1.8 |
 | **James Booth** | .1 | 0 | 0 | 1 | 0 | .6 |
 | **Mark Gardiner** | 3 | 1 | 8 | 1 | 8 | 18 |
@@ -104,7 +104,7 @@ type: "statistics"
 | **Jerry Wright** | 5 | 0 | 23 | 3 | 7.67 | 10 |
 | **Mark Gardiner** | 3 | 1 | 8 | 1 | 8 | 18 |
 | **Mark Kirwan** | 30.1 | 5 | 98 | 9 | 10.889 | 20.07 |
-| **John Pakenham-Walsh** | 2 | 0 | 12 | 1 | 12 | 12 |
+| **John Packenham-Walsh** | 2 | 0 | 12 | 1 | 12 | 12 |
 | **David Challoner** | 10 | 0 | 35 | 2 | 17.5 | 30 |
 | **Andrew Gallagher** | 3 | 0 | 21 | 1 | 21 | 18 |
 | **Alan Sylvester** | 24 | 2 | 106 | 5 | 21.2 | 28.8 |
@@ -135,7 +135,7 @@ type: "statistics"
 | **Colin Chitty** | 3 | 2 | 0 | 20 | 10.00 |
 | **David Young** | 5 | 2 | 1 | 14 | 14.00 |
 | **Ken Sullivan** | 4 | 3 | 0 | 8 | 2.67 |
-| **John Pakenham-Walsh** | 2 | 1 | 1 | 6 | - |
+| **John Packenham-Walsh** | 2 | 1 | 1 | 6 | - |
 | **Dan Newman** | 2 | 2 | 1 | 4 | 4.00 |
 | **Liam Sheridan** | 2 | 1 | 0 | 0 | 0.00 |
 
@@ -166,7 +166,7 @@ type: "statistics"
 | **Dan Newman** | 2 | 2 | 1 | 4 | 4.00 |
 | **Ken Sullivan** | 4 | 3 | 0 | 8 | 2.67 |
 | **Liam Sheridan** | 2 | 1 | 0 | 0 | 0.00 |
-| **John Pakenham-Walsh** | 2 | 1 | 1 | 6 | - |
+| **John Packenham-Walsh** | 2 | 1 | 1 | 6 | - |
 
 ## Career Bowling (by wkts)
 
@@ -186,7 +186,7 @@ type: "statistics"
 | **Tony Purves** | 3 | 10 | 1 | 55 | 2 | 27.50 | 30.00 |
 | **James Booth** | 9 | 3.1 | 0 | 20 | 1 | 20.00 | 18.60 |
 | **Jim Grant** | 16 | .3 | 0 | 0 | 1 | 0.00 | 1.80 |
-| **John Pakenham-Walsh** | 2 | 2 | 0 | 12 | 1 | 12.00 | 12.00 |
+| **John Packenham-Walsh** | 2 | 2 | 0 | 12 | 1 | 12.00 | 12.00 |
 | **Liam Sheridan** | 2 | 3 | 0 | 14 | 1 | 14.00 | 18.00 |
 | **Robin Emanuel** | 11 | 3 | 0 | 26 | 1 | 26.00 | 18.00 |
 | **Colin Chitty** | 3 | 3 | 0 | 20 | 0 | - | - |
@@ -202,7 +202,7 @@ type: "statistics"
 | **Richard Beswick** | 12 | 10 | 3 | 41 | 5 | 8.20 | 12.00 |
 | **Mark Gardiner** | 8 | 12 | 2 | 47 | 5 | 9.40 | 14.40 |
 | **Ken Sullivan** | 4 | 27.1 | 5 | 104 | 9 | 11.56 | 18.07 |
-| **John Pakenham-Walsh** | 2 | 2 | 0 | 12 | 1 | 12.00 | 12.00 |
+| **John Packenham-Walsh** | 2 | 2 | 0 | 12 | 1 | 12.00 | 12.00 |
 | **Mark Kirwan** | 16 | 125.3 | 23 | 407 | 33 | 12.33 | 22.78 |
 | **Jerry Wright** | 14 | 68.4 | 8 | 289 | 21 | 13.76 | 19.54 |
 | **Liam Sheridan** | 2 | 3 | 0 | 14 | 1 | 14.00 | 18.00 |

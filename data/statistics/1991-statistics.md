@@ -168,7 +168,7 @@ type: "statistics"
 | **Andrew Fielding** | 33 | 29 | 2 | 284 | 10.52 |
 | **Richard Earney** | 22 | 20 | 4 | 277 | 17.31 |
 | **Phil Bentley** | 8 | 8 | 1 | 275 | 39.29 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
 | **Jerry Wright** | 98 | 49 | 15 | 222 | 6.53 |
 | **Richard Olver** | 40 | 26 | 11 | 221 | 14.73 |
@@ -187,7 +187,7 @@ type: "statistics"
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Phil Bentley** | 8 | 8 | 1 | 275 | 39.29 |
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Mark Taylor** | 12 | 12 | 1 | 386 | 35.09 |
 | **Steven Hornsby** | 19 | 18 | 1 | 593 | 34.88 |
