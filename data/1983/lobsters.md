@@ -21,7 +21,7 @@ type: "game"
 | **Druce** | lbw | Jenkins | 8 |
 | **A Jones** | c Cottrell | Nuttall | 28 |
 | **R Beswick &#42;** | not out |  | 6 |
-| **J Pakenham-Walsh** | not out |  | 6 |
+| **J Packenham-Walsh** | not out |  | 6 |
 | **J Grant &#8224;** | dnb | | |
 | **B Colethorpe** | dnb | | |
 | **D Young** | dnb | | |
@@ -56,7 +56,7 @@ type: "game"
 |:---|:---|---|---:|
 | **Nuttall** | c & b | P Challoner | 17 |
 | **Trafford** | run out |  | 0 |
-| **Dunfield** | c R Beswick | J Pakenham-Walsh | 21 |
+| **Dunfield** | c R Beswick | J Packenham-Walsh | 21 |
 | **Jenkins** | c Druce | T Purves | 5 |
 | **Rogers** | c J Grant | D Young | 0 |
 | **Hard** | b | D Young | 0 |
@@ -86,7 +86,7 @@ type: "game"
 | **T Purves** | 2 | 0 | 13 | 1 |
 | **D Young** | 2 | 0 | 9 | 2 |
 | **R Beswick** | 2 | 0 | 4 | 1 |
-| **J Pakenham-Walsh** | 2 | 0 | 12 | 1 |
+| **J Packenham-Walsh** | 2 | 0 | 12 | 1 |
 | **Druce** | 2 | 0 | 17 | 0 |
 | **A Gallagher** | 2 | 0 | 14 | 1 |
 

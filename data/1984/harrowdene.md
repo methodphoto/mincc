@@ -55,7 +55,7 @@ type: "game"
 | **A Gallagher** | b | S Marshall | 17 | 
 | **J Grant &#8224;** | not out | | 13 | 
 | **P Clothier** | not out | | 53 | 
-| **J Pakenham-Walsh** | dnb | | | 
+| **J Packenham-Walsh** | dnb | | | 
 | **W Calvert** | dnb | | |
 | **R Beswick** | dnb | | |
 | **D Young** | dnb | | | 

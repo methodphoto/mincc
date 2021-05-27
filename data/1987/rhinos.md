@@ -50,16 +50,16 @@ type: "game"
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **J Grant &#8224;** | c Lee | Doughty | 4 | 
-| **D Young** | c Doughty | DM Chandler | 7 | 
-| **King** | c D Chandler | Doughty | 10 | 
-| **M Taylor** | c Borkett | Doughty | 0 | 
-| **W Wright** | b  | Doughty | 0 | 
-| **R Beswick &#42;** | b | Doughty | 0 | 
-| **R Olver** | c Borkett | Howard | 16 | 
-| **D Newman** | b | Doughty | 1 | 
-| **G Wright** | not out |  | 0 | 
-| **J Wright** | st Chapman | Doughty | 1 | 
+| **J Grant &#8224;** | c Felton | Stager | 38 | 
+| **D Young** | b | Morrow | 17 | 
+| **King** | lbw | Morrow | 10 | 
+| **M Taylor** | run out |  | 28 | 
+| **W Wright** | not out |  | 39 | 
+| **R Beswick &#42;** | b | Wise | 4 | 
+| **R Olver** | not out |   | 1 | 
+| **D Newman** | dnb |  |  | 
+| **G Wright** | dnb |  |  | 
+| **J Wright** | dnb |  |  | 
 |  |  |  |  | 
 | **Extras** | | (9b 7lb 0w 0nb) | 16 | 
 | **Total** | | (30.4 overs) | 143 for 5 wkts | 

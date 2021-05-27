@@ -50,7 +50,7 @@ type: "game"
 |:---|:---|---|---:|
 | **A Gallagher** | c | Slade | 22 | 
 | **J Grant &#8224;** | c | Walshe | 16 | 
-| **J Pakenham-Walsh** | b | Smith | 70 | 
+| **J Packenham-Walsh** | b | Smith | 70 | 
 | **R Beswick &#42;** | b  | Smith | 12 | 
 | **W Calvert** | b  | Slade | 11 | 
 | **A Sylvester** | not out |  | 6 | 
