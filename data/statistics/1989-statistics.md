@@ -150,13 +150,13 @@ type: "statistics"
 | **Richard Beswick** | 99 | 92 | 15 | 1243 | 16.14 |
 | **Martin Breddy** | 14 | 14 | 0 | 550 | 39.29 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
+| **Mark Taylor** | 12 | 12 | 2 | 410 | 41.00 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Alan Sylvester** | 44 | 28 | 14 | 326 | 23.29 |
 | **William Chapman** | 20 | 20 | 2 | 317 | 17.61 |
 | **Mark Gardiner** | 56 | 43 | 3 | 304 | 7.60 |
 | **Will Wright** | 13 | 12 | 1 | 299 | 27.18 |
 | **Phil Bentley** | 8 | 8 | 1 | 275 | 39.29 |
-| **Mark Taylor** | 8 | 8 | 1 | 273 | 39.00 |
 | **Andrew Fielding** | 27 | 24 | 2 | 261 | 11.86 |
 | **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Ian Marshall** | 13 | 12 | 1 | 249 | 22.64 |
@@ -176,9 +176,9 @@ type: "statistics"
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
+| **Mark Taylor** | 12 | 12 | 2 | 410 | 41.00 |
 | **Martin Breddy** | 14 | 14 | 0 | 550 | 39.29 |
 | **Phil Bentley** | 8 | 8 | 1 | 275 | 39.29 |
-| **Mark Taylor** | 8 | 8 | 1 | 273 | 39.00 |
 | **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |

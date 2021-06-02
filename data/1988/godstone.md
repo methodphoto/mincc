@@ -5,63 +5,29 @@ game: "Godstone"
 title: "Godstone v The Min"
 gameLocation: "Godstone"
 gameDate: "21/05/1988"
-shortReport: "The Min batted first and scored 162 for 5 wkts. Godstone"
+shortReport: "Godstone batted first and scored 211 for 7 wkts. The Min replied with 162 for 5 wkts when time ran out"
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"
 ---
 
-## The Min Innings
+## Godstone Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **W Chapman** | c & b | J Yerrell | 2 | 
-| **J Grant &#8224;** | b | J Yerrell | 0 | 
-| **I Marshall** | b | J Chambers | 20 | 
-| **W Calvert** | b | J Yerrell | 2 | 
-| **R Howcroft** | st Pavey  | J Chambers | 16 | 
-| **A MacFarlane** | b | P Scanlon | 25 | 
-| **R Beswick &#42;** | st Pavey | P Scanlon | 21 | 
-| **M Gardiner** | b | J Chambers | 7 | 
-| **A Fielding** | b | P Scanlon | 8 | 
-| **D Young** | b | P Scanlon | 2 | 
-| **G Wright** | not out |  | 0 | 
-| **Extras** | | (9b 2lb 4w 0nb) | 15 | 
-| **Total** | | (33.5 overs) | 118 all out | 
-
-## Fall of Wickets
-
-| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 2 | 3 | 9 | 48 | 49 | 100 | 107 | 113 | 117 | 118 | 
-| **Batsman** | 2 | 1 | 4 | 5 | 3 | 6 | 7 | 8 | 9 | 10 | 
-
-## Bowling
-
-| | O | M | R | W |
-|---|---|---|---|---|
-| **D Potts** | 7 | 2 | 23 | 0 | 
-| **J Yerrell** | 9 | 3 | 14 | 3 | 
-| **J Chambers** | 10 | 0 | 39 | 3 | 
-| **P Scanlon** | 7.5 | 0 | 32 | 4 | 
-
-## Ockley Innings
-
-| Batsman | Dismissal |  | Runs |
-|:---|:---|---|---:|
-| **T Smith** | c | A MacFarlane | 22 | 
-| **R Cowles** | b | I Marshall | 24 | 
-| **M Scanlon** | b | A MacFarlane | 67 | 
-| **A Godby** | not out |  | 62 | 
-| **W Macguire** | not out |  | 0 | 
-| **Pavey &#8224;** | dnb |  |  |
-| **J Chambers** | dnb |  |  | 
-| **D Potts** | dnb |  |  |
-| **J Yerrell** | dnb |  |  | 
-| **P Scanlon** | dnb |  |  | 
+| **Knight** | c Reeve | E Garland | 54 | 
+| **Davidson** | b | J Wright | 69 | 
+| **Lilley** | not out |  | 51 | 
+| **Clarke** | c A Fielding | E Garland | 1 | 
+| **Elswy** | c & b | E Garland | 1 | 
+| **Kennedy** | c J Wright | R Scotts | 20 |
+| **Dennis** | c E Garland |  | 4 | 
+| **Cousins** | c E Garland | R Scotts | 2 |
+| **Green** | not out |  | 0 | 
+|  |  |  |  | 
 |  |  |  |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 | 
-| **Total** | | (46 overs) | 195 for 3 wkts | 
+| **Extras** | | (12b 2lb 4w 1nb) | 19 | 
+| **Total** | | (45 overs) | 211 for 7 wkts | 
 
 ## Fall of Wickets
 
@@ -74,14 +40,49 @@ type: "game"
 
 | | O | M | R | W |
 |---|---|---|---|---|
-| **A MacFarlane** | 16 | 4 | 41 | 2 | 
-| **I Marshall** | 13 | 2 | 46 | 1 | 
-| **J Wright** | 6 | 0 | 36 | 0 | 
-| **R Beswick** | 7 | 1 | 34 | 0 | 
-| **R Howcroft** | 4 | 0 | 25 | 0 |
+| **R Beswick** | 9 | 2 | 38 | 0 | 
+| **R Olver** | 6 | 0 | 34 | 0 | 
+| **E Garland** | 13 | 1 | 72 | 3 | 
+| **J Wright** | 13 | 2 | 37 | 2 | 
+| **R Scotts** | 4 | 0 | 16 | 2 |
 
+## The Min Innings
+
+| Batsman | Dismissal |  | Runs |
+|:---|:---|---|---:|
+| **A Gallagher** | b | Dennis | 19 | 
+| **Reeve** | b | Dennis | 12 | 
+| **N Beswick** | c | Davidson | 1 | 
+| **J Naughton** | c | Cousins | 65 | 
+| **T Horsey** | run out |  | 0 | 
+| **R Beswick** | not out |  | 36 | 
+| **E Garland** | not out |   | 12 | 
+| **R Scotts** | dnb |  |  | 
+| **R Olver** | dnb |  |  | 
+| **J Wright** | dnb |  |  |
+|  |  |  |  |
+| **Extras** | | (16b 0lb 1w 0nb) | 17 | 
+| **Total** | | (35 overs) | 162 for 5 wkts | 
+
+## Fall of Wickets
+
+| | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Score** | 34 | 35 | 46 | 46 |  |  |  |  |  |  | 
+| **Batsman** | 1 | 2 | 3 | 5 | 4 |  |  |  |  |  | 
+
+## Bowling
+
+| | O | M | R | W |
+|---|---|---|---|---|
+| **Dennis** | 12 | 2 | 33 | 2 | 
+| **Davidson** | 7 | 1 | 18 | 0 | 
+| **3** | 4 | 0 | 15 | 0 | 
+| **Cousins** | 6 | 1 | 27 | 1 | 
+| **Lilley** | 4 | 0 | 42 | 0 | 
+0
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 0 | 1 | 0 | 0 |
+| 1 | 0 | 1 | 0 |

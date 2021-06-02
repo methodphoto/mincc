@@ -161,6 +161,7 @@ type: "statistics"
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Alan Sylvester** | 44 | 28 | 14 | 326 | 23.29 |
+| **Mark Taylor** | 8 | 8 | 2 | 294 | 49.00 |
 | **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Mark Gardiner** | 46 | 35 | 2 | 248 | 7.52 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
@@ -184,7 +185,7 @@ type: "statistics"
 |:---|:---|:---|:---|:---|:---|
 | **Phil Bentley** | 4 | 4 | 1 | 231 | 77.00 |
 | **Nigel Holcombe** | 2 | 2 | 0 | 110 | 55.00 |
-| **Mark Taylor** | 4 | 4 | 1 | 157 | 52.33 |
+| **Mark Taylor** | 8 | 8 | 2 | 294 | 49.00 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |

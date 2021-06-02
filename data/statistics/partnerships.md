@@ -44,6 +44,7 @@ type: "records"
 | 2012 | R Earney (89*) and Tom Rutherford (42) | v Newington | 108 |
 | 2011 | R Beswick (79) and A Slight (46) | v Broadway & Horton | 107 |
 | 1985 | J Grant (73) and A Fielding (58) | v Koh-i-noor | 106 |
+| 1988 | A Gallagher (71*) and A MacFarlane (44) | v South Nutfield | 106 |
 | 2007 | R Earney (54) and S Barrowcliff (42) | v Britwell Salome | 105 |
 | 2017 | M Gupta (100) and S Hornsby (47*) | v Frensham | 101 |
 | 2000 | R Beswick (52) and S Hornsby (130*) | v Wareham | |

@@ -10,6 +10,7 @@ type: "statistics"
 |:---|:---|:---|:---|:---|:---|
 | **Jim Grant** | 13 | 13 | 1 | 313 | 26.08 |
 | **Andrew Gallagher** | 10 | 10 | 0 | 221 | 22.1 |
+| **Mark Taylor** | 4 | 4 | 1 | 137 | 45.67 |
 | **John Packenham-Walsh** | 4 | 4 | 1 | 110 | 36.67 |
 | **William Calvert** | 10 | 9 | 2 | 108 | 15.43 |
 | **Richard Beswick** | 12 | 10 | 1 | 101 | 11.22 |
@@ -29,6 +30,7 @@ type: "statistics"
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
+| **Mark Taylor** | 4 | 4 | 1 | 137 | 45.66 |
 | **John Packenham-Walsh** | 4 | 4 | 1 | 110 | 36.67 |
 | **Alan Sylvester** | 5 | 3 | 2 | 33 | 33 |
 | **Tony Purves** | 3 | 3 | 1 | 53 | 26.5 |
@@ -95,6 +97,7 @@ type: "statistics"
 | **Mark Kirwan** | 32 | 21 | 4 | 213 | 12.53 |
 | **David Young** | 37 | 28 | 9 | 203 | 10.68 |
 | **Mark Gardiner** | 37 | 29 | 2 | 194 | 7.19 |
+| **Mark Taylor** | 5 | 5 | 1 | 190 | 47.50 |
 | **Jerry Wright** | 68 | 36 | 7 | 178 | 6.14 |
 | **Andrew Fielding** | 16 | 14 | 2 | 176 | 14.67 |
 | **David Mundy** | 14 | 13 | 0 | 168 | 12.92 |
@@ -110,7 +113,6 @@ type: "statistics"
 | **Paul Newcomb** | 2 | 2 | 0 | 59 | 29.50 |
 | **Richard Olver** | 16 | 9 | 6 | 55 | 18.33 |
 | **Steve Maynard** | 12 | 11 | 1 | 55 | 5.50 |
-| **Mark Taylor** | 1 | 1 | 0 | 53 | 53.00 |
 | **Pip Clothier** | 1 | 1 | 1 | 53 | ? |
 | **Steve Foster** | 1 | 1 | 0 | 53 | 53.00 |
 | **Edward Harcourt** | 17 | 14 | 3 | 42 | 3.82 |
@@ -122,8 +124,8 @@ type: "statistics"
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
 | **Phil Gault** | 1 | 1 | 0 | 91 | 91.00 |
-| **Mark Taylor** | 1 | 1 | 0 | 53 | 53.00 |
 | **Steve Foster** | 1 | 1 | 0 | 53 | 53.00 |
+| **Mark Taylor** | 5 | 5 | 1 | 190 | 47.50 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
