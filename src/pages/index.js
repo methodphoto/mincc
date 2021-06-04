@@ -38,7 +38,7 @@ const HomePage = () => {
     	<div id="fixtures" dangerouslySetInnerHTML={{ __html: html }} />
     	
     	<hr />
-    	
+    	  	
 		<h2>Previous years</h2>
 		
 		<h3>2020s</h3>
