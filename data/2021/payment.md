@@ -3,7 +3,7 @@ year: "2021"
 type: "fixtures"
 ---
 
-# Payments
+# Payment
 
 [Min Season Fee 2021](https://checkout.square.site/merchant/51RN9YGRJY6DP/checkout/T2TVD34YOANRMZOA2FO6NF3V)
 
