@@ -44,3 +44,12 @@ type: "fixtures"
 | 5th | 13:00 | Banstead | [SM7 2PP](https://goo.gl/maps/nv7dov2xsYvUnRay5) |
 | 12th | 13:00 | Reigate Pilgrims | [RH3 7DS](https://goo.gl/maps/APtKSjuaQ5v) |
 | 19th | 13:00 | Selling | [ME13 9RQ](https://goo.gl/maps/QeLhjBkEbJr) |
+
+
+## Payments
+
+[Min Season Fee 2021](https://checkout.square.site/merchant/51RN9YGRJY6DP/checkout/T2TVD34YOANRMZOA2FO6NF3V)
+
+[Min Match Fee 2021](https://checkout.square.site/merchant/51RN9YGRJY6DP/checkout/M2AWW7ZAQ4L6ZV7SSKAB4YXS)
+
+[Min Season + Match Fee 2021](https://checkout.square.site/merchant/51RN9YGRJY6DP/checkout/WTCB3P2IYU6PGUJKC4MTRR5I)
