@@ -22,7 +22,7 @@ Result: {result}
 |:---|:---|---|---:|
 | **A Chick** | c A Gallagher | M Gardiner | 54 | 
 | **N Chapman** | c D Young | R Beswick | 0 | 
-| **A Burniston** | c J Pakenham-Walsh | J Wright | 50 | 
+| **A Burniston** | c J Packenham-Walsh | J Wright | 50 | 
 | **I Hamilton** | c J Wright | R Beswick | 68 | 
 | **M Chandler** | b | A Sylvester | 25 | 
 | **R Warn** | c & b | A Sylvester | 37 | 
@@ -56,7 +56,7 @@ Result: {result}
 |:---|:---|---|---:|
 | **R Beswick &#42;** | c Wallis | Mayo | 15 | 
 | **M Lawrence** | run out |  | 0 | 
-| **J Pakenham-Walsh** | c Wallis | Bogden | 14 | 
+| **J Packenham-Walsh** | c Wallis | Bogden | 14 | 
 | **A Gallagher** | c | Hill | 31 | 
 | **D Mundy** | b  | Mayo | 1 | 
 | **Pollock** | b | Bogden | 2 | 

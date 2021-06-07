@@ -16,11 +16,11 @@ type: "game"
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **Dhuru** | c I Miah | P Beswick | 76 |
-| **Milan** | c N Garland | R Beswick | 34 |
+| **Milan** | c E Garland | R Beswick | 34 |
 | **Janed** | c S Barrowcliff | C Wright | 28 |
 | **Usama** | c R Earney | C Wright | 13 |
 | **Roger** | b | P Beswick | 2 |
-| **Arab** | st J Grant | N Garland | 11 |
+| **Arab** | st J Grant | E Garland | 11 |
 | **Assandyar** | b | P Beswick | 1 |
 | **A Radley** | b | P Beswick | 0 |
 | **Hikmat** | c J Grant | P Beswick | 3 |
@@ -60,7 +60,7 @@ type: "game"
 | **S Amin** | not out |  | 15 |
 | **P Beswick** | did not bat |  |  |
 | **J Grant** | did not bat |  |  |
-| **N Garland** | did not bat |  |  |
+| **E Garland** | did not bat |  |  |
 | **C Wright** | did not bat |  |  |
 | **J Wright** | did not bat |  |  |
 | **Extras** | | (2b 0lb 1w 0nb 0p) | **3** |

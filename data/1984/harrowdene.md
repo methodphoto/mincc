@@ -19,10 +19,10 @@ type: "game"
 | **Barrett** | c J Grant | R Beswick | 0 | 
 | **Graham** | run out | | 0 | 
 | **Ambler** | b | W Calvert | 3 | 
-| **Antony** | c N Garland |  W Calvert | 10 | 
+| **Antony** | c E Garland |  W Calvert | 10 | 
 | **Collins** | b | W Calvert | 1 | 
 | **Polden** | lbw | W Calvert | 1 | 
-| **Buttle** | lbw | N Garland | 22 | 
+| **Buttle** | lbw | E Garland | 22 | 
 | **Clarkes** | c J Grant | J Wright | 13| 
 | **N Marshall** | c P Clothier | J Wright | 5 | 
 | **N Marshall** | not out | | 8 | 
@@ -45,7 +45,7 @@ type: "game"
 | **J Wright** | 13.2 | 4 | 30 | 3 | 
 | **W Calvert** | 5 | 1 | 9 | 4 | 
 | **M Gardiner** | 4 | 0 | 11 | 0 | 
-| **N Garland** | 5 | 0 | 20 | 1 |
+| **E Garland** | 5 | 0 | 20 | 1 |
 | **D Young** | 3 | 1 | 6 | 0 |
 
 ## The Min Innings
@@ -55,12 +55,12 @@ type: "game"
 | **A Gallagher** | b | S Marshall | 17 | 
 | **J Grant &#8224;** | not out | | 13 | 
 | **P Clothier** | not out | | 53 | 
-| **J Pakenham-Walsh** | dnb | | | 
+| **J Packenham-Walsh** | dnb | | | 
 | **W Calvert** | dnb | | |
 | **R Beswick** | dnb | | |
 | **D Young** | dnb | | | 
 | **M Gardiner** | dnb | | | 
-| **N Garland** | dnb | | || 
+| **E Garland** | dnb | | || 
 | **J Wright** | dnb | | | 
 | | | | | 
 | **Extras** | | (1b 0lb 2w 0nb) | 3 | 

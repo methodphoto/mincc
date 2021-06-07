@@ -10,7 +10,8 @@ type: "statistics"
 |:---|:---|:---|:---|:---|:---|
 | **Jim Grant** | 13 | 13 | 1 | 313 | 26.08 |
 | **Andrew Gallagher** | 10 | 10 | 0 | 221 | 22.1 |
-| **John Pakenham-Walsh** | 4 | 4 | 1 | 110 | 36.67 |
+| **Mark Taylor** | 4 | 4 | 1 | 137 | 45.67 |
+| **John Packenham-Walsh** | 4 | 4 | 1 | 110 | 36.67 |
 | **William Calvert** | 10 | 9 | 2 | 108 | 15.43 |
 | **Richard Beswick** | 12 | 10 | 1 | 101 | 11.22 |
 | **Edward Garland** | 7 | 6 | 0 | 71 | 11.83 |
@@ -29,7 +30,8 @@ type: "statistics"
 
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
-| **John Pakenham-Walsh** | 4 | 4 | 1 | 110 | 36.67 |
+| **Mark Taylor** | 4 | 4 | 1 | 137 | 45.66 |
+| **John Packenham-Walsh** | 4 | 4 | 1 | 110 | 36.67 |
 | **Alan Sylvester** | 5 | 3 | 2 | 33 | 33 |
 | **Tony Purves** | 3 | 3 | 1 | 53 | 26.5 |
 | **Jim Grant** | 13 | 13 | 1 | 313 | 26.08 |
@@ -61,6 +63,7 @@ type: "statistics"
 | **Dan Newman** | 7 | 4.1 | 0 | 24 | 3 | 8 | 8.2 |
 | **Alan Sylvester** | 5 | 40 | 6 | 149 | 1 | 149 | 240 |
 | **David Young** | 5 | 1 | 1 | 0 | 0 | - | - |
+| **Mark Taylor** | 1 | 6 | 0 | 21 | 0 | - | - |
 
 ## Season Bowling (by ave)
 
@@ -76,6 +79,7 @@ type: "statistics"
 | **Andrew Gallagher** | 10 | 32.4 | 2 | 162 | 8 | 20.25 | 24.3 |
 | **William Calvert** | 10 | 31 | 4 | 142 | 7 | 20.28 | 26.57 |
 | **Alan Sylvester** | 5 | 40 | 6 | 149 | 1 | 149 | 240 |
+| **Mark Taylor** | 1 | 6 | 0 | 21 | 0 | - | - |
 
 ## Career Batting
 
@@ -88,11 +92,12 @@ type: "statistics"
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Alan Sylvester** | 42 | 26 | 13 | 315 | 24.23 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
 | **Mark Kirwan** | 32 | 21 | 4 | 213 | 12.53 |
 | **David Young** | 37 | 28 | 9 | 203 | 10.68 |
 | **Mark Gardiner** | 37 | 29 | 2 | 194 | 7.19 |
+| **Mark Taylor** | 5 | 5 | 1 | 190 | 47.50 |
 | **Jerry Wright** | 68 | 36 | 7 | 178 | 6.14 |
 | **Andrew Fielding** | 16 | 14 | 2 | 176 | 14.67 |
 | **David Mundy** | 14 | 13 | 0 | 168 | 12.92 |
@@ -108,7 +113,6 @@ type: "statistics"
 | **Paul Newcomb** | 2 | 2 | 0 | 59 | 29.50 |
 | **Richard Olver** | 16 | 9 | 6 | 55 | 18.33 |
 | **Steve Maynard** | 12 | 11 | 1 | 55 | 5.50 |
-| **Mark Taylor** | 1 | 1 | 0 | 53 | 53.00 |
 | **Pip Clothier** | 1 | 1 | 1 | 53 | ? |
 | **Steve Foster** | 1 | 1 | 0 | 53 | 53.00 |
 | **Edward Harcourt** | 17 | 14 | 3 | 42 | 3.82 |
@@ -120,10 +124,10 @@ type: "statistics"
 | Player | M | Inns | No | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
 | **Phil Gault** | 1 | 1 | 0 | 91 | 91.00 |
-| **Mark Taylor** | 1 | 1 | 0 | 53 | 53.00 |
 | **Steve Foster** | 1 | 1 | 0 | 53 | 53.00 |
+| **Mark Taylor** | 5 | 5 | 1 | 190 | 47.50 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Mark Lawrence** | 3 | 3 | 1 | 71 | 35.50 |
 | **Paul Newcomb** | 2 | 2 | 0 | 59 | 29.50 |

@@ -23,7 +23,7 @@ type: "game"
 | **S Barrowcliff** | b | I Kehl | 5 |
 | **K Sapp** | c A Harper | I Kehl | 8 |
 | **I Marshall** | c T Ridder | I Kehl | 3 |
-| **N Garland** | b | I Kehl | 3 |
+| **E Garland** | b | I Kehl | 3 |
 | **J Grant &#8224;** | c A Harper | I Kehl | 2 |
 | **C Wright** | not out | 0 |
 | **Extras** |  | (3b 0lb 8w 1nb 0p) | **12** |

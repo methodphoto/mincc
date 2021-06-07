@@ -3,11 +3,11 @@ year: "1987"
 serialNumber: "0062" 
 game: "Little Kingshill"
 title: "Little Kingshill v The Min"
-gameLocation: ""
-gameDate: ""
-shortReport: ""
-result: ""
-resultType: ""
+gameLocation: "Little Kingshill CC"
+gameDate: "25/05/1987"
+shortReport: "Little Kingshill batted first and made 170 all out. The Min were bowled out for 52"
+result: "Little Kingshill won by 118 runs"
+resultType: "Lost"
 type: "game"
 ---
 
@@ -15,19 +15,19 @@ type: "game"
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **D Chandler** | c | A MacFarlane | 22 | 
-| **Borkett** | b | I Marshall | 24 | 
-| **Lee** | b | A MacFarlane | 67 | 
-| **Chapman** | not out |  | 62 | 
-| **M Chandler** | not out |  | 0 | 
-| **Chick** | dnb |  |  |
-| **Howard** | dnb |  |  | 
-| **Tilbury** | dnb |  |  |
-| **Gear** | dnb |  |  | 
-| **Doughty** | dnb |  |  | 
-| **DM Chandler** | c J Grant | J Wright |  |
-| **Extras** | | (5b 0lb 6w 0nb) | 11 | 
-| **Total** | | (46 overs) | 195 for 3 wkts | 
+| **D Chandler** | c & b | R Beswick | 0 | 
+| **Borkett** | run out |  | 46 | 
+| **Lee** | c A Sylvester | J Wright | 33 | 
+| **Chapman &#8224;** | c J Packenham-Walsh | R Beswick | 41 | 
+| **M Chandler** | b | J Wright | 27 | 
+| **Chick** | c J Grant | R Beswick | 11 |
+| **Howard** | not out |  | 6 | 
+| **Tilbury** | run out |  | 0 |
+| **Gear** | b | R Beswick | 0 | 
+| **Doughty** | run out |  | 0 | 
+| **DM Chandler** | c J Grant | J Wright | 0 |
+| **Extras** | | (-b -lb -w -nb) | 6 | 
+| **Total** | | (42 overs) | 170 all out | 
 
 ## Fall of Wickets
 
@@ -40,48 +40,49 @@ type: "game"
 
 | | O | M | R | W |
 |---|---|---|---|---|
-| **A MacFarlane** | 16 | 4 | 41 | 2 | 
-| **I Marshall** | 13 | 2 | 46 | 1 | 
-| **J Wright** | 6 | 0 | 36 | 0 | 
-| **R Beswick** | 7 | 1 | 34 | 0 | 
-| **R Howcroft** | 4 | 0 | 25 | 0 |
+| **A Sylvester** | 8 | 0 | 26 | 0 | 
+| **R Beswick** | 11 | 3 | 25 | 4 | 
+| **E Garland** | 7 | 0 | 61 | 0 | 
+| **J Wright** | 13 | 4 | 36 | 3 | 
+| **T Purves** | 3 | 0 | 22 | 0 |
 
 ## The Min Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **W Chapman;** | c & b | J Yerrell | 2 | 
-| **J Grant &#8224;** | b | J Yerrell | 0 | 
-| **I Marshall** | b | J Chambers | 20 | 
-| **W Calvert** | b | J Yerrell | 2 | 
-| **R Howcroft** | st Pavey  | J Chambers | 16 | 
-| **A MacFarlane** | b | P Scanlon | 25 | 
-| **R Beswick &#42;** | st Pavey | P Scanlon | 21 | 
-| **M Gardiner** | b | J Chambers | 7 | 
-| **A Fielding** | b | P Scanlon | 8 | 
-| **D Young** | b | P Scanlon | 2 | 
+| **A Gallagher** | c Lee | Doughty | 4 | 
+| **J Grant &#8224;** | c Doughty | DM Chandler | 7 | 
+| **T Purves** | c D Chandler | Doughty | 10 | 
+| **R Beswick &#42;** | c Borkett | Doughty | 0 | 
+| **J Packenham-Walsh** | b  | Doughty | 0 | 
+| **A Sylvester** | b | Doughty | 0 | 
+| **E Garland;** | c Borkett | Howard | 16 | 
+| **S Maynard** | b | Doughty | 1 | 
+| **D Newman** | b | Doughty | 11 | 
 | **G Wright** | not out |  | 0 | 
-| **Extras** | | (9b 2lb 4w 0nb) | 15 | 
-| **Total** | | (33.5 overs) | 118 all out | 
+| **J Wright** | st Chapman | Doughty | 1 | 
+| **Extras** | | (-b -lb -w -nb) | 2 | 
+| **Total** | | (35 overs) | 52 all out | 
 
 ## Fall of Wickets
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 2 | 3 | 9 | 48 | 49 | 100 | 107 | 113 | 117 | 118 | 
-| **Batsman** | 2 | 1 | 4 | 5 | 3 | 6 | 7 | 8 | 9 | 10 | 
+| **Score** | 4 | 19 | 19 | 19 | 23 | 23 | 25 | 47 | 51 | 52 | 
+| **Batsman** | 1 | 2 | 4 | 5 | 6 | 3 | 8 | 7 | 9 | 11 | 
 
 ## Bowling
 
 | | O | M | R | W |
 |---|---|---|---|---|
-| **D Potts** | 7 | 2 | 23 | 0 | 
-| **J Yerrell** | 9 | 3 | 14 | 3 | 
-| **J Chambers** | 10 | 0 | 39 | 3 | 
-| **P Scanlon** | 7.5 | 0 | 32 | 4 | 
+| **Doughty** | 13 | 4 | 27 | 8 | 
+| **DM Chandler** | 9 | 3 | 12 | 1 | 
+| **Howard** | 3 | 0 | 12 | 1 | 
+
+## Win/Loss Ratio
 
 ## Win/Loss Ratio
 
 | Won | Lost | Drawn | Tied |
 |:---|:---|:---|---:|
-| 0 | 1 | 0 | 0 |
+| 0 | 2 | 1 | 0 |

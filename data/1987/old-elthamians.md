@@ -21,7 +21,7 @@ type: "game"
 | **E Garland** | b | Pearce | 5 | 
 | **W Calvert** | c Frost  | Pearce | 7 | 
 | **A Gallagher** | c Hollister | Manchip | 0 | 
-| **J Pakenham-Walsh** | c Perry | Pearce | 48 | 
+| **J Packenham-Walsh** | c Perry | Pearce | 48 | 
 | **J Binder** | st Hollister | Wilson | 2 | 
 | **S Maynard** | c Baxter | W Wright | 5 | 
 | **A Sylvester** | not out |  | 13 |
@@ -49,7 +49,7 @@ type: "game"
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Wilson** | c Pakenham-Walsh | E Garland | 66 | 
+| **Wilson** | c Packenham-Walsh | E Garland | 66 | 
 | **Guthrie** | c A Sylvester | E Garland | 31 | 
 | **Hollister &#8224;** | lbw | E Garland | 6 | 
 | **Byers** | not out |  | 37 | 

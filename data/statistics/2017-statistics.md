@@ -152,6 +152,7 @@ type: "statistics"
 | **Jim Grant** | 375 | 315 | 40 | 4471 | 16.26 |
 | **William Calvert** | 296 | 266 | 33 | 3632 | 15.59 |
 | **Steven Hornsby** | 88 | 84 | 13 | 2796 | 39.38 |
+| **Mark Taylor** | 15 | 15 | 2 | 495 | 38.08 |
 | **Andrew Gallagher** | 130 | 124 | 10 | 2781 | 24.39 |
 | **Ian Marshall** | 192 | 145 | 25 | 2470 | 20.58 |
 | **Simon Barrowcliff** | 92 | 89 | 6 | 2072 | 24.96 |
@@ -181,13 +182,12 @@ type: "statistics"
 | **Richard Coyle** | 72 | 64 | 16 | 370 | 7.71 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Richard Green** | 34 | 25 | 5 | 359 | 17.95 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
 | **Mark Kirwan** | 43 | 29 | 6 | 357 | 15.52 |
 | **Tim Hammond** | 10 | 10 | 2 | 343 | 42.88 |
 | **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
 | **Andrew Fielding** | 39 | 35 | 2 | 340 | 10.30 |
 | **Richard Olver** | 45 | 30 | 14 | 287 | 17.94 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.899 |
 
 ## Career Batting (by ave)
@@ -201,9 +201,9 @@ type: "statistics"
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Martin Breddy** | 16 | 16 | 0 | 650 | 40.63 |
 | **Steven Hornsby** | 88 | 84 | 13 | 2796 | 39.38 |
-| **John Pakenham**-Walsh | 11 | 9 | 2 | 261 | 37.29 |
+| **Mark Taylor** | 15 | 15 | 2 | 495 | 38.08 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
 | **Mohit Gupta** | 84 | 81 | 16 | 2038 | 31.35 |
 | **Martin Goff** | 41 | 41 | 3 | 1164 | 30.63 |
 | **Richard Earney** | 334 | 326 | 28 | 8808 | 29.56 |

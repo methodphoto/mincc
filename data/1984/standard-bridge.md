@@ -17,7 +17,7 @@ type: "game"
 |:---|:---|---|---:|
 | **A Gallagher** | c (keeper) | Joy | 0 | 
 | **J Grant &#8224;** | c | Joy | 10 | 
-| **J Pakenham-Walsh** | b | R Foster | 37 | 
+| **J Packenham-Walsh** | b | R Foster | 37 | 
 | **D Mundy** | b | Joy | 0 | 
 | **E Harcourt** | b  | Taylor | 0 | 
 | **W Calvert** | c Joy | R Foster | 20 | 
@@ -53,7 +53,7 @@ type: "game"
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|
-| **Lubienski** | c J Pakenham-Walsh | R Beswick | 1 | 
+| **Lubienski** | c J Packenham-Walsh | R Beswick | 1 | 
 | **Malloni** | not out | | 29 | 
 | **Joy** | c J Grant | R Beswick | 0 | 
 | **Quinn** | b | W Calvert | 0 | 

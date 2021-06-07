@@ -38,7 +38,7 @@ const HomePage = () => {
     	<div id="fixtures" dangerouslySetInnerHTML={{ __html: html }} />
     	
     	<hr />
-    	
+    	  	
 		<h2>Previous years</h2>
 		
 		<h3>2020s</h3>
@@ -49,6 +49,7 @@ const HomePage = () => {
         	<p><a href="2018/fixtures">2018 Fixtures</a></p>
         	<p><a href="2017/fixtures">2017 Fixtures</a></p>
          <h3>1980s</h3>
+        	<p><a href="1987/fixtures">1987 Fixtures</a></p>
         	<p><a href="1986/fixtures">1986 Fixtures</a></p>
         	<p><a href="1985/fixtures">1985 Fixtures</a></p>
         	<p><a href="1984/fixtures">1984 Fixtures</a></p>

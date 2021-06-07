@@ -8,6 +8,7 @@ type: "results"
 
 |  |  |  |
 |:---|:---|:---|
+| 23/05/2021 | [Newington](/2021/newington) | Won |
 | 25/04/2021 | [Middleton Stoney](/2021/middleton-stoney) | Lost |
 
 ## 2020

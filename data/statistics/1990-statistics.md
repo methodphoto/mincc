@@ -146,6 +146,7 @@ type: "statistics"
 | **Jim Grant** | 105 | 99 | 11 | 1428 | 16.23 |
 | **Richard Beswick** | 113 | 104 | 17 | 1391 | 15.99 |
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
+| **Mark Taylor** | 14 | 14 | 2 | 477 | 39.75 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Ian Marshall** | 24 | 21 | 2 | 410 | 21.58 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
@@ -154,13 +155,12 @@ type: "statistics"
 | **Alan Sylvester** | 45 | 29 | 14 | 345 | 23.00 |
 | **Will Wright** | 17 | 16 | 1 | 342 | 22.80 |
 | **William Chapman** | 24 | 23 | 3 | 341 | 17.05 |
-| **Mark Taylor** | 10 | 10 | 1 | 340 | 37.78 |
 | **David Young** | 60 | 43 | 13 | 325 | 10.83 |
 | **Edward Garland** | 30 | 22 | 4 | 313 | 17.39 |
 | **Andrew MacFarlane** | 17 | 16 | 0 | 295 | 18.44 |
 | **Andrew Fielding** | 32 | 29 | 2 | 284 | 10.52 |
 | **Phil Bentley** | 8 | 8 | 1 | 275 | 39.29 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Mark Kirwan** | 34 | 22 | 4 | 253 | 14.06 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
 | **Jerry Wright** | 97 | 49 | 15 | 222 | 6.53 |
@@ -176,11 +176,11 @@ type: "statistics"
 | Player | M | Inns | NOs | Runs | Ave |
 |:---|:---|:---|:---|:---|:---|
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
+| **Mark Taylor** | 14 | 14 | 2 | 477 | 39.75 |
 | **Phil Bentley** | 8 | 8 | 1 | 275 | 39.29 |
 | **David Swann** | 5 | 5 | 1 | 152 | 38.00 |
-| **Mark Taylor** | 10 | 10 | 1 | 340 | 37.78 |
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
 | **Steven Hornsby** | 11 | 11 | 0 | 354 | 32.18 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |

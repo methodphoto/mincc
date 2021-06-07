@@ -18,7 +18,7 @@ type: "game"
 | **Cook** | c J Grant | A Sylvester | 7 | 
 | **Overend** | run out |  | 21 | 
 | **Slade** | c J Grant | A Sylvester | 0 | 
-| **Watson** | c Pakenham-Walsh | A Sylvester | 4 | 
+| **Watson** | c Packenham-Walsh | A Sylvester | 4 | 
 | **LA Desborough** | c J Grant | A Sylvester | 11 | 
 | **Jackson** | st J Grant | R Beswick | 28 | 
 | **LM Desborough** | c J Grant | W Calvert | 18 | 
@@ -50,7 +50,7 @@ type: "game"
 |:---|:---|---|---:|
 | **A Gallagher** | c | Slade | 22 | 
 | **J Grant &#8224;** | c | Walshe | 16 | 
-| **J Pakenham-Walsh** | b | Smith | 70 | 
+| **J Packenham-Walsh** | b | Smith | 70 | 
 | **R Beswick &#42;** | b  | Smith | 12 | 
 | **W Calvert** | b  | Slade | 11 | 
 | **A Sylvester** | not out |  | 6 | 

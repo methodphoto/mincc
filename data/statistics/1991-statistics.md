@@ -154,11 +154,11 @@ type: "statistics"
 | **David Swann** | 16 | 15 | 3 | 574 | 47.83 |
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
 | **Ian Marshall** | 36 | 28 | 3 | 498 | 19.92 |
+| **Mark Taylor** | 15 | 15 | 1 | 495 | 38.08 |
 | **Andrew MacFarlane** | 26 | 23 | 0 | 481 | 20.91 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Mark Gardiner** | 73 | 57 | 9 | 431 | 8.98 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
 | **Will Wright** | 19 | 18 | 1 | 351 | 20.65 |
 | **Alan Sylvester** | 49 | 31 | 15 | 345 | 21.56 |
 | **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
@@ -168,7 +168,7 @@ type: "statistics"
 | **Andrew Fielding** | 33 | 29 | 2 | 284 | 10.52 |
 | **Richard Earney** | 22 | 20 | 4 | 277 | 17.31 |
 | **Phil Bentley** | 8 | 8 | 1 | 275 | 39.29 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
 | **Jerry Wright** | 98 | 49 | 15 | 222 | 6.53 |
 | **Richard Olver** | 40 | 26 | 11 | 221 | 14.73 |
@@ -186,10 +186,10 @@ type: "statistics"
 | **David Swann** | 16 | 15 | 3 | 574 | 47.83 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Phil Bentley** | 8 | 8 | 1 | 275 | 39.29 |
+| **Mark Taylor** | 15 | 15 | 1 | 495 | 38.08 |
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
 | **Steven Hornsby** | 19 | 18 | 1 | 593 | 34.88 |
 | **James Booth** | 9 | 9 | 1 | 235 | 29.38 |
 | **Andrew Gallagher** | 81 | 78 | 3 | 2024 | 26.99 |

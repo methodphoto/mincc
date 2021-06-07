@@ -160,6 +160,7 @@ type: "statistics"
 | **James Hylton** | 9 | 8 | 2 | 542 | 90.33 |
 | **Will Wright** | 23 | 22 | 1 | 540 | 25.71 |
 | **Andrew MacFarlane** | 34 | 30 | 0 | 530 | 17.67 |
+| **Mark Taylor** | 15 | 15 | 2 | 495 | 38.08 |
 | **David Young** | 91 | 67 | 18 | 493 | 10.06 |
 | **Harry Ingham** | 31 | 28 | 6 | 486 | 22.09 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
@@ -167,7 +168,6 @@ type: "statistics"
 | **Tom Rutherford** | 32 | 29 | 4 | 430 | 17.20 |
 | **Alan Sylvester** | 58 | 35 | 16 | 380 | 20.00 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
 | **Mark Kirwan** | 42 | 28 | 5 | 356 | 15.48 |
 | **Richard Green** | 32 | 23 | 4 | 352 | 18.53 |
 | **William Chapman** | 25 | 24 | 3 | 341 | 16.24 |
@@ -175,7 +175,7 @@ type: "statistics"
 | **Patrick Wigg** | 29 | 24 | 8 | 327 | 20.44 |
 | **Richard Olver** | 45 | 30 | 14 | 287 | 17.94 |
 | **Richard Coyle** | 54 | 48 | 13 | 285 | 8.14 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **John Stimpfig** | 28 | 21 | 3 | 250 | 13.89 |
 
 ## Career Batting (by ave)
@@ -187,11 +187,11 @@ type: "statistics"
 | **Phil Bentley** | 19 | 18 | 2 | 683 | 42.69 |
 | **Tony Purves** | 18 | 16 | 5 | 459 | 41.73 |
 | **Steven Hornsby** | 62 | 59 | 7 | 2109 | 40.56 |
+| **Mark Taylor** | 15 | 15 | 2 | 495 | 38.08 |
 | **Martin Goff** | 29 | 29 | 3 | 987 | 37.96 |
 | **Martin Breddy** | 15 | 15 | 0 | 565 | 37.67 |
-| **John Pakenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
+| **John Packenham-Walsh** | 11 | 9 | 2 | 261 | 37.29 |
 | **Stuart Watson** | 14 | 14 | 4 | 370 | 37.00 |
-| **Mark Taylor** | 11 | 11 | 1 | 358 | 35.80 |
 | **Richard Earney** | 233 | 226 | 18 | 6238 | 29.99 |
 | **Will Wright** | 23 | 22 | 1 | 540 | 25.71 |
 | **Simon Barrowcliff** | 76 | 73 | 6 | 1707 | 25.48 |
