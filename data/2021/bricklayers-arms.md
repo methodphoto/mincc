@@ -59,7 +59,7 @@ type: "game"
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
 | **J Carroll** | c W Gujjar | M Otley | 3 | 
-| **Selway** | c H Sharma | M Otley | 18 | 
+| **C Selway** | c H Sharma | M Otley | 18 | 
 | **A Beswick** | b | H Sharma | 59 | 
 | **R Beswick** | b | M Otley | 1 | 
 | **B Boyd-Taylor** | b | T Poulter | 21 | 
