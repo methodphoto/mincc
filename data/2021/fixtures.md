@@ -14,12 +14,13 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 9th | 13:30 | <del>Stowting</del> | [TN25 6BD](https//goo.gl/maps/5KNmaMe6Wb42) |
-| 23rd | 13:00 | Newington | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) |
+| 23rd | 13:00 | [Newington](2021/newington) | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) |
 
 ## June
 
 |  |  |  |  |
 |:---|:---|:---|:---|
+| 6th | 13:00 | [Bricklayer's Arms](bricklayers-arms) | [SW19 3DE](https://goo.gl/maps/PMzZkRR9hcDF5ZGHA) |
 | 20th | 13:00 | Frensham | [GU10 3BJ](https//goo.gl/maps/xBUZvPU1vnK2) |
 | 27th | TBA | Railway Taverners | TBC |
 

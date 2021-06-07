@@ -53,7 +53,7 @@ type: "game"
 | **J Morris** | 4 | 0 | 14 | 1 |
 | **T Riley** | 4 | 1 | 14 | 0 |
 
-## Reigate Pilgrims Innings
+## Middleton Stoney Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

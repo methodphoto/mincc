@@ -5,8 +5,8 @@ game: "Bricklayer's Arms"
 title: "Bricklayer's Arms v The Min"
 gameLocation: "Abbey Recreation Ground, Merton"
 gameDate: "06/06/2021"
-shortReport: ""
-result: "Bricklayer's Arms won by "
+shortReport: "Bricklayer's Arms batted first and scored 216 for 8 wkts in 35 overs. The Min made 173-9 in reply in their 35 overs"
+result: "Bricklayer's Arms won by 43 runs"
 resultType: "Lost"
 type: "game"
 ---
@@ -18,7 +18,7 @@ type: "game"
 | **T Poulter** | lbw | L Holden | 0 | 
 | **G Tremain** | c A Beswick | B Boyd-Taylor | 63 | 
 | **H Sharma** | b | L Holden | 13 | 
-| **C McCracken** | b | C Wright | 25 | 
+| **C McCracken** | b | C Wright | 25 |
 | **W Gujjar** | b | S Amin | 49 | 
 | **R Gul** | lbw | S Amin | 18 | 
 | **S Imran** | b | S Amin | 6 | 
@@ -27,7 +27,7 @@ type: "game"
 | **M Hampton** | not out |  |  | 
 | **M Otley** | dnb | | 0 | 
 | **Extras** | | (2b 1lb 27w 4nb) | **34** | 
-| **Total** | | (37.2 overs) | **216 for 8 wkts** | 
+| **Total** | | (35 overs) | **216 for 8 wkts** | 
 
 <div class="fow">
 
@@ -68,9 +68,9 @@ type: "game"
 | **J Casey** | not out |  | 11 | 
 | **L Holden** | b | W Gujjar | 1 | 
 | **C Wright** | c S Imran | W Gujjar | 5 | 
-| |  |  |  | 
+| **J Grant &#8224;** | not out | 0 | 
 | **Extras** | | (8b 1lb 24w 3nb) | **36** | 
-| **Total** | | (41 overs) | **173 for 9 wkts (all out)** | 
+| **Total** | | (35 overs) | **173 for 9 wkts** | 
 
 <div class="fow">
 
