@@ -20,7 +20,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 6th | 13:00 | [Bricklayer's Arms](bricklayers-arms) | [SW19 3DE](https://goo.gl/maps/PMzZkRR9hcDF5ZGHA) |
+| 6th | 13:00 | [Bricklayer's Arms](2021/bricklayers-arms) | [SW19 3DE](https://goo.gl/maps/PMzZkRR9hcDF5ZGHA) |
 | 20th | 13:00 | Frensham | [GU10 3BJ](https://goo.gl/maps/4gohPpn1stdT6fnY7) |
 | 27th | TBA | Railway Taverners | TBC |
 
