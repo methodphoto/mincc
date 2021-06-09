@@ -7,7 +7,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 27th |  | [White City Allstars](/1985/white-city-allstars) | [Away](https://goo.gl/maps/egz4qaWtCgyq7tRr6) |
+| 27th |  | [White City All Stars](/1985/white-city-all-stars) | [Away](https://goo.gl/maps/egz4qaWtCgyq7tRr6) |
 
 ## May
 
