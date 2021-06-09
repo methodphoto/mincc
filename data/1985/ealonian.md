@@ -59,7 +59,7 @@ type: "game"
 | **N Beswick** | lbw | Davies | 0 | 
 | **D Young** | b | Cox | 7 |
 | **E Harcourt** | not out |  | 0 | 
- | **J Wright** | dnb |  |  | 
+| **J Wright** | dnb |  |  | 
 | **Extras** | | (27b 8lb 0w 0nb) | 20 | 
 | **Total** | | (-- overs) | 116 for 8 wkts | 
 

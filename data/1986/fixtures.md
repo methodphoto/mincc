@@ -21,7 +21,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 7th |  | [White City Allstars](/1986/white-city-allstars) | [Away](https://goo.gl/maps/egz4qaWtCgyq7tRr6) |
+| 7th |  | [White City All Stars](/1986/white-city-all-stars) | [Away](https://goo.gl/maps/egz4qaWtCgyq7tRr6) |
 | 14th |  | [Brook](/1986/brook) | [Away](https://goo.gl/maps/dQwigbDWBHfwzub68) |
 | 21st |  | [Horningsham](/1986/horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 | 29th |  | [Godstone](/1986/godstone) | [Away](https://goo.gl/maps/i6DdpB1xs1iAaEMr5) |
