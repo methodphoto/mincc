@@ -23,7 +23,7 @@ type: "game"
 | **M Gardiner** | c E Humphrey | A Freeman | 11 | 
 | **Lusty** | run out |  | 12 | 
 | **R Olver** | not out |  | 6 |
-| **Vasilescu** | not out |  | 0 | 
+| **A Vasilescu** | not out |  | 0 | 
 | **A Gallagher** | dnb |  |  | 
 | **J Wright** | dnb |  |  | 
 | **Extras** | | (3b 4lb 1w 1nb) | 9 | 
@@ -78,7 +78,7 @@ type: "game"
 | **A MacFarlane** | 11.5 | 4 | 24 | 5 | 
 | **R Olver** | 9 | 0 | 32 | 2 | 
 | **J Wright** | 6 | 0 | 20 | 1 | 
-| **Vasilescu** | 4 | 0 | 25 | 1 | 
+| **A Vasilescu** | 4 | 0 | 25 | 1 | 
 | **W Calvert** | 3 | 0 | 30 | 1 |
 
 ## Win/Loss Ratio
