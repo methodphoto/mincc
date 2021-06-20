@@ -22,7 +22,7 @@ type: "game"
 | **Smith** | not out |  | 8 | 
 | **Walker** | b | R Beswick | 3 |
 | **Tudor** | c R Beswick | J Wright | 8 | 
-| **** | dnb |  |  |
+| **Jarratt** | dnb |  |  |
 | **** | dnb |  |  | 
 | **** | dnb |  |  | 
 |  |  |  |  |
