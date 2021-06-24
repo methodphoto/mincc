@@ -1,12 +1,12 @@
 ---
 year: "1987"
 serialNumber: "0068" 
-game: "Friars Oak"
-title: "Friars Oak v The Min"
-gameLocation: "Friars Oak"
+game: "Friar's Oak"
+title: "Friar's Oak v The Min"
+gameLocation: "Friar's Oak"
 gameDate: "26/07/1987"
-shortReport: "Friars Oak batted first and scored 113 for 9 wkts. The Min were all out for 104"
-result: "Friars Oak won by 9 runs"
+shortReport: "Friar's Oak batted first and scored 113 for 9 wkts. The Min were all out for 104"
+result: "Friar's Oak won by 9 runs"
 resultType: "Lost"
 type: "game"
 ---

@@ -57,7 +57,7 @@ type: "game"
 | **M Day** | b | J Wright | 26 | 
 | **S Nixon** | b | R Olver | 9 | 
 | **A Freeman** | c & b | A MacFarlane | 27 |
-| **V Jones** | c Lusty | Vasilescu | 8 | 
+| **V Jones** | c Lusty | A Vasilescu | 8 | 
 | **L Legrys** | c W Calvert | A MacFarlane | 18 | 
 | **T Burchett** | dnb |  | 0 |
 | **A King** | b | W Calvert | 10 | 

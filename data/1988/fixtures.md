@@ -34,9 +34,9 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 6th |  | [Barrowboys](/1988/barrowboys) | [Away]() |
+| 6th |  | [Barrow-Boys](/1988/barrow-boys) | [Away]() |
 | 14th |  | [Newdigate](/1988/newdigate) | [Away](https://goo.gl/maps/9uAr2nHj19CJDEjw6) |
-| 21st |  | [Brookham Green](/1988/brookham-green) | [Away]() |
+| 21st |  | [Brockham Green](/1988/brockham-green) | [Away]() |
 | 28th |  | [Bose XI](/1988/bose-xi) | [Away]() |
 
 
