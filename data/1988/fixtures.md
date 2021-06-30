@@ -9,7 +9,7 @@ type: "fixtures"
 |:---|:---|:---|:---|
 | 15th |  | [Old Elthamians](/1988/old-elthamians) | [Away](https://goo.gl/maps/FQbBNZQTFggEmhfv9) |
 | 21st |  | [Godstone](/1988/godstone) | [Away]() |
-| 30 |  | [Little Kingshill](/1988/little-kingshill) | [Away]() |
+| 30th |  | [Little Kingshill](/1988/little-kingshill) | [Away]() |
 
 
 # June
@@ -37,7 +37,7 @@ type: "fixtures"
 | 6th |  | [Barrow-Boys](/1988/barrow-boys) | [Away]() |
 | 14th |  | [Newdigate](/1988/newdigate) | [Away](https://goo.gl/maps/9uAr2nHj19CJDEjw6) |
 | 21st |  | [Brockham Green](/1988/brockham-green) | [Away]() |
-| 28th |  | [Bose XI](/1988/bose-xi) | [Away]() |
+| 28th |  | [Mihir Bose XI](/1988/mihir-boses-xi) | [Away]() |
 
 
 # September
