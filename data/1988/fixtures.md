@@ -9,7 +9,7 @@ type: "fixtures"
 |:---|:---|:---|:---|
 | 15th |  | [Old Elthamians](/1988/old-elthamians) | [Away](https://goo.gl/maps/FQbBNZQTFggEmhfv9) |
 | 21st |  | [Godstone](/1988/godstone) | [Away]() |
-| 30 |  | [Little Kingshill](/1988/little-kingshill) | [Away]() |
+| 30th |  | [Little Kingshill](/1988/little-kingshill) | [Away]() |
 
 
 # June
