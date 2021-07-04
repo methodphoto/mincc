@@ -1,5 +1,5 @@
 ---
-year: "1992"
+year: 1992
 serialNumber: "0147" 
 game: "Ockley Road, Bromley"
 title: "Ockley Road, Bromley v The Min"

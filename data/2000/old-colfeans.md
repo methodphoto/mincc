@@ -1,5 +1,5 @@
 ---
-year: "2000"
+year: 2000
 serialNumber: "0251" 
 game: "Old Colfeans"
 title: "Old Colfeans v The Min"

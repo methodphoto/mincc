@@ -1,5 +1,5 @@
 ---
-year: "2020"
+year: 2020
 serialNumber: "0515" 
 game: "Railway Taverners"
 title: "Railway Taverners v The Min"

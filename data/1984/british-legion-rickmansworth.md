@@ -1,5 +1,5 @@
 ---
-year: "1984"
+year: 1984
 serialNumber: "0026"
 game: "British Legion Rickmansworth"
 title: "British Legion Rickmansworth v The Min"

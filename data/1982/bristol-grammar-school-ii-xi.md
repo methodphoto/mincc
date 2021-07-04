@@ -1,5 +1,5 @@
 ---
-year: "1982"
+year: 1982
 serialNumber: "0004"
 game: "Bristol Grammar School II XI"
 title: "Bristol Grammar School II XI v The Min"

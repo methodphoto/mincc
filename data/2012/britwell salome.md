@@ -1,5 +1,5 @@
 ---
-year: "2012"
+year: 2012
 serialNumber: "0414" 
 game: "Britwell Salome"
 title: "Britwell Salome -v- The Min"

@@ -1,5 +1,5 @@
 ---
-year: "1992"
+year: 1992
 serialNumber: "0152" 
 game: "Long Hanborough"
 title: "Long Hanborough v The Min"

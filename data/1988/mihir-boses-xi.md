@@ -1,5 +1,5 @@
 ---
-year: "1988"
+year: 1988
 serialNumber: "0087" 
 game: "Mihir Bose's XI"
 title: "Mihir Bose's XI v The Min"

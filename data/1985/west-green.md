@@ -1,5 +1,5 @@
 ---
-year: "1985"
+year: 1985
 serialNumber: "0030"
 game: "West Green"
 title: "West Green v The Min"

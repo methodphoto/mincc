@@ -1,5 +1,5 @@
 ---
-year: "2017"
+year: 2017
 serialNumber: "0484"
 game: "Kingstonian"
 title: "Kingstonian v The Min"

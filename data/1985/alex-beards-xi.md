@@ -1,5 +1,5 @@
 ---
-year: "1985"
+year: 1985
 serialNumber: "0043"
 game: "Alex Beard's XI"
 title: "Alex Beard's XI v The Min"

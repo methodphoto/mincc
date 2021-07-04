@@ -1,5 +1,5 @@
 ---
-year: "1996"
+year: 1996
 serialNumber: "0196" 
 game: "Farnborough"
 title: "Farnborough v The Min"

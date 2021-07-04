@@ -1,5 +1,5 @@
 ---
-year: "2003"
+year: 2003
 serialNumber: "0279" 
 game: "Newdigate"
 title: "Newdigate v The Min"

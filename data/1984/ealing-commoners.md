@@ -1,5 +1,5 @@
 ---
-year: "1984"
+year: 1984
 serialNumber: "0017"
 game: "Ealing Commoners"
 title: "Ealing Commoners v The Min"

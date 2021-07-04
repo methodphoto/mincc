@@ -1,5 +1,5 @@
 ---
-year: "1982"
+year: 1982
 serialNumber: "0001"
 game: "Clifton Hill House"
 title: "The Min v Clifton Hill House "

@@ -1,5 +1,5 @@
 ---
-year: "1985"
+year: 1985
 serialNumber: "0044"
 game: "Hendon-Edgware"
 title: "Hendon-Edgware v The Min"

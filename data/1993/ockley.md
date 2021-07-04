@@ -1,5 +1,5 @@
 ---
-year: "1993"
+year: 1993
 serialNumber: "0156" 
 game: "Ockley"
 title: "Ockley v The Min"

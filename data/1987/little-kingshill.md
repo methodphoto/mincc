@@ -1,5 +1,5 @@
 ---
-year: "1987"
+year: 1987
 serialNumber: "0062" 
 game: "Little Kingshill"
 title: "Little Kingshill v The Min"

@@ -1,5 +1,5 @@
 ---
-year: "1985"
+year: 1985
 serialNumber: "0036"
 game: "Shamrock"
 title: "Shamrock v The Min"

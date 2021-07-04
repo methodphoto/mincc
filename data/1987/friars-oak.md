@@ -1,5 +1,5 @@
 ---
-year: "1987"
+year: 1987
 serialNumber: "0068" 
 game: "Friar's Oak"
 title: "Friar's Oak v The Min"

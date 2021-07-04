@@ -1,5 +1,5 @@
 ---
-year: "1986"
+year: 1986
 serialNumber: "0046"
 game: "West Wickham"
 title: "West Wickham v The Min"

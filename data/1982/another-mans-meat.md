@@ -1,5 +1,5 @@
 ---
-year: "1982"
+year: 1982
 serialNumber: "0003"
 game: "Another Man's Meat"
 title: "The Min v Another Man's Meat"

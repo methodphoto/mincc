@@ -1,5 +1,5 @@
 ---
-year: "1983"
+year: 1983
 serialNumber: "0014"
 game: "Bathurst Arms"
 title: "Bathurst Arms v The Min"

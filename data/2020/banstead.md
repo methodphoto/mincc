@@ -1,5 +1,5 @@
 ---
-year: "2020"
+year: 2020
 serialNumber: "0516" 
 game: "Banstead"
 title: "Banstead v The Min"

@@ -1,5 +1,5 @@
 ---
-year: "2019"
+year: 2019
 serialNumber: "0510" 
 game: "Blagdon Hill"
 title: "Blagdon Hill -v- The Min"

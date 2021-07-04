@@ -1,5 +1,5 @@
 ---
-year: "2017"
+year: 2017
 serialNumber: "0485"
 game: "Newington"
 title: "Newington v The Min"

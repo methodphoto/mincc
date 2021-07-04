@@ -1,5 +1,5 @@
 ---
-year: "1984"
+year: 1984
 serialNumber: "0019"
 game: "Harrowdene"
 title: "Harrowdene v The Min"

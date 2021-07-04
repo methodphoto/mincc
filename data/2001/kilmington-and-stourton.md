@@ -1,5 +1,5 @@
 ---
-year: "2001"
+year: 2001
 serialNumber: "0260" 
 game: "Kilmington & Stourton"
 title: "Kilmington & Stourton v The Min"

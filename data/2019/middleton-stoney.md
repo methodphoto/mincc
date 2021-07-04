@@ -1,5 +1,5 @@
 ---
-year: "2019"
+year: 2019
 serialNumber: "0504" 
 game: "Middleton Stoney"
 title: "Middleton Stoney v The Min"

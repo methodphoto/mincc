@@ -1,5 +1,5 @@
 ---
-year: "1990"
+year: 1990
 serialNumber: "0119" 
 game: "Old Tauntonians"
 title: "Old Tauntonians v The Min"

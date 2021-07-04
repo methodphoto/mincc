@@ -1,5 +1,5 @@
 ---
-year: "1990"
+year: 1990
 title: "1990 Statistics"
 type: "statistics"
 ---

@@ -1,5 +1,5 @@
 ---
-year: "1992"
+year: 1992
 serialNumber: "0149" 
 game: "Shepton Beauchamp"
 title: "Shepton Beauchamp v The Min"

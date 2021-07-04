@@ -1,5 +1,5 @@
 ---
-year: "1984"
+year: 1984
 serialNumber: "0022"
 game: "Logica"
 title: "Logica v The Min"

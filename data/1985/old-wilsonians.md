@@ -1,5 +1,5 @@
 ---
-year: "1985"
+year: 1985
 serialNumber: "0040"
 game: "Old Wilsonians"
 title: "Old Wilsonians v The Min"

@@ -1,5 +1,5 @@
 ---
-year: "2000"
+year: 2000
 serialNumber: "0242" 
 game: "Stowting"
 title: "Stowting v The Min"

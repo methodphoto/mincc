@@ -1,5 +1,5 @@
 ---
-year: "1992"
+year: 1992
 serialNumber: "0143" 
 game: "Deando"
 title: "Deando v The Min"

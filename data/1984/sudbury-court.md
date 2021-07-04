@@ -1,5 +1,5 @@
 ---
-year: "1984"
+year: 1984
 serialNumber: "0020"
 game: "Sudbury Court"
 title: "Sudbury Court v The Min"

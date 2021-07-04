@@ -1,5 +1,5 @@
 ---
-year: "1983"
+year: 1983
 serialNumber: "0010"
 game: "Lobsters"
 title: "Lobsters v The Min"

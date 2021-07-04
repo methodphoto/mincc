@@ -1,5 +1,5 @@
 ---
-year: "1990"
+year: 1990
 serialNumber: "0123" 
 game: "Reigate Pilgrims"
 title: "Reigate Pilgrims v The Min"

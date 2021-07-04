@@ -1,5 +1,5 @@
 ---
-year: "1984"
+year: 1984
 serialNumber: "0016"
 game: "Greenford"
 title: "Greenford v The Min"
