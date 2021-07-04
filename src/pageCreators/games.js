@@ -25,7 +25,7 @@ const createGamePages = (graphql, createPage) => graphql(`
 
   const filtered = result.data.allMarkdownRemark.edges.filter(({ node }) => {
     const { frontmatter: { year } } = node;
-    return parseInt(year, 10) < 1990 || parseInt(year, 10) > 2016;
+    return parseInt(year, 11) < 1990 || parseInt(year, 11) > 2016;
   });
 
   filtered.forEach(({ node }) => {
