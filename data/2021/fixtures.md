@@ -7,22 +7,22 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 25th | 13:30 | [Middleton Stoney](2021/middleton-stoney) | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) |
+| 25th | 13:30 | [Middleton Stoney](/2021/middleton-stoney) | [OX25 4AQ](https://goo.gl/maps/VPaRvUceyyN7zqbF9) |
 
 ## May
 
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 9th | 13:30 | <del>Stowting</del> | [TN25 6BD](https://goo.gl/maps/5KNmaMe6Wb42) |
-| 23rd | 13:00 | [Newington](2021/newington) | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) |
+| 23rd | 13:00 | [Newington](/2021/newington) | [ME9 8NN](https://goo.gl/maps/isDA8kEwT8EKzaEw8) |
 
 ## June
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 6th | 13:00 | [Bricklayer's Arms](2021/bricklayers-arms) | [SW19 3DE](https://goo.gl/maps/PMzZkRR9hcDF5ZGHA) |
+| 6th | 13:00 | [Bricklayer's Arms](/2021/bricklayers-arms) | [SW19 3DE](https://goo.gl/maps/PMzZkRR9hcDF5ZGHA) |
 | 20th | 13:00 | <del>Frensham</del> | [GU10 3BJ](https://goo.gl/maps/4gohPpn1stdT6fnY7) |
-| 27th | TBA | Railway Taverners |[NW1 4NU](https://goo.gl/maps/GTPbXYynmL9W9BcE8) |
+| 27th | TBA | <del>Railway Taverners</del> |[NW1 4NU](https://goo.gl/maps/GTPbXYynmL9W9BcE8) |
 
 ## July – The Min Tour
 
