@@ -23,8 +23,8 @@ type: "game"
 | **Walker** | b | R Beswick | 3 |
 | **Tudor** | c R Beswick | J Wright | 8 | 
 | **Jarratt** | dnb |  |  |
-| **** | dnb |  |  | 
-| **** | dnb |  |  | 
+| | dnb |  |  | 
+| | dnb |  |  | 
 |  |  |  |  |
 | **Extras** | | (0b 0lb 0w 0nb) | 18 | 
 | **Total** | | (46 overs) | 210 for 6 wkts | 
