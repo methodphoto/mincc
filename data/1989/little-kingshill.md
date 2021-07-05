@@ -1,11 +1,11 @@
 ---
-year: "1988"
+year: "1989"
 serialNumber: "0095" 
 game: "Little Kingshill"
 title: "Little Kingshill v The Min"
 gameLocation: "Little Kingshill"
 gameDate: "29/05/1989"
-shortReport: "The min batted first and made 215 for 8 wkts. Little Kingshill replied with 161 for 7 wkts"
+shortReport: "The Min batted first and made 215 for 8 wkts. Little Kingshill replied with 161 for 7 wkts"
 result: "Match Drawn"
 resultType: "Drawn"
 type: "game"

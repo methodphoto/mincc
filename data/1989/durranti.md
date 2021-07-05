@@ -1,5 +1,5 @@
 ---
-year: "1988"
+year: "1989"
 serialNumber: "0097" 
 game: "Durranti"
 title: "The Min v Durranti"
