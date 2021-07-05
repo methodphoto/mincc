@@ -1,5 +1,5 @@
 ---
-year: 1988
+year: "1988"
 serialNumber: "0088" 
 game: "Stowting"
 title: "Stowting v The Min"

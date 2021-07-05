@@ -1,5 +1,5 @@
 ---
-year: 1982
+year: "1982"
 serialNumber: "0005"
 game: "J Stimfig's XI"
 title: "The Min v J Stimfig's XI"

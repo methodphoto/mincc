@@ -1,5 +1,5 @@
 ---
-year: 1985
+year: "1985"
 serialNumber: "0032"
 game: "Town Cryers"
 title: "Town Cryers v The Min"

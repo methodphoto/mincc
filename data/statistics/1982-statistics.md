@@ -1,5 +1,5 @@
 ---
-year: 1982
+year: "1982"
 title: "1982 Statistics"
 type: "statistics"
 ---

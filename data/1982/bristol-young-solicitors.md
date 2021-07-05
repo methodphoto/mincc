@@ -1,5 +1,5 @@
 ---
-year: 1982
+year: "1982"
 serialNumber: "0008"
 game: "Bristol Young Solicitors" 
 title: "The Min v Bristol Young Solicitors"

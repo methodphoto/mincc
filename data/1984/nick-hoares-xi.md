@@ -1,5 +1,5 @@
 ---
-year: 1984
+year: "1984"
 serialNumber: "0028"
 game: "Nick Hoare's XI"
 title: "Nick Hoare's XI v The Min"

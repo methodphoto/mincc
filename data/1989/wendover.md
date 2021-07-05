@@ -1,5 +1,5 @@
 ---
-year: 1988
+year: "1988"
 serialNumber: "0091" 
 game: "Wendover"
 title: "Wendover v The Min"

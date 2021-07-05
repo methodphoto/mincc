@@ -1,5 +1,5 @@
 ---
-year: 1988
+year: "1988"
 serialNumber: "0084" 
 game: "Barrow-Boys"
 title: "Barrow-Boys v The Min"

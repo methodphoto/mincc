@@ -1,5 +1,5 @@
 ---
-year: 2018
+year: "2018"
 serialNumber: "0503"
 game: "Stoke D'Aberdon"
 title: "Stoke D'Aberdon v The Min"

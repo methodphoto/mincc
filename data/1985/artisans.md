@@ -1,5 +1,5 @@
 ---
-year: 1985
+year: "1985"
 serialNumber: "0031"
 game: "The Artisans"
 title: "The Artisans v The Min"

@@ -1,5 +1,5 @@
 ---
-year: 1988
+year: "1988"
 serialNumber: "0089" 
 game: "Harpenden"
 title: "The Min v Harpenden"

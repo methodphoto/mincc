@@ -1,5 +1,5 @@
 ---
-year: 1985
+year: "1985"
 serialNumber: "0038"
 game: "Koh-i-noor"
 title: "Koh-i-noor v The Min"

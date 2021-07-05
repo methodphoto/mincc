@@ -1,5 +1,5 @@
 ---
-year: 2003
+year: "2003"
 serialNumber: "0288" 
 game: "Spencer"
 title: "Spencer v The Min"

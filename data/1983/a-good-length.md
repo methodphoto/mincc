@@ -1,5 +1,5 @@
 ---
-year: 1983
+year: "1983"
 serialNumber: "0013"
 game: "A Good Length"
 title: "A Good Length v The Min"

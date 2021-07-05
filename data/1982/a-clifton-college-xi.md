@@ -1,5 +1,5 @@
 ---
-year: 1982
+year: "1982"
 serialNumber: "0011"
 game: "A Clifton College XI"
 title: "A Clifton College XI v The Min"

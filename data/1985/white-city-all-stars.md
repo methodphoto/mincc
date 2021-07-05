@@ -1,5 +1,5 @@
 ---
-year: 1985
+year: "1985"
 serialNumber: "0029"
 game: "White City All Stars"
 title: "White City All Stars v The Min"

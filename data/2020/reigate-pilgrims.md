@@ -1,5 +1,5 @@
 ---
-year: 2020
+year: "2020"
 serialNumber: "0517" 
 game: "Reigate Pilgrims"
 title: "Reigate Pilgrims v The Min"

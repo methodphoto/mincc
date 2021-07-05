@@ -1,5 +1,5 @@
 ---
-year: 1988
+year: "1988"
 serialNumber: "0101" 
 game: "Godstone"
 title: "Godstone v The Min"

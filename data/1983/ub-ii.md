@@ -1,5 +1,5 @@
 ---
-year: 1983
+year: "1983"
 serialNumber: "0012"
 game: "UB II"
 title: "The Min v UB II"

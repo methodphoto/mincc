@@ -1,5 +1,5 @@
 ---
-year: 1998
+year: "1998"
 serialNumber: "0221" 
 game: "Knapp"
 title: "Knapp v The Min"

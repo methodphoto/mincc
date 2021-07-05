@@ -1,5 +1,5 @@
 ---
-year: 1982
+year: "1982"
 serialNumber: "0006"
 game: "Wills Hall"
 title: "The Min v Wills Hall"

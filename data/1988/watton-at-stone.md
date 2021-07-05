@@ -1,5 +1,5 @@
 ---
-year: 1988
+year: "1988"
 serialNumber: "0090" 
 game: "Watton-at-Stone"
 title: "Watton-at-Stone v The Min"

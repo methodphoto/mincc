@@ -1,5 +1,5 @@
 ---
-year: 2017
+year: "2017"
 serialNumber: "0492"
 game: "Brasted Invicta"
 title: "Brasted Invicta -v- The Min"

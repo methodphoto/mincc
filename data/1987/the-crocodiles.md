@@ -1,5 +1,5 @@
 ---
-year: 1987
+year: "1987"
 serialNumber: "0060" 
 game: "The Crocodiles"
 title: "The Min v The Crocodiles"

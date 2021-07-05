@@ -1,5 +1,5 @@
 ---
-year: 1987
+year: "1987"
 serialNumber: "0071" 
 game: "Bose Wanderers"
 title: "Bose Wanderers v The Min"

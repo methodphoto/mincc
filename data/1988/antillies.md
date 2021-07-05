@@ -1,5 +1,5 @@
 ---
-year: 1988
+year: "1988"
 serialNumber: "0078" 
 game: "Antillies"
 title: "Antillies v The Min"

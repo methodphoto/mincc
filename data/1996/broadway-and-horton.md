@@ -1,5 +1,5 @@
 ---
-year: 1996
+year: "1996"
 serialNumber: "0194" 
 game: "Broadway & Horton"
 title: "Broadway & Horton v The Min"

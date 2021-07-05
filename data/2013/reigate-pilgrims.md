@@ -1,5 +1,5 @@
 ---
-year: 2013
+year: "2013"
 serialNumber: "0438" 
 game: "Reigate Pilgrims"
 title: "Reigate Pilgrims v The Min"

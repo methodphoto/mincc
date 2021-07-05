@@ -1,5 +1,5 @@
 ---
-year: 1986
+year: "1986"
 serialNumber: "0052"
 game: "Godstone"
 title: "Godstone v The Min"

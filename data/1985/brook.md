@@ -1,5 +1,5 @@
 ---
-year: 1985
+year: "1985"
 serialNumber: "0035"
 game: "Brook"
 title: "Brook v The Min"
