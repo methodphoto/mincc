@@ -1,5 +1,5 @@
 ---
-year: "1982"
+year: 1982
 serialNumber: "0007"
 game: "Leyhill"
 title: "Leyhill v The Min"

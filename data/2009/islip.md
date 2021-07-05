@@ -1,5 +1,5 @@
 ---
-year: "2009"
+year: 2009
 serialNumber: "0377" 
 game: "Islip"
 title: "Islip v The Min"

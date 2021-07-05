@@ -1,5 +1,5 @@
 ---
-year: "1984"
+year: 1984
 serialNumber: "0019"
 game: "Standard Bridge"
 title: "Standard Bridge v The Min"

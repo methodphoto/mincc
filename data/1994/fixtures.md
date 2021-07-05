@@ -1,5 +1,5 @@
 ---
-year: "1994"
+year: 1994
 type: "fixtures"
 ---
 

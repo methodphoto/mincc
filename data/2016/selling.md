@@ -1,5 +1,5 @@
 ---
-year: "2016"
+year: 2016
 serialNumber: "0482" 
 game: "Selling"
 title: "Selling v The Min"

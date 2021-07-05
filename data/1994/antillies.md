@@ -1,5 +1,5 @@
 ---
-year: "1994"
+year: 1994
 serialNumber: "0165" 
 game: "Antillies"
 title: "Antillies v The Min"

@@ -1,5 +1,5 @@
 ---
-year: "1996"
+year: 1996
 serialNumber: "0191" 
 game: "Great Tew"
 title: "Great Tew v The Min"

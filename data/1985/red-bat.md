@@ -1,5 +1,5 @@
 ---
-year: "1985"
+year: 1985
 serialNumber: "0033"
 game: "Red Bat"
 title: "Red Bat v The Min"

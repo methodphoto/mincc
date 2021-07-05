@@ -1,5 +1,5 @@
 ---
-year: "1988"
+year: 1988
 serialNumber: "0080" 
 game: "Blindley Heath"
 title: "Blindley Heath v The Min"

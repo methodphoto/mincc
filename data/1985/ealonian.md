@@ -1,5 +1,5 @@
 ---
-year: "1985"
+year: 1985
 serialNumber: "0041"
 game: "Ealonian"
 title: "Ealonian v The Min"

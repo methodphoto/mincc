@@ -1,5 +1,5 @@
 ---
-year: "2010"
+year: 2010
 serialNumber: "0400" 
 game: "Frensham"
 title: "Frensham v The Min"

@@ -1,5 +1,5 @@
 ---
-year: "1994"
+year: 1994
 serialNumber: "0170" 
 game: "Horningsham"
 title: "Horningsham v The Min"

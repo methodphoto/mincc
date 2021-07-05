@@ -1,5 +1,5 @@
 ---
-year: "2018"
+year: 2018
 serialNumber: "0499"
 game: "Blagdon Hill"
 title: "Blagdon Hill v The Min"

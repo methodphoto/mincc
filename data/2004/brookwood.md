@@ -1,5 +1,5 @@
 ---
-year: "2004"
+year: 2004
 serialNumber: "0298"
 game: "Brookwood"
 title: "Brookwood v The Min"

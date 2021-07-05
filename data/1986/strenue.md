@@ -1,5 +1,5 @@
 ---
-year: "1986"
+year: 1986
 serialNumber: "0056"
 game: "Strenue"
 title: "Strenue v The Min"

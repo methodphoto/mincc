@@ -1,5 +1,5 @@
 ---
-year: "1984"
+year: 1984
 serialNumber: "0027"
 game: "Old Elthamians"
 title: "Old Elthamians v The Min"

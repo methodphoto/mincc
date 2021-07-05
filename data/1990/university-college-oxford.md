@@ -1,5 +1,5 @@
 ---
-year: "1990"
+year: 1990
 serialNumber: "0113" 
 game: "University College, Oxford"
 title: "University College, Oxford v The Min"

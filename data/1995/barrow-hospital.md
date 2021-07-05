@@ -1,5 +1,5 @@
 ---
-year: "1995"
+year: 1995
 serialNumber: "0182" 
 game: "Barrow Hospital"
 title: "Barrow Hospital v The Min"

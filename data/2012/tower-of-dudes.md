@@ -1,5 +1,5 @@
 ---
-year: "2012"
+year: 2012
 serialNumber: "0418" 
 game: "Tower of Dudes"
 title: "Tower of Dudes v The Min"

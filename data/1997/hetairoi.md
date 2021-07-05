@@ -1,5 +1,5 @@
 ---
-year: "1997"
+year: 1997
 serialNumber: "0212" 
 game: "Hetairoi"
 title: "Hetairoi v The Min"

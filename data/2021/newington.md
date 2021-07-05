@@ -1,5 +1,5 @@
 ---
-year: "2021"
+year: 2021
 serialNumber: "0519" 
 game: "Newington"
 title: "Newington v The Min"

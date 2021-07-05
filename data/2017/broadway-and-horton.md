@@ -1,5 +1,5 @@
 ---
-year: "2017"
+year: 2017
 serialNumber: "0490" 
 game: "Broadway & Horton"
 title: "Broadway & Horton -v- The Min"

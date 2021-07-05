@@ -1,5 +1,5 @@
 ---
-year: "1986"
+year: 1986
 serialNumber: "0045"
 game: "Petts Wood"
 title: "Petts Wood CC v The Min"

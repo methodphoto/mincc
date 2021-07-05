@@ -1,5 +1,5 @@
 ---
-year: "2005"
+year: 2005
 serialNumber: "0309" 
 game: "Watton-at-Stone"
 title: "Watton-at-Stone v The Min"

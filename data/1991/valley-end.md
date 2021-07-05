@@ -1,5 +1,5 @@
 ---
-year: "1991"
+year: 1991
 serialNumber: "0128" 
 game: "Valley End"
 title: "Valley End v The Min"

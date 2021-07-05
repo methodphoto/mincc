@@ -1,5 +1,5 @@
 ---
-year: "1990"
+year: 1990
 serialNumber: "0116" 
 game: "Abinger Hammer"
 title: "Abinger Hammer v The Min"
