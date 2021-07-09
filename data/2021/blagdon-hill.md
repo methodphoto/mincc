@@ -11,6 +11,8 @@ resultType: "Won"
 type: "game"
 ---
 
+J Carroll, 2nd Min 50 and a hattrick (over two overs)
+
 ## The Min Innings
 
 | Batsman | Dismissal | | Runs |
