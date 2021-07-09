@@ -63,7 +63,7 @@ J Carroll, 2nd Min 50 and a hattrick (over two overs)
 | **A Hotham** | c E Garland | R Beswick | 6 | 
 | **G Welch** | c & b | J Casey | 23 | 
 | **A Hannam &#42;** | b  | B Yarde-Buller | 4 | 
-| **R Jennings** | c J Carroll | J Casey | 24 | 
+| **R Jennings** | c B Yarde-Buller | J Casey | 24 | 
 | **A Willmott** | b | J Carroll | 1 | 
 | **J McConnel** | st J Grant | J Carroll | 1 | 
 | **D Wright** | b | J Carroll | 0 | 
