@@ -25,6 +25,7 @@ type: "records"
 | 2013 | S Hornsby (100) and R Beswick (50) | v Britwell Salome | 133 |
 | 2004 | R Earney (76) and A Slight (58) | v Brookwood | 132 |
 | 2006 | R Earney (62*) and M Goff (47*) | v Tappers | 129 |
+| 2021 | M Goff (63) and J Carroll (72) | v Blagdon Hill | 128 |
 | 2004 | R Earney (72) and R Beswick (66*) | v Selling Cavaliers | 126 |
 | 1991 | D Swann (87) and S Hornsby (95*) | v Reigate Pilgrims | 123 |
 | 2015 | R Beswick (89) and R Earney (71) | v Broadway & Horton | 122 |
