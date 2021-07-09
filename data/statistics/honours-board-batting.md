@@ -33,6 +33,7 @@ type: "records"
 
 | Year | Player | Opponent | Score |
 |:---|:---|:---|:---|
+| 2021 | Jim Carroll | v Blagdon Hill | 72 |
 | 2021 | Jim Carroll | v Newington | 78* |
 | 2020 | Patrick Wigg | v Railway Taverners | 54 |
 | 2020 | Andrew Gallagher | v Kingstonian | 54* |
