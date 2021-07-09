@@ -28,8 +28,8 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 7th | 18:00 | <del>Ilton</del>  | [TA19 9EN](https://goo.gl/maps/ic4ipRMjEteck7KE9) |
-| 8th | 14:00 | Blagdon Hill | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) |
+| 7th | 18:00 | <del>Ilton</del> | [TA19 9EN](https://goo.gl/maps/ic4ipRMjEteck7KE9) |
+| 8th | 14:00 | [Blagdon Hill](/2021/bladgon-hill.md) | [TA3 7SA](https://goo.gl/maps/H6iLZLNcja12) |
 | 9th | 14:00 | Broadway & Horton | [TA19 9RA](https://goo.gl/maps/hVamJL8if6v) |
 
 ## July
