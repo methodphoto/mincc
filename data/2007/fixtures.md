@@ -36,7 +36,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 12th | 14:30 | [Broadway & Horton](/2007/broadway-and-horton) | [Away]() |
+| 12th | 14:30 | [Broadway and Horton](/2007/broadway-and-horton) | [Away]() |
 | 13th | 14:00 | [Kilmington & Stourton](/2007/kilmington-and-stourton) | [BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 14th | 14:00 | [Horningsham](/2007/horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 | 15th | 14:00 | [The Old Min v The Young Min (for the Rameses II Memorial Trophy)](/2007/the-old-min-the-young-min) | [Home]() |

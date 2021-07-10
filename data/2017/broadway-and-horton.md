@@ -1,9 +1,9 @@
 ---
 year: "2017"
 serialNumber: "0490" 
-game: "Broadway & Horton"
-title: "Broadway & Horton -v- The Min"
-gameLocation: "Horton Cross"
+game: "Broadway and Horton"
+title: "Broadway and Horton -v- The Min"
+gameLocation: "The Pound"
 gameDate: "07/07/2017"
 shortReport: "Broadway won the toss and batted first scoring 164 all out in 35 overs. The Min replied with 132 all out in 33.4 overs"
 result: "Broadway retained The Ashes by 32 runs"
@@ -11,7 +11,7 @@ resultType: "Lost"
 type: "game"
 ---
 
-## Broadway & Horton Innings
+## Broadway and Horton Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

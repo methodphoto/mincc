@@ -31,7 +31,7 @@ type: "fixtures"
 |:---|:---|:---|:---|
 | 8th | 18:00 | [Cerne Valley](/2019/cerne-valley) | [GU10 3BJ](https//goo.gl/maps/xBUZvPU1vnK2) |
 | 9th | 14:00 | [Blagdon Hill](/2019/blagdon-hill) | [TA3 7SA](https//goo.gl/maps/H6iLZLNcja12) |
-| 10th | 14:00 | [Broadway & Horton](/2019/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
+| 10th | 14:00 | [Broadway and Horton](/2019/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 
 ## July
 

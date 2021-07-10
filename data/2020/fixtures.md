@@ -29,7 +29,7 @@ type: "fixtures"
 |:---|:---|:---|:---|
 | 8th | 18:00 | <del>Frensham</del> | [GU10 3BJ](https//goo.gl/maps/xBUZvPU1vnK2) | 
 | 9th | 14:00 | <del>Blagdon Hill</del> | [TA3 7SA](https//goo.gl/maps/H6iLZLNcja12) | 
-| 10th | 14:00 | <del>Broadway & Horton</del> | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) | 
+| 10th | 14:00 | <del>Broadway and Horton</del> | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) | 
 
 ## July
 

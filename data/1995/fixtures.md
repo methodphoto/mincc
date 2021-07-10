@@ -29,7 +29,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 27th | 18:00 | [Barrow Hospital](/1995/barrow-hospital) | [Away]() |
-| 28th | 14:00 | [Broadway & Horton](/1995/broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
+| 28th | 14:00 | [Broadway and Horton](/1995/broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
 | 29th | 14:00 | [Horningsham](/1995/horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 | 30th | 14:00 | [Farnborough](/1995/farnborough) | [Away]() |
 

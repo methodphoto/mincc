@@ -21,7 +21,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 3rd | 14:30 | [Broadway & Horton](broadway-and-horton ) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
+| 3rd | 14:30 | [Broadway and Horton](broadway-and-horton ) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
 | 4th | 14:00 | [Knapp](/1998/knapp) | [Away]() |
 
 ## July

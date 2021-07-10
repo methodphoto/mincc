@@ -27,7 +27,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 30th | 14:30 | [Broadway & Horton](/1993/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
+| 30th | 14:30 | [Broadway and Horton](/1993/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 | 31st | 14:00 | [Queen Camel](/1993/queen-camel) | [Away]() |
 
 ## August

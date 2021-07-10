@@ -11,7 +11,7 @@ type: "records"
 | 2017 | Mohit Gupta | v Frensham | 100 |
 | 2013 | Ray Damaze | v Frensham | 100* |
 | 2013 | Stephen Hornsby | v Britwell Salome | 100* |
-| 2010 | Tim Hammond | v Broadway & Horton | 102* |
+| 2010 | Tim Hammond | v Broadway and Horton | 102* |
 | 2006 | Martin Goff | v SB Exiles | 100 |
 | 2006 | Richard Earney | v SB Exiles | 102 |
 | 2005 | Richard Earney | v SB Exiles | 122* |
@@ -39,7 +39,7 @@ type: "records"
 | 2020 | Andrew Gallagher | v Kingstonian | 54* |
 | 2019 | Alf Beswick | v Railway Taverners | 50 |
 | 2019 | Alf Beswick | v Kingstonian | 86 |
-| 2019 | Steven Hornsby | v Broadway & Horton | 52 |
+| 2019 | Steven Hornsby | v Broadway and Horton | 52 |
 | 2019 | Alf Beswick | v Cerne Valley | 52 |
 | 2019 | I Matvad | v Frensham | 70 |
 | 2019 | Jack Stacey | v Newington | 59 |
@@ -55,7 +55,7 @@ type: "records"
 | 2016 | Richard Earney | v Reigate Pilgrims | 88 |
 | 2016 | Richard Beswick | v Kilmington & Stourton | 72 |
 | 2016 | Richard Beswick | v Selling | 72 |
-| 2016 | Alf Beswick | v Broadway & Horton | 55 |
+| 2016 | Alf Beswick | v Broadway and Horton | 55 |
 | 2016 | Mohit Guptak | v Nightwatchman XI | 65 |
 | 2015 | Richard Beswick | v Selling | 72 |
 | 2015 | Richard Earney | v Brasted | 72* |
@@ -63,15 +63,15 @@ type: "records"
 | 2015 | Steven Hornsby | v Headley | 62* |
 | 2015 | Richard Earney | v Headley | 82 |
 | 2015 | Richard Earney | v Bedouins | 66 |
-| 2015 | Richard Earney | v Broadway & Horton | 71 |
-| 2015 | Richard Beswick | v Broadway & Horton | 89 |
+| 2015 | Richard Earney | v Broadway and Horton | 71 |
+| 2015 | Richard Beswick | v Broadway and Horton | 89 |
 | 2015 | Richard Earney | v Newington | 98 |
 | 2015 | Stephen Hornsby | v Middleton Stoney | 58 |
 | 2014 | Stephen Hornsby | v Wimbledon United | 51 |
 | 2014 | Stephen Hornsby | v Horningsham | 50* |
 | 2014 | Richard Earney | v Horningsham | 79 |
 | 2014 | Andrew Gallager | v Exford | 50 |
-| 2014 | Mohit Gupta | v Broadway & Horton | 62 |
+| 2014 | Mohit Gupta | v Broadway and Horton | 62 |
 | 2014 | Andy Butel | v Frencham | 62 |
 | 2014 | Martin Breddy | v Frencham | 85 |
 | 2014 | Richard Beswick | v Frencham | 67 |
@@ -81,7 +81,7 @@ type: "records"
 | 2013 | Alf Beswick | v Newdigate | 63 |
 | 2013 | Patrick Wigg | v Exford | 54* |
 | 2013 | Tom Rutherford | v Horningsham | 50 |
-| 2013 | Tom Rutherford | v Broadway & Horton | 55 |
+| 2013 | Tom Rutherford | v Broadway and Horton | 55 |
 | 2013 | Tom Rutherford | v Watton-at-Stone | 53 |
 | 2013 | Alf Beswick | v Watton-at-Stone | 77* |
 | 2013 | Ray Damaze | v Frensham | 100* |
@@ -95,7 +95,7 @@ type: "records"
 | 2011 | Richard Beswick | v SB Exiles | 60 |
 | 2011 | Anu Narula | v SAC | 64 |
 | 2011 | Richard Earney | v Horningsham | 69 |
-| 2011 | Richard Beswick | v Broadway & Horton | 79 |
+| 2011 | Richard Beswick | v Broadway and Horton | 79 |
 | 2011 | Anu Narula | v Stowting | 56 |
 | 2011 | Alf Beswick | v Newington | 50* |
 | 2011 | Tom Rutherford | v Newington | 81 |
@@ -105,8 +105,8 @@ type: "records"
 | 2010 | Tim Hammond | v Reigate Pilgrims | 81 |
 | 2010 | Richard Earney | v SB Exiles | 54 |
 | 2010 | Mohit Gupta | v Hampton Wick | 64 |
-| 2010 | William Calvert | v Broadway & Horton | 57* |
-| 2010 | Tim Hammond | v Broadway & Horton | 102* |
+| 2010 | William Calvert | v Broadway and Horton | 57* |
+| 2010 | Tim Hammond | v Broadway and Horton | 102* |
 | 2010 | Mark Gardiner | v Newdigate | 52* |
 | 2010 | Tom Rutherford | v Newdigate | 51 |
 | 2010 | William Calvert | v Middleton Stoney | 51* |
@@ -137,8 +137,8 @@ type: "records"
 | 2006 | Jim Grant | v Old Mid-Whitgiftians | 52 |
 | 2006 | Richard Beswick | v Horningsham | 50* |
 | 2006 | Richard Earney | v Horningsham | 56 |
-| 2006 | Richard Beswick | v Broadway & Horton | 51 |
-| 2006 | Richard Earney | v Broadway & Horton | 80 |
+| 2006 | Richard Beswick | v Broadway and Horton | 51 |
+| 2006 | Richard Earney | v Broadway and Horton | 80 |
 | 2006 | Martin Goff | v HSBC | 52 |
 | 2006 | Richard Earney | v Tappers | 62* |
 | 2005 | Andrew Slight | v SB Exiles | 64 |

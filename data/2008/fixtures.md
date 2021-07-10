@@ -34,7 +34,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 10th | 14:30 | [Broadway & Horton](/2008/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
+| 10th | 14:30 | [Broadway and Horton](/2008/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 | 11th | 14:00 | [Kilmington & Stourton](/2008/kilmington-and-stourton) | BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 12th | 13:00 | [Horningsham](/2008/horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 | 13th | 14:00 | [The Old Min v The Young Min (for the Rameses II Memorial Trophy)](/2008/the-old-min-the-young-min) | [Home]() |

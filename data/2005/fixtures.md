@@ -34,7 +34,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 7th | 14:30 | [Broadway & Horton](/2005/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
+| 7th | 14:30 | [Broadway and Horton](/2005/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 | 8th | 14:00 | [Kilmington & Stourton](/2005/kilmington-and-stourton) | BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 9th | 14:00 | [Warminster Garrison](/2005/warminster-garrison) | Home |
 | 10th | 14:00 | [Horningsham](/2005/horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |

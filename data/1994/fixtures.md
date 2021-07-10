@@ -21,7 +21,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 29th | 14:00 | [Broadway & Horton](/1994/broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
+| 29th | 14:00 | [Broadway and Horton](/1994/broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
 | 30th | 14:00 | [Horningsham](/1994/horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 | 31st | 14:00 | [Farnborough](/1994/farnborough) | [Away]() |
 

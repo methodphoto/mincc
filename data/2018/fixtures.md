@@ -29,7 +29,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 5th | 14:00 | [Blagdon Hill](/2018/blagdon-hill) | [TA3 7SA](https//goo.gl/maps/H6iLZLNcja12) |
-| 6th | 14:00 | [Broadway & Horton](/2018/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
+| 6th | 14:00 | [Broadway and Horton](/2018/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 
 ## July
 

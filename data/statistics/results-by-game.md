@@ -33,7 +33,7 @@ type: "results"
 | 09/06/2019 | [Newdigate](/2019/newdigate) | Lost |
 | 03/07/2019 | [Cerne Valley](/2019/cerne-valley) | Won |
 | 04/07/2019 | [Blagdon Hill](2019-blagdon-hill) | Lost |
-| 05/07/2019 | [Broadway & Horton](/2019/broadway-and-horton) | Won |
+| 05/07/2019 | [Broadway and Horton](/2019/broadway-and-horton) | Won |
 | 21/07/2019 | [Kingstonian](/2019/kingstonian) | Won |
 | 01/09/2019 | [Railway Taverners](/2019/railway-taverners) | Won |
 | 15/09/2019 | [Reigate Pilgrims](/2019/reigate-pilgrims) | Drawn |
@@ -47,7 +47,7 @@ type: "results"
 | {date} | [Newington](/2018/newington) | Won |
 | {date} | [Watton-at-Stone](/2018/watton-at-stone) | Lost |
 | {date} | [Blagdon Hill](/2018/blagdon-hill) | Lost |
-| {date} | [Broadway & Horton](/2018/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/2018/broadway-and-horton) | Won |
 | {date} | [Selling](/2018/selling) | Won |
 | {date} | [Reigate Pilgrims](/2018/reigate-pilgrims) | Lost |
 | {date} | [Stoke D’Abernon](2018-stoke-d’abernon) | Lost |
@@ -63,7 +63,7 @@ type: "results"
 | {date} | [Newdigate](/2017/newdigate) | Drawn |
 | {date} | [Watton-at-Stone](/2017/watton-at-stone) | Lost |
 | {date} | [Blagdon Hill](/2017/blagdon-hill) | Lost |
-| {date} | [Broadway & Horton](/2017/broadway-and-horton) | Lost |
+| {date} | [Broadway and Horton](/2017/broadway-and-horton) | Lost |
 | {date} | [Stowting](/2017/stowting) | Lost |
 | {date} | [Brasted Invicta](/2017/brasted-invicta) | Won |
 | {date} | [Reigate Pilgrims](/2017/reigate-pilgrims) | Lost |
@@ -79,7 +79,7 @@ type: "results"
 | {date} | [Frensham](/2016/frensham) | Won |
 | {date} | [Watton-at-Stone](/2016/watton-at-stone) | Won |
 | {date} | [Blagdon Hill](/2016/blagdon-hill) | Lost |
-| {date} | [Broadway & Horton](/2016/broadway-and-horton) | Lost |
+| {date} | [Broadway and Horton](/2016/broadway-and-horton) | Lost |
 | {date} | [Bristol 4th XI](2016-bristol-4th-xi) | Won |
 | {date} | [Kilmington & Stourton](/2016/kilmington-and-stourton) | Lost |
 | {date} | [Brasted Invicta](/2016/brasted-invicta) | Won |
@@ -98,7 +98,7 @@ type: "results"
 | {date} | [Newdigate](/2015/newdigate) | Drawn |
 | {date} | [Watton-at-Stone](/2015/watton-at-stone) | Won |
 | {date} | [Blagdon Hill](/2015/blagdon-hill) | Won |
-| {date} | [Broadway & Horton](/2015/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/2015/broadway-and-horton) | Won |
 | {date} | [Bedouins](/2015/bedouins) | Lost |
 | {date} | [Headley Down](/2015/headley-down) | Won |
 | {date} | [Stowting](/2015/stowting) | Drawn |
@@ -116,7 +116,7 @@ type: "results"
 | {date} | [Farningham](/2014/farningham) | Won |
 | {date} | [Frensham](/2014/frensham) | Won |
 | {date} | [Watton-at-Stone](/2014/watton-at-stone) | Drawn |
-| {date} | [Broadway & Horton](/2014/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/2014/broadway-and-horton) | Won |
 | {date} | [Kilmington & Stourton](/2014/kilmington-and-stourton) | Lost |
 | {date} | [Exford](/2014/exford) | Won |
 | {date} | [Horningsham](/2014/horningsham) | Drawn |
@@ -137,7 +137,7 @@ type: "results"
 | {date} | [The Herd](/2013/the-herd) | Lost |
 | {date} | [Watton-at-Stone](/2013/watton-at-stone) | Won |
 | {date} | [Stowting](/2013/stowting) | Drawn |
-| {date} | [Broadway & Horton](/2013/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/2013/broadway-and-horton) | Won |
 | {date} | [Kilmington & Stourton](/2013/kilmington-and-stourton) | Won |
 | {date} | [Exford](/2013/exford) | Won |
 | {date} | [Horningsham](/2013/horningsham) | Won |
@@ -172,7 +172,7 @@ type: "results"
 | {date} | [Frensham](/2011/frensham) | Drawn |
 | {date} | [Watton-at-Stone](/2011/watton-at-stone) | Won |
 | {date} | [Stowting](/2011/stowting) | Won |
-| {date} | [Broadway & Horton](/2011/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/2011/broadway-and-horton) | Won |
 | {date} | [Kilmington & Stourton](/2011/kilmington-and-stourton) | Lost |
 | {date} | [Horningsham](/2011/horningsham) | Won |
 | {date} | [SAC XI](/2011/sac-xi) | Won |
@@ -192,7 +192,7 @@ type: "results"
 | {date} | [Newdigate](/2010/newdigate) | Won |
 | {date} | [Watton-at-Stone](/2010/watton-at-stone) | Lost |
 | {date} | [Stowting](/2010/stowting) | Won |
-| {date} | [Broadway & Horton](/2010/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/2010/broadway-and-horton) | Won |
 | {date} | [Kilmington & Stourton](/2010/kilmington-and-stourton) | Lost |
 | {date} | [Horningsham](/2010/horningsham) | Won |
 | {date} | [Islip](/2010/islip) | Lost |
@@ -210,7 +210,7 @@ type: "results"
 | {date} | [Newdigate](/2009/newdigate) | Won |
 | {date} | [Watton-at-Stone](/2009/watton-at-stone) | Won |
 | {date} | [Stowting](/2009/stowting) | Drawn |
-| {date} | [Broadway & Horton](/2009/broadway-and-horton) | Lost |
+| {date} | [Broadway and Horton](/2009/broadway-and-horton) | Lost |
 | {date} | [Kilmington & Stourton](/2009/kilmington-and-stourton) | Drawn |
 | {date} | [Horningsham](/2009/horningsham) | Won |
 | {date} | [Islip](/2009/islip) | Won |
@@ -231,7 +231,7 @@ type: "results"
 | {date} | [Newdigate](/2008/newdigate) | Won |
 | {date} | [Watton-at-Stone](/2008/watton-at-stone) | Lost |
 | {date} | [Stowting](/2008/stowting) | Won |
-| {date} | [Broadway & Horton](/2008/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/2008/broadway-and-horton) | Won |
 | {date} | [Horningsham](/2008/horningsham) | Drawn |
 | {date} | [The Old Min v The Young Min](/2008/the-old-min-the-young-min) | Drawn |
 | {date} | [Harrow St Mary’s](2008-harrow-st-mary’s) | Won |
@@ -248,7 +248,7 @@ type: "results"
 | {date} | [Tappers](/2007/tappers) | Lost |
 | {date} | [Newdigate](/2007/newdigate) | Won |
 | {date} | [Grimsdyke CC](/2007/grimsdyke-cc) | Won |
-| {date} | [Broadway & Horton](/2007/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/2007/broadway-and-horton) | Won |
 | {date} | [Kilmington & Stourton](/2007/kilmington-and-stourton) | Won |
 | {date} | [Horningsham](/2007/horningsham) | Drawn |
 | {date} | The Old Min v The Young Min| Drawn |
@@ -267,7 +267,7 @@ type: "results"
 | {date} | [Newdigate](/2006/newdigate) | Lost |
 | {date} | [HSBC](/2006/hsbc) | Lost |
 | {date} | [Stowting](/2006/stowting) | Lost |
-| {date} | [Broadway & Horton](/2006/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/2006/broadway-and-horton) | Won |
 | {date} | [Kilmington & Stourton](/2006/kilmington-and-stourton) | Lost |
 | {date} | [Horningsham](/2006/horningsham) | Drawn |
 | {date} | [Old Mid-Whitgiftians](/2006/old-mid-whitgiftians) | Lost |
@@ -287,7 +287,7 @@ type: "results"
 | {date} | [Newdigate](/2005/newdigate) | Lost |
 | {date} | [Watton-at-Stone](/2005/watton-at-stone) | Drawn |
 | {date} | [Stowting](/2005/stowting) | Won |
-| {date} | [Broadway & Horton](/2005/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/2005/broadway-and-horton) | Won |
 | {date} | [Kilmington & Stourton](/2005/kilmington-and-stourton) | Won |
 | {date} | [Warminster Garrison](/2005/warminster-garrison) | Won |
 | {date} | [Horningsham](/2005/horningsham) | Won |
@@ -326,7 +326,7 @@ type: "results"
 | {date} | [Watton-at-Stone](/2003/watton-at-stone) | Drawn |
 | {date} | [Stowting](/2003/stowting) | Drawn |
 | {date} | [Wareham](/2003/wareham) | Drawn |
-| {date} | [Broadway & Horton](/2003/broadway-and-horton) | Lost |
+| {date} | [Broadway and Horton](/2003/broadway-and-horton) | Lost |
 | {date} | [Land Warfare XI](/2003/land-warfare-xi) | Won |
 | {date} | [Honor Oak](/2003/honor-oak) | Drawn |
 | {date} | [Tappers](/2003/tappers) | Lost |
@@ -343,7 +343,7 @@ type: "results"
 | {date} | [Streatham](/2002/streatham) | Drawn |
 | {date} | [Watton-at-Stone](/2002/watton-at-stone) | Drawn |
 | {date} | [Wareham](/2002/wareham) | Lost |
-| {date} | [Broadway & Horton](/2002/broadway-and-horton) | Drawn |
+| {date} | [Broadway and Horton](/2002/broadway-and-horton) | Drawn |
 | {date} | [ACME](/2002/acme) | Lost |
 | {date} | [Hetairoi](/2002/hetairoi) | Drawn |
 | {date} | [Tappers](/2002/tappers) | Drawn |
@@ -361,7 +361,7 @@ type: "results"
 | {date} | [Stowting](/2001/stowting) | Lost |
 | {date} | [Watton-at-Stone](/2001/watton-at-stone) | Drawn |
 | {date} | [Wareham](/2001/wareham) | Won |
-| {date} | [Broadway & Horton](/2001/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/2001/broadway-and-horton) | Won |
 | {date} | [ACME](/2001/acme) | Lost |
 | {date} | [Kilmington & Stourton](/2001/kilmington-and-stourton) | Won |
 | {date} | [Old Colfeians](/2001/old-colfeians) | Won |
@@ -376,7 +376,7 @@ type: "results"
 | {date} | [Watton-at-Stone](/2000/watton-at-stone) | Won |
 | {date} | [Tatsfield](/2000/tatsfield) | Won |
 | {date} | [Wareham](/2000/wareham) | Lost |
-| {date} | [Broadway & Horton](/2000/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/2000/broadway-and-horton) | Won |
 | {date} | [Kilmington & Stourton](/2000/kilmington-and-stourton) | Lost |
 | {date} | [Shottermill](/2000/shottermill) | Won |
 | {date} | [Tappers](/2000/tappers) | Won |
@@ -397,7 +397,7 @@ type: "results"
 | {date} | [Bovington Occasionals](/1999/bovington-occasionals) | Lost |
 | {date} | [Wareham](/1999/wareham) | Won |
 | {date} | [Knapp](/1999/knapp) | Lost |
-| {date} | [Broadway & Horton](/1999/broadway-and-horton) | Lost |
+| {date} | [Broadway and Horton](/1999/broadway-and-horton) | Lost |
 | {date} | [The Ex-Blues](/1999/the-ex-blues) | Lost |
 | {date} | [Hetairoi](/1999/hetairoi) | Lost |
 | {date} | [Tappers](/1999/tappers) | Lost |
@@ -412,7 +412,7 @@ type: "results"
 | {date} | [Players and Jesters](/1998/players-and-jesters) | Drawn |
 | {date} | [Stowting](/1998/stowting) | Drawn |
 | {date} | [Watton-at-Stone](/1998/watton-at-stone) | Won |
-| {date} | [Broadway & Horton](/1998/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/1998/broadway-and-horton) | Won |
 | {date} | [Knapp](/1998/knapp) | Won |
 | {date} | [Hartswood Occasionals](/1998/hartswood-occasionals) | Drawn |
 | {date} | [Copdock](/1998/copdock) | Lost |
@@ -431,7 +431,7 @@ type: "results"
 | {date} | [Tappers](/1997/tappers) | Lost |
 | {date} | [Great Braxted](/1997/great-braxted) | Drawn |
 | {date} | [Wincanton Casuals](/1997/wincanton-casuals) | Won |
-| {date} | [Broadway & Horton](/1997/broadway-and-horton) | Lost |
+| {date} | [Broadway and Horton](/1997/broadway-and-horton) | Lost |
 | {date} | [Kilmington & Stourton](/1997/kilmington-and-stourton) | Drawn |
 | {date} | [Farnborough](/1997/farnborough) | Won |
 | {date} | [Captain Scott’s XI](1997-captain-scott’s xi) | Drawn |
@@ -452,7 +452,7 @@ type: "results"
 | {date} | [Tappers](/1996/tappers) | Won |
 | {date} | [Erratics](/1996/erratics) | Drawn |
 | {date} | [Barrow Hospital](/1996/barrow-hospital) | Won |
-| {date} | [Broadway & Horton](/1996/broadway-and-horton) | Lost |
+| {date} | [Broadway and Horton](/1996/broadway-and-horton) | Lost |
 | {date} | [Kilmington & Stourton](kilmington-and-stourton) | Drawn |
 | {date} | [Farnborough](/1996/farnborough) | Won |
 | {date} | [Captain Scott XI](/1996/captain-scott-xi) | Drawn |
@@ -472,7 +472,7 @@ type: "results"
 | {date} | [Old Elthamians](/1995/old-elthamians) | Drawn |
 | {date} | [Tappers](/1995/tappers) | Drawn |
 | {date} | [Barrow Hospital](/1995/barrow-hospital) | Won |
-| {date} | [Broadway & Horton](/1995/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/1995/broadway-and-horton) | Won |
 | {date} | [Horningsham](/1995/horningsham) | Won |
 | {date} | [Farnborough](/1995/farnborough) | Won |
 | {date} | [Checkendon](/1995/checkendon) | Lost |
@@ -488,7 +488,7 @@ type: "results"
 | {date} | [Great Tew](/1994/great-tew) | Drawn |
 | {date} | [Old Elthamians](/1994/old-elthamians) | Lost |
 | {date} | [Polytechnic III](/1994/polytechnic-iii) | Won |
-| {date} | [Broadway & Horton](/1994/broadway-and-horton) | Won |
+| {date} | [Broadway and Horton](/1994/broadway-and-horton) | Won |
 | {date} | [Horningsham](/1994/horningsham) | Drawn |
 | {date} | [Farnborough](/1994/farnborough) | Lost |
 | {date} | [Checkendon](/1994/checkendon) | Won |
@@ -506,7 +506,7 @@ type: "results"
 | {date} | [Antillies](/1993/antillies) | Lost |
 | {date} | [Old Elthamians](/1993/old-elthamians) | Won |
 | {date} | [ICL Bracknell](/1993/icl-bracknell) | Won |
-| {date} | [Broadway & Horton](/1993/broadway-and-horton) | Lost |
+| {date} | [Broadway and Horton](/1993/broadway-and-horton) | Lost |
 | {date} | [Queen Camel](/1993/queen-camel) | Won |
 | {date} | [Checkendon](/1993/checkendon) | Drawn |
 | {date} | [Watton-at-Stone](/1993/watton-at-stone) | Won |
@@ -521,7 +521,7 @@ type: "results"
 | {date} | [Antillies](/1992/antillies) | Lost |
 | {date} | [Ballinger](/1992/ballinger) | Drawn |
 | {date} | [Ockley Road, Bromley](/1992/ockley-road-bromley) | Lost |
-| {date} | [Broadway & Horton](/1992/broadway-and-horton) | Lost |
+| {date} | [Broadway and Horton](/1992/broadway-and-horton) | Lost |
 | {date} | [Shepton Beauchamp](/1992/shepton-beauchamp) | Won |
 | {date} | [Dowlish Wake](/1992/dowlish-wake) | Won |
 | {date} | [Checkendon](/1992/checkendon) | Lost |
@@ -544,7 +544,7 @@ type: "results"
 | {date} | [Hamsley Green](/1991/hamsley-green) | Drawn |
 | {date} | [Old Texaconians](/1991/old-texaconians) | Won |
 | {date} | [Old Tauntonians](/1991/old-tauntonians) | Lost |
-| {date} | [Broadway & Horton](/1991/broadway-and-horton) | Drawn |
+| {date} | [Broadway and Horton](/1991/broadway-and-horton) | Drawn |
 | {date} | [Newdigate](/1991/newdigate) | Drawn |
 | {date} | [Hetairoi](/1991/hetairoi) | Won |
 | {date} | [Stowting](/1991/stowting) | Won |

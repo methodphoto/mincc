@@ -1,11 +1,11 @@
 ---
 year: "2018"
 serialNumber: "0500"
-game: "Broadway & Horton"
-title: "Broadway & Horton v The Min"
-gameLocation: "Horton Cross"
+game: "Broadway and Horton"
+title: "Broadway and Horton v The Min"
+gameLocation: "The Pound"
 gameDate: "06/07/2018"
-shortReport: "Broadway & Horton won the toss and batted first making 184 all out in 39.2 overs. The Min replied with 185 for 6 in 36.2 overs"
+shortReport: "Broadway and Horton won the toss and batted first making 184 all out in 39.2 overs. The Min replied with 185 for 6 in 36.2 overs"
 result: "The Min won by 4 wkts"
 resultType: "Won"
 type: "game"
@@ -13,7 +13,7 @@ type: "game"
 
 S Barrowcliff 50 off 68 balls
 
-## Broadway & Horton Innings
+## Broadway and Horton Innings
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|

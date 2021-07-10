@@ -8,7 +8,7 @@ type: "records"
 |:---|:---|:---|---:|
 | 2004 | H Ingham (96*) and R Beswick (67*) | v Watton-at-Stone | 186* |
 | 2006 | R Earney (102) and M  Goff (100) | v SB Exiles | 179 |
-| 2010 | T Hammond (102*) and W Calvert (57*) | v Broadway & Horton | 172* |
+| 2010 | T Hammond (102*) and W Calvert (57*) | v Broadway and Horton | 172* |
 | 2009 | R Earney (61*) and M Gupta (94*) | v Tower of Dudes | 169* |
 | 1992 | I Marshall (108*) and S Barrowcliff (66*) | v Dowlish Wake | 160* |
 | 2002 | R Earney (101) and R Kitson (67) | v Watton-at-Stone | 158 |
@@ -19,7 +19,7 @@ type: "records"
 | 2005 | R Earney (89) and M Goff (56) | v Watton-at-Stone | 140 |
 | 1986 | S Watson (69*) and T Purves (66*) | v Horningsham | 139 |
 | 1993 | S Barrowcliff (117) and W Wright (53) | v Old Elthamians | 135 |
-| 2006 | R Earney (80) and R Beswick (51) | v Broadway & Horton | 135 |
+| 2006 | R Earney (80) and R Beswick (51) | v Broadway and Horton | 135 |
 | 2003 | R Beswick (52) and J Grant (82) | v Newdigate | 134 |
 | 2014 | M Breddy (85) and R Beswick (67) | v Frencham | 133 |
 | 2013 | S Hornsby (100) and R Beswick (50) | v Britwell Salome | 133 |
@@ -28,7 +28,7 @@ type: "records"
 | 2021 | M Goff (63) and J Carroll (72) | v Blagdon Hill | 128 |
 | 2004 | R Earney (72) and R Beswick (66*) | v Selling Cavaliers | 126 |
 | 1991 | D Swann (87) and S Hornsby (95*) | v Reigate Pilgrims | 123 |
-| 2015 | R Beswick (89) and R Earney (71) | v Broadway & Horton | 122 |
+| 2015 | R Beswick (89) and R Earney (71) | v Broadway and Horton | 122 |
 | 2002 | S Hornsby (67) and R Earney (69) | v Hetairoi | 121 |
 | 1986 | A Gallagher (39) and P Goult (91) | v West Wickham | 116 |
 | 2000 | R Earney (58*) and R Beswick (40) | v Tappers | 116 |
@@ -43,7 +43,7 @@ type: "records"
 | 2012 | R Earney (89*) and T Rutherford (42) | v Newington | 108 |
 | 1985 | A Gallagher (85) and J Grant (31) | v The Artisans | 108 |
 | 2012 | R Earney (89*) and Tom Rutherford (42) | v Newington | 108 |
-| 2011 | R Beswick (79) and A Slight (46) | v Broadway & Horton | 107 |
+| 2011 | R Beswick (79) and A Slight (46) | v Broadway and Horton | 107 |
 | 1985 | J Grant (73) and A Fielding (58) | v Koh-i-noor | 106 |
 | 1988 | A Gallagher (71*) and A MacFarlane (44) | v South Nutfield | 106 |
 | 2007 | R Earney (54) and S Barrowcliff (42) | v Britwell Salome | 105 |

@@ -21,7 +21,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 29th | 14:00 | [Broadway & Horton](/1996/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
+| 29th | 14:00 | [Broadway and Horton](/1996/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 | 30th | 14:00 | [Horningsham](/1996/horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 | 31st | 14:00 | [Farnborough](/1996/farnborough) | [Away]() |
 

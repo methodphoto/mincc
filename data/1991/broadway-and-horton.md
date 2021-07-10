@@ -1,9 +1,9 @@
 ---
 year: "1991"
 serialNumber: "0135" 
-game: "Broadway & Horton"
-title: "Broadway & Horton v The Min"
-gameLocation: "Horton Cross"
+game: "Broadway and Horton"
+title: "Broadway and Horton v The Min"
+gameLocation: "The Pound"
 gameDate: "/1991"
 shortReport: ""
 result: ""

@@ -87,7 +87,7 @@ J Carroll, 2nd Min 50 and a hattrick (over two overs)
 | | O | M | R | W |
 |---|---|---|---|---|
 | **P Wigg** | 6 | 4 | 7 | 1 | 
-| **R Earney** | 4 | 2 | 8 | 2 | 
+| **R Earney** | 8 | 1 | 29 | 1 | 
 | **R Beswick** | 8 | 1 | 37 | 0 | 
 | **J Casey** | 8 | 2 | 30 | 2 |
 | **B Yarde-Buller** | 5 | 0 | 24 | 1 | 

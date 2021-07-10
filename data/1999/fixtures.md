@@ -31,7 +31,7 @@ type: "fixtures"
 | 22nd | 14:30 | [Bovington Occasionals](/1999/bovington-occasionals) | [Away]() |
 | 23rd | 14:30 | [Wareham](/1999/wareham) | [Away]() |
 | 24th | 14:00 | [Knapp](/1999/knapp) | [Away]() |
-| 25th | 14:30 | [Broadway & Horton (for the Ashes)](/1999/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
+| 25th | 14:30 | [Broadway and Horton (for the Ashes)](/1999/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 
 ## August
 

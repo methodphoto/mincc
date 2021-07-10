@@ -29,7 +29,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 24th | 18:00 | [Wincanton](/1997/wincanton) | Away |
-| 25th | 14:00 | [Broadway & Horton (for the Ashes)](/1997/broadway-and-horton) | Away |
+| 25th | 14:00 | [Broadway and Horton (for the Ashes)](/1997/broadway-and-horton) | Away |
 | 26th | 14:00 | [Kilmington & Stourton](/1997/kilmington-and-stourton) | Away |
 | 27th | 14:30 | [Farnborough](/1997/farnborough) | Away |
 
