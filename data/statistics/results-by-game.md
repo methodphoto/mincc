@@ -8,6 +8,8 @@ type: "results"
 
 |  |  |  |
 |:---|:---|:---|
+| 08/07/2021 | [Blagdon Hill](/2021/blagdon-hill) | Won |
+| 06/06/2021 | [Bricklayer's Arms](/2021/bricklayers-arms) | Lost |
 | 23/05/2021 | [Newington](/2021/newington) | Won |
 | 25/04/2021 | [Middleton Stoney](/2021/middleton-stoney) | Lost |
 
