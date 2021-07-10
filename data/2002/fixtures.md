@@ -22,7 +22,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 11th | 14:30 | [Wareham](/2002/wareham) | [Away]() |
-| 12th | 14:30 | [Broadway & Horton (for the Ashes)](/2002/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
+| 12th | 14:30 | [Broadway and Horton (for the Ashes)](/2002/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 | 13th | 14:00 | [ACME](/2002/acme) | [Away]() |
 | 14th | 14:30 | [Hetairoi](/2002/hetairoi) | [Away]() |
 

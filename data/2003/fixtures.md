@@ -29,7 +29,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 10th | 14:30 | [Wareham](/2003/wareham) | [Away]() |
-| 11th | 14:30 | [Broadway & Horton (for the Ashes)](/2003/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
+| 11th | 14:30 | [Broadway and Horton (for the Ashes)](/2003/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 | 12th | 14:00 | [Land Warfare XI](/2003/land-warfare-xi) | [Away]() |
 | 13th | 14:30 | [Honor Oak](/2003/honor-oak) | [Away]() |
 

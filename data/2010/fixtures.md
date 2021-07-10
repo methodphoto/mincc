@@ -34,7 +34,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 8th | 14:30 | [Broadway & Horton](/2010/broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
+| 8th | 14:30 | [Broadway and Horton](/2010/broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
 | 9th | 14:00 | [Kilmington & Stourton](/2010/kilmington-and-tourton) | [Away]() |
 | 10th | 13:00 | [Horningsham](/2010/horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 | 11th | 14:30 | [Islip](/2010/islip) | [NN14 3LH](https://goo.gl/maps/ceJApjnpXCpYJQC97) |

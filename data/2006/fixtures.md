@@ -35,7 +35,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 13th | 14:30 | [Broadway & Horton](/2006/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
+| 13th | 14:30 | [Broadway and Horton](/2006/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 | 14th | 14:00 | [Kilmington & Stourton](/2006/kilmington-and-stourton) | BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 15th | 14:00 | [Horningsham](/2006/horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 | 16th | 14:00 | [Old Mid-Whitgiftians](/2006/old-mid-whitgiftians) | [Away]() |

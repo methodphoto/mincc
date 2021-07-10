@@ -1,9 +1,9 @@
 ---
 year: "2003"
 serialNumber: "0283" 
-game: "Broadway & Horton"
-title: "Broadway & Horton v The Min"
-gameLocation: "Horton Cross"
+game: "Broadway and Horton"
+title: "Broadway and Horton v The Min"
+gameLocation: "The Pound"
 gameDate: ""
 shortReport: ""
 result: ""

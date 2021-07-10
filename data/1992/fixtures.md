@@ -28,7 +28,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 31st | [Broadway & Horton](/1992/broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
+| 31st | [Broadway and Horton](/1992/broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
 | 1st | [Shepton Beauchamp](/1992/shepton-beauchamp) | [Away](https://goo.gl/maps/U9dz6eSd2xoKyCbLA) |
 | 2nd | [Dowlish Wake](/1992/dowlish-wake) | [Away](https://goo.gl/maps/b8LCqQEPKGkiWa7f6) |
 

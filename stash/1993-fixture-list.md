@@ -21,7 +21,7 @@ type: "fixtures"
 
 ## July - The Min Tour
 
-| 30th | 14:30 | [Broadway & Horton](/1993/broadway-and-horton) Away |
+| 30th | 14:30 | [Broadway and Horton](/1993/broadway-and-horton) Away |
 | 31st | 14:00 | [Queen Camel](/1993/queen-camel) Away |
 
 ## August

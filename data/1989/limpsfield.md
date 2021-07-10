@@ -3,11 +3,11 @@ year: "1989"
 serialNumber: "0098" 
 game: "Limpsfield"
 title: "Limpsfield v The Min"
-gameLocation: ""
-gameDate: ""
-shortReport: ""
-result: ""
-resultType: ""
+gameLocation: "Limpsfield"
+gameDate: "25/06/1989"
+shortReport: "Limpsfield batted first and scored 246 for 3 wkts. The Min replied with 187 all out"
+result: "Limpsfield won by 59 runs"
+resultType: "Lost"
 type: "game"
 ---
 
@@ -62,7 +62,7 @@ type: "game"
 | **I Marshall** | not out |  | 22 | 
 | **E Garland** | b | Letts | 4 | 
 | **Extras** | | (0b 2lb 3w 0nb) | 5 | 
-| **Total** | | (33.5 overs) | 187 all out | 
+| **Total** | | (38 overs) | 187 all out | 
 
 ## Fall of Wickets
 

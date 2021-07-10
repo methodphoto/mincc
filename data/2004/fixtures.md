@@ -33,7 +33,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 8th | 14:00 | <del>Broadway & Horton</del> | [Away]() |
+| 8th | 14:00 | <del>Broadway and Horton</del> | [Away]() |
 | 9th | 14:00 | [Kilmington & Stourton](/2004/kilmington-and-stourton) | BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 10th | 14:00 | [The Gents](/2004/the-gents) | [Home]() |
 | 11th | 14:00 | [Brookwood](/2004/brookwood) | [Away]() |

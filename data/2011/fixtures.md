@@ -28,7 +28,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 7th | 14:30 | [Broadway & Horton](/2011/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
+| 7th | 14:30 | [Broadway and Horton](/2011/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 | 8th | 14:00 | [Kilmington & Stourton](/2011/kilmington-and-stourton) | BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 9th | 14:00 | [Horningsham](/2011/horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |
 | 10th | 14:00 | [Islip](/2011/islip) | [NN14 3LH](https://goo.gl/maps/ceJApjnpXCpYJQC97) |

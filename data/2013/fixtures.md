@@ -35,7 +35,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 11th | 14:30 | [Broadway & Horton](/2013/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
+| 11th | 14:30 | [Broadway and Horton](/2013/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 | 12th | 14:00 | [Kilmington & Stourton](/2013/kilmington-and-stourton) | [BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 | 13th | 14:00 | [Exford](/2013/exford) | [TA24 7TL](https://goo.gl/maps/fF9q6YYzDXm3mtrf6) |
 | 14th | 14:00 | [Horningsham](/2013/horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |

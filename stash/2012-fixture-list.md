@@ -30,7 +30,7 @@ type: "fixtures"
 
 ## July - The Min Tour
 
-| 12th | 14:30 | [Broadway & Horton](/2012/broadway-and-horton) | Away |
+| 12th | 14:30 | [Broadway and Horton](/2012/broadway-and-horton) | Away |
 | 13th | 14:00 | [Kilmington & Stourton](/2012/kilmington-and-stourton) | Away |
 | 14th | 14:00 | [Exford](/2012/exford) | Away |
 | 15th | 14:00 | [Horningsham](/2012/horningsham) | Away |

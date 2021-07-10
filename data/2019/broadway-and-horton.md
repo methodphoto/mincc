@@ -1,11 +1,11 @@
 ---
 year: "2019"
 serialNumber: "0511" 
-game: "Broadway & Horton"
-title: "Broadway & Horton v The Min"
-gameLocation: "Horton Cross"
+game: "Broadway and Horton"
+title: "Broadway and Horton v The Min"
+gameLocation: "The Pound"
 gameDate: "05/07/2019"
-shortReport: "The Min won the tosss and batted first making 197 for 6 in 35 overs. Broadway & Horton replied with 33 all out."
+shortReport: "The Min won the tosss and batted first making 197 for 6 in 35 overs. Broadway and Horton replied with 33 all out."
 result: "The Min won by 164 runs"
 resultType: "Won"
 type: "game"
@@ -49,7 +49,7 @@ type: "game"
 | **A Dummet** | 4 | 0 | 39 | 1 |
 | **H Payne** | 3 | 0 | 10 | 01 |
 
- ## Broadway & Horton Innings
+ ## Broadway and Horton Innings
 
 | Batsman | Dismissal |  | Runs |
 |:---|:---|---|---:|

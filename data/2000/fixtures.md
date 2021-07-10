@@ -27,7 +27,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 20th | 14:15 | [Wareham](/2000/wareham) | [Away](https://goo.gl/maps/NCMSJcACC3XVjnR27) |
-| 21st | 14:30 | [Broadway & Horton (for the Ashes)](/2000/broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
+| 21st | 14:30 | [Broadway and Horton (for the Ashes)](/2000/broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
 | 22nd | 14:00 | [Kilmington & Stourton](/2000/kilmington-and-stourton) | [Away](https://goo.gl/maps/2Zj7maXqRmipogRA6) |
 | 23rd | 14:30 | [Shottermill](/2000/shottermill) | [Away]() |
 

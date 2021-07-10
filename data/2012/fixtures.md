@@ -39,7 +39,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 12th | 14:30 | <del>Broadway & Horton</del> | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
+| 12th | 14:30 | <del>Broadway and Horton</del> | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
 | 13th | 14:00 | <del>Kilmington & Stourton</del> | [Away]() |
 | 14th | 14:00 | <del>Exford</del> | [Away]() |
 | 15th | 14:00 | [Horningsham](/2012/horningsham) | [Away](https://goo.gl/maps/SNpXcsajYDXfjmff7) |

@@ -22,7 +22,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 12th | 14:15 | [Wareham](/2001/wareham) | [Away](https://goo.gl/maps/NCMSJcACC3XVjnR27) |
-| 13th | 14:30 | [Broadway & Horton (for the Ashes)](/2001/broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
+| 13th | 14:30 | [Broadway and Horton (for the Ashes)](/2001/broadway-and-horton) | [Away](https://goo.gl/maps/orv3RETHUX95dBWv7) |
 | 14th | 14:00 | [ACME](/2001/acme) | [Away](https://goo.gl/maps/2Zj7maXqRmipogRA6) |
 | 15th | 14:30 | [Kilmington & Stourton](/2001/kilmington-and-stourton) | [Away](https://goo.gl/maps/2Zj7maXqRmipogRA6) |
 

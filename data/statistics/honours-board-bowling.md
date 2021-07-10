@@ -32,9 +32,9 @@ type: "records"
 | Year | Player |  |  | Score |
 |:--- | :--- | :--- | ---: |
 | 2019 | Richard Earney | v Railway Taverners | 6-0-27-5 |
-| 2019 | Patrick Wigg | v Broadway & Horton | 6-3-12-5 |
+| 2019 | Patrick Wigg | v Broadway and Horton | 6-3-12-5 |
 | 2018 | Phil Beswick | v Kingstonian | 4-1-7-6 |
-| 2017 | Jerry Wright | v Broadway & Horton | 8-0-49-5 |
+| 2017 | Jerry Wright | v Broadway and Horton | 8-0-49-5 |
 | 2013 | Chris Martin | v Newington | 15-6-27-6 |
 | 2011 | Ned Garland | v Kilmington & Stourton | 7-0-27-7 |
 | 2010 | Richard Beswick | v Stowting | 12-3-33-5 |

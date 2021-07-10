@@ -30,7 +30,7 @@ type: "fixtures"
 |  |  |  |  |
 |:---|:---|:---|:---|
 | 9th | 14:00 | [Blagdon Hill](/2015/blagdon-hill) | [TA3 7SA](https//goo.gl/maps/H6iLZLNcja12) |
-| 10th | 14:00 | [Broadway & Horton](/2015/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
+| 10th | 14:00 | [Broadway and Horton](/2015/broadway-and-horton) | [TA19 9RA](https//goo.gl/maps/hVamJL8if6v) |
 | 11th | 14:00 | [BGS Bedouins](/2015/bgs-bedouins) | [BS8 3TL](http://tinyurl.com/q9t3bma) |
 | 12th | 13:30 | <del>Kilmington & Stourton</del> | [BA12 6QD](https://goo.gl/maps/6q53XChZh9A2) |
 
