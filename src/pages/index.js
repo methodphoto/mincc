@@ -108,6 +108,7 @@ const HomePage = () => {
         	<p><a href="/season">Results by Season</a></p>	
         	<p><a href="/honours-board-batting">Batting Honours Board</a></p>
         	<p><a href="/honours-board-bowling">Bowling Honours Board</a></p>
+        	<p><a href="/partnerships">Partnerships</a></p>
 	</Layout>
   );
 };

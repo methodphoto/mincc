@@ -58,19 +58,19 @@ E Garland 5 wkts
 
 | Batsman | Dismissal | | Runs |
 |:---|:---|---|---:|
-| **R Earney** | c G Welch | R Jennings | 3 | 
-| **M Goff** | lbw | R Knight | 63 | 
-| **J Carroll** | b | A Hotham | 72 | 
-| **A Beswick** | b | R Knight | 16 | 
-| **B Yarde-Buller** | b  | R Knight | 4 | 
-| **P Wigg** | not out |  | 14 | 
-| **W Calvert** | not out |  | 3 | 
-| **E Garland** | dnb |  |  | 
-| **R Beswick &#42;** | dnb |  |  | 
-| **J Casey** | dnb |  |  | 
-| **J Grant &#8224;** | dnb |  |  | 
-| **Extras** | | (7b 1lb 4w 1nb) | **13** | 
-| **Total** | | (44 overs) | **187 for 5 wkts** | 
+| **R Earney** | c D Lowman | A Dummett | 20 | 
+| **M Goff** | run out |  | 3 | 
+| **J Carroll** | c D Jeans | J Pedlar | 0 | 
+| **A Beswick** | c | D Jeans | 3 | 
+| **M Griffiths** | b  | L Watkins | 44 | 
+| **W Calvert** | b | D Lowman | 37 | 
+| **P Wigg** | b  | D Lowman | 10 | 
+| **J Casey** | b | T Wilson | 16 | 
+| **R Beswick &#42;** | lbw | J Pedlar | 7 | 
+| **E Garland** | not out |  | 9 | 
+| **J Grant &#8224;** | not out |  | 9 | 
+| **Extras** | | (2b 1lb 21w 4nb) | **28** | 
+| **Total** | | (40 overs) | **186 for 9 wkts** | 
 
 <div class="fow">
 
@@ -78,8 +78,8 @@ E Garland 5 wkts
 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Score** | 9 | **137** | 162 | 170 | 173 |  |  |  |  |  | 
-| **Batsman** | 1 | 3 | 4 | 5 | 2 |  |  |  |  |  | 
+| **Score** | 8 | 8 | 14 | 61 | 118 | 139 | 159 | 159 | 175 |  | 
+| **Batsman** | 2 | 3 | 4 | 1 | 5 | 7 | 6 | 8 | 9 |  | 
 
 </div>
 
