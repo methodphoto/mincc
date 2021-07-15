@@ -36,7 +36,7 @@ type: "fixtures"
 
 |  |  |  |  |
 |:---|:---|:---|:---|
-| 18th | 13:00 | Kingstonian | [KT8 9LU](https://goo.gl/maps/4kwjPyThUMkyQfhe8) |
+| 18th | 13:00 | Kingstonian | [KT3 5HA](https://goo.gl/maps/5dJ5hMjzKb7i4TD98) |
 
 ## September
 
